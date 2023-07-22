@@ -1,0 +1,70 @@
+Tourmaline  Sapphire   Chrysoprase  Peridot    Heliodor  Citrine
+Topaz       Carnelian  Chalcedony   Malachite  Amethyst  Chrysoryl
+
+Redsday   Orangeday   Yellowsday   Greensday   Bluesday   Purplesday
+   1          2           3            4           5           6
+   7          8           9           10          11          12
+  13         14          15           16          17          18
+  19         20          21           22          23          24
+  25         26          27           28          29          30
+
+* gen: man/him or woman/her
+* gens: men or women (them)
+* ge: he or she
+* geself: himself or herself
+* gar: his or her
+
+* Cape Grind
+* Jalkelainen on the Kalastava
+* Saarumeva Canyon (the underground kingdom)
+* Ruuda-in-Ruuda on the Kypsyva
+* the Kuumineva (no major city)
+* Pohjoinen on the Potteleva
+
+* `\aelfwif`: magician (lit. "wind wife")
+* `\aemott`: fanatic rebels (contraction of `\aen am otta`, "one for another")
+* `laiva`: sturdy ocean-going vessel of old design
+* `maatila` (`maatilaso`): district
+* `skenren lans`: light lance
+* `taistela` (`taistelaso`): warship
+  * First Expedition: `Sun's Vengeance`, `Light's Justice`, `Bright Sword's Edge`
+
+* Aarbi's Perguuran (Pure Light, Pohjoinen)
+* Coronel Barsadov ard Nitisza (Uwsian ambassador, 1105-22)
+* Daanimo's Daanima (Pure Light, Pohjoinen, later independent)
+* Friida's Ryutaanan 1081-1165, exiled 1155-65
+  * spouses: Eirika's Juuso, Kylliki's Aatu, Rauha's Terhenaar
+* Herkko's Tuure (Last Defender of Vaarda, murdered 1097)
+* Kalle's Taavi (first captain of the `Sun's Vengeance`)
+* Majeur Callum apt Connomenaer (Derwegian ambassador, 1104-16
+* Tellervo's Maarit (Red Knees commander, murdered 1105)
+* Tomonainan's Petta (captain of the `Unshadowed Land`)
+* Uoleva's Yrj\:o (militia commander, Ruuda-in-Ruuda, 1105)
+
+* First Debate: 1103
+  * "Declaration on the Demonstration of Loyalty"
+* Second Debate: 1104
+* Third Debate: 1105
+* Recurrent Debate
+
+* Pure Light
+* Clear Dawn
+* Bright Reflection
+
+* The Szestetelmeny Chronicle
+* The Deed of Corlum Early (ca. 930)
+* Ebrentennen translations of Sarkoszy dynastic records
+* Bardessalen Yeramowcsza's "speculative biographies"
+* Ld. Armenda Denys Cal\,caere's `On Immediate and Extraneous Causes
+  in History`
+* The Suirenami Missives (probably forgeries)
+* Learned Jizelle uy-Armaq's `Lectures Given at Ensworth in Honor of
+  the Royal Accession`
+* Kurtitina's `A History of the Ruudian Rebellions`
+* Lemmuelen's `Exploits of the Valorous of Jalkelainen`
+* Maatenala and Urgo-Aedie's `Five Dark Weeks`
+* Ryutaanan's `The Light of Reflection`
+* Ld. Ernaest Guillaume \'e Kristen's `Confident in Themselves Alone:
+  The Life of a Derwegian Noble Family 1047-1221`
+* Learned Otnampatelleli (Bantangui bookseller who visited Ruuda in
+  the 1150s)

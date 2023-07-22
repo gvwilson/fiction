@@ -1,0 +1,14 @@
+title: "Greg Wilson's Fiction"
+author: "Greg Wilson"
+repository: gvwilson/fiction
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+exclude:
+  - bin
+  - README.md
+  - '*~'
+  - '*.txt'

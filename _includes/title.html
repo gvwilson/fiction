@@ -1,0 +1,5 @@
+<div class="center">
+  <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+  {% if page.title %}<p class="author">{{ site.author }}</p>{% endif %}
+</div>
+{% if page.chapters %}<ol id="toc"></ol>{% endif %}
