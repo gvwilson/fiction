@@ -15,7 +15,7 @@ and it amuses her when others call her the Old Woman behind her back.
 She really ought to tell them that being partly blind doesn't affect her hearing...
 
 Footsteps crunch on the gravel bank behind her.
-She sighs as the trout she was trying to catch darts away.
+She sighs as the blackfish she was trying to catch darts away.
 "Who's there?" she asks,
 the river caressing her knees as she turns.
 
@@ -876,10 +876,10 @@ what are *you* doing *here*?
 The corporal hangs back a double dozen strides.
 Africans are not unknown in Delhi,
 but are uncommon enough that heads turn as he walks by.
-Tailors and cobblers and and haberdashers call to the stranger
+Tailors and cobblers and haberdashers call to the stranger
 as he walks through the market on Janpath Road.
 He inclines his head to some but otherwise ignores them.
-Another few hundred hards---the corporal is sweating slightly in the mornig sun---and
+Another few hundred hards---the corporal is sweating slightly in the morning sun---and
 they reach the small park that is home to the city's *jantar mantar*.
 
 Corporal Singh follows his quarry through the gate to the old observatory
@@ -1304,7 +1304,7 @@ their eyes slightly out of focus.
 
 "go to the rv," Black orders.
 "put yourselves in slow mo and launch for earth.
-do it now"
+do it now."
 The return vehicle is little more than an ion drive
 and four metabolism suppression capsules.
 Its AI will easily be able to adjust for only having three bodies on board.
@@ -1426,11 +1426,8 @@ but the final member of her team more than makes up for their shortfall.
 Tall, thin, and dark,
 with ragged scars on both temples,
 he looks like a scav until he smiles.
-It is as quick and as gentle as he is with the seedlings
-
-it is their holy duty to sow.
 He is the first to wake and the last to sleep,
-and moves with an economical grace that Anh is certain has also caught the Dutch woman's eye.
+and sows trees with an economical grace that Anh is certain has also caught the Dutch woman's eye.
 
 She is surprised when he comes to her to say that he is leaving.
 "My path leads elsewhere," he says apologetically.

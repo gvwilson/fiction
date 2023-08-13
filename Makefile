@@ -7,6 +7,10 @@ commands:
 	| sed -e 's/## //g' \
 	| column -t -s ':'
 
+## serve: run a local server
+serve:
+	@jekyll serve
+
 ## status: create table showing status
 status:
 	@python bin/status.py --info _data/info.csv --status _data/status.csv
