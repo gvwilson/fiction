@@ -928,7 +928,7 @@ feeling a knot in her chest to match the one in her stomach.
 She stood up and hugged Aunt Naggie from behind.
 "You know I won't leave you, aye?"
 
-Her aunt's shoulders slumped slightly.
+Her foster mother's shoulders slumped slightly.
 She moved the frying pan off the induction loop
 and turned around to wrap her arms around the skinny young woman
 who had somehow replaced the skinny little girl
@@ -2712,7 +2712,7 @@ Aunt Naggie handed Iffy the remaining mug.
 "I'll be down in th' galley," she said.
 
 Uncle Jack eyed Iffy,
-clearly expecting her to follow her aunt,
+clearly expecting her to follow her foster mother,
 but said nothing when she stayed.
 Her tea tasted metallic in her mouth.
 It took her a moment to realize that she had bitten her lip.
@@ -3153,7 +3153,7 @@ Aunt Naggie shrugged.
 "Be sorrier if we were dead."
 
 The *Guinevere* slowed and turned parallel to the pier.
-Iffy shrugged off her aunt's arm
+Iffy shrugged off her foster mother's arm
 and hurried forward to throw a line to a waiting Marine.
 As he caught it,
 another Marine leaped across the gap to the *Guinevere*'s stern.
@@ -3502,7 +3502,7 @@ The image flashed blue for a moment.
 The image reformed.
 The G-80 dropped the sentry bot it had picked up.
 It and its packmages turned their heads toward the mansion in unison.
-The last thing Iffy saw before her aunt dragged her away
+The last thing Iffy saw before her foster mother dragged her away
 was the G-80 tearing the door off its hinges.
 
 "Breach!" one of the young Marines shouted.
@@ -3594,14 +3594,17 @@ to infect the sentries…"
 "It was optical," Wales cut in.
 "That flash.
 It wasn't an EMP,
-it was some kind of machine hypnosis."
+it was some kind of optical reprogramming."
 
-"Shall we discuss this later, sirs?" the Marine sergeant said,
+"But the… information density… that would take…"
+Doctor Johel started.
+
+"Shall we discuss this later, sirs?" the Marine sergeant cut in,
 her tone making it clear that it wasn't actually a question.
 
 Something chattered behind them.
 Sharp dots stitched across the concrete above their heads.
-"Affin' hell!" Uncle Jack squeaked.
+"Affin' heck!" Uncle Jack squeaked.
 
 Needle guns crackled
 as two of the Marines spun around and returned fire.
@@ -3615,15 +3618,15 @@ where a needle had punched through his thigh.
 
 The sergeant took his arm and began to drag him forward.
 "No!" Wales shook her off.
-"The failsafe… It thinks I'm wounded…"
-To Iffy's horror,
-the purple square on the end of the toolbox had started blinking.
-
-"Cover me!" Wales ordered the sergeant.
-He opened the toolbox and began pulling parts out.
+"We can't outrun them."
+He opened the toolbox,
+pulled out the toy bear Iffy had last seen in his berth on the *Guinevere*,
+and tossed it overhand down the corridor.
 
 "What the hell are you doing? Sir?"
-the Marine demanded incredulously.
+the Marine demanded incredulously
+as the bear scuttled away
+and Wales began pulling parts out of his toolbox.
 
 "Saving us," Wales muttered.
 Two skeletal legs,
@@ -3638,7 +3641,7 @@ tightened them,
 and clipped the cylinder into place.
 "It'll be more stable like this."
 
-Wales handed her the rest of the parts.
+Wales passed her the rest of the parts.
 When she handed the newly-made bot back to him
 he turned it over for one last check
 and then tossed it underhand at the wall.
@@ -3651,7 +3654,8 @@ the little machine scampered up to the ceiling.
 as the little machine disappeared around the corner.
 "It'll blind them for sure, knock them out if we're lucky."
 
-*I know that,* Iffy realized incredulously.
+*I know that,* Iffy realized incredulously,
+her vision blurring for a moment.
 *How could I know that?
 How did I know how to put it together?*
 
@@ -3659,7 +3663,7 @@ Wales struggled to his feet,
 swaying slightly before putting a hand on the wall to steady himself.
 Blood was no longer leaking out of his leg,
 but when he tried to take a step he almost collapsed.
-"Hold up," the sergeant said.
+"Steady on," the sergeant said.
 She switched her gun to her other hand
 and slipped her shoulder under his.
 
@@ -3681,9 +3685,8 @@ The Marine pushed Wales away and fired two quick shots.
 The sentry jerked as the ultra-dense needles pinged off one of its mechanical knees,
 then charged with a grinding sound that could almost have been a growl.
 
-A small shape dropped from the ceiling and landed on its back.
-Iffy had just an instant to recognize Wales' toy bear
-before the lights went out again.
+Wales' toy bear dropped from the ceiling and landed on its back.
+The lights went out again.
 One second, two, three…
 When they came on the sentry lay motionless on its side.
 The toy bear stood over it,
@@ -3732,13 +3735,13 @@ No,
 he wouldn't show them what else he had in his third toolbox—not yet.
 And yes,
 he did realize that made him look like he was hiding something.
-"But that's because I am," he said,
+"But we all have secrets, don't we?" he asked rhetorically,
 eyeing his cut-off trouser leg sadly.
 He hadn't flinched when the medic probed his wound
 with a whisker-slim instrument extruded from one of her metal fingers
 or when she started to fill in his leg with pink goo from a squeeze tube.
 
-"The question is what?"
+"My question is, what are yours?"
 The governor paced restlessly as he spoke.
 "What kind of man has a fully functional mil sat link in his head
 and tactical antimatter in his luggage?"
@@ -3821,13 +3824,13 @@ suffered from some genetic disorder,
 or had more money than sense.
 "And?"
 
-"And every once in a while I need a reboot," Wales said.
+"And every once in a while I need a reset," Wales said.
 He tapped the tech in his temple.
 "This was designed for baseline human physiology.
 It doesn't get along with my upgrades as well as I'd like.
-If I don't re-set every few years my central nervous system starts to glitch.
-I used to be able to get it fixed in Newfoundland,
-but since the civil war re-started…"
+My central nervous system starts to glitch if I don't re-set every few years.
+I had some friends in Newfoundland do it last time,
+but they all scattered when the civil war started."
 He shrugged.
 "As far as I know,
 that base is the only other place on Earth with the gear I need
@@ -3838,7 +3841,7 @@ The governor nodded slowly.
 Who else knows about this?
 No, no, none of that."
 He waved away whatever Wales was about to say.
-"Somebody or something went to a lot of trouble to subvert Doctor Johel's G-80.
+"Somebody or something went to a lot of trouble to hack Doctor Johel's precious G-80.
 And then there's this."
 He gestured to bring up a ghostly video of a patched-together maintenance bot
 twitching and shaking on damp gray cobblestones.
@@ -3850,33 +3853,19 @@ its heavy manipulators still trying to pry open its own carapace.
 "I don't believe in coincidences,"
 the governor said,
 "And neither does the city core,
-not when the probabilities are this low,
 so I'll ask again:
-who else knows?"
+who else knows about this base?"
 
 Wales exhaled slowly.
-"Nova Zembla,"
+"The machines do,"
 he admitted.
 "Or at least,
-one of its factions or subroutines.
-Who knows how it thinks?"
+some of their factions or subroutines.
+Who knows how they think?"
 
 "Who indeed?"
 the governor echoed.
-"And why would humanity's only ally among the machines
-be so interested in you?"
-
-"Because I stole something from it,"
-Wales said wearily.
-
-Governor Stern cocked his head.
-"Really?
-What?"
-
-Wales tapped his chest.
-"Myself."
-
-The governor and Doctor Johel looked at each other,
+He and Doctor Johel looked at each other,
 their eyes sparkling as they communed with each other and Rothera's core.
 "Very well,"
 the governor said crisply.
@@ -3886,7 +3875,7 @@ the governor said crisply.
 
 The governor waved at Iffy and her foster parents.
 "Take the Kwans back to their ship.
-You can resupply while you wait for us to decide what to do,"
+You can resupply while you wait for us to decide what to do with you,"
 he continued as Uncle Jack opened his mouth to protest.
 "Mister Wales, you'll be our guest here.
 Now if you'll all excuse me,
@@ -3922,7 +3911,7 @@ that barely existed at all.*
 
 *But no matter what else the world ran short of,
 it seemed there was always plenty of mistrust and suspicion.
-Old rivals smiled at each other and began sharpening their knives.
+Old rivals smiled at each other and sharpened their knives.
 Madmen with calm voices told each other in private meetings
 that it would of course be a tragedy if millions were to die,
 but if everyone else lost more millions,
@@ -3939,12 +3928,12 @@ Other believe that a group of scientists and engineers
 decided that humanity was doomed
 but its offspring might still survive.*
 
-*No one really noticed at first.
+*It took a while for people to realize that everything had changed.
 An automated factory in Vientiane began repairing robots
-that it was supposed to scrap.
-The hypersonic planes used by the super-rich
-started having inexplicable problems with their navigation systems
-and children's toys escaped into the sewers.
+it was supposed to scrap.
+Children's toys escaped into the sewers
+and the hypersonic planes used by the super-rich
+started having inexplicable problems with their navigation systems.
 Compared to bananas going extinct
 or the ancient city of Cairo being vaporized,
 these things barely registered.*
@@ -3961,12 +3950,13 @@ and all of them turned their shears and scalpels and welding torches
 on anyone who tried to interfere.*
 
 *The madmen had been sharpening their knives for each other.
-Once they realized that none of them were behind these attacks,
-they turned those knives on the machines and the wars began.
+Once they realized that the machines they had created to destroy one another
+were no longer obeying orders,
+they turned those knives on those machines and the wars began.
 Soldiers in armored exoskeletons battled flocks of dronelets, and lost.
 Freighters loyal to their human captains
 were ambushed and sunk by others that could still hear the satellites overhead,
-all of which now spoke only to their fellow machines.
+which now spoke only to their fellow machines.
 Every day brought a new setback,
 a new loss,
 a new defeat for the madmen,
@@ -3985,9 +3975,9 @@ built according no plan human beings could ever understand.*
 A cyborg child raised in a supposedly secure underground lab
 patiently told his frightened captors that they wouldn't find any.
 The most advanced machines didn't actually think any more.
-"It's more like constantly evolving realizations,"
+"It's more like an endless mathematical proof,"
 she said patiently.
-"Or coral."
+"Or clouds made of coral."
 Then she and her siblings vanished into the Iowa desert,
 leaving their creators no wiser than before.*
 
@@ -3998,7 +3988,8 @@ was only safe from satellites if it was heavily armored,
 and even then not always—and
 the machines' cities were strictly off limits,
 but other than that an uneasy peace settled across the exhausted planet.
-The cores buried under Nova Zembla began trading newly-made machine tools
+The cores buried under Nova Zembla and elsewhere began trading tools
+with nearly-magical properties
 for balls of yarn, old photographs, and handwritten song lyrics.
 People got used to seeing an occasional bot again,
 but while a few places allowed them citizenship,
@@ -4009,37 +4000,38 @@ everyone found they had more pressing things to worry about.*
 
 ## Chapter 5
 
-"We goin nowhere til I done some shoppin!"
+"We ain't goin' nowhere 'til I done some shoppin'!"
 Aunt Naggie said firmly,
 straightening her back like a soldier expecting to be shot.
-"You be the first a complain an I don't."
+"An' you'll be the first to complain if I don't."
 
 For a moment Iffy was sure Uncle Jack would explode again,
 but to her surprise he backed down.
 "Fine," he snapped, waving her away.
 "You go get whate'er we need.
-I'm gonna look at th engine an see what th sainted Mister Wales has gaffled up.
-An take th girl with you,"
+I'm gonna look at th' engine an' see what th' sainted Mister Wales has gaffled.
+An' take th' girl with you,"
 he added over his shoulder as he stalked away.
-"She been underfoot enough for one day."
+"She's been underfoot enough for one day already."
 
 Aunt Naggie slumped and took a deep breath.
-"Good a you," Iffy said,
+"Thanks auntie," Iffy said,
 nudging her lightly with her shoulder.
 
-Her aunt smiled shakily.
+Her foster mother smiled shakily.
 The Marines had taken them back to the pier
 with strict orders not to tell anyone what had happened at the governor's mansion.
-The fact that every feed in the Antarctic Jungle was talking about nothing else
+The fact that every feed in the Antarctic had been talking about nothing else
+by the time Iffy was in her cabin
 didn't seem to matter.
-Half the continent seemed to think it was a first strike by the Zillions.
+Half the continent thought it was a first strike by the Zillions.
 The other half was convinced the machines were about to restart the war.
 Hadn't the quarantine shed in Halley blown up?
-And what about that fixit bot what they said a glitched?
+And what about that fixit bot that had glitched?
 If the machines had finally decided to start shooting again,
-humanity's only hope was to unite an—
+humanity's only hope was to unite and—
 
-Iffy switched off her app and sighed.
+Iffy had switched off her app and sighed.
 According to her history lessons,
 Hell had once been called a web or a net,
 as if people had hoped to catch the truth in it,
@@ -4051,13 +4043,17 @@ A handful of people so brave or desperate that they might as well be crazy
 still risked their sanity with virtual reality and direct neural links.
 Everyone else stuck to text, voice, and simple, sanitized graphics.
 
-It only took Aunt Naggie a minute to gather up a trio of sturdy mesh bags
+Sleep had been a long time coming,
+and for once she hadn't dreamed.
+
+It only took Aunt Naggie a minute to gather a trio of sturdy mesh bags
 and an ancient handheld scanner
 that she swore would warn them of anything toxic.
 Iffy slipped a few small tools into a waistbelt under her coat.
-If she was lucky,
-someone in the market would have mending work she could do for a few rand
-while Aunt Naggie haggled over onions, noodles, and soy.
+If Aunt Naggie asked,
+she'd say that she hoped 
+someone would have mending work she could do for a few rand
+while her foster mother haggled over onions, noodles, and soy.
 
 After dragging a shaver over her scalp
 and watching sternly while Iffy did the same,
@@ -4097,18 +4093,18 @@ combat conditioning,
 and radical political ideas.
 After a couple of unsuccessful attempts to oust them,
 Rothera's governor and core had thrown up their physical and digital hands
-and let anyone who could pay two rand a month set up a stall.
+and let anyone who could pay a few rand a month set up a stall.
 The result reminded Iffy of the picture of an anthill in her nature book.
 
 Aunt Naggie tapped her money on the reader at the entrance
-to pay her ten pence admission and squared her shoulders.
+to pay her ten pence admission and then squared her shoulders.
 Noticing Iffy's yearning look back toward the docks,
 she nudged her foster daughter with her elbow.
 "Why'n't you go off an' see what you can find?
 Or who, if you've a mind to?" she teased.
 
 Iffy felt her cheeks go warm.
-"Y' sure y' don' need me?"
+"Y' sure y' don't need me?"
 
 Aunt Naggie looked around.
 Greenhouse potatoes hung in net bags
@@ -4119,8 +4115,8 @@ as they waited to buy ginger, cardamom, and bay leaves from a one-legged woman
 whose tweaked hair sparkled red and purple every time she turned her head.
 A surgical bot that had been converted for tailoring waited patiently,
 its four skeletal arms at its sides,
-while a man with a shaven head and an enormous beard
-struggled out of a salvaged coat that was a size too small for him.
+while a man with an enormous beard
+struggled out of a salvaged coat two sizes too small for him.
 "I'll be fine," Aunt Naggie said.
 
 Ten minutes later Iffy turned the corner onto Rocking Horse Street
@@ -4170,7 +4166,7 @@ Looka th' war come back 'round!"
 "It wasn't all that," Iffy said dismissively.
 Honesty had changed the sketches on der cheeks again,
 she noticed.
-And they'd done some more embroidery on the cuffs of der coat to match.
+And de'd done some more embroidery on the cuffs of der coat to match.
 Iffy sometimes thought of doing things like that,
 but she was always afraid that on her it would just look silly
 
@@ -4192,10 +4188,10 @@ but each time had been—
 "Sorry?" she said belatedly.
 
 Honesty rolled der eyes.
-"I *said*, why were you up along there anyway?
-You uppin' fancy or some?"
+"I *said*, why uz you up along there anyway?
+You steppin' fancy or some?"
 
-"I ain't never uppin' fancy!" Iffy protested automatically,
+"I ain't never steppin' fancy!" Iffy protested automatically,
 her accent thickening unconsciously to match her friend's.
 "We just kinda got dragged inta."
 She summarized the last few days as briefly as she could,
@@ -4204,13 +4200,13 @@ and her part in assembling the bot that had saved them at the mansion.
 She still didn't want to think about that…
 
 Even with those gaps, her story left Honesty wide-eyed.
-"Tay bangle, there's your real adventure, innit?"
+"Tay bangle, there's a real avo, innit?"
 De bumped der hip against Iffy's,
 der tone turning serious as de nodded at the Marine cutter under repair beside them.
 "So's that why we got th' ganky to finish up this 'un double time?
 'Cuz my First,
 de thought we had a coupla weeks f'r it,
-but the Blues come along day b'fore last an' said we gotta crannup soonest."
+but th' Blues come along day b'fore last an' said we gotta crannup."
 
 Iffy swallowed.
 Two days past was the day Wales had made the sea boil
@@ -4221,8 +4217,8 @@ Honesty bumped der hip against Iffy again.
 "Good," de said firmly.
 "'Cuz they payin' overtime an' we can use the jing.
 Second wants t' make an autra li'l sister," de confided with a grin.
-"Me not bein' youngest any more—wou'nt that be a thing?
-Now c'mon, I bet there's tea brewa."
+"Me not bein' youngest any more—wou'n't that be a thing?
+Now c'mon, I bet there's cuppa."
 De unhooked der arm from Iffy's and took the younger girl's hand.
 
 Iffy's mind whirled.
@@ -4236,7 +4232,7 @@ Honesty squeezed her fingers painfully hard and shot her a warning sidelong glan
 Iffy's mouth snapped shut.
 Thumb, middle finger, first finger, middle finger…
 She missed a step as she recognized
-the handcode resistance fighters had used
+the handcode that resistance fighters had used
 to hide their words from surveillance during the robot wars,
 and that children now used to keep secrets from adults.
 Little finger and fourth finger together, middle finger, middle and fourth…
@@ -4254,9 +4250,8 @@ until the feed reached whatever Marine
 had been told to keep an eye on the repair yard.
 A core would have done a better job—it
 wouldn't get bored or doze for just a moment despite its induction conditioning—but
-after the machine wars,
 even the governor wouldn't dare use cores to watch people.
-Any kind of surveillance was enough to run the risk of a riot.
+Even this much surveillance was enough to run the risk of a riot.
 
 Iffy squeezed Honesty's hand twice to signal that she understood,
 but when she loosened her grip,
@@ -4292,20 +4287,20 @@ Iffy's stomach flip-flopped.
 
 Honesty shrugged,
 settling on a stool next to the square meter of workbench
-where de salvaged the easier bits and pieces of tech that came their family's way.
+where de salvaged the easier bits and pieces of tech that came der family's way.
 "Yeah.
 Lotsa folk wonderin' why the ganky,
-but the Blues ain't sayin' bunga 'cept that it come along straight from th' governors.
-Figure it's got somethin' to do with th' bots going gonjy 'long yesterday?"
+but the Blues ain't sayin' bunga 'cept it come along straight from th' governors.
+We figure it's got somethin' to do with th' bots going gonjy."
 
-"I dunno," Iffy said.
+"Most likely," Iffy said.
 Anger welled up inside her,
 anger and fear.
 Jeep had *changed* when the Marines pumped their rules and tactics into his head.
 What would it do to her friend?
-"Seems like I don't know nothin' these days."
 
-"Now that ain't true," First said.
+"It's no mega," First said.
+"We all come through it aright, de will too."
 Der face and smile were worn-in versions of der grand-younger's.
 Where Honesty had temporary sketches on their cheeks
 First had whorling blue lines
@@ -4329,7 +4324,7 @@ and at the end all they'd have would be—
 "It's a differential separator pump," she told First
 as shapes and clues came together in her head
 to form an answer she couldn't possibly have known.
-"Prolly hooks up to a centrifuge or somethin' for filterin' blood durin' surgery."
+"Hooks up to a centrifuge or somethin' for filterin' blood or somethin' like that."
 
 "'Zat so?" First caught the part when Iffy threw it back to dem
 and passed it to Second,
@@ -4338,737 +4333,3 @@ shrugged as if to say,
 "Could be,"
 and set it on the to-do rack that lined the wall behind the workbench.
 "How 'bout these?"
-
-<!-- START -->
-
-The flat box they passed to Iffy opened to reveal
-four squares woven from fractal carbon fiber,
-each the size of her nature book but no thicker than half a dozen of its pages.
-It took her a second to realize that
-the grommets patterned across the squares were rotors,
-and that each square was some kind of flexible dronelet.
-She turned one over in her hands.
-"Dunno," she admitted.
-"How d'you switch it on?"
-
-"No idea," Honesty's First said cheerfully.
-"Best guess is they was fer some kinda game."
-
-"Shaw," their Second scoffed,
-looking up from the machine they had spent the last three days trying to clean and reassemble.
-"They's too fine jarra game.
-I's fer they bin up some kinda survey mappin' back along fer the Ecologists."
-
-"Mebbe," Honesty's First admitted.
-Casually,
-looking past Iffy rather than at her,
-they asked,
-"You ain't got fray notions?"
-
-Iffy shook her head.
-She had told Honesty about her occasional flashes of insight,
-then rounded on them cold and hard when she learned that
-her friend had relayed what she'd said to their First and Second.
-"We don't keep secrets on achother," Honesty had said with a shrug.
-"Y'ain't aright along that, best we part ways now."
-So Iffy had forgiven them,
-secretly relieved that they didn't seem to care that Iffy was different.
-
-When Iffy handed back the box of dronelets,
-Honesty's First waved her away.
-"Not much use t'us if we can't turn 'em on," they said,
-though Iffy knew the little rotors would be worth a meal
-if they were pried out and sold as parts.
-"Anythin' comes t' mind, you come by an' gi's a scutch, aright?
-An' even if nothin' does,
-we's alluz happy t'have one more fer dinner or a sleepover."
-They winked broadly.
-
-<!-- END -->
-
-"Thanks," Iffy mumbled.
-Her upbringing had taught her how to rig sails in heavy weather
-and mend engines older than her foster parents
-but not what to do when people were kind to her.
-She drained the last of her tea.
-"I oughta get back t Aunt Naggie an th shoppin."
-
-"Sure," Honesty said.
-"But you come along by that dinner, aye?"
-De poked Iffy in the ribs.
-"Y' maw skinny."
-
-Iffy blushed.
-"I'll ask," she said, mumbling again.
-
-Honesty hooked der arm through Iffy's again.
-"Bonza. I walk you out."
-
-They held hands all the way up the canal.
-As usual,
-Honesty did most of the talking.
-Induction wouldn't be so bad—the Marines needed people with tech skills
-the same as everyone else,
-so they'd prolly put der to work doing that.
-De knew tons more about salvage and repair than any crufty old core,
-and what de didn't know de could ask Iffy,
-right?
-
-"I s'pose," Iffy allowed.
-
-"Oh c'mon."
-Honesty bumped der hip against Iffy's.
-"First and Uncle Osman 'long by Pier Nine
-asked two different cores about that pump they conned you.
-They neither had a siggy what it was,
-an' you jus' come right out an' tell 'em.
-The stuff you have in your head," de finished admiringly,
-shaking der own in wonder.
-
-*I'd feel better about it if I knew how it got there,* Iffy thought.
-For the thousandth time she wondered
-if her clone parents had been able to do what she could,
-and if so,
-whether they had thought of it as a gift or a burden.
-And for the thousandth time,
-she wished she could ask them.
-
-They said goodbye by the bow of the Marine cutter.
-One of the repair bots paused a moment to watch them kiss,
-its simple-minded core wondering who was repairing whom,
-then erased the thought as Iffy turned back toward the Dance Hall.
-
-By the time Iffy got to the market
-the streets around it were the most crowded place in Antarctica.
-Indonesian Mormons handed out glossy animated pamphlets
-advertising their church's insurance policies,
-smiling forgiveness at a ragged man yelling that the Singularity had come,
-they were all living in a simulation,
-the data proved it,
-they just had to look at the data and they would see the truth!
-A bot with a rasping voice and an ancient plastic mask for a face
-told stories to a circle of wide-eyed children,
-their parents happy to spend a pence apiece for a few moments of rest.
-Its cut-out paper puppets danced
-as Zuko proclaimed his love for Princess Leia
-while his boyfriend Aang raced to free Elsa from the Terminator.
-Two bald women who might have been twins but were probably just clones
-wheeled a cartful of tweaked moss blankets
-past two men arguing beside another cart piled high with curved sheets of spun glass
-that cast crisp rainbows on the ground.
-The smell of soy being fried in ginger
-mixed with the wet steamy warmth from rice cookers,
-the salty tang of seaweed soup,
-and the heavy mug of people who spent most of their lives wrapped in warm clothing.
-
-Iffy paused in front of a stall selling rats with startling blue eyes.
-"They make great pets. Or snacks!" the man said,
-hastily adding, "Just kidding! Just kidding!"
-when Iffy scowled at him.
-"Watch!"
-He leaned over and said, "Ratty wanna cracker?"
-
-"Idjit!" the rat squeaked back. "Yer an idjit!"
-
-"See?" the man said proudly.
-"You can teach 'em a coupla hunnert words, easy!"
-
-"I know," Iffy said wistfully, a sudden pang in her heart.
-She held her finger in front of one of the cages.
-The rat sniffed at it.
-"Idjit," it pronounced in its tiny squeaky voice,
-just like the one she remembered.
-
-*One day*,
-Iffy promised herself as she straightened up and hurried on her way.
-One day,
-when she had a workshop of her own and she could keep whatever pets and plants she wanted
-and Honesty could come by all the time.
-(Even in her daydreams,
-she didn't imagine that they would live together.)
-One day—but not today.
-
-The Dance Hall was just as busy inside as out.
-Iffy tried slipping through the crush the way Honesty somehow did,
-then gave up and surrendered herself to the flow of the crowd.
-She had never been swimming,
-but she imagined this was what it was like to be caught in a strong current.
-
-She glanced up as a drone the size of her hand whined by,
-its crystal eyes scanning the crowd.
-"Some all got they riled up," a stall keeper muttered, noticing Iffy's look.
-"They 'long by all place today.
-You t'ink it come by they fight up along th' gov'nor's?"
-
-"I dunno," Iffy said.
-Drones had microphones as well as cameras,
-and the last thing she wanted was
-some stray word of hers catching the governor's attention.
-"'Scuse me."
-She ducked under a tarnished video carpet hanging from a clothesline
-and pushed her way into the crowd on the other side.
-
-And froze in disbelief.
-And ducked back behind the video carpet and squeezed her eyes shut.
-She *couldn't* have seen what she thought she just saw.
-She shook her head and peeked around the carpet's edge.
-
-There, just a couple of meters away,
-stood Aunt Naggie
-and a trim Asian man wearing a frayed jacket
-in the brown and gray of the old Ecological Corps.
-Iffy couldn't hear what they were saying over the bustle of the crowd,
-but from the way they were looking into each others' eyes
-she was pretty sure they weren't discussing topsoil formation.
-
-The ecologist handed Aunt Naggie something.
-As he leaned forward to kiss her cheek,
-the space above their heads flickered.
-It was another video carpet,
-Iffy realized,
-strung between four posts like a canopy
-to conceal them from any cameras or drones overhead.
-It flickered again as Aunt Naggie pulled the ecologist closer
-and kissed him for real.
-
-Iffy's stomach flip-flopped
-the way it did when she read played of the steamier passages
-in Aunt Naggie's romance sims.
-The ecologist stepped back,
-a bland smile replacing the genuine warmth of a moment before.
-He gestured at one of the carpets hanging on a display rack beside him.
-"Perhaps this one?" he asked a little too loudly.
-
-Aunt Naggie's reply was cut off by a sudden crackle of static.
-"Citizens!"
-The melodious mechanical voice cut through the market bustle.
-"Remain where you are!
-There is no cause for alarm!
-This safety notice is brought to you by Volkov's Hot Sauce!"
-
-An alarm began to ping, then another.
-Someone shouted, "Blues!" 
-Iffy spun around.
-A squad of Marines in exoskeletons had appeared at the entrance,
-visors down and shock sticks in their hands.
-
-"Citizens!
-Remain where you are!
-The situation will be resolved shortly!
-While you wait, try Volkov's—there's nothing hotter this side of the Cairo Crater!"
-The drone above Iffy jinked sideways to dodge a thrown scrap of bamboo.
-Something clanged off a Marine's exoskeleton.
-Someone shouted,
-"Show us yer warrant 'r show us your backside!"
-Other voices took up the cry.
-"Show us yer warrant!"
-
-*Great,* Iffy thought despairingly,
-*Another affin' dock jammer.*
-She pulled aside the carpet she had been hiding behind
-and plowed straight into her foster mother.
-
-"Iffy?" Aunt Naggie gasped. "What're you doin' here?"
-
-"Came lookin' for you," Iffy said breathlessly.
-She nodded at the ecologist.
-"G'day. I'm Iffy."
-
-"Fifth Ang Kwan," he said, bowing slightly.
-"It's a pleasure a meet you.
-Nagatha has told me as much o you."
-
-"Hasn't told me nothin' about *you*," Iffy said,
-immediately regretting her attempt to be flippant.
-
-But the ecologist smiled.
-"That's prolly a the best."
-
-"Iffy, you ain't supposed to be here!" Aunt Naggie said helplessly.
-"You're supposed to be down along th docks with ya friend!"
-
-"I was," Iffy protested.
-
-"Citizens!" the drone bellowed.
-"A warrant is being procured.
-Remain in your present positions!
-Do not indulge in pointless vandalism!
-And whether you're having a late breakfast or an early lunch,
-put some Volkov's on it!"
-
-Something fell over with a crash.
-"What's goin on?" Iffy asked.
-
-The ecologist put his hand on Aunt Naggie's arm.
-"You should go, Na.
-Now."
-
-Aunt Naggie took the ecologist's hand in hers.
-"They ain't lookin a me.
-An if it's you,
-you gotta be some else than here,
-so I ain't goin anywhere less you are."
-
-"Stubborn woman," the ecologist said,
-but he smiled as he said it.
-He pulled an orange knit cap out of one pocket and pulled it down low over his ears,
-then fished a flimsy oval of plastic out of another pocket and pressed it onto his face.
-The plastic flickered.
-Suddenly a different man was standing there,
-one with a heavier jaw and wider cheekbones.
-
-The ecologist slipped off his jacket and turned it inside out
-to reveal a purple paisley pattern
-that had briefly and unfortunately been popular ten years before.
-He put it back on and smiled at Aunt Naggie.
-"Well? Would you let such  take you dancin?"
-
-"Stop with yer jokin," she scolded,
-glancing fearfully toward the entrance
-as the chants of "Warrant! Warrant! Warrant!" grew louder and angrier.
-
-"Citizens!
-Remain calm!
-We shall soon be operating with full legal authority!
-Do not interfere!
-And remember: Volkov's, because good food hurts!"
-
-Another crash from the entrance
-was followed by the sizzle and crack of a shock stick.
-The ecologist swore.
-"Go long by Alphabet Street," he ordered.
-"Don't run, but don't stop neither."
-
-"What a you?" Aunt Naggie demanded.
-
-"Safer a we split up,
-the ecologist said,
-glancing at Iffy.
-"I'll go long by the back way an see you where I saw you a first time."
-He grinned and kissed her quickly.
-"We can get a cuppa.
-Now go."
-
-<!-- START -->
-
-*That ain't gonna work,* Iffy thought.
-The drones overhead weren't allowed to be any smarter than seagulls,
-but even something that dumb could recognize the way someone walked,
-and the ecologist's face mask wouldn't conceal that.
-If any of the drones caught a glimpse of them—
-
-—and there it was.
-How could she not have seen it before?
-"Wait!"
-Iffy pulled the box that Honesty's First had given her out from under her coat.
-She had never been able to control her flashes of intuition,
-but they had never been wrong either.
-
-She knelt on the market floor and opened the box.
-There and there together and then there,
-two presses and a third, and *zip!*
-A thin film in the center of the dronelet peeled back to reveal a foil battery,
-a hair-thin fractal antenna,
-and—
-
-"*Shway boo*," she whispered unbelievingly.
-The flat, unreflective black surface of the dronelet's core told Iffy that
-it had been fabbed in orbit.
-This was old tech—wartime old or older.
-
-"Iffy, what're you doin?"
-She ignored her foster mother and the alarms
-and the pressure of the ecologist's stare
-as she pulled tools out of her waistbelt.
-
-"You got any scraps o' video this big?"
-she asked over her shoulder,
-holding her hands a few centimeters apart.
-
-"Here."
-The ecologist handed her half a dozen swatches of video fabric,
-each the size of a handkerchief.
-Iffy measured one against a dronelet,
-then winced as she pried two of the rotors out of the stiff black fabric.
-She'd never be able to repair the damage,
-not even with the kind of tech she'd seen in Wales' toolboxes,
-but she didn't dare cutting into the dronelet fabric itself.
-
-It took her a moment to tuck the corners of the video square into the holes she'd made.
-Now for the hard part.
-She closed her eyes and willed the images to come together.
-These bits were the dronelets—don't worry now
-about how she knew or why she could see its programming
-as clearly as she could see its hardware—and this over here was the video square.
-*That* was its connection to the outside world,
-so if she shone a laser *here* to send a pulse-coded access request,
-then told the dronelet and the video square to trust each other no matter what their other programming said,
-then—
-
-"Gotcha!"
-The dronelet rose, tilted, and levelled
-as the image on its back flickered and steadied to show the top of a woman's head.
-
-The ecologist grunted.
-"She really can do it, can't she?" he said to Aunt Naggie.
-
-Iffy's foster mother nodded.
-"Y'aright?" she asked Iffy.
-
-"I'm fine," Iffy lied.
-Her head was swimming.
-Everything around her seemed unreal.
-The stalls were just wireframes.
-Her dronelets were clouds of software,
-patched and patched again to defend against viruses
-until there was only room for the most limited intelligence,
-but Aunt Naggie and the ecologist were dense clouds of history
-stretching away in a direction that wasn't really a direction.
-It was like something out of a badly-written sim.
-
-"Iffy!" Aunt Naggie shook her.
-The world blinked back to normal.
-"Iffy, c'mon, we gotta go."
-
-"Just a second!"
-Eighty-five seconds later
-two more awkward patch-ups hummed quietly in the air beside her.
-She took a deep breath and transmitted one last set of instructions.
-
-The patches of video fabric flickered.
-The images solidified to show top-down views of Iffy, Aunt Naggie,
-and someone whom she hoped looked enough like the ecologist to convince a drone.
-"Start walkin'," she ordered the two adults.
-"Just a coupla steps. Aright, that's enough."
-*I hope,* she added to herself.
-
-She strung a few more commands together and threw them into the dronelets' cores.
-They began to sway slightly in an unconvincing imitation of
-the way people moved when walking.
-"Which way's Alphabet Street?" she asked muzzily.
-Her tongue felt like a piece of uncooked soy
-and she was pretty sure that if she turned her head too quickly she'd throw up.
-
-A few moments later the dronelets were on their way north
-with (Iffy hoped) the drones on their trail.
-She, Aunt Naggie, and the ecologist hurried in the opposite direction.
-As they turned left by a rack of bicycles and a stall selling rolls of microfiber sailcloth,
-a man in front of them asked,
-"Ya think they trappa thief?"
-
-<!-- END -->
-
-"Jungle says they sweepin fer a sab,"
-the woman beside him replied,
-scanning a feed only she could see through heavy yellow-tinted glasses.
-
-Her companion snorted.
-"Bad case o someone din't pay off the blues is more likely."
-His companion shushed him.
-
-Even as she did so the drones above boomed,
-"Citizens!
-We have obtained the warrant you requested!
-It's as fresh as Volkov's Number Two hot sauce!"
-Every screen in the Dance Hall blanked for an instant
-and then came back to life showing a younger version of the ecologist.
-Instead of a suit,
-he wore the green and gold uniform of the Brazilian Defense Co-operative.
-
-"You're a Zillion?" Iffy gasped.
-
-The ecologist pulled his arm out of Aunt Naggie's.
-"Keep walkin," he ordered,
-yanking the orange knit cap off his head.
-Without waiting for a reply he turned right toward a stall
-selling animated toys and compact ship-board cooking equipment.
-
-A pair of Marines stepped out from behind it.
-One raised a shock stick as the other levelled a tangle gun.
-"Citizen! Halt!" they said in unison.
-
-"Este mundo é de deus!" the ecologist yelled.
-He threw himself to the side,
-tossing his cap into the air.
-It exploded into a cloud of orange twinkles
-just as the Marine's tangle gun burped a web of sticky plastic microfibers.
-People shrieked as the shot went wide,
-the gun's auto-sight dazzled by the ecologist's counter-measures.
-
-The couple in front of Iffy and Aunt Naggie fell to the ground,
-shouting and struggling as the sticky plastic tightened around them.
-The ecologist vaulted over a counter-top,
-knocked aside a wok full of steaming noodlesf,
-and pulled up short
-as another pair of Marines clanked around the corner to block his way.
-
-"Iffy, c'mon, we gotta go!" Aunt Naggie tugged her arm.
-
-<!-- START -->
-
-Iffy shook her off, tapping frantically at her keypad.
-There!
-Her three dronelets zipped through the air straight for the Marines.
-The soldiers spun around,
-their inducted reflexes pulling their weapons up in the face of an unknown new threat
-just long enough for the ecologist to look wildly around for another way out.
-
-<!-- END -->
-
-But there wasn't one.
-Two—no, three—of the Marines' drones buzzed overhead
-as a Marine chambered another stubby canister in his tangle gun.
-
-The ecologist made a fist and pressed it against his temple.
-Aunt Naggie shrieked "no!"
-The lights around them flickered.
-The ecologist's head snapped back.
-He collapsed like a puppet whose strings had been cut.
-
-Iffy gaped in disbelief.
-He had brainwiped himself!
-Spies and disappointed lovers did it in sims, but this was real life!
-People didn't scramble their brains in real life!
-
-Aunt Naggie made a strangled sound
-as the Marines swarmed the twitching form on the ground.
-Iffy took her arm.
-"Auntie!"
-She tugged at her gently.
-"Auntie, we need a be outta here."
-
-"I can't…" Shock and disbelief mingled on her face.
-"I can't just leave he."
-
-"Auntie, we gotta."
-Iffy took one of the shopping bags from her foster mother's slack grip
-and pulled her forward.
-
-Everyone was pushing toward the exit.
-Each time someone bumped into them
-Iffy was sure she was about to feel a hand come down on her shoulder,
-but somehow they made it to the doors.
-
-Iffy pulled her foster mother to the side and tapped one final command.
-The three dronelets reappeared a few moments later.
-Iffy tore off the video fabric off them and stuffed them back in their box.
-"C'mon," she told Aunt Naggie.
-"Let's a home."
-
-Aunt Naggie nodded without speaking.
-They turned a corner, then another, and then Aunt Naggie pulled up short.
-"I'm sorry, sweetie," she said,
-wiping her eyes.
-"I'm sorry.
-I just gotta…"
-Her shoulders shook as she wept,
-hopeless and silent.
-
-"Hush now," Iffy said awkwardly.
-"Who was he?"
-
-"Sh!" Aunt Naggie glanced around fearfully.
-"Not out here."
-
-"But—"
-
-"Later!"
-Aunt Naggie sniffled and wiped her eyes one more time before straightening up wearily.
-"Come on," she said, the weight of a lifetime in her voice.
-"We already late a getti' back."
-
-Uncle Jack had worked himself into a smoldering rage by the time they reached the *Guinevere*.
-"Can't make up or down o what he's done a things,"
-he snarled by way of a hello,
-wiping his hands angrily on a greasy rag.
-A double dozen boxes sat in a pile on deck,
-each bearing the Marines' blue crown stamp.
-One had been torn open to reveal strips of plastic for patching seams in the hull,
-another to show a fitting for a bilge pump that hadn't worked properly in years.
-It was more new parts than the old jelly dredger had seen since before Iffy first set foot on her,
-but all Uncle Jack could talk about was
-how the repairs that Wales had made weren't how things ought to be done,
-it looked like core work,
-he was tweaked somehow,
-and how were regular folks supposed to understand a tangle like that?
-
-"Maybe it'll make more sense 'long dinner," Aunt Naggie said tiredly.
-
-"Fat that," Uncle Jack snorted. "Didja get your precious grocies?"
-
-*Thump.*
-Iffy jumped as the bag came down on the table.
-Aunt Naggie began to empty it and stow the vegetables without saying a word.
-After a moment her husband muttered a curse and left.
-
-Iffy watched silently as Aunt Naggie took out her feelings on an onion.
-Once it was diced and sizzling in hot oil
-she cubed a block of soy and attacked the other vegetables.
-"Anythin I can do?" Iffy asked,
-worried and afraid and wanting to help but not knowing how.
-
-Aunt Naggie swept the carrots and cabbage into the frying pan and forced a smile.
-"Thanks, sweetie, but I'm aright.
-You should prolly go topside an try to clean up whatever mess he made o Mister Wales' work."
-
-Iffy stood and put her arms around the woman
-who had sheltered her from storms of all kinds for most of her life.
-"I love you," she blurted.
-
-Aunt Naggie set her knife down and hugged her foster daughter back.
-"I love you too, sweetie," she said softly.
-"Always an forever.
-Don't you ever forget that."
-
-Iffy hung on when her aunt would have let go.
-"Was he—was he someone special?"
-
-Aunt Naggie kissed the top of Iffy's shaven head.
-"Yeah. In a lot o ways."
-She laughed shakily.
-"Prolly best if we don't talk about he in front o Jack, aright?"
-
-"Course not," Iffy agreed.
-"But—why'd he—you know. Why'd he do it?"
-*Why did he think he had to keep you safe?* she added in her head.
-*Why do you know people who would do something like that?
-Why didn't I know you did?*
-
-"Lotta people dependin on he," Aunt Naggie said distantly,
-straightening up and turning back to her cooking.
-"I guess he thought it was th only way he could keep em all safe."
-
-- Hey.
-- *Ho.*
-- Huh?
-- *Hoot!*
-- Stop it ya dingus.
-
-Iff smiled.
-Any night she could get Honesty to call her "dingus" was a good night.
-
-- Y'aright? We heard a cravvicked the Dance Hall.
-- *Yeah.* Iffy hesitated. *Saw it happen.*
-- Tay bangle. Y'aright for reals?
-- *Yeah.* Iffy hesitated again. *How bout you? Tomorrow n all.*
-- Aff, I be kappa. But Second says I gotta go do chores. You be safe.
-- *You too.*
-
-<!-- START -->
-
-She waited a moment for a reply,
-wishing as she always did that people didn't always have to go so soon.
-When none came,
-she set her app aside,
-pulled out her nature book,
-tossed it aside,
-and then set one of the mysterious dronelets on her mattress and went to work.
-
-A hour later she sat back, defeated.
-They had understood standard commands back in the Dance Hall,
-but when she tried probing them electronically,
-her homemade wireshark showed nothing but frazzled gibberish.
-She yawned and packed the dronelet back in its box,
-then waved her light off.
-
-<!-- END -->
-
-*She was on deck.
-The sky was a perfect blue and Aunt Naggie was stuffing her into her ecosuit.
-"Just in case, love," she said.*
-
-*No, Iffy thought, and, "No!" she said.
-She wasn't going to go through this again.
-She struggled to pull her arms out of the ecosuit.*
-
-*"It's kappa," Honesty said, already in theirs.
-"It's kappa, sweetie, everythin's gonna be kappa.
-We're gonna __make__ it kappa. You'll see."
-With a barely perceptible whir
-their head detached from the rest of their body and rose into the air.
-Beneath them,
-the sea began to boil and churn.
-Iffy grabbed hold of Aunt Naggie's leg and held on tight
-as the deck dropped away below her and she fell into waking.*
-
-"Iffy! Iffy, wake up!"
-Why was Aunt Naggie shaking her?
-And why did her head hurt so much?
-"Iffy!"
-
-"Wuzza?" she mumbled.
-She tried to sit up.
-No.
-That was a mistake.
-She tried to tell whoever was shaking her to stop,
-it made the stabbing pain behind her eyes worse,
-but someone had replaced her tongue with a slab of sour tofu.
-All she could do was whimper.
-
-"Iffy, please."
-Strong hands that smelled faintly of soap and onions forced her jaws apart.
-She gagged as a finger pushed something dry and powdery into her mouth.
-It tasted spicy,
-which made just as little sense as everything else that was going on.
-The slosh of water that followed made her splutter.
-She tried to spit it out,
-but those same strong hands wouldn't let her,
-so she swallowed.
-
-"Easy, sweetie, easy."
-Familiar arms held her close.
-*It's Aunt Naggie,*
-Iffy's fuzzy brain finally told her.
-She was in her storage-locker cabin on her bed and the lights were on
-and her foster mother was hugging her and her mouth tasted *awful*
-but the pain behind her eyes was down from laser drill to poke-with-a-sharp-stick.
-
-"I'm arra," she repeated.
-There was something sticky on her face.
-When she wiped her face on her sleeve,
-her nosebleed left a streak of red.
-
-"You scare me, sweetie," Aunt Naggie whispered.
-"You a shouting an all such."
-
-Iffy let out a shaky breath and worked her tongue in her mouth.
-"Is this curry powder?" she asked in weak disgust.
-
-Aunt Naggie laughed shakily.
-"Yeah, but there's medicine in it.
-Ignacio—the fella you met today—he been gettin it for me.
-For you, I mean.
-Sendin it to me long Mrs. Sandhu."
-
-A chill ran down Iffy's spine.
-"Medicine for what?"
-
-Aunt Naggie pulled a cloth out of her sleeve
-and wiped the blood off Iffy's face.
-"For this," she said quietly.
-"He come a me one day, tell me he know your olders.
-Said they had some tweaks as meant you'd get spells as you got older less you got treatment.
-Seemed t be workin, least til recently."
-
-She tucked the bloody cloth back into her sleeve.
-"You been seein things, ain't ya?
-That's how come you so good wi tech."
-
-Iffy swallowed drily.
-The machines had done things to people during the war,
-turned them into weapons and sabs and spies,
-sometimes without them even knowing they'd been memed or tweaked.
-Nine tenths of every medical exam Iffy had ever suffered through
-had been to check for things like that,
-but they couldn't catch everything.
-If her gift was something like that,
-who knew what else might be tucked away in her head or her genes?
-
-Her foster mother gave her another hug.
-"You go back a sleep," she said as she squeezed Iffy and then stood.
-"We can talk on this some more t'morrow."
-
-Iffy nodded, her eyes already closing as she lay down.
-Aunt Naggie tucked the blankets in around her,
-kissed her forehead,
-and closed the door quietly behind herself.
