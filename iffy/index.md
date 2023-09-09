@@ -4333,3 +4333,266 @@ shrugged as if to say,
 "Could be,"
 and set it on the to-do rack that lined the wall behind the workbench.
 "How 'bout these?"
+
+The flat box de passed to Iffy opened to reveal
+four squares woven from fractal carbon fiber,
+each the size of her nature book but no thicker than half a dozen of its pages.
+It took her a second to realize that
+the grommets patterned across the squares were rotors,
+and that each square was some kind of flexible dronelet.
+She turned one over in her hands.
+"Dunno," she admitted.
+"How d'you switch it on?"
+
+"No idea," Honesty's First said cheerfully.
+"Best div is they was fer summa game."
+
+"Shaw," der Second scoffed,
+looking up from the machine de had spent the last three days trying to clean and reassemble.
+"They's too fine jarra game.
+I's fer they bin up some kinda survey mappin' back along fer th' Ecologists."
+
+"Mebbe," Honesty's First admitted.
+Casually,
+looking past Iffy rather than at her,
+de asked,
+"You got any notions?"
+
+Iffy shook her head.
+She had told Honesty about her occasional flashes of insight,
+then rounded on dem cold and hard when she learned that
+her friend had passed on what she'd said to der First and Second.
+"We don' keep secrets on achother," Honesty had said with a shrug.
+"Y'ain't along that, best we part ways now."
+So Iffy had forgiven dem,
+secretly relieved that de didn't seem to care that Iffy was different.
+
+Iffy handed the box of dronelets back to First.
+De shrugged.
+"Not much use if we can't turn 'em on," de said,
+tucking the box back under der workbench.
+"Anythin' comes t' mind, you come along an' gi's a scutch, aright?
+An' even if nothin' does,
+we's alluz happy t'have one more fer dinner or a sleepover."
+De winked broadly.
+
+"Thanks," Iffy mumbled.
+Her upbringing had taught her how to rig sails in heavy weather
+and mend engines older than her foster parents
+but not what to do when people were kind to her.
+She drained the last of her tea.
+"I oughta get back t' Aunt Naggie and th' shoppin."
+
+"Sure," Honesty said.
+"I'll walk you out."
+
+They held hands all the way up the canal.
+As usual,
+Honesty did most of the talking.
+Induction wouldn't be so bad—the Marines needed people with tech skills
+the same as everyone else,
+so they'd prolly put der to work doing that.
+De knew tons more about salvage and repair than any crufty old core,
+and what de didn't know de could ask Iffy,
+right?
+
+"I s'pose," Iffy allowed.
+
+"Oh c'mon."
+Honesty bumped der hip against Iffy's.
+"First an' Uncle Osman 'long by Pier Nine
+asked two different cores 'bout that pump they conned you.
+Dey neither had a siggy what it was,
+an' you jus' come right out an' tell 'em.
+The stuff you have in your head," de finished admiringly,
+shaking der own in wonder.
+
+*I'd feel better about it if I knew how it got there,* Iffy thought.
+For the thousandth time she wondered
+if her clone parents had been able to do what she could do,
+and if so,
+whether they had thought of it as a gift or a burden.
+And for the thousandth time,
+she wished she could ask them.
+
+They said goodbye by the bow of the Marine cutter.
+"You come along by that dinner, aye?"
+De poked Iffy in the ribs.
+"Y' maw skinny."
+
+Iffy blushed.
+"I'll ask," she said, mumbling again.
+One of the repair bots paused a moment to watch them kiss,
+its simple-minded core wondering who was repairing whom,
+then erased the thought as Iffy turned back toward the Dance Hall.
+
+By the time Iffy got to the market
+the streets around it were the most crowded place in Antarctica.
+Mormons from Peru handed out glossy animated pamphlets
+advertising the church's insurance policies,
+smiling forgiveness at a ragged man yelling that the Singularity had come,
+they were all living in a simulation,
+the data proved it,
+they just had to look at the data and they would see the truth!
+A bot with a rasping voice and an ancient plastic mask for a face
+told stories to a circle of wide-eyed children,
+their parents happy to spend a pence apiece for a few moments of rest.
+Its cut-out paper puppets danced
+as Zuko proclaimed his love for Princess Leia
+while Aang raced to rescue Mumble Joe from the Terminator.
+Two bald women who might have been twins but were probably just clones
+wheeled a cartful of tweaked moss blankets
+past two men arguing beside another cart piled high with curved sheets of spun glass
+that cast crisp rainbows on the ground.
+The smell of soy being fried in ginger
+mixed with the wet steamy warmth from rice cookers,
+the salty tang of seaweed soup,
+and the heavy mug of people who spent most of their lives wrapped in warm clothing.
+
+Iffy paused in front of a stall selling rats with startling blue eyes.
+"They make great pets. Or snacks!" the man said,
+hastily adding, "Just kidding! Just kidding!"
+when Iffy scowled at him.
+"Watch!"
+He leaned over and said, "Ratty wanna cracker?"
+
+"Idjit!" the rat squeaked back. "Yer an idjit!"
+
+"See?" the man said proudly.
+"You can teach 'em a coupla hunnert words, easy!"
+
+"I know," Iffy said wistfully, a sudden pang in her heart.
+She held her finger in front of one of the cages.
+The rat sniffed at it.
+"Idjit," it pronounced in its tiny squeaky voice.
+
+*One day*,
+Iffy promised herself as she straightened up and hurried on her way.
+One day,
+when she had a workshop of her own and could keep pets
+and Aunt Naggie had a proper kitchen
+and Honesty could come by all the time.
+Even in her daydreams,
+she didn't dare imagine that they would live together.
+
+The Dance Hall was just as busy inside as out.
+Iffy tried slipping through the crush the way Honesty somehow did,
+then gave up and surrendered to the flow of the crowd.
+She had never been swimming,
+but she imagined this was what it was like to be caught in a strong current.
+
+She glanced up as a drone the size of her hand whined by,
+its crystal eyes scanning the crowd.
+"Some all got they riled up," a stall keeper muttered, noticing Iffy's look.
+"They 'long by all place today.
+You think it come by they fight up along th' gov'nor's?"
+
+"I dunno," Iffy said.
+Drones had microphones as well as cameras,
+and the last thing she wanted was
+some stray word of hers catching the governor's attention.
+"'Scuse me."
+She ducked under a tarnished video carpet hanging from a clothesline
+and pushed her way into the crowd on the other side.
+
+And froze in disbelief.
+And ducked back behind the video carpet and squeezed her eyes shut.
+She *couldn't* have seen what she thought she just saw.
+She shook her head and peeked around the carpet's edge.
+
+There, just a couple of meters away,
+stood Aunt Naggie
+and a trim Asian man wearing a threadbare jacket
+in the brown and green of the old Ecological Corps.
+Iffy couldn't hear what they were saying over the bustle of the crowd,
+but from the way they were looking into each others' eyes
+she was pretty sure they weren't discussing topsoil formation.
+
+The ecologist handed Aunt Naggie something.
+As he leaned forward to kiss her cheek,
+the space above their heads flickered.
+It was another video carpet,
+Iffy realized,
+strung between four posts like a canopy
+to conceal them from any cameras overhead.
+It flickered again as Aunt Naggie pulled the ecologist closer
+and kissed him for real.
+
+Iffy's stomach flip-flopped
+the way it did when she read played of the steamier passages
+in Aunt Naggie's romance sims.
+The ecologist stepped back,
+a bland smile replacing the genuine warmth of a moment before.
+He gestured at one of the carpets hanging on a display rack beside him.
+"Perhaps this one?" he asked a little too loudly.
+
+Aunt Naggie's reply was cut off by a sudden crackle of static.
+"Citizens!"
+The melodious mechanical voice cut through the market bustle.
+"Remain where you are!
+There is no cause for alarm!
+This safety notice is brought to you by Volkov's Hot Sauce!"
+
+An alarm began to ping, then another.
+Someone shouted, "Blues!" 
+Iffy spun around.
+A squad of Marines in exoskeletons had appeared at the entrance,
+visors down and shock sticks in their hands.
+
+"Citizens!
+Remain where you are!
+The situation will be resolved shortly!
+While you wait, try Volkov's—there's nothing hotter this side of the Cairo Crater!"
+The drone above Iffy jinked sideways to dodge a thrown scrap of bamboo.
+Something clanged off a Marine's exoskeleton.
+Someone shouted,
+"Show us yer warrant 'r show us your backside!"
+Other voices took up the cry.
+"Show us yer warrant!"
+
+*Great,* Iffy thought despairingly,
+*Another affin' jammer.*
+She pulled aside the carpet she had been hiding behind
+and plowed straight into her foster mother.
+
+"Iffy?" Aunt Naggie gasped. "What're you doin' here?"
+
+"Came lookin' for you," Iffy said breathlessly.
+She nodded at the man in the Ecologist jacket.
+"G'day. I'm Iffy."
+
+"Fifth Ang Kwan," he said, bowing slightly.
+"It's a pleasure a meet you.
+Nagatha has told me much o' you."
+
+"Hasn't told me nothin' about *you*," Iffy said,
+immediately regretting her attempt to be flippant.
+
+The stranger smiled.
+"That's prolly a the best."
+
+"Iffy, you ain't supposed to be here!" Aunt Naggie said helplessly.
+"You're supposed to be down along th' docks with yer friend!"
+
+"I was," Iffy protested.
+
+"Citizens!" the drone bellowed.
+"A warrant is being procured.
+Remain in your present positions!
+Do not indulge in pointless vandalism!
+And whether you're having a late breakfast,
+an early lunch,
+or the only meal of the deal,
+put some Volkov's on it!"
+
+Something fell over with a crash.
+"What's goin' on?" Iffy asked.
+
+The stranger put his hand on Aunt Naggie's arm.
+"You should go, Naggie.
+Now."
+
+Aunt Naggie took his hand in hers.
+"They ain't lookin' fer me,"
+she said,
+urgent and fearful and calm all at once.
