@@ -1,6 +1,9 @@
 ---
 title: "Iffy"
+chapters: true
 ---
+
+<section markdown="1">
 
 ## Chapter 1
 
@@ -720,6 +723,10 @@ Iffy hesitated,
 then took his hand and shook it.
 "Fifth Ang Kwan, but everyone calls me Iffy.
 Pleased to meet you too."
+
+</section>
+
+<section markdown="1">
 
 ## Chapter 2
 
@@ -1842,6 +1849,10 @@ thumping her fist against her mattress.
 
 It took her a long time to fall asleep again.
 
+</section>
+
+<section markdown="1">
+
 ## Chapter 3
 
 It was four days to Rothera across the Weddell Sea.
@@ -2956,6 +2967,10 @@ There were just her sobs
 and the hum of the engines
 and the muffled sound of the uncaring sea.
 
+</section>
+
+<section markdown="1">
+
 ## Chapter 4
 
 Her tears eventually stopped, as tears always do.
@@ -3881,6 +3896,10 @@ he continued as Uncle Jack opened his mouth to protest.
 Now if you'll all excuse me,
 I need to tell Private Shirido's family he isn't coming home."
 
+</section>
+
+<section markdown="1">
+
 ## Interlude
 
 *Once upon a time there was an island called Nova Zembla.
@@ -3997,6 +4016,10 @@ most were careful to limit what their cores could see, hear, think, and do.
 As the last of the rainforests vanished
 and tweaked jellies drove one species of fish after another to extinction,
 everyone found they had more pressing things to worry about.*
+
+</section>
+
+<section markdown="1">
 
 ## Chapter 5
 
@@ -4842,3 +4865,5 @@ Iffy nodded, her eyes already closing as she lay down.
 Aunt Naggie tucked the blankets in around her,
 kissed her forehead,
 and closed the door quietly behind herself.
+
+</section>
