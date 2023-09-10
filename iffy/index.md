@@ -3745,7 +3745,6 @@ No,
 Wales repeated wearily,
 he had no idea how the G-80 had been compromised
 or how it had infected the sentries.
-He had just been guessing when he said it was some sort of machine hypnosis.
 No,
 he wouldn't show them what else he had in his third toolbox—not yet.
 And yes,
@@ -3895,12 +3894,6 @@ he continued as Uncle Jack opened his mouth to protest.
 "Mister Wales, you'll be our guest here.
 Now if you'll all excuse me,
 I need to tell Private Shirido's family he isn't coming home."
-
-</section>
-
-<section markdown="1">
-
-## Interlude
 
 *Once upon a time there was an island called Nova Zembla.
 It was really two islands,
@@ -4772,15 +4765,23 @@ pulled out her nature book,
 tossed it aside,
 and then waved the lights off and closed her eyes.
 
-*She was on deck.
-The sky was a perfect blue and Aunt Naggie was stuffing her into her ecosuit.
+*Wireframes swam in the darkness.
+Three-dimensional graphs of torsion and strain clung to them like barnacles to a hull.
+There—that was Doctor Johel's G-80,
+except now Iffy could see how the flashes of light
+had triggered a feedback loop in its visual processors
+that had left it vulnerable to a hostile upload.
+She should tell someone,
+she thought vaguely,
+but then she was on deck under a perfect blue sky
+and Aunt Naggie was stuffing her into her ecosuit.
 "Just in case, love," she said.*
 
 *No, Iffy thought, and, "No!" she said.
 She wasn't going to go through this again.
 She struggled to pull her arms out of the ecosuit.*
 
-*"It's kappa," Honesty said, already in ders.
+*"It's kappa," Honesty said beside her, already in der suit.
 "It's kappa, sweetie, everythin's gonna be kappa.
 We're gonna __make__ it kappa. You'll see."
 With a barely perceptible whir
@@ -4843,14 +4844,22 @@ A chill ran down Iffy's spine.
 
 Aunt Naggie pulled a cloth out of her sleeve and wiped the blood off Iffy's face.
 "For this," she said quietly.
-"He come to me one day, said he knew your olders.
-Said they had some tweaks as meant you'd start gettin' bad spells 'less you got treatment.
-I been givin' it to you ever since."
+"He knew your olders—has a couple o' pictures of 'em
+from when they was just First an' Second.
+That's why he come to find me,
+back after we got you.
+Said they was famous back after th' war
+fer helpin' rescue people outta Brazil an' th' Cape an' wherever.
+But he said they had some tweaks in 'em
+what meant you'd start gettin' bad spells as you got older.
+They tweaked somethin' that goes in th' curry to help wi' that,
+an' I been givin' it to you ever since."
 
 Iffy swallowed drily.
 The machines had done things to people during the war,
 turned them into weapons and sabs and spies,
 sometimes without them even knowing they'd been memed or tweaked.
+People had done the same to each other and worse.
 Nine tenths of every medical exam Iffy had ever suffered through
 had been to check for things like that,
 but they couldn't catch everything.
@@ -4859,11 +4868,20 @@ who knew what else might be tucked away in her head or her genes?
 
 Her foster mother gave her another hug.
 "You go back t' sleep," she said as she squeezed Iffy and then stood.
-"We can talk on this some more t'morrow."
+"We'll talk on this some more t'morrow."
 
 Iffy nodded, her eyes already closing as she lay down.
-Aunt Naggie tucked the blankets in around her,
-kissed her forehead,
-and closed the door quietly behind herself.
+Aunt Naggie tucked the blankets in around her and kissed her forehead.
+"Auntie?" she mumbled.
+
+"Yes love?"
+
+"Did he ever tell you what they was like?
+My olders?"
+
+Aunt Naggie smiled.
+"He said they was smart as anything an' twice as brave.
+I guess it runs in th' family."
+She closed the door quietly behind herself.
 
 </section>
