@@ -4503,25 +4503,26 @@ She shook her head and peeked around the carpet's edge.
 There, just a couple of meters away,
 stood Aunt Naggie
 and a trim Asian man wearing a threadbare jacket
-in the brown and green of the old Ecological Corps.
+in the brown and green of the old Ecological Corps
+with the shoulder patches torn off.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
 but from the way they were looking into each others' eyes
 she was pretty sure they weren't discussing topsoil formation.
 
-The ecologist handed Aunt Naggie something.
+The stranger handed Aunt Naggie something.
 As he leaned forward to kiss her cheek,
 the space above their heads flickered.
 It was another video carpet,
 Iffy realized,
 strung between four posts like a canopy
 to conceal them from any cameras overhead.
-It flickered again as Aunt Naggie pulled the ecologist closer
+It flickered again as Aunt Naggie pulled the stranger closer
 and kissed him for real.
 
 Iffy's stomach flip-flopped
 the way it did when she read played of the steamier passages
 in Aunt Naggie's romance sims.
-The ecologist stepped back,
+The stranger stepped back,
 a bland smile replacing the genuine warmth of a moment before.
 He gestured at one of the carpets hanging on a display rack beside him.
 "Perhaps this one?" he asked a little too loudly.
@@ -4563,13 +4564,16 @@ She nodded at the man in the Ecologist jacket.
 
 "Fifth Ang Kwan," he said, bowing slightly.
 "It's a pleasure a meet you.
-Nagatha has told me much o' you."
+Nagatha has told me much a you."
 
-"Hasn't told me nothin' about *you*," Iffy said,
+"Hasn't told me nothin' about *you*," Iffy replied,
 immediately regretting her attempt to be flippant.
 
-The stranger smiled.
-"That's prolly a the best."
+The stranger's smile broadened.
+"That's prolly a the best,"
+he said,
+lisping slightly and rolling his R's
+like a character from an old American sim.
 
 "Iffy, you ain't supposed to be here!" Aunt Naggie said helplessly.
 "You're supposed to be down along th' docks with yer friend!"
@@ -4582,17 +4586,259 @@ Remain in your present positions!
 Do not indulge in pointless vandalism!
 And whether you're having a late breakfast,
 an early lunch,
-or the only meal of the deal,
+or the only meal of the day,
 put some Volkov's on it!"
 
 Something fell over with a crash.
 "What's goin' on?" Iffy asked.
 
 The stranger put his hand on Aunt Naggie's arm.
-"You should go, Naggie.
-Now."
+"You gotta go, Naggie.
+*Now.*"
 
 Aunt Naggie took his hand in hers.
-"They ain't lookin' fer me,"
+"Not if you're stayin',"
 she said,
 urgent and fearful and calm all at once.
+
+"Stubborn woman," the stranger scolded,
+but he smiled gently as he said it.
+He pulled an orange knit cap out of one pocket and pulled it down low over his ears,
+then fished a flimsy oval of plastic out of another pocket and pressed it onto his face.
+The plastic flickered.
+Suddenly a different man was standing there,
+one with a heavier jaw and wider cheekbones.
+
+The ecologist slipped off his jacket and turned it inside out
+to reveal a purple paisley pattern
+that had briefly and unfortunately been popular ten years before.
+He put it back on and smiled at Aunt Naggie.
+"Well? Would you let such take you dancin'?"
+
+"Stop with yer jokin'," she snapped
+as the chants of "Warrant! Warrant! Warrant!" grew louder and angrier.
+
+"Citizens!
+Remain calm!
+We shall soon be operating with full legal authority!
+Do not interfere!
+And remember: Volkov's, because good food hurts!"
+
+Another crash from the entrance
+was followed by the sizzle and crack of a shock stick.
+The stranger swore.
+"Go long a Boston Dock," he ordered.
+"Don't run, but don't stop neither."
+
+"What about you?" Aunt Naggie demanded.
+
+The stranger glanced at Iffy.
+"Safer we split up.
+We can get a cuppa next time you're in port."
+He grinned and kissed her quickly.
+"Now go."
+
+Aunt Naggie nodded without speaking and tugged on Iffy's arm.
+They joined the stream of people pushing toward the exit,
+heads down as they passed between a watchful pair of Marines.
+Once outside,
+they turned a corner, then another, and then Aunt Naggie pulled up short.
+"I'm sorry, sweetie," she said,
+wiping her eyes.
+"I'm sorry.
+I just gotta…"
+Her shoulders shook as she wept,
+hopeless and silent.
+
+"Hush now," Iffy said awkwardly.
+"Who is he?"
+
+"Sh!" Aunt Naggie glanced around fearfully.
+"Not out here."
+
+"But—"
+
+"Later!"
+Aunt Naggie sniffled and wiped her eyes one more time before straightening up wearily.
+"Come on," she said, the weight of a lifetime in her voice.
+"We're already late gettin' back."
+
+Uncle Jack had worked himself into a smoldering rage by the time they reached the *Guinevere*.
+"Can't make up or down o' what he's done to things,"
+he snarled by way of a hello,
+wiping his hands angrily on a greasy rag.
+A double dozen boxes sat in a pile on deck,
+each bearing the Marines' blue crown stamp.
+One had been torn open to reveal strips of plastic for patching seams in the hull,
+another to show a fitting for a bilge pump that hadn't worked properly in years.
+It was more new parts than the old jelly dredger had seen since before Iffy first set foot on her,
+but all Uncle Jack could talk about was
+how the repairs that Wales had made weren't how things ought to be done,
+it looked like core work,
+he was tweaked somehow,
+and how were regular folks supposed to understand a tangle like that?
+
+"Maybe it'll make more sense 'long dinner," Aunt Naggie said tiredly.
+
+"Fat chance that," Uncle Jack snorted.
+"Didja get yer precious groceries?"
+
+*Thump.*
+Iffy jumped as the bag came down on the table.
+Aunt Naggie began to empty it and stow the vegetables without saying a word.
+After a moment her husband muttered a curse and left.
+
+Iffy watched silently as Aunt Naggie took out her feelings on an onion.
+Once it was diced and sizzling in hot oil
+she cubed a block of soy and attacked the other vegetables.
+"Anythin' I can do?" Iffy asked,
+worried and afraid and wanting to help but not knowing how.
+
+Aunt Naggie swept the carrots and cabbage into the frying pan and forced a smile.
+"Thanks, sweetie, but I'm aright.
+You should prolly go topside
+an' try to clean up whatever mess he made o' Mister Wales' work."
+
+Iffy stood and put her arms around the woman
+who had sheltered her from storms of all kinds for most of her life.
+"I love you," she blurted.
+
+Aunt Naggie set her knife down and hugged her foster daughter back.
+"I love you too, sweetie," she said softly.
+"Always an' forever.
+Don't you ever forget that."
+
+Iffy hung on when her foster mother would have let go.
+"Is he—is he someone special?"
+
+Aunt Naggie kissed the top of Iffy's shaven head.
+"Yeah. In a lot o' ways."
+She laughed shakily.
+"Prolly best if we don't talk about it in front o' Jack, aright?"
+
+"Course not," Iffy agreed.
+"But—auntie, who is he?"
+*An' how long have you known him?* she added in her head.
+*An' knowin' him, why do you stay with Uncle Jack?*
+
+"Just a friend," Aunt Naggie said distantly,
+straightening up and turning back to her cooking.
+"Now come on, let's get this in you before Jack gobbles it all up."
+
+- Hey.
+- *Ho.*
+- Huh?
+- *Hoot!*
+- Stop it ya dingus.
+
+Iff smiled.
+Any night she could get Honesty to call her "dingus" was a good night.
+
+- Y'aright? We heard about the jammer along by the Dance Hall.
+- *Yeah.* Iffy hesitated. *Saw it happen.*
+- Tay bangle. Y'aright for reals?
+- *Yeah.* Iffy hesitated again. *How bout you? Tomorrow 'n' all.*
+- Aff, I be kappa. But Second says I gotta go do chores. You be safe.
+- *You too.*
+
+She waited a moment for a reply,
+wishing as she always did that people didn't always have to go so soon.
+When none came,
+she set her app aside,
+pulled out her nature book,
+tossed it aside,
+and then waved the lights off and closed her eyes.
+
+*She was on deck.
+The sky was a perfect blue and Aunt Naggie was stuffing her into her ecosuit.
+"Just in case, love," she said.*
+
+*No, Iffy thought, and, "No!" she said.
+She wasn't going to go through this again.
+She struggled to pull her arms out of the ecosuit.*
+
+*"It's kappa," Honesty said, already in ders.
+"It's kappa, sweetie, everythin's gonna be kappa.
+We're gonna __make__ it kappa. You'll see."
+With a barely perceptible whir
+der head detached from the rest of der body and rose into the air.
+Beneath them,
+the sea began to boil and churn.
+Iffy grabbed hold of Aunt Naggie's leg and held on tight
+as the deck dropped away below her and she fell into waking.*
+
+"Iffy! Iffy, wake up!"
+Why was Aunt Naggie shaking her?
+And why did her head hurt so much?
+"Iffy!"
+
+"Wuzza?" she mumbled.
+She tried to sit up.
+No.
+That was a mistake.
+She tried to tell whoever was shaking her to stop,
+it made the stabbing pain behind her eyes worse,
+but someone had replaced her tongue with a slab of sour tofu.
+All she could do was whimper.
+
+"Iffy, please."
+Strong hands that smelled faintly of soap and onions forced her jaws apart.
+She gagged as a finger pushed something dry and powdery into her mouth.
+It tasted spicy,
+which made just as little sense as everything else that was going on.
+The slosh of water that followed made her splutter.
+She tried to spit it out,
+but those same strong hands wouldn't let her,
+so she swallowed.
+
+"Easy, sweetie, easy."
+Familiar arms held her close.
+Iffy's fuzzy brain finally told her that
+she was on her bed in her storage-locker cabin and the lights were on
+and her foster mother was hugging her and her mouth tasted *awful*
+but the pain behind her eyes was down from laser drill to poke-with-a-sharp-stick.
+
+"I'm aright," she repeated.
+There was something sticky on her face.
+When she wiped her face on her sleeve,
+her nosebleed left a streak of red.
+
+"You scared me, sweetie," Aunt Naggie whispered.
+"You were shoutin' and all such."
+
+Iffy let out a shaky breath and worked her tongue in her mouth.
+"Is this curry powder?" she asked in weak disgust.
+
+Aunt Naggie laughed shakily.
+"Yeah, but there's medicine in it.
+Ignacio—the fella you met today—he been gettin it for me.
+For you, I mean.
+Sendin' it to me along by Mrs. Sandhu."
+
+A chill ran down Iffy's spine.
+"Medicine for what?"
+
+Aunt Naggie pulled a cloth out of her sleeve and wiped the blood off Iffy's face.
+"For this," she said quietly.
+"He come to me one day, said he knew your olders.
+Said they had some tweaks as meant you'd start gettin' bad spells 'less you got treatment.
+I been givin' it to you ever since."
+
+Iffy swallowed drily.
+The machines had done things to people during the war,
+turned them into weapons and sabs and spies,
+sometimes without them even knowing they'd been memed or tweaked.
+Nine tenths of every medical exam Iffy had ever suffered through
+had been to check for things like that,
+but they couldn't catch everything.
+If what she could do was something like that,
+who knew what else might be tucked away in her head or her genes?
+
+Her foster mother gave her another hug.
+"You go back t' sleep," she said as she squeezed Iffy and then stood.
+"We can talk on this some more t'morrow."
+
+Iffy nodded, her eyes already closing as she lay down.
+Aunt Naggie tucked the blankets in around her,
+kissed her forehead,
+and closed the door quietly behind herself.
