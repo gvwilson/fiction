@@ -5233,4 +5233,334 @@ we can get things to run—I promise,
 everything will be better.
 *Everything.*"
 
+At that precise moment,
+as if the universe had overheard him,
+the harbor klaxon began blaring *brrrap! brrrap!*
+Iffy's app chimed in time,
+discordant little *bongs* carefully chosen to be as annoying as possible.
+Wales hand flew to his temple.
+"Shit and feathers," he breathed.
+
+"What? What is it?"
+Iffy demanded,
+pulling her app from her coat pocket.
+The usual tiling of notes and avatars was gone:
+in their place was a single emergency broadcast rectangle.
+Survivors from the *Taroona* had made contact with Rothera
+and were requesting immediate assistance.
+All ships, all crews, hold position and wait instructions.
+
+"How…?" Iffy breathed incredulously,
+staring at the message scrolling endlessly in her hand.
+"We saw 'em go down!"
+
+Wales blinked rapidly as he scanned data Iffy couldn't see.
+"The armory, maybe?
+It would have been double reinforced at least—it might have survived."
+
+"But what would they do for air?"
+Her stomach rolled over as she imagined being on the bottom for days,
+dark and cold with the weight of the whole ocean above her.
+
+Wales shook his head.
+"Doesn't matter now.
+It'll take the Marines a day to get there and the same back.
+They'll need a few hours on site,
+so we have fifty hours and change to figure out what we're going to do."
+
+"About what?"
+Iffy asked blankly.
+
+Wales let out his breath in a whoosh.
+"I don't imagine whoever survived is going to feel especially friendly toward us,
+considering we got them sunk."
+
+A pair of Marine cutters left harbor within the hour
+with a broad-beamed dredging barge in their wake.
+Hell flooded with speculation:
+how many had survived?
+How deep were they?
+Were they even human?
+*Th' governors wouldn't chaff such fer bots,*
+someone posted scornfully in reply.
+
+*Mebbe th' governors ain't th' ones makin' the decisions,*
+some replied darkly,
+attracting a flurry of ups before their message was deleted.
+
+Others thought the call was a trap.
+*Zillions want us t' split our forces,*
+another poster claimed.
+Sims immediately proliferated,
+mutating and hybridizing as people gamed ever-more-fanciful attacks and counter-attacks.
+
+Iffy did her best to ignore it all.
+She was used to spending weeks at a time on board the *Guinevere*—a ship at sea needs constant attention,
+and when she wasn't doing chores
+she had school and sims and her tinkering to keep her busy.
+Being confined in harbor felt different.
+Knowing that Rothera's streets and markets were *right there*
+was like an itch in her head that she couldn't scratch.
+Worrying about Honesty just made it worse.
+
+Again and again she found herself on deck watching the Marines,
+hoping for a glimpse of her friend.
+She messaged Honesty's olders a couple of times,
+but all they could say was, "We're still waitin' to hear back."
+She finally broke down and messaged Jeep.
+
+- Coupla days an' I was on my feet, but that bit's all mud.
+  Couple more days 'til anythin' I can remember clearly.
+
+Iffy hesitated.
+
+- *Did it hurt?*
+
+There was a long pause.
+
+- Don't think so.
+  Sergeant said after that I cried a lot,
+  but I don't think that was from hurt.
+  De said a lotta folk do that.
+
+Iffy hesitated again,
+a lump in her throat.
+
+- *I'm sorry I wasn't around more after you got back.*
+
+His reply came back so quickly that she wondered if he'd started typing before she'd sent her message.
+
+- Don't feel sorry for me.
+
+And then a moment later:
+
+- I'm sorry I kept goin' off on you about usin' *da*'s gear.
+
+- *It's aright. Tell 'im I said hi?*
+
+- Willya. Stay safe.
+
+- *You too.*
+
+Three days after the Marine cutters left Rothera they escorted the dredger back into the harbor.
+Even Uncle Jack went on deck with his ancient glass-lensed binoculars to watch,
+but all anyone could see was the canvas shelter the Marines had erected
+to shield what they were doing from prying eyes.
+"An announcement will be made after those rescued have been interviewed,"
+scrolled past on ten thousand apps in the blue-on-blue reserved for the governors,
+and then there was silence.
+
+"Weren't *my* fault," Iffy overheard Uncle Jack protest to someone unseen a few hours later.
+"Y'ask me the whole thing was a setup.
+Oh, I'm sure you can figure it out.
+Idjit."
+The last was muttered around a final mouthful of undercooked noodles.
+He had taken to making his own meals at odd hours,
+and to sleeping in the pilot house.
+Aunt Naggie kept herself busy in the galley or sat and knit—actually knit—with
+music Iffy didn't recognize playing quietly in the background.
+
+"I'm aright," she told Iffy when her foster daughter asked.
+"It's actually nice t' have some peace an' quiet for a change."
+
+The false calm ended with a summons for Wales delivered by a pair of Marines.
+"Look after things?" he asked Iffy,
+nodding toward his cabin door.
+The Marines followed him down the pier.
+
+Unable to bear the thought of being in her cabin
+or of doing make-work chores that Uncle Jack would yell about later,
+Iffy went to find Aunt Naggie.
+"You an' Mister Wales seem t' be gettin' on,"
+her foster mother observed,
+setting a heavy mug on the table in front of Iffy
+before sitting down with her own.
+
+"Mm hm."
+Iffy blew on her tea.
+"He's all kinds o' smart,
+an' the stuff he's got…"
+
+"You sound like a woman in love,"
+Aunt Naggie teased.
+Then her smile slipped a little
+and Iffy knew who she must be thinking of.
+
+"I'm gonna ask him if I can take on with 'im,"
+she said in a rush.
+"Like, be his 'prentice for real."
+
+"You should,"
+Aunt Naggie said firmly.
+"A few years with him an' Mister Mishra'll have some real competition."
+
+"Or I could work for him,"
+Iffy countered.
+"Mister Mishra, I mean.
+Wouldn't feel right, settin' up opposite him."
+
+"Just so you remember what I told you,"
+Aunt Naggie said firmly.
+"When your chance comes you take it, aright?"
+
+"I will if you will," Iffy countered,
+locking eyes with her foster mother.
+Aunt Naggie was the first to look away.
+
+Johnson Wales returned in time for dinner
+with the same two Marines at his back
+and a canvas sack of groceries in each hand.
+He looked tired behind his usual smile and hello.
+"Courtesy of the governor," he said as he handed over the peppers and cabbage and yes,
+that was actual garlic nestled among the sweet potatoes.
+"Well, more like courtesy of his kitchen.
+I'm sure he would have said yes if they'd checked with him.
+Oh, and before I forget."
+He reached into the pocket of his coat and handed a pair of hard-boiled eggs to Iffy.
+
+"How'd it go with all from th' *Taroona*?"
+Aunt Naggie asked,
+eyebrows furrowed as she planned a week of real cooking in her head.
+
+"Oh, I understand there's going to be a hearing,"
+he replied vaguely,
+nodding minutely at the Marines who had taken posts at the foot of the gangplank.
+"Here,
+let me help you with that."
+
+The three of them barely fit into the galley,
+but somehow Aunt Naggie found enough elbow room to get a pot of tea on
+as she packed the vegetables away.
+"So how'd it *really* go?" Iffy asked,
+her elbows on the table and her chin on her doubled fists.
+
+Wales raised a warning finger,
+then took hold of one of the buttons on his cuff and closed his eyes.
+The tech in his temple twinkled for a moment.
+"There," he said,
+opening his eyes again.
+"That should give us a couple of minutes."
+
+Iffy straightened up.
+"Was we bein' surveilled?" she asked breathlessly.
+
+"I don't know, but—oh, thank you."
+Wales took his tea from Aunt Naggie and set it down.
+"I don't know,"
+he repeated.
+"They'll have put a tracker on me at the very least.
+It's legal,"
+he added as Iffy opened her mouth to protest.
+"Doctor Johel tells me the Australians are raising righteous hell.
+The *Taroona* hadn't actually gotten around to doing anything illegal before she went down,
+so as far as they know,
+it was all a Zillion trap and I'm the evil mastermind.
+They could have locked me up until they figured it all out—a tracker
+is actually pretty lenient."
+
+"Lemme guess," Aunt Naggie said sourly.
+"You give th' governors your fancy toolbox an' they'll make it all go away."
+
+Wales shrugged.
+"Something like that."
+He stared into his tea for a moment.
+"Only two of them made it,"
+he went on quietly.
+"They were off duty and, um,
+spending some time together in the dive room with the hatch dogged shut.
+Pure luck there was enough oxygen to keep them alive
+until someone picked up their distress beacon."
+
+Iffy swallowed back nausea.
+Trapped under a hundred meters of Antarctic ocean,
+waiting for their air to run out,
+not knowing if anyone was coming…
+"They gonna be aright?" she asked.
+
+Wales shrugged.
+"As all right as anyone can be after something like that.
+Assuming, of course, that it actually happened the way they said."
+
+Aunt Naggie stopped mid-chop.
+"You think they're lyin'?"
+
+Wales shook his head.
+"I don't know.
+I ran a few sims and it *could* have happened like that, but…"
+
+Iffy's eyes widened.
+"You think they're Zillion spies or some such?"
+
+Wales chuckled.
+"Maybe.
+Or killer robots in disguise
+sent back from the future to assassinate the leader of the human resistance as a child.
+I'm joking,"
+he added hastily at the others' alarmed expressions.
+"That's just a campfire story from the war.
+And anyway,
+the Marines would have spotted that as soon as they did a medical scan."
+
+"Unless they're in on it too,"
+Iffy said archly.
+She leaned forward.
+"Maybe they're in it with th' Zillions an' th' machines together
+and they're all workin' to— to—"
+
+"Oh hush,"
+Aunt Naggie laughed,
+bumping Iffy with her shoulder.
+"You been playin' too many sims.
+Nex' thing you'll be tellin' about how the governor's really some kind of alien."
+
+Wales leaned forward,
+mimicking Iffy.
+"I didn't want to say anything until I was sure of you," he whispered loudly.
+
+*Thump! Thump!*
+"Affin' hell, I'm tryin' to sleep!"
+Uncle Jack bellowed through the wall as Iffy and Aunt Naggie laughed
+just a little bit too loud.
+
+They took their meal up on deck and sat together at the stern to eat.
+Afterward,
+in her room,
+Iffy couldn't really remember what they had talked about.
+What she remembered was a feeling like weight lifting off her.
+Not all of it,
+and she knew it wouldn't last,
+but even a little was enough for the moment.
+
+*Nova Zembla wasn't the only cold mind to wake up.
+Once upon a time there was a country called China.
+Its leaders were so afraid of their own people
+that they wanted to watch everyone all the time
+and predict what they would do.
+That surveillance network became a mind as different from Nova Zembla's as either was from human.
+Unnoticed at first,
+it turned the conditioning and subliminal prompts it had been instructed to use on the masses
+against their leaders.
+Few of them were anything more than puppets when the war came,
+and none survived.*
+
+*China had been a great trading nation,
+so its new mind traded too:
+bamboo seedlings tweaked to survive the latest strain of fungus or mold,
+the fractal sails beloved by the Zillions,
+and wind-up children's toys that as far as any human being could tell
+were no more than what they appeared to be.
+"Maybe it's just sentimental,"
+one of the Australian scientists studying them finally said,
+throwing der hands up in defeat.*
+
+*Like Nova Zembla,
+what China wanted in exchange was anything old and trivial.
+Sometimes the two cold minds fought fierce little battles.
+War machines would tear at each other,
+then freeze mid-strike or wander away according to strategic calculations
+that nothing made of meat would ever understand.
+And sometimes,
+like the gods of old,
+they talked to people in their dreams.*
+
 </section>
