@@ -1,76 +1,57 @@
 const fixToc = () => {
     const toc = document.querySelector('ol#toc')
     if (! toc) {
-	return
+        return
     }
     Array.from(document.querySelectorAll('h2')).forEach((header, i) => {
-	const label = `chapter.${i+1}`
-	header.id = label
-	const text = header.innerHTML
-	const item = document.createElement('li')
-	item.innerHTML = `<a href="#${label}">${text}</a>`
-	toc.appendChild(item)
+        const label = `chapter.${i+1}`
+        header.id = label
+        const text = header.innerHTML
+        const item = document.createElement('li')
+        item.innerHTML = `<a href="#${label}">${text}</a>`
+        toc.appendChild(item)
     })
 }
 
-const fixFootnotes = () => {
+const fixNotes = () => {
     Array.from(document.querySelectorAll('section')).forEach((section, i) => {
-	const list = document.createElement('ol')
-	Array.from(section.querySelectorAll('sup')).forEach((sup, j) => {
-	    backref = `backref.${i+1}.${j+1}`
-	    footnote = `footnote.${i+1}.${j+1}`
-	    const text = sup.innerHTML
-	    sup.id = backref
-	    sup.innerHTML = `<a href="#${footnote}">${j+1}</a>`
-	    const item = document.createElement('li')
-	    item.id = footnote
-	    item.innerHTML = `${text} <a href="#${backref}">&#x21F1;</a>`
-	    list.appendChild(item)
-	})
-	if (list.childElementCount > 0) {
-	    section.appendChild(list)
-	}
-    })
-}
+        // Only create list for footnotes at end of section if there are footnotes
+        var list = undefined
+        Array.from(section.querySelectorAll('span.note')).forEach((note, j) => {
+	    // Create footnote list if not already done
+            if (list === undefined) {
+                list = document.createElement('ol')
+                section.appendChild(list)
+            }
 
-const fixSidenotes = (onSide) => {
-    Array.from(document.querySelectorAll('section')).forEach((section, i) => {
-	// Side notes
-	if (onSide) {
-	    Array.from(section.querySelectorAll('span.sidenote')).forEach((span, j) => {
-		const counter = document.createElement("span")
-		counter.textContent = `${j+1}) `
-		span.insertBefore(counter, span.firstChild)
-		const marker = document.createElement("sup")
-		marker.textContent = `${j+1}`
-		span.parentNode.insertBefore(marker, span)
-	    })
-	}
-	// Bottom notes
-	else {
-	    const list = document.createElement("ol")
-	    section.appendChild(list)
-	    Array.from(section.querySelectorAll('span.sidenote')).forEach((span, j) => {
-		const marker = document.createElement("sup")
-		marker.textContent = `${j+1}`
-		span.parentNode.insertBefore(marker, span)
-		span.classList.remove("sidenote")
-		const li = document.createElement("li")
-		list.appendChild(li)
-		li.appendChild(span)
-	    })
-	}
-    })
-}
+            // Unique IDs forward and backward
+            const note_label = `note-${i+1}-${j+1}`
+            const anchor_label = `anchor-${i+1}-${j+1}`
 
-const getNotesOnSide = () => {
-    const meta_value = document.querySelector("meta[name='sidenotes']")
-    return meta_value && (meta_value.getAttribute("content") == "true")
+            // Insert forward-linked footnote
+            const forward = document.createElement('a')
+            forward.setAttribute('href', `#${note_label}`)
+            forward.setAttribute('id', anchor_label)
+            forward.textContent = `${j+1}`
+            const marker = document.createElement('sup')
+            marker.appendChild(forward)
+            note.parentNode.insertBefore(marker, note)
+
+            // Move footnote text and add backward link
+            const li = document.createElement('li')
+            li.setAttribute('id', note_label)
+            list.appendChild(li)
+            li.appendChild(note)
+            note.classList.remove('note')
+            const backward = document.createElement('a')
+            backward.setAttribute('href', `#${anchor_label}`)
+            backward.textContent = `\u2934`
+            li.appendChild(backward)
+        })
+    })
 }
 
 const fixPage = () => {
-    const onSide = getNotesOnSide()
     fixToc()
-    fixFootnotes()
-    fixSidenotes(onSide)
+    fixNotes()
 }

@@ -1,7 +1,6 @@
 title: "Greg Wilson's Fiction"
 author: "Greg Wilson"
 repository: gvwilson/fiction
-sidenotes: true
 markdown: kramdown
 defaults:
   - scope:

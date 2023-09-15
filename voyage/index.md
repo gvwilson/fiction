@@ -40,7 +40,7 @@ sent to intercept the newcomer, with strict orders not to board.  A third,
 larger, vessel was pressed into service and dispatched in their wake.  This ship
 carried a harbor pilot, a doctress, another magician, and another squad of
 marines, along with a catapult and as many barrels of pitch as the harbor master
-could commandeer in half an hour<span class="sidenote">In a subsequent suit against the port
+could commandeer in half an hour<span class="note">In a subsequent suit against the port
 authority, a warehouse owner claimed that two barrels of dark rum were
 commandeered as well.  Unlike the pitch, they were apparently never
 returned.</span>.
@@ -52,7 +52,7 @@ their former subjects would have spread through the town like wildfire.  One
 imagines the harbor master standing on the seawall, telescope clenched in his
 hand, secretly wishing that the Standing Committee's rules did not prevent him
 from recruiting a few whales to act as messengers or watchgen, as was the norm
-in other parts of Cherne<span class="sidenote">Many Gifted animals had no qualms about working for
+in other parts of Cherne<span class="note">Many Gifted animals had no qualms about working for
 the Pale Remainder: since their flesh and blood couldn't be used to keep the
 Remainder "alive", they were never required to pay the flesh-tithe.  As a
 result, most Ruudians viewed the Gifted as spies and collaborators.  The
@@ -139,7 +139,7 @@ through the ice-choked water, showing no lights, and sounding no trumpets to
 signal their arrival.
 
 The watchmen's first thought was that Uws was taking advantage of the
-celebrations to invade<span class="sidenote">Exactly how they thought an Uwsian fleet could have
+celebrations to invade<span class="note">Exactly how they thought an Uwsian fleet could have
 traveled nearly a thousand gallops down the length of the Ruudian coast without
 being detected is not recorded.  One suspects drink may have played a role in
 their reasoning.</span>.  The watchmen began beating the warning drums, but their
@@ -177,7 +177,7 @@ beings and stitched together with strands of moonlight.  Nothing short of
 complete dismemberment could end their unnatural existence.
 
 Nothing, that is, except the direct light of the sun.  For reasons that are
-still unknown<span class="sidenote">The Pale discouraged investigation of their magic during their
+still unknown<span class="note">The Pale discouraged investigation of their magic during their
 reign, often violently.  The prohibition is now largely customary; nations
 routinely accuse one another of violating it when tensions between them
 escalate.</span>, the magic the Pale Remainder used to hold their bodies together
@@ -248,7 +248,7 @@ not have been able to pursue the Pale into their underground refuge, her mundane
 and magical strength would have posed a significant risk to the Pale.  If in
 fact they were a holdover from Angelic times, it would have been entirely in
 keeping with immortal custom for negotiations over their relocation to take
-several hundred years<span class="sidenote">There is some evidence that the Szestetelmeny
+several hundred years<span class="note">There is some evidence that the Szestetelmeny
 Chronicle was originally conceived as an *aide memoire* to help human beings
 keep track of the state of play during decades-long negotations with
 Sulk.</span>.
@@ -381,7 +381,7 @@ The same events played out elsewhere in Ruuda that Yearagain Eve with only minor
 variations.  Jalkelainan was both the smallest of the major northern
 city-states, and the furthest west, so the Pale Remainder only sent nine ships
 against it.  Pohjoinen was attacked by fifteen, Ruuda-in-Ruuda by either
-twenty-eight or thirty<span class="sidenote">Even the Pale Remainder's own histories do not agree
+twenty-eight or thirty<span class="note">Even the Pale Remainder's own histories do not agree
 on this point.  Several scholars have attempted to square this circle by
 speculating that there were originally 30, but two were later erased from the
 records during one of the Pale's internal feuds.  This is, however, purely
@@ -408,7 +408,7 @@ roused himself.  Donning his seven-gallop boots, he strode across the Sibor
 Plain toward Etela, shaking the earth with every step.
 
 A trio of Pale magicians met him near a small stone fort just north of the
-border<span class="sidenote">The fort was destroyed and rebuilt several times over the next few
+border<span class="note">The fort was destroyed and rebuilt several times over the next few
 centuries.  The author was able to visit it during the writing of this book; its
 only modern occupants are a pair of faded ghosts and some badgers.</span>.
 Shrouded for protection against the sun, they could easily have been mistaken
@@ -461,7 +461,7 @@ coast to Timorcze (then the principal city of northern Praczedt) to tell its
 duke that Uws's preparations were not directed at him.  We have no record of how
 the duke reacted to this unlooked-for reassurance, though the presence of
 several regiments of Praczny archers in the Uwsian army during the subsequent
-war<span class="sidenote">The fact that these troops were under Uwsian command was later cited by
+war<span class="note">The fact that these troops were under Uwsian command was later cited by
 Sarkoszy chroniclers as proof that Praczedt had at the time been a province, or
 at least a protectorate, of Uws.  It is much more likely, however, that Uws
 simply hired them, as he and his mercenary band had often been hired in the days
@@ -474,7 +474,7 @@ external threat.
 
 The first blow in the struggle to reclaim Ruuda was not struck by Uws, however.
 That honor fell to a sea captain from Pohjoinen named Loyhkata's Uurvo, known to
-history as Uurvo the Foul for her love of "ripened" squid<span class="sidenote">Ripened squid is
+history as Uurvo the Foul for her love of "ripened" squid<span class="note">Ripened squid is
 prepared by marinating and smoking finger-thick slices of tentacle, then burying
 them in sealed jars for a year or more until the surface of the meat begins to
 deliquesce.  The liquid is decanted, and the jellied remainder spread on toasted
@@ -514,7 +514,7 @@ second to draw the Pale in, and a third, the largest, to fall upon them.
 They did not have long to wait.  That very evening, one of their seagulls
 reported a Pale patrol moving toward them along the coast road.  Songs and poems
 still record the disgust the Ruudians felt when she learned that a handful of
-alives were riding with the three Pale<span class="sidenote">Despite the protests of those
+alives were riding with the three Pale<span class="note">Despite the protests of those
 enamored of folk tunes, there were certainly not the "hundred-strong troop" of
 the traditional song *Ballad of the Bright Buccaneers*.</span>.  Some were
 convicts who had been given a reprieve, but others were military gens who had no
@@ -544,7 +544,7 @@ number, but that seemed a small price for three of the invaders.
 
 But then the sun set, and the moon rose, and Uurvo's crew discovered that Ruuda
 would not be won back that easily.  An unnamed member of Uurvo's crew told the
-villagers what happened next<span class="sidenote">Taken from the *[Deed of Corlum
+villagers what happened next<span class="note">Taken from the *[Deed of Corlum
 Early](#deed-corlum-early)*, ca. 930 (?).  In the *Deed*, King Corlum meets a
 hermit in the Herd of Trees who is cursed to tell his tale to everyone he meets
 until Ruuda "bathes in sunlight".  While such an encounter could have taken
@@ -649,7 +649,7 @@ and posted sentries.  He then invited several officers from the vanguard to his
 tent to discuss the previous night's battle.
 
 Coronel Szarkos's granddaughter Martta transcribed her father's account of what
-happened next<span class="sidenote">Here as elsewhere, I use the Ebrentennen translations of the
+happened next<span class="note">Here as elsewhere, I use the Ebrentennen translations of the
 Szarkosy's dynastic chronicle, rather than those officially incorporated into
 the Barsadov dynasty's records.  Despite regular protestations to the contrary,
 the evidence of political bias in the latter is overwhelming.</span>:
@@ -708,7 +708,7 @@ club padded with layers of canvas and blankets.  Darkness fell; the whole camp
 held its breath.
 
 Uws suddenly began laughing.  Telling his followers that his mask or ax must
-have protected him from the curse, he ordered them to unchain him<span class="sidenote">According
+have protected him from the curse, he ordered them to unchain him<span class="note">According
 to legend, one of the magicians in attendance protested, turning herself into a
 puff of feathers to be carried away by the wind when the assembled nobility
 refused to listen.  This is said to be the origin of the expression "blow to
@@ -742,7 +742,7 @@ The Pale's camp formed a broad arc along the edge of a pine forest.  It would
 have been a suicidal position for a living army, but it made perfect sense for
 the unalives, as it gave them shadows to retreat into if attacked during the
 day.  Their alive servants were positioned more conventionally in a single large
-camp laid out on the classic "square and tee" pattern<span class="sidenote">The Uncertain Angels
+camp laid out on the classic "square and tee" pattern<span class="note">The Uncertain Angels
 used the "square and tee" pattern for military camps from one end of Cherne to
 another.  Interestingly, it is only in Barra Bantang and Ini Bantang, where
 Angelic rule was most tenuous, that it was adopted as a layout for permanent
@@ -759,7 +759,7 @@ main force.  After presenting his report, Coronel Hradcy drew his sword and
 offered it to the king.  When asked why, he said, "Because if you do not slay me
 while 'tis day, my lord, I stand at risk of being traitor when 'tis night."
 Despite their attempts to burn the Pale Remainder in their tents, and avoid them
-otherwise, Hradcy and several of his gens had actually slain two directly<span class="sidenote">In
+otherwise, Hradcy and several of his gens had actually slain two directly<span class="note">In
 Bardessalen Yeramowcsza's "speculative biography" of Hradcy, the coronel
 consciously decides to incur the Pale curse as a way of forcing Uws to realize
 what needs to be done.  As noble as this sounds, readers must keep in mind that
@@ -769,7 +769,7 @@ Understandably, Uws refused, but the coronel was unrelenting.  As far as he was
 concerned, he had fallen in battle; the fact that he was still walking and
 breathing was an irrelevance.  If Uws would not kill him and his men, they would
 have to kill one another, and Uws would still be left with the task of finishing
-off the last one<span class="sidenote">This may be the first evidence of the emergence of
+off the last one<span class="note">This may be the first evidence of the emergence of
 post-Angelic strictures against self-killing.</span>.  And there wasn't time for
 debate: the eastern horizon was already bruised.
 
@@ -812,7 +812,7 @@ the land north of the Helada Mountains was as strong as steel and as cold as
 ice.  Accustomed as they were to heroes with Angelic powers, the gens of the
 time simply had no conception that "mere mundanes" could defeat a magical foe.
 
-Many scholars have overlooked this last point, failing to recognize<span class="sidenote">See for
+Many scholars have overlooked this last point, failing to recognize<span class="note">See for
 example Ld. Armenda Denys Calçaere's *[On Immediate and Extraneous Causes in
 History](#causes-history)*.  Her argument that the poetry and song of the 500s
 and 600s shows a modern conception of capability is disputable, since the first
@@ -851,7 +851,7 @@ The Pale harvested again in the autumn, after the crops were in.  As at
 midsummer, bands of half a dozen to twenty rode from village to village at
 night, taking shelter in houses whose windows had been securely sealed during
 the day.  Each stop saw the same sequence of events: a careful examination of
-each gathering's roll book<span class="sidenote">These were not yet bound with leather made from
+each gathering's roll book<span class="note">These were not yet bound with leather made from
 human skin; that customs seems only to have arisen later.</span>, followed by
 interrogation of a few selected individuals, and then, as the moon rose, the
 harvest itself.  Blood was mixed with tincture of olymanden and stored in sealed
@@ -886,7 +886,7 @@ The First Rebellion (YS 507) was a poorly organized fiasco.  Inspired by stories
 of what life had been before the invasion, apprentices in Ruuda-in-Ruuda and
 Pohjoinen turned their adzes and saws on whatever Pale "pets" came to hand,
 rather than on the Pale themselves.  The support they had been promised by the
-Regency Council in Uws<span class="sidenote">Coronel Szarkos ard Niczolu formed the Council early
+Regency Council in Uws<span class="note">Coronel Szarkos ard Niczolu formed the Council early
 in YS 481 to govern the kingdom "until its monarch shall have regained himself".
 By the time of the First Rebellion, 26 years later, it was little more than the
 Szarkosy family's court; the other major coronelcies had established *de facto*
@@ -913,7 +913,7 @@ time the First Rebellion ended, the Pale Remainder's strategic weakness had
 become clear: they were unable to create more of themselves.  Each time a Pale's
 bones were burned, the ranks of those who husbanded Ruuda's people like the
 Darpani husbanded cattle were reduced by one.  In the words attributed to S.'s
-Iervo<span class="sidenote">Like most modern scholars, this author believes the "Suirenami
+Iervo<span class="note">Like most modern scholars, this author believes the "Suirenami
 Missives" to be a forgery from the 1000s or even later, rather than a
 transcription of an earlier original.</span>:
 
@@ -1000,7 +1000,7 @@ service, they were directly imitating the Pale Remainder's proclamation of YS
 These examples, and others, inspired the Learned Jizelle uy-Armaq's argument
 that other nations' imitation of the Pale Remainder reflects the era's yearning
 for a return to the certainties of Angelic rule.  To quote a representative
-passage<span class="sidenote">See for example her *[Lectures Given at Ensworth in Honor of the
+passage<span class="note">See for example her *[Lectures Given at Ensworth in Honor of the
 Royal Accession](#ensworth-lectures)*.</span>:
 
 > The chaos of the Age of Heroes produced a yearning among all the peoples of
@@ -1096,7 +1096,7 @@ On the other edge of the rainbow were the æmott.  After centuries of struggle i
 which every victory meant the death of the victor at the hands of gar most
 trusted companions, "their" war had become deeply spiritual.  Æmott families
 were effectively a second culture within Ruuda; in camps called
-*[paetakyla](#paetakyla)*<span class="sidenote">A contraction of a phrase meaning "a safe place
+*[paetakyla](#paetakyla)*<span class="note">A contraction of a phrase meaning "a safe place
 to flee to".</span>, hidden in the Helada Mountains or on the fringes of the Herd
 of Trees, the æmott gathered every dawn to welcome the sun's return, thanking it
 for being their one true ally in the struggle against their unalive oppressors.
@@ -1190,7 +1190,7 @@ series of lenses to produce the first *skenren lans*: a purely mundane device
 capable of shooting a beam of sunlight two hundred strides or more.
 
 We may never know who built the first one, or how the æmott managed to smuggle
-them into Ruuda undetected---they *do* keep some secrets<span class="sidenote">At least as
+them into Ruuda undetected---they *do* keep some secrets<span class="note">At least as
 interesting as "how" is "who paid for it".  Scholars have suggested the Ruudian
 diaspora, the Society for Inoffensive Conversation, or the Barsadov dynasty, who
 had recently extended their control over the whole of Uws</span>.  What is beyond
@@ -1221,7 +1221,7 @@ Events played out very differently in Ruuda's fourth city, Etela.  As described
 earlier, the æmott had never been as strong there, where they had to compete for
 loyalty with self-described Vaardians.  On Heliodor 14th, a band of Vaardians
 stole the *skenren lans* that the æmott had smuggled into the city, hid it on a
-barge under a load of dried squid<span class="sidenote">Or cheese mold, or undyed blarthings---as
+barge under a load of dried squid<span class="note">Or cheese mold, or undyed blarthings---as
 Kurtitina observed in *[A History of the Ruudian Rebellions](#history-rebellions)*,
 every Vaardian's grandmother was there, and each one hid the *skenren lans*
 under something different.</span>, and took it south to Turnajöki, a fortified
@@ -1312,7 +1312,7 @@ The winter of 1091-92 was not just cold; it was also long.  Pohjoinen harbor was
 still frozen solid at the end of Chrysoprase, fully a month after the ice would
 normally have started to break up.  Incredibly, the city was still free,
 although it had suffered heavy losses: already low on supplies when winter set
-in, many of its people had succumbed to cold and starvation<span class="sidenote">Plays and novels
+in, many of its people had succumbed to cold and starvation<span class="note">Plays and novels
 about the siege, particularly those written in Praczedt, sometimes imply that
 Pohjoinen's inhabitants resorted to cannibalism during the siege.  It must be
 emphasized that there is absolutely no evidence to support this: having had
@@ -1335,7 +1335,7 @@ Some time during that winter, the æmott of Jalkelainen struck a deal with the
 Saarumevi.  If the roads were blocked, and ships could not sail, then
 Jalkelainen's army---all eighteen hundred of them---would travel underground.
 
-The story of Dark March is too well known to be recounted here<span class="sidenote">See for
+The story of Dark March is too well known to be recounted here<span class="note">See for
 example the third volume of Lemmuelen's *[Exploits of the Valorous of
 Jalkelainen](#exploits)*, or Maatenala and Urgo-Aedie's *[Five Dark
 Weeks](#five-dark-weeks)* for a less scholarly, but eminently more readable,
@@ -1411,7 +1411,7 @@ After a series of fierce delaying engagements, the Pale Remainder retreated
 behind the city walls on Citrine 23.  Their attackers settled in for a long
 siege.  They knew that surrender was not an option for the Pale; they would keep
 fighting "…until they had stripped the last scrap of flesh from the last of
-their traitorous followers."<span class="sidenote">See Kurtitina, op cit.</span>
+their traitorous followers."<span class="note">See Kurtitina, op cit.</span>
 
 On 20 Chalcedony, Boelwe's Ulzen's troop, the Mongrel Hundreds, breached the
 city's Southeast Wall.  Three days later a Thindi magician named
@@ -1427,7 +1427,7 @@ fierce storm, obviously magical in origin, scattered the fleet guarding the
 harbor mouth.  As the last of their living followers launched a suicidal attack
 against the Ruudian line in Cobblemaker Street, approximately two hundred Pale
 crowded onto their three remaining ships and set sail.  The first ship was sunk
-by a lucky shot from an on-shore catapult<span class="sidenote">Whose crew reportedly never had to
+by a lucky shot from an on-shore catapult<span class="note">Whose crew reportedly never had to
 pay for a drink again in their entire lives.</span>; the second was rammed,
 boarded, and sunk, taking five of the besiegers' ships with it; but the third
 escaped into the storm.
@@ -1480,7 +1480,7 @@ records were burned during the siege, it is impossible to know for sure.
 
 The first surviving mention of her is a despatch dated Tourmaline 1091, which
 commends a message runner named "F's R" for her courage.  In her
-autobiography<span class="sidenote">*[The Light of Recollection](#recollection)*, dictated in
+autobiography<span class="note">*[The Light of Recollection](#recollection)*, dictated in
 1151-3, and extensively edited by Ryutaanan's secretaries during her exile in
 1155-65.  Selections were published in Ensworth upon her death in 1165 to raise
 money for her funeral pyre; the manuscript is stored there in the university's
@@ -1499,7 +1499,7 @@ somehow survived the Pale's purges.  At the time the family consisted of four
 husbands, six wives, and some two dozen children, of whom nine (including
 Ryutaanan) were adoptees.  For the next eight years, her days were filled with
 work, more work, and study.  She spent three days a week, and the mornings of
-two more, working as a brickmason's apprentice<span class="sidenote">Like most Ruudian merchant
+two more, working as a brickmason's apprentice<span class="note">Like most Ruudian merchant
 families, the Tytærs reserved the family business for their blood
 children.</span> to pay off her debt to her adoptive parents.  Orangeday and
 Bluesday afternoons were set aside for lessons.  In an unheated single room
@@ -1589,7 +1589,7 @@ was only one topic of debate: what should be done?  Pure Light and other æmott
 factions called for an immediate attack to wipe the unalive scourge from Cherne
 once and for all.  Perhaps surprisingly, their call was echoed by moderates in
 the diasporan community and Vaarda.  While this may have been a ploy to appear
-"purer than Pure"<span class="sidenote">Kurtitina (op cit) is the most prominent exponent of this
+"purer than Pure"<span class="note">Kurtitina (op cit) is the most prominent exponent of this
 interpretation.  Citing some ambiguous entries in the personal diaries of
 Vaardian councilors, she argues that their "disagreements" over the makeup and
 aims of an expedition were carefully calculated to keep the debate churning,
@@ -1773,7 +1773,7 @@ copies of the debates' decrees reached Pohjoinen, Ryutaanan seems to have been
 among the few who realized that the Declaration would tip the scales in favor of
 the Admirals: given the influence of the Gifted in Bruyere, Derway, and western
 Uws, the Declaration made it politically impossible for their rulers to form too
-close a relationship with the new Ruuda<span class="sidenote">The Declaration was amended in 1105
+close a relationship with the new Ruuda<span class="note">The Declaration was amended in 1105
 to apply only to birds and landgoing animals, so as not to alienate various
 parliaments of whales whose goodwill was essential to the operation of Ruuda's
 fisheries.  This gesture actually seems to have made relations with the
@@ -1794,7 +1794,7 @@ Remainder, had become fashionable among the well-to-do, and a national duty
 among the æmott.  More than a few "dandies and die-hards" lost their wits, their
 teeth, or their ability to sing in tune as they tried to master spells that they
 hoped would allow them to see what was happening at Bell Prison, half a
-continent away<span class="sidenote">Lemmuelen (op cit) lists over two hundred æmott who made
+continent away<span class="note">Lemmuelen (op cit) lists over two hundred æmott who made
 debilitating or disastrous bargains with the Infinite toward this goal.  It
 wasn't until the Society for Inoffensive Conversation's *[Guide to the
 Persistent](#guide-persistent)* began circulating in 1110-11 that Ruudians
@@ -1817,7 +1817,7 @@ finally be completed until thirty years later), to overseeing charity for the
 poor and invalid.
 
 She was also responsible for the education of the young.  One of the Debates'
-more prosaic resolutions required every *maatila*<span class="sidenote">"Or any other governed or
+more prosaic resolutions required every *maatila*<span class="note">"Or any other governed or
 regulated body of similar size and intent," which gives an indication of how
 chaotic Ruuda's governance was in practice at the time.</span> to arrange
 tutelage for anyone wishing to sit for the biennial examinations.  These were
@@ -1848,7 +1848,7 @@ continent.  Ld. Woüter the Elder described him as, "…able to split an argumen
 in half with one blow, as would a gemsmith a diamond," while Coronella Barsadov
 ard Innu, whose instinct for advantage had as much to do with her family's
 ascendancy in the early 1100s as her son Yuriy's successes on the battlefield,
-once opened a letter to Perguuran with, "Ld. sir<span class="sidenote">Perguuran was not actually
+once opened a letter to Perguuran with, "Ld. sir<span class="note">Perguuran was not actually
 awarded the title "Learned" until shortly before his death in 1147, but never
 corrected those who applied it to him</span>, having read the remarks in your
 latest [note: an argument in favor of imposing quotas on North Ocean fishing], I
@@ -1917,7 +1917,7 @@ Bell Prison, how closely Ruuda should involve itself with its neighbors, and
 whether the new state should have a strong central government, or be a
 federation of semi-independent regions, were no closer to settlement than they
 had been eight months previously.  When Tellervo's Maarit arrived on Citrine 29
-at the head of her troop of battle-hardened veterans<span class="sidenote">The "Red Knees", who
+at the head of her troop of battle-hardened veterans<span class="note">The "Red Knees", who
 earned their name from Ugli's Tellervo's statement after the first battle of
 Partle's Bridge that they had "stood knee-deep in their own blood" to hold the
 ford below the bridge while the rebels retreated.  Tellervo's Maarit took
@@ -1944,7 +1944,7 @@ Watching from the sidelines was Derway's ambassador, Majeur Callum apt
 Connomenaer.  A seasoned observer of courts and parledoux in the Regimental
 Kingdoms, he was alternately amused, inspired, and appalled by the confusion of
 the Debates.  "They have as little discipline as squabbling children," he
-confided to his wife<span class="sidenote">From a letter reproduced in Ld. Ernaest Guillaume é
+confided to his wife<span class="note">From a letter reproduced in Ld. Ernaest Guillaume é
 Kristen's *[Confident in Themselves Alone: The Life of a Derwegian Noble Family
 1047-1221](#confident)*.</span>, "Yet upon an instant, may reach such heights of
 noble intelligence in their arguments as to put our grand collegians to shame."
@@ -1955,7 +1955,7 @@ needs of region and faction.  Much to his surprise, Majeur Callum was soon
 pressed into a greater service: from the second half of Topaz onward, he found
 himself lecturing to an audience of booksters, debaters, and others on the
 theory and practice of delegatory government.  "They have made a d---ned scholar
-out of me!"  he complained good-naturedly to his private secretary<span class="sidenote">Enna
+out of me!"  he complained good-naturedly to his private secretary<span class="note">Enna
 Gwydion é Laurael, who bore him two illegitimate children before being
 imprisoned for being a Seyfertois spy in 1117.  Majeur Callum petitioned to have
 her freed "to care for her young"; his use of phraseology normally reserved for
@@ -2065,7 +2065,7 @@ Heroes.
 
 ---
 
-Predictably, Pure Light's elder statesmen<span class="sidenote">States*men*, because all of the
+Predictably, Pure Light's elder statesmen<span class="note">States*men*, because all of the
 senior members of Pure Light in Pohjoinen at the time were male.  Several
 writers have suggested that this oddity biased them against the position put
 forward by Ryutaanan and her allies, though no one has advanced a convincing
@@ -2197,7 +2197,7 @@ troop had wintered in Ruuda-in-Ruuda, nominally to supplement the city's militia
 (which, at the time, doubled as its constabulary).  Her membership in Pure Light
 was an open secret; so too was her animosity toward the Oxen In Harness, another
 rebellion-era troop that had publicly declared for the Diplomatic
-cause<span class="sidenote">Ld. Otnampatelleli, a Bantangui bookster who visited Uws and Ruuda in
+cause<span class="note">Ld. Otnampatelleli, a Bantangui bookster who visited Uws and Ruuda in
 the 1150s, claimed to have been shown letters written by senior officers of the
 Oxen In Harness to leaders of Clear Dawn and Bright Reflection, offering the
 troop's support "in all eventualities" if the factions would support the troop's
@@ -2216,7 +2216,7 @@ everyone could sing the sad, defiant æmott songs.  By early Citrine, the only
 question was, who would strike first?
 
 The answer came on Bluesday, Citrine 5, when a young potato carver named
-Roopertti<span class="sidenote">His mother's name was unknown: like many young people in Ruuda at
+Roopertti<span class="note">His mother's name was unknown: like many young people in Ruuda at
 the time, he was an orphan.</span> drove a magically-hardened icicle into
 Tellervo's Maarit's side as she left a puppet show.  Her bodyguards cut him down
 on the spot, and then, when the method of the attack became clear, led a mob to
@@ -2399,7 +2399,7 @@ During this time, the city was governed by a council with seventeen members.
 Daanimo's Daanima moderated its debates; despite (or perhaps because of) his
 frequent drunkenness, he was a fearless orator, and would heap mounds of
 humorous abuse on anyone who dared sully "his" debating chamber with a boring,
-self-contradictory, or disingenuous speech<span class="sidenote">D.'s Daanima paid most of the
+self-contradictory, or disingenuous speech<span class="note">D.'s Daanima paid most of the
 fines he imposed on himself for intemperate language in notes, as he was
 invariably penniless.  He took great care to record the exact words used in each
 infraction, often referring to them as his "little pearls".  Taverneers accepted
@@ -2433,7 +2433,7 @@ Bantang will announce their intended targets days before a public fight.  A
 popular puppeteer of the time who went by the curtain name Arky Barky put on a
 popular show in which a succession of increasingly feeble characters---from an
 Uwsian magician (a thinly-veiled mockery of the ambassador, Coronel Nitisza) to
-a blind, crippled porcupine with a squeaky voice<span class="sidenote">The dim-witted porcupine is
+a blind, crippled porcupine with a squeaky voice<span class="note">The dim-witted porcupine is
 still popular in children's shows in Ruuda-in-Ruuda, and still goes by the name
 Arky Barky.</span>---slew one Pale Remainder after another in
 ever-more-improbable ways.  A few die-hard æmott railed against the show as
@@ -2456,7 +2456,7 @@ were Pure Light's single largest expense during these years.
 
 In that same year, Perguuran was faced with a difficult decision: who should
 captain of the *Sun's Vengeance*?  His opponents accused him of wanting the
-command himself<span class="sidenote">One went so far as to claim that Perguuran had taken to
+command himself<span class="note">One went so far as to claim that Perguuran had taken to
 consorting with prostitutes while wearing nothing but an admiral's collar and a
 nautical hat.  When word of the accusation reached Pohjoinen, D.'s Daanima is
 reported to have rolled his eyes and said, "*Im awa pha ta*," a Bantangui phrase
@@ -2474,7 +2474,7 @@ Cape Grind before declaring for the Rebellion in 1093.  Like U.'s Yrjö, he was
 well-known, much-feared, competent, and apparently free of factional ties.
 
 The *Sun's Vengeance* floated free for the first time at dawn on Midsummer's Day
-of 1108<span class="sidenote">Rumors circulated at the time that Perguuran had actually had the
+of 1108<span class="note">Rumors circulated at the time that Perguuran had actually had the
 ship floated the night before, just to make sure she was sound, then had her
 brought back into her drydock for the official launch.  While it would have been
 completely in character, it could only have been accomplished with the aid of
@@ -2495,7 +2495,7 @@ working several evenings a week by the orange light of cheap dayglass lanterns
 just for a chance to be part of the venture.  The last few critics of the
 expedition in the debates fell silent, though a few continued to grumble in
 private diaries about the expense.  And when the *Sun's Vengeance* finally set
-sail on the third of Chalcedony, the city emptied<span class="sidenote">Encouraged, no doubt, by
+sail on the third of Chalcedony, the city emptied<span class="note">Encouraged, no doubt, by
 Perguuran emptying Pure Light's coffers to arrange free drinks at every tavern
 for ten gallops along the coast.</span>.  "I could capture the capitol today with
 three cripples and a lackwit," Majeur Callum wrote to the king (in code), "And
@@ -2517,7 +2517,7 @@ In Chalcedony, the *Sun's Vengeance* set out to sail west.  Instead of hugging
 the coast, K.'s Taavi fitted her for a long voyage and took her out onto the
 deep blue.  Dried meat, hard biscuit, and jars of salt went into her hold, along
 with two extra sets of canvas, ten gallops of rope, eighty marines, and half a
-dozen horses<span class="sidenote">Advocates of horse cavalry had won their never-ending debates
+dozen horses<span class="note">Advocates of horse cavalry had won their never-ending debates
 with proponents of camels on the grounds that the thick wool of the stocky
 northern camels would be debilitating in the heat of the Salt Coast.  A
 commander of camel cavalry had responded by shaving his mount.  Public reaction
@@ -2531,7 +2531,7 @@ rocks were home to some of the north's most infamous pirate bands, and also (as
 K.'s Taavi well knew) to its best sailors.  While his hopes of recruiting some
 of them were disappointed, he was no doubt flattered when two villages on
 opposite sides of Øruunepaalo Sound fought a poetry duel for the honor of
-renaming themselves after his ship<span class="sidenote">Both sides claimed victory, and changed
+renaming themselves after his ship<span class="note">Both sides claimed victory, and changed
 their village's name.  Years later, one confessed to the folklorist Ld. Duyni's
 Maatenala that they had actually done so in the hope of confusing the mainland's
 tax gatherers.</span>.
@@ -2552,7 +2552,7 @@ half drafting and revising an increasingly lengthy letter of complaint about
 K.'s Taavi's demeanor and seagenship.  "I did not know whose rage to fear more,"
 one of his aides later wrote, "The storm's, or my commander's."
 
-The storm finally passed on Chalcedony 27<span class="sidenote">Like other æmott, K.'s Taavi used
+The storm finally passed on Chalcedony 27<span class="note">Like other æmott, K.'s Taavi used
 "patriotic dating", which counted years from the start of the Fifth Rebellion,
 rather than "Years Since" the end of the Uncertain Angel's Disputation.</span>.
 K.'s Taavi's log entry reads:
@@ -2686,7 +2686,7 @@ incident's true cause?  But then, if U.'s Yrjö was in fact K.'s Taavi's
 commander, then the apprentices' deaths *were* his fault after all, were they
 not?
 
-At this point, three days into the proceedings, the hapless judge<span class="sidenote">The
+At this point, three days into the proceedings, the hapless judge<span class="note">The
 Ld. Jaarko Villems, who was no doubt aware that he had been chosen in part
 because his mixed ancestry would allow either side to dress him as a villain.
 Nearly bankrupt in the wake of the trial, and unable to find other cases to try,
@@ -2719,7 +2719,7 @@ lectern in the Debate.
 
 The fifth session of Ruuda's Recurrent Debate opened on Peridot 7, 1109, a
 rainy, wind-lashed Redsday.  With the cries of fishmongers faintly audible in
-the distance, two hundred and seventy three<span class="sidenote">Three hundred and seven were
+the distance, two hundred and seventy three<span class="note">Three hundred and seven were
 supposed to be there, but several debaters from outlying islands and mountain
 *maatilaso* had been delayed by bad weather.  Several of these later paid to
 have themselves added to official portraits of the Debate's first session.</span>
@@ -2761,7 +2761,7 @@ for a long inaugural cruise, but close enough to her planned launch date to give
 Perguuran and the resurgent Admirals a boost.  Tattoos of the three ships
 sailing side-by-side were briefly fashionable, and when a brewer named Dutta's
 Naameda gave birth to triplets, there was no question what names they would be
-given<span class="sidenote">One of the three later became a seaman, and was reportedly spared from
+given<span class="note">One of the three later became a seaman, and was reportedly spared from
 slavery by Bantangui pirates when they learned that he had been named after a
 ship.</span>.
 
