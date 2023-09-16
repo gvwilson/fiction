@@ -5531,17 +5531,222 @@ Not all of it,
 and she knew it wouldn't last,
 but even a little was enough for the moment.
 
+Iffy woke up,
+opened one eye to check the time,
+and groaned.
+Four a.m.
+It would be light outside—the sun wouldn't touch the horizon again for weeks—but
+everyone tried to keep to regular hours through the summer.
+Rothera's streets would be empty except for cleaning bots
+and patrolling Marines
+and people working night shift.
+
+*And folk dump enough t' waste rand on curfew passes,*
+she thought grumpily.
+She didn't know if Uncle Jack had returned from his outing or not,
+but either way,
+he'd probably have spent more on drink and lost more gambling
+than Aunt Naggie spent on groceries in a month.
+
+She checked the time again.
+The fog-ends of whatever bad dream she'd been having were already evaporating.
+With any luck she'd be able to get back to sleep and—
+
+*Tink.*
+She froze, not breathing.
+She knew every sound the *Guinevere* made
+and that wasn't one of them.
+
+The sound came again,
+metal softly striking metal.
+Someone was moving something around on deck.
+She slid out from under her blanket
+with a stealth learned from late-night raids on the galley
+groped for her trousers and socks in the faint light from her app,
+and then picked up her favorite wrench just in case.
+
+The lock on her door made a soft *clunk* when she turned it.
+She held her breath.
+For a moment all she heard were the familiar sounds of the harbor at night,
+but then the *tink* came again.
+She turned the door handle slowly,
+grateful to herself for making sure it and the hinges were oiled,
+and eased the door open a crack.
+
+It took her eyes a second to adjust to the light.
+She couldn't see anyone,
+but the sound had definitely come from the stern.
+She pushed gently on the door with one hand
+and stepped onto the deck.
+
+A quick glance at the pier showed four Marines in a knot around their baby railgun,
+hands on hips in the universal manner of people confronted with recalcitrant machinery.
+She agonized for a moment.
+If there really *was* someone on board,
+the smart thing would be to call for help and then lock herself in her cabin.
+Instead,
+she tiptoed toward the stern.
+When she reached the air duct that vented the hold
+she crouched down and shuffled forward
+to look around the corner.
+
+Johnson Wales' toy bear looked back at her
+from its hiding place behind a storage bench,
+its blue eyes hard and bright.
+At its feet lay some metal tubing that Iffy had last seen
+stacked on a shelf in the engine room.
+
+Iffy swallowed.
+"Hey," she said weakly.
+"Watcha doin'?"
+
+The bear regarded her for a moment,
+then went back to work
+with an indifference that reminded Iffy of the way
+shopkeepers sometimes stopped seeing her
+when they realized that she couldn't afford their wares.
+
+*Tink.*
+Its stubby paws were more dexterous than she would have thought,
+but the metal tubes were three times its height.
+On impulse she slid forward and sat cross-legged beside it.
+"Here, lemme help."
+
+The bear didn't resist when she took the tube,
+flipped it end for end,
+and screwed it into the trio that had already been assembled.
+Wordlessly it handed her another one,
+then another.
+
+Suddenly the design was there in her head,
+fully-formed.
+*No,* she realized,
+not formed, *remembered*.
+She had been dreaming about this just before she woke up.
+The realization should have made her hesitate
+or run back to her room and call a doctor to get herself checked for malware,
+but that wouldn't get the answers she wanted right now,
+so she busied herself doing what she knew she did best.
+
+The tubes turned into a pair of tripods joined at the tip,
+one standing on the deck while the other raised three arms,
+waiting patiently for its burden.
+"Aright,"
+Iffy said.
+"Now what?"
+
+The bear scampered away,
+returning a moment later with a square dish with a slight camber along one axis.
+Once again she just *knew* how to fit it onto the tripod.
+*Click.*
+Twist.
+*Click.*
+No, that one went the other way around.
+There.
+The finished assembly weight less than a sandwich.
+She stood set it gently on its stand,
+tightened the pin screws with a few flicks of her fingers,
+and turned to the bear.
+
+Which had disappeared.
+She glanced at the antenna to make sure it hadn't vanished as well,
+but it was still there.
+"Well then," she said sourly,
+"If y' need help with anythin' else, you just lemme know."
+She wiped her hands on her trousers to get rid of the faint film of oil on her fingertips
+and went back to her cabin.
+
+Had she left the door open?
+*Must have,* she thought tiredly.
+She closed it behind her and fell onto her mattress,
+not bothering to take off her trousers or socks.
+Four eighteen.
+She rolled over and pulled a pillow on top of her head,
+wondering if things were ever going to start making sense.
+A few moments later her breathing softened and slowed.
+
+When she woke again it was half past seven.
+Her mouth tasted like someone had stuffed it with old socks,
+and her head ached.
+
+Something tugged at the skin on her upper lip as she yawned.
+She rubbed it,
+then stared in weary disbelief at the crust of scab that came off on her fingers.
+Her nose had been bleeding.
+There was some on her pillow, too.
+
+She grabbed a clean shirt and her towel and stumbled out into the light.
+The Marines were in their usual places—she looked away so they wouldn't see the dried blood on her face—but
+thankfully no one was on deck.
+She splashed water from the sink on her face,
+then hung her clothes in the drying closet
+and pressed the button to fill the tiny bathroom with hot, prickly mist,
+wishing as she so often did that the *Guinevere* had a real shower.
+
+Clean, or at least cleaner,
+and with her head freshly shaved,
+she unlocked the door and pulled up short.
+"Sorry," she said, startled.
+"Din't know you were waitin'."
+
+Wales waved her apology away.
+"No worries.
+How are you?"
+
+"Fine," she yawned,
+joining him on the deck.
+"But next time y'ou' want help puttin' somethin' together,
+maybe we can do it durin' the day?"
+
+Wales looked at her quizzically.
+"Last night."
+She gestured vaguely toward the stern.
+"That antenna o' yours."
+
+He frowned.
+"Iffy, I have no idea what you're talking about."
+
+A few seconds later they stood side by side in silence
+looking at the double tripod and the shallow square dish it held.
+"Well, that part's mine,"
+Wales said neutrally,
+jerking his chin at the dish.
+"But I don't recognize the rest of it."
+
+Iffy felt like a giant hand had started squeezing her head.
+"Your bear was tryin' to put 'em together,
+but its hands or paws or whatever you call 'em weren't up for it,
+so I helped out."
+She rubbed her nose and checked her hand as casually as she could.
+No blood,
+but if her head got any worse she was going to have to find some meds.
+
+"The last time I saw the remote
+it was in an isolation box at the governor's residence,"
+Wales said quietly.
+"And I'm pretty sure that if it got out,
+our friends on the dock would have hauled me back up there by now.
+The only thing I can think of is—"
+
+He froze mid-sentence.
+The tech in his temples sparkled,
+faster and brighter than Iffy had ever seen.
+Wales' jaw worked for a moment.
+"It's China," he said.
+"It wants to talk to you."
+
 *Nova Zembla wasn't the only cold mind to wake up.
 Once upon a time there was a country called China.
 Its leaders were so afraid of their own people
 that they wanted to watch everyone all the time
 and predict what they would do.
-That surveillance network became a mind as different from Nova Zembla's as either was from human.
+Their surveillance network tried to hard to find
+the things they told it they wanted to see
+that it became a mind as different from Nova Zembla's as either was from human.
 Unnoticed at first,
 it turned the conditioning and subliminal prompts it had been instructed to use on the masses
-against their leaders.
-Few of them were anything more than puppets when the war came,
-and none survived.*
+against its creators.
+By the time the war came they didn't trust each other enough to resist.*
 
 *China had been a great trading nation,
 so its new mind traded too:
@@ -5555,12 +5760,14 @@ throwing der hands up in defeat.*
 
 *Like Nova Zembla,
 what China wanted in exchange was anything old and trivial.
-Sometimes the two cold minds fought fierce little battles.
+Sometimes the two cold minds fought fierce little battles
+over a motorcycle
+or a stash of vintage clothing still wrapped in protective plastic.
 War machines would tear at each other,
 then freeze mid-strike or wander away according to strategic calculations
 that nothing made of meat would ever understand.
 And sometimes,
 like the gods of old,
-they talked to people in their dreams.*
+it made bargains with people that were more than they seemed.*
 
 </section>
