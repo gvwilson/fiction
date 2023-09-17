@@ -1323,7 +1323,7 @@ until Santa Greenwood sighed heavily and gestured at Captain Clausbeard.
 A few busy minutes later,
 Finner was sitting in a slightly cramped cabin
 with a thick blanket wrapped around his shoulders
-and a steaming mug of something called "seaweed tea" in his hands.
+and a steaming mug of something called seaweed tea in his hands.
 Santa Hood was somewhere under an even larger blanket on the bunk opposite his stool,
 while Santa Greenwood had solved the problem of being too big for the available furniture
 by sitting on the floor.
@@ -1351,18 +1351,15 @@ but folk figured there was no harm in lettin' them talk."
 "But who are 'they'?" Finner asked.
 
 "A handful of misguided santas,"
-a muffled voice said from under the blanket.
-"People get odd notions like that sometimes,
+Santa Hood's muffled voice said from under the blanket.
+"People get odd notions sometimes,
 especially on the worlds where there's only a few of them or even just one.
 The loneliness gets to them after a while
 and they go a little odd."
 
-The tone of her voice made it clear that details wouldn't be forthcoming,
-so instead Finner asked,
-"What happened next?"
-
+"Callin' it 'odd' is more polite than I'd be."
 Santa Greenwood picked up his mug and scowled at its contents.
-"When sensible folk wouldn't listen to their nonsense,
+"And when sensible folk wouldn't listen to their nonsense,
 they took matters into their own hands.
 They started makin' *stuff*, like socks and cutlery and what-not."
 His scowl deepened.
@@ -1485,10 +1482,12 @@ Whatever the captain might have said in reply to that
 was cut off by a cry from the crow's nest.
 "Smoke, cap'n!
 We got smoke on the horizon!
-And it's headed our way!"
+North by nor'west,
+a couple o' hundred fathoms up,
+and it's headed our way!"
 
 The humor dropped from Captain Clausbeard's face like spilled porridge.
-"You fit to fight?" he asked.
+"Well, lad, are ye fit to fight?" he asked.
 
 "Fit enough."
 Santa Greenwood clambered to his feet,
@@ -1496,7 +1495,7 @@ swore as his head hit the ceiling,
 and picked up his ax.
 
 Captain Clausbeard nodded.
-"Good lad.
+"Glad t' hear it.
 Your friends can stay here 'til we know whether we're eatin' peaches or pickles.
 That's an order," he added as Santa Hood opened her mouth.
 
@@ -1533,7 +1532,7 @@ what with all the arguin' we did when I told him I was leavin'."
 
 For a long moment the only sounds were the creaking of the ship's timbers
 and muffled shouts from the crew.
-"Don't worry about us,"
+"We'll be safe in here,"
 Santa Hood repeated,
 her tone as soft as Santa Greenwood's had been.
 
@@ -1550,8 +1549,92 @@ which just happened to be aimed at his chest.
 
 </section>
 
+<section markdown="1">
+
+## Episode 7: Airborne
+
+**Finner's hands put themselves up.<span class="note">
+Whic is more accurate than saying "he raised his hands"
+because his brain wasn't really involved in the process.
+</span>
+"I'm Finner!" he exclaimed.
+"Finner Tumbly!"
+
+"Uh huh.
+And I suppose you want me to believe that
+you just *happened* to be in sensei's house when those elves attacked?"
+
+Finner's mouth worked.
+"I didn't know they were going to attack!" he finally managed to get out.
+"I didn't know about, about chimneys to other worlds,
+I don't know why you call my gran-granna 'sensei'—I don't know anything
+about *any* of this!
+I just want to go *home*."
+
+Santa Hood studied his face for a moment,
+then flipped the ray gun over and offered it to him.
+"Doesn't work unless you're an elf," she explained.
+
+"Then why were you pointing it at me!?"
+
+The corner of Santa Hood's mouth quirked up.
+"Would you feel better about that if I *had* been able to shoot you with it?
+Here, take it."
+She leaned forward to pass it to him and winced.
+
+Finner put it on the tiny desk he'd been sitting on.
+"How are your ribs?" he asked sulkily.
+
+Santa Hood shook her head.
+"I've had worse.
+You don't learn to make the kinds of presents I make
+without getting a few bumps and bruises.
+Your gran-granna taught me that.
+That's why I call her 'sensei'," she added.
+"When all this trouble started
+she was one of the first santas to say we had to do more than just talk.
+She started teaching people how to fight."
+
+Finner would have said, "I don't believe it,"
+except he did.
+The stone cat in Gran-Granna's front yard,
+her magic sword—even without all of that,
+the idea that she had been some sort of soldier or ninja or whatever
+was perfectly in character.
+He still had questions,
+but what he said was,
+"Can I get you anything for your ribs?"
+
+Santa Hood snorted, which made her wince again.
+"Some tea would be nice,
+but I think we'd both better stay down here for now.
+I'm going to try to get some sleep—wake me up
+if anything exciting happens?"
+
+A few moments later she was snoring gently beneath her pile of blankets.
+Finner put his head down on the little desk and tried to fall asleep as well,
+but the rock and sway of the ship made his stomach flip-flop
+every time he closed his eyes.
+Finally he sat up,
+rolled his head from side to side to get a kink out of his neck,
+and picked up the ray gun Santa Hood had given him.
+
+It looked like a well-made toy with its gnurled grip and shiny barrel,
+but was heavy in a way that said,
+"No, I can actually make holes in things."
+He pointed it at the porthole,
+closed one eye,
+and said, "Blam!"
+
+A brilliant green beam of light shattered the porthole glass.
+Finner gaped,
+still feeling the hum of the shot in his hand,
+then tossed the ray gun onto the desk as if it had just bitten him.
+
+
+</section>
+
 <!--
 What did the pirate say on his eightieth birthday?
 "Aye Matey!"
-
 -->
