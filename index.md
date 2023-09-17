@@ -44,3 +44,7 @@
 - [Wrestler](./wrestler/)
 
 </div>
+
+<div align="center">
+  <img src="./status.svg" alt="Status">
+</div>

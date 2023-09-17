@@ -21,7 +21,7 @@ serve:
 ## status: create table showing status
 .PHONY: status
 status:
-	@python bin/status.py --info _data/info.csv --status _data/status.csv
+	@python bin/status.py --chart status.svg --info _data/info.csv --status _data/status.csv
 
 ## chapters: make a release
 .PHONY: chapters
