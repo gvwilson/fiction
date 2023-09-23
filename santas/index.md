@@ -1626,11 +1626,87 @@ He pointed it at the porthole,
 closed one eye,
 and said, "Blam!"
 
-A brilliant green beam of light shattered the porthole glass.
+A brilliant green beam of light blasted the glass right out of the porthole.
 Finner gaped,
 still feeling the hum of the shot in his hand,
 then tossed the ray gun onto the desk as if it had just bitten him.
 
+"Wuzza?" Santa Hood grunted in her sleep.
+Finner held his breath until she rolled over under blankets
+and started snoring again.
+The ray run just lay there the whole time
+like an unopened note for his parents from his writing teacher.<span class="note">
+The first time Finner had to bring home a note from that teacher,
+his parents let it sit on the dinner table *until dinner* before opening it.
+They didn't mention it or even look at it,
+which of course meant Finner couldn't think about anything else.
+It turned out to be a reminder about an overdue book addressed to another student,
+which left Finner feeling somehow cheated out of a calamity.
+</span>
+
+"Right," Finner muttered under his breath.
+He picked up the ray run gingerly,
+holding it with just his thumb and one finger,
+and twisted it around to study it.
+There were no buttons that he could see,
+especially not one labeled "turn on for santas",
+but the porthole was still definitely glassless.
+Santa Hood must have been wrong about it only working for elves.
+
+He brightened slightly.
+Maybe it only worked for teenagers.
+Maybe instead of just being baggage<span class="note">
+A term used only occasionally by Gran-Granna Tumbly
+that always provoked a mix of shock, dismay, and grudging admissions that yes,
+so-and-so *did* seem like the sort of person who would bring a store-bought sweater
+as a baby gift instead of something hand-made.
+</span>
+he could actually help Santa Hood
+(and Santa Greenwood too, of course).
+For a moment he saw himself standing beside them,
+blasting away with the ray gun while his new-found teammates tossed their grenades
+and waved their ax menacingly.
+Maybe he could even—
+
+*Crack!*
+*Crack!*
+The whole ship shuddered beneath his feet as the cannons above him fired.
+Shouts rang on the deck outside the cabin.
+"Wuzza!?" Santa Hood grunted again, sitting up.
+"Wuz g'non?"
+
+"Stay here," Finner said firmly.
+He tucked the ray run into his trousers,
+then imagined what would happen if it went off again
+and transferred it to his pocket.<span class="note">
+Which admittedly wouldn't be all that much safer
+if there was what his writing teacher would probably have referred to as
+"an unfortunate incident".
+</span>
+"I'll be right back," he promised
+as he pulled the cabin door open
+and stepped out into chaos.
+
+Half a dozen sailors were firing rifles and crossbows into the air.
+Half a dozen others were reloading the ship's two cannons
+as Captain Clausbeard and his parrot<span class="note">
+Sorry, sorry—the parrot that usually chose to spend time with the captai.n
+</span>
+bellowed orders.
+In between them,
+Santa Greenbeard was hacking at an enormous black tentacle with his ax.
+No, not a tentacle—it was a cable as thick as Finner's leg,
+and it hung down from the zeppelin that was right above the ship.
+
+A second cable fell from the zeppelin as Finner gaped up into the sky,
+and then a third.
+The sailors' bullets and arrows had no more effect on the zeppelin
+than Santa Greenwood's ax had on the cable.
+"Stand by to repel boarders, ye grumble-fisted knucklewaddlers!"
+Captain Clausbeard shouted,
+drawing his cutlass
+and passing a tiny replica of it to the parrot,
+which clutched the sliver-sized blade in its beak.
 
 </section>
 
