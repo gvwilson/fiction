@@ -1543,7 +1543,7 @@ and closed the door behind him.
 Santa Hood rolled her head to work out a kind in her neck.
 "So," she said conversationally,
 letting the blanket slide down so that Finner could see
-the ray gun she was holding,
+the raygun she was holding,
 which just happened to be aimed at his chest.
 "How about you tell me who you really are?"
 
@@ -1572,7 +1572,7 @@ about *any* of this!
 I just want to go *home*."
 
 Santa Hood studied his face for a moment,
-then flipped the ray gun over and offered it to him.
+then flipped the raygun over and offered it to him.
 "Doesn't work unless you're an elf," she explained.
 
 "Then why were you pointing it at me!?"
@@ -1617,7 +1617,7 @@ but the rock and sway of the ship made his stomach flip-flop
 every time he closed his eyes.
 Finally he sat up,
 rolled his head from side to side to get a kink out of his neck,
-and picked up the ray gun Santa Hood had given him.
+and picked up the raygun Santa Hood had given him.
 
 It looked like a well-made toy with its gnurled grip and shiny barrel,
 but was heavy in a way that said,
@@ -1629,7 +1629,7 @@ and said, "Blam!"
 A brilliant green beam of light blasted the glass right out of the porthole.
 Finner gaped,
 still feeling the hum of the shot in his hand,
-then tossed the ray gun onto the desk as if it had just bitten him.
+then tossed the raygun onto the desk as if it had just bitten him.
 
 "Wuzza?" Santa Hood grunted in her sleep.
 Finner held his breath until she rolled over under blankets
@@ -1664,7 +1664,7 @@ as a baby gift instead of something hand-made.
 he could actually help Santa Hood
 (and Santa Greenwood too, of course).
 For a moment he saw himself standing beside them,
-blasting away with the ray gun while his new-found teammates tossed their grenades
+blasting away with the raygun while his new-found teammates tossed their grenades
 and waved their ax menacingly.
 Maybe he could even—
 
@@ -1695,8 +1695,8 @@ Sorry, sorry—the parrot that usually chose to spend time with the captai.n
 bellowed orders.
 In between them,
 Santa Greenbeard was hacking at an enormous black tentacle with his ax.
-No, not a tentacle—it was a cable as thick as Finner's leg,
-and it hung down from the zeppelin that was right above the ship.
+No, not a tentacle—it was a metal cable as thick as Finner's arm,
+and it hung down from the blue-and-gray zeppelin that was right above the ship.
 
 A second cable fell from the zeppelin as Finner gaped up into the sky,
 and then a third.
@@ -1704,9 +1704,104 @@ The sailors' bullets and arrows had no more effect on the zeppelin
 than Santa Greenwood's ax had on the cable.
 "Stand by to repel boarders, ye grumble-fisted knucklewaddlers!"
 Captain Clausbeard shouted,
-drawing his cutlass
-and passing a tiny replica of it to the parrot,
-which clutched the sliver-sized blade in its beak.
+drawing his cutlass and passing a tiny replica of it to the parrot,
+who clutched the sliver-sized blade in its beak.
+
+*Crack!*
+*Crack!*
+The cannons fired again.
+Something thunked into the deck a few steps away from Finner
+and began spewing smoke.
+The cable snagged on a hatch and went taut.
+*Snap!*
+Finner ducked as half of the hatch flew through the air
+and splashed into the ocean.
+
+Someone yelled,
+"Here they come, cap'n!"
+as half a dozen elves slid down the cable,
+letting go just as they reached the height of the mast.
+*Thump!* *Thump!* *Thump!*
+The first three hit the deck,
+tumbled head over heels,
+and rolled to their feet with swords in their hands.
+
+Finner only half-noticed the others catch themselves
+in the ship's rigging—he was too busy scrambling backward to get away
+from the swordfight that had erupted around him
+to do any more than that.
+Steel rang against steel.
+Captain Clausbeard and his crew pressed hard against the elves,
+their blades flashing.
+For a moment it looked like the attack would be over as soon as it had begun,
+but more elves kept coming,
+and more after them.
+
+"Away wi' ye!" Santa Greenbeard bellowed.
+With one might swing of his ax
+he sent two of the elves flying over the gunwale<span class="note">
+Which made the sharks very, very happy.
+</span>.
+His backswing snapped another elf's sword in half.
+He raised the ax over his head,
+took aim—
+
+—and froze as a dart the length of Finner's thumb
+suddenly sprouted from the side of his neck.
+"Oh drat," he said weakly.
+The ax slid out of his hands.
+He fell to one knee, then both,
+his hand reaching for the dart as his eyes unfocused.
+
+Finner spun around.
+A single elf dressed in black hung in the rigging of the foresail,
+a blowgun in its hand.
+The elf caught Finner's eye and grinned
+as it pulled another dart from the pouch on its belt
+and put it between its teeth.
+It raised the blowgun to its lips and took aim.
+
+Afterward,
+Finner could never remember actually drawing the raygun.
+It was just suddenly there in his hand.
+A single brilliant bolt of green punched a smoldering hole in the foresail
+just a few inches from the elf's head.
+"Bwah!?" the elf tried to say,
+then, "Uh oh."
+It glared accusingly at Finner,
+spat out the dart it had just swallowed,
+and sagged in the rigging like a straw doll
+hanging forgotten in a tired child's hand.
+
+Finner didn't give himself time to think.
+He spun around and fired again and again.
+His shots went wild,
+but all of a sudden it was no longer
+just a battle between the elves and the pirates.
+It was a battle between the elves and the pirates and *him*,
+and the elves hadn't counted on that.
+
+"Their ship!
+Blast their blasted ship, boy!"
+Captain Clausbeard shouted.
+Finner squinted,
+pointed the raygun into the air,
+and pulled the trigger
+just as the deck swayed beneath him.
+He took aim again,
+flexing his knees in time with the ship's roll and heave,
+and—
+
+"Oh."
+His hand flew to his neck.
+There was something there.
+There was—wait,
+did he have a sock in his mouth?
+It sure tasted like he did.
+He turned his head sloooowly
+and blinked at a second black-clad elf holding a blowgun,
+and then everything went away,
+including him.
 
 </section>
 
