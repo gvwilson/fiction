@@ -22,7 +22,7 @@ you're out of luck—I'm just a book, and we don't have hands.*
 
 <section markdown="1">
 
-## Episode 1: In Which We Meet Our Protagonist
+## Episode 1: We Meet Our Protagonist
 
 Once upon a time,
 in a world halfway between yours and mine,
@@ -223,7 +223,7 @@ and into the rest of his life.
 </section>
 <section markdown="1">
 
-## Episode 2: In Which a Door Opens
+## Episode 2: A Door Opens
 
 Finner had never actually been in Gran-Granna's house before,
 but he'd heard stories.
@@ -474,7 +474,7 @@ and then everything went a little bit nuts.
 
 <section markdown="1">
 
-## Episode 3: In Which a Moderate Amount of Mayhem Occurs
+## Episode 3: A Moderate Amount of Mayhem Occurs
 
 The second santa pulled a grenade out of her sack,
 drew the pin with her teeth,
@@ -726,7 +726,7 @@ We're trying to save the worlds."
 
 <section markdown="1">
 
-## Episode 4: In Which Some Introductions are Made
+## Episode 4: Some Introductions are Made
 
 Zombies and mummies are similar in many ways—the shambling gait,
 the moaning,
@@ -1068,7 +1068,7 @@ where they fell screaming to their deaths.
 
 <section markdown="1">
 
-## Episode 5: In Which Our Protagonist Is Rescued at the Last Moment
+## Episode 5: Our Protagonist Is Rescued at the Last Moment
 
 At least,
 that's what Finner expected would happen
@@ -1318,7 +1318,7 @@ until Santa Greenwood sighed heavily and gestured at Captain Clausbeard.
 
 <section markdown="1">
 
-## Episode 6: In Which Some Explanations Are Finally Given
+## Episode 6: Some Explanations Are Finally Given
 
 A few busy minutes later,
 Finner was sitting in a slightly cramped cabin
@@ -1551,9 +1551,9 @@ which just happened to be aimed at his chest.
 
 <section markdown="1">
 
-## Episode 7: Airborne
+## Episode 7: An Airborne Attack Occurs
 
-**Finner's hands put themselves up.<span class="note">
+Finner's hands put themselves up.<span class="note">
 Whic is more accurate than saying "he raised his hands"
 because his brain wasn't really involved in the process.
 </span>
@@ -1796,12 +1796,91 @@ and—
 His hand flew to his neck.
 There was something there.
 There was—wait,
-did he have a sock in his mouth?
+did he have a gym sock in his mouth?
 It sure tasted like he did.
 He turned his head sloooowly
 and blinked at a second black-clad elf holding a blowgun,
 and then everything went away,
 including him.
+
+</section>
+
+<section markdown="1">
+
+## Episode 8: Another Point of View Is Presented
+
+When Finner was next aware of his own existence,
+his head was several feet away from his body.
+At least,
+that's how he felt until he blinked,
+squelched the panic rising in his throat,
+and opened his eyes again to discover that
+he was in fact lying on a padded table of some kind
+in what looked like an operating room.
+His mouth no longer tasted like a gym sock<span class="note">
+The particular sock he was thinking of had belonged to a classmate of his
+whose idea of "funny" was sneaking up behind people
+and stuffing a sock or a mitten in their mouth.
+He was eventually eaten by a crocodile while trying to win an ill-considered dare.
+Nobody really missed him except his parents,
+and even they were secretly a little relieved.
+</span>,
+but his tongue still seemed a size larger than usual,
+and the straps around his wrists and ankles
+were just a little too tight to be comfortable.
+
+His brain paused and reversed
+like a driver noticing an overlooked parking spot.
+Why was he strapped down?
+More importantly,
+why was he strapped down in what looked like an operating room?
+Half a dozen possible explanations raced through his mind,
+each less comforting than the last.
+
+He was about to call for help when the door opposite his feet slid open.
+An elf wearing a white lab coat and a matching white mask stepped into the room,
+exclaimed,
+"You're awake!"
+and fled,
+closing the door again behind themself
+without waiting for Finner to confirm or deny the observation.
+
+"Hello?" he said.
+"Could someone please—um, could someone please let me up?
+I think I need to go to the bathroom."
+
+The door slid open again.
+The elf who entered this time was taller than the first one
+and wore a camouflage uniform instead of a lab coat.
+The ray gun in her hand was a twin of the one Finner had fired,
+except hers had several tally marks scratched on the barrel
+and was pointed at Finner.
+
+"All right," she scowled,
+"You have thirty seconds to convince me that we shouldn't just pitch you over the side,
+so start talking."
+
+"I—"
+*I just want to go home,* he finished in his head,
+but what he said was,
+"I really do need to use the bathroom.
+Please."
+
+The elf scowled at her a moment longer,
+then turned her head slightly.
+"Alpha Three!" she called without taking her eyes off Finner.
+She held the ray gun steady as the smaller elf came in
+and unbuckled the straps holding Finner down.
+
+He sat up and rubbed his wrists<span class="note">
+Mostly because that's what he thought you were supposed to do after being strapped down.
+</span>.
+The elf waggled her ray gun toward the door.
+"Out and to the right," she said curtly.
+"And don't try anything funny."<span class="note">
+She probably didn't mean, "Don't try stuffing a sock in my mouth,"
+but we'll never know.
+</span>
 
 </section>
 
