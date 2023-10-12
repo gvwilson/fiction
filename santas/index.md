@@ -1851,7 +1851,7 @@ I think I need to go to the bathroom."
 
 The door slid open again.
 The elf who entered this time was taller than the first one
-and wore a camouflage uniform instead of a lab coat.
+and wore a blue and white uniform instead of a lab coat.
 The ray gun in her hand was a twin of the one Finner had fired,
 except hers had several tally marks scratched on the barrel
 and was pointed at Finner.
@@ -1868,12 +1868,12 @@ Please."
 
 The elf scowled at her a moment longer,
 then turned her head slightly.
-"Alpha Three!" she called without taking her eyes off Finner.
+"Gamma Three!" she called without taking her eyes off Finner.
 She held the ray gun steady as the smaller elf came in
 and unbuckled the straps holding Finner down.
 
 He sat up and rubbed his wrists<span class="note">
-Mostly because that's what he thought you were supposed to do after being strapped down.
+They didn't hurt—he just thought you were supposed to do after being strapped down.
 </span>.
 The elf waggled her ray gun toward the door.
 "Out and to the right," she said curtly.
@@ -1881,6 +1881,82 @@ The elf waggled her ray gun toward the door.
 She probably didn't mean, "Don't try stuffing a sock in my mouth,"
 but we'll never know.
 </span>
+
+"To the right" was a narrow corridor with painted metal walls
+and a rubberized floor.
+Flat strips set into the ceiling cast a dim orange light
+on doors like the one that slid closed behind them,
+each with a number stenciled on it.
+"One eighty one," the elf told Finner.
+He fumbled with the door's handle for a moment before figuring out that
+he needed to turn it clockwise,
+then sighed with relief at the sight of a perfectly normal toilet and sink.
+
+"I'll be right here," the elf warned
+as she leaned back against the opposite wall and crossed her arms.
+Finner nodded and slid the door shut.
+
+*I've been telling this story more or less as it happened
+because that's what books are supposed to do.
+I haven't bothered with details
+like the precise color of Santa Hotep's couch (dusty rose)
+or the number of sails on Captain Clausbeard's ship (seven)
+because they didn't seem important.
+The two and a half minutes that Finner spent in the bathroom matter even less,
+so let's just skip ahead to the moment after he washed his hands.*
+
+Finner fumbled with the door handle again and then slid the door open.
+The elf hadn't moved,
+and neither had her scowl,
+but her ray gun was holstered on her hip instead of in her hand.
+"Let's go," she ordered.
+
+Thirty seconds and three corners later
+the corridor brought them to a ladder with eight brass rungs
+that had been polished to silver in patches by use.
+Finner clambered up into the murmur and bustle of
+the bridge of a zeppelin in flight.
+The front wall was made of hexagonal glass panels
+held together by thin strips of brass.
+The walls to either side were filled with instruments, controls, relays,
+and framed photographs of other airships.
+A pair of elves in blute and white uniforms paced back and forth beside them,
+adjusting dials and jotting notes on clipboards.
+Another uniformed elf stood facing the enormous window
+with their hands clasped behind their back.
+Their straight back and the cutlass at their side practically shouted "in charge".
+
+"Alpha Two reporting with salvage in tow,"
+the elf behind Finner reported crisply.
+
+"Thank you," the other elf said without turning.
+"Did the Gammas find anything beyond the usual?"
+
+"No, captain," Alpha Two replied.
+
+The captain nodded.
+"Dismissed."
+
+Alpha Two hesitated.
+"Sir—"
+
+"I'm sure it will be all right, Alpha Two,"
+the captain said smoothly.
+"If he was going to explode, he would have done so by now."
+
+Alpha Two saluted.
+"Yes sir."
+She grabbed hold of the ladder posts and slid down into the corridor below,
+pausing only to give Finner one last scowl
+that could have stripped the varnish off an old bench.
+
+Finner waited for the captain to say something.
+The moment stretched and stretched until he couldn't bear it any longer.
+"Um, excuse me," he started,
+then stopped in shock as the captain put their hand on the hilt of their cutlass
+and turned around.
+
+It was Gran-Granna Tumbly.
 
 </section>
 
