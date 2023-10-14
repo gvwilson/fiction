@@ -1884,7 +1884,7 @@ but we'll never know.
 
 "To the right" was a narrow corridor with painted metal walls
 and a rubberized floor.
-Flat strips set into the ceiling cast a dim orange light
+Flat strips set into the ceiling cast orange light
 on doors like the one that slid closed behind them,
 each with a number stenciled on it.
 "One eighty one," the elf told Finner.
@@ -1909,7 +1909,92 @@ Finner fumbled with the door handle again and then slid the door open.
 The elf hadn't moved,
 and neither had her scowl,
 but her ray gun was holstered on her hip instead of in her hand.
-"Let's go," she ordered.
+"Let's go," she ordered,
+nodding to show the way.
+"And no funny busi—damn, why do they always run?"
+Because of course that's what Finner did.
+
+The floor rang metallically under his boots as he pelted down the corridor.
+The first door he tried was locked.
+So was the second,
+but the handle of the third turned and clicked.
+He slid the door out of his way,
+ducked in,
+and pulled the door closed again as quietly as he could.
+
+The room was completely dark.
+Finner patted the wall next to the door
+until he found a switch,
+then hesitated.
+It might be a light,
+but it might also—he wasn't quite sure what,
+but given how things had been doing,
+"set off an alarm" and "open a trap door" both seemed possible.
+Instead,
+he pressed his ear gingerly to the door
+and listened for sounds of pursuit.
+There was nothing,
+nothing except his own breathing
+and the deep *thrum thrum thrum* of something large and mechanical.
+
+He turned,
+put his back against the door,
+and slid down to the floor.
+"Well," he said,
+and then he had to hug his knees and press his face into them
+so that he wouldn't start crying.
+He had no idea where he was,
+but he was pretty sure these were the elves who had attacked Gran-Granna Tumbly's
+and chased him and the two santas from one universe to another
+and he was glad he'd had a chance to go to the bathroom
+but he was *hungry*
+and he just wanted to go home and be miserable there.
+
+The moment passed,
+as such moments always do.
+He wiped his face on his trousers,
+got to his feet,
+and flipped the switch by the door<span class="note">
+Much harder than he needed to from a mechanical point of view,
+but exactly hard enough emotionally.
+</span>.
+
+It was, in fact, just the lights.
+Four strips in the ceiling came to life,
+casting the same orange light as the ones in the corridor.
+Instead of numbered doors,
+though,
+these ones showed Finner a scene straight out of a nightmare.
+
+The room was the same size as the one he had woken up in.
+Instead of a padded table it had floor-to-ceiling shelves
+stacked with arms, legs, heads, and clear plastic boxes full of bones and gears.
+Every shelf was neatly labelled and everything was tidy,
+but somehow that was more frightening than helter-skelter piles would have been.
+
+*Mannequins,* he thought wildly.
+*Robots. Props for the theater.*
+Because of course they couldn't actually be—be what they looked like.
+
+Swallowing hard,
+he stepped forward and poked the nearest leg with his finger.
+It yielded slightly,
+just like the real thing,
+but it didn't twitch and the toes didn't wiggle
+so at least there was that.
+
+He was just about to poke it again when the door slid open behind him.
+Grabbing it by the ankle and raising it like a club,
+he whirled around.
+"Keep back!" he warned,
+shifting his grip to get the thigh out of his face<span class="note">
+If you ever pick up a leg to wave at someone,
+please remember that it has a knee.
+</span>.
+
+The elf he had run away from looked at him with just a touch of pity in her eyes.
+"How about you put that back and come with me?"
+she suggested.
 
 Thirty seconds and three corners later
 the corridor brought them to a ladder with eight brass rungs
