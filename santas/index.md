@@ -1807,7 +1807,7 @@ including him.
 
 <section markdown="1">
 
-## Episode 8: Another Point of View Is Presented
+## Episode 8: Shelves Full of Arms and Legs
 
 When Finner was next aware of his own existence,
 his head was several feet away from his body.
@@ -2042,6 +2042,92 @@ then stopped in shock as the captain put their hand on the hilt of their cutlass
 and turned around.
 
 It was Gran-Granna Tumbly.
+
+</section>
+
+<section markdown="1">
+
+## Episode 9: Clockwork, Paint, and Duct Tape
+
+People sometimes say, "Their jaw dropped,"
+but that's not what actually happens,
+at least not most of the time.
+What *usually* happens is that your mouth opens and closes a few times
+because your brain knows you're supposed to say something like,
+"What are you doing here?"
+but can't find the right words—or even the wrong ones.
+It's as if something was stuck in the elevator doors of your mind
+and making it go *ding! ding! ding!* over and over again.
+
+The zeppelin's captain waited patiently for Finner's doors to close.
+The other elves glanced at him occasionally but didn't interfere:
+keeping an airship flying is tricky even in the best of circumstances,
+and if Finner had been paying attention
+he would have heard quiet murmurs about damage control crews reporting in
+and steering vanes needing in-flight repairs.
+The skirmish with Captain Clausbeard's ship had only been
+the equivalent of two cats taking swipes at one another
+and then pretending each other didn't exist,
+but zeppelins are fragile things.
+
+"Gran-Granna?" Finner finally managed.
+Even as he said it he belatedly realized that the elf wasn't his great-grandmother.
+They were too tall and didn't have nearly enough wrinkles on their face<span class="note">
+Old people don't actually have more wrinkles than young ones.
+The real difference is that young people's skin hasn't had enough practice wrinkling
+to do it all the time.
+By the time you have smiled or frowned as often as someone like Gran-Granna Tumbly,
+your wrinkles are like a weight lifter's biceps.
+Some cultures regard strongly-defined wrinkles as a sign of virtue,
+and have specialized gyms where people wiggle their eyebrows to music
+or smirk over and over again
+while a personal trainer urges them on.
+</span>.
+Plus,
+even if the jingly bells on their hat were stuffed with yarn to muffle them,
+they were clearly an elf,
+not a santa.
+
+"Captain Alpha One, actually," the elf said in a clipped voice.
+"And you must be Finbar."
+
+"It's Finner,"
+Finner corrected automatically.
+
+"Finner," the captain repeated.
+"I'll keep that in mind.
+So,
+what were you doing on board the *Dancing Marmot*
+and how did you come by this?"
+They held up a familiar ray gun,
+then tucked it back in one of the voluminous pockets in their overcoat.
+
+"Um."
+Finner cleared his throat.
+"If the *Dancing Marmot* is the ship I was just on,
+they rescued us from sharks because our rubber dinghy was sinking.
+And I got that from one of the santas I was with.
+I think she got it from one of the elves who was shooting at us
+when we were—um,
+well,
+there was this pyramid,
+and,
+um,
+look,
+I'm sorry I shot at your zeppelin.
+I didn't know it would actually work.
+I hope I didn't hurt anyone,"
+he added belatedly,
+suddenly remembering the glass that wasn't in the porthole of Santa Greenwood's old cabin any longer.
+
+"Number two stabilizer is back in action, captain,"
+an elf called out from a control panel to Finner's left.
+
+"Thank you, Alpha Nine,"
+the captain said without taking their eyes off Finner's face.
+"Have the crew start work on the vents next."
+
+"Aye aye, captain."
 
 </section>
 
