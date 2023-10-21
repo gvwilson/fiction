@@ -28,6 +28,7 @@ def main():
 
     with_target["percentage"] = with_target["words"] / with_target["target"]
     fig = px.line(with_target, x="date", y="percentage", color="title", markers=True, facet_row="target")
+    fig.update_yaxes(range=[0.0, 1.1], tick0=0.0, dtick=0.2)
     fig.write_image(options.chart, width=1200)
 
 

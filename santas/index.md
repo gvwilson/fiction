@@ -2100,7 +2100,7 @@ So,
 what were you doing on board the *Dancing Marmot*
 and how did you come by this?"
 They held up a familiar ray gun,
-then tucked it back in one of the voluminous pockets in their overcoat.
+then tucked it back in one of the voluminous pockets of their overcoat.
 
 "Um."
 Finner cleared his throat.
@@ -2129,9 +2129,113 @@ the captain said without taking their eyes off Finner's face.
 
 "Aye aye, captain."
 
+The captain studied Finner a moment longer,
+then sighed.
+"Well,
+we don't really need more crew,
+but I don't imagine Command would take kindly to us
+throwing you over the side.
+One of the Beta watch will find something for you to do until we're docked.
+The Rescue Committee can decide how best to help you then."
+They nodded sharply in dismissal and turned back around.
+
+Finner stood there a moment,
+feeling even more foolish than he had before,
+then cleared his throat.
+"Yes?"
+the captain said without looking.
+
+"I'm sorry,"
+Finner said.
+"I really am,
+but who are the Rescue Committee and why would they help me?
+I really do just want to get home."
+
+"The Committee is responsible for all elves rescued from bondage and servitude,
+and for those who escape on their own.
+Even those who do so accidentally,"
+they added pointedly.
+
+"But—but I'm not an elf," Finner protested.
+"I mean,
+I know I don't have much of a beard yet,
+but—"
+
+"If you're not an elf,
+how were you able to fire the Zap-50?"
+The captain patted the pocket holding the ray gun.
+
+"I don't know,"
+Finner said,
+immediately angry at himself for the whiny tone in his voice.
+"But I'm definitely not an elf—just ask my parents.
+Or my gran-granna,"
+he added boldly,
+"Since you look so much like her."
+
+He practically felt the elves on the bridge not looking his way
+as the captain turned around and looked at Finner
+with absolutely no expression<span class="note">
+In the sense of "absolute zero".
+</span>.
+"Alpha Seven," they said neutrally.
+
+One of the elves straightened.
+"Yes, captain."
+
+"Remove him from the bridge.
+Find someone from Beta watch who has annoyed me recently
+and tell them to keep him busy."
+
+"Yes, captain."
+The elf saluted,
+then stepped forward and put their hand on Finner's elbow.
+
+"I can get down the ladder on my own, thank you,"
+Finner snapped,
+shaking off the elf's hand.
+He stalked back to the ladder like an angry house cat,
+briefly considered trying to slide down the posts the way Alpha Two had,
+imagined how humiliated he'd feel if he fell or sprained his ankle,
+and climbed down the rungs instead,
+making far more noise than he needed to.
+
+Alpha Seven used the rungs as well,
+though far more quietly.
+"Second left then a right,"
+they told Finner,
+pointing down the corridor.
+
+Finner did a double take.
+The hand the elf had pointed with looked like it was carved out of wood,
+and had joints like a marionette's.
+And their face—at first it was just the same dark brown as Finner's,
+but then the elf frowned and Finner saw a faint wood grain.
+
+"What are *you* looking at?" the elf asked sharply.
+
+"I—sorry, I din't mean to… Um…"
+
+The elf's frown deepened.
+"Let me give you some advice," they said
+in a tone that made it clear that what they meant was "a warning".
+"Just because you're still in your original body doesn't make you special,
+not on this ship.
+The captain doesn't tolerate any of that 'real boy' nonsense
+and neither do the rest of us.
+Got it?"
+
+"Got it! I got it!"
+Finner raised his hands in apology,
+turned,
+and ran.
+
 </section>
 
 <!--
 What did the pirate say on his eightieth birthday?
 "Aye Matey!"
+
+Why do pirates love the opera?
+The arrrrias and the high c's.
 -->
