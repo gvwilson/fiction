@@ -1886,7 +1886,7 @@ but we'll never know.
 and a rubberized floor.
 Flat strips set into the ceiling cast orange light
 on doors like the one that slid closed behind them,
-each with a number stenciled on it.
+each with a number and a cryptic legend like "Aux. Battery" stenciled on it.
 "One eighty one," the elf told Finner.
 He fumbled with the door's handle for a moment before figuring out that
 he needed to turn it clockwise,
@@ -1916,7 +1916,12 @@ Because of course that's what Finner did.
 
 The floor rang metallically under his boots as he pelted down the corridor.
 The first door he tried was locked.
-So was the second,
+So was the second<sup class="note">
+Which is why he never got to find out what "BCB RNV" meant,
+or why there was a hand-lettered note below the title
+reminding readers to make sure their next-of-kin form was up to date
+before entering.
+</sup>,
 but the handle of the third turned and clicked.
 He slid the door out of his way,
 ducked in,
@@ -1987,7 +1992,7 @@ He was just about to poke it again when the door slid open behind him.
 Grabbing it by the ankle and raising it like a club,
 he whirled around.
 "Keep back!" he warned,
-shifting his grip to get the thigh out of his face<span class="note">
+shifting his grip a moment later to get the thigh out of his face<span class="note">
 If you ever pick up a leg to wave at someone,
 please remember that it has a knee.
 </span>.
@@ -1996,7 +2001,9 @@ The elf he had run away from looked at him with just a touch of pity in her eyes
 "How about you put that back and come with me?"
 she suggested.
 
-Thirty seconds and three corners later
+Thirty seconds,
+three corners,
+and a dozen closed doors later,
 the corridor brought them to a ladder with eight brass rungs
 that had been polished to silver in patches by use.
 Finner clambered up into the murmur and bustle of
@@ -2047,7 +2054,7 @@ It was Gran-Granna Tumbly.
 
 <section markdown="1">
 
-## Episode 9: Clockwork, Paint, and Duct Tape
+## Episode 9: Emerg. Chimney
 
 People sometimes say, "Their jaw dropped,"
 but that's not what actually happens,
@@ -2221,14 +2228,101 @@ The elf's frown deepened.
 in a tone that made it clear that what they meant was "a warning".
 "Just because you're still in your original body doesn't make you special,
 not on this ship.
-The captain doesn't tolerate any of that 'real boy' nonsense
+The captain doesn't tolerate any 'real boy' nonsense
 and neither do the rest of us.
 Got it?"
 
 "Got it! I got it!"
-Finner raised his hands in apology,
-turned,
-and ran.
+Finner raised his hands in apology.
+
+He was just about to start walking again when an alarm began to blare:
+*murrrp murrrp*, pause, *murrrp murrrp*, pause.
+The overhead lights changed from orange to red.
+"All hands, all hands, battle stations!"
+a crackly voice ordered through unseen speakers.
+"Battery teams to firing stations!
+Fire suppression teams, suit up!
+This is not a drill!"
+
+"Look!" Finner shouted, pointing back the way they had come.
+Alpha Seven spun around,
+and in the moment it took the elf to realize they'd been tricked,
+Finner ran.
+
+*I'm getting pretty good at this,* he thought giddily
+as he half-slid, half-bounced around a corner.
+There!
+Door number one oh six, "Emerg. Chimney".
+He twisted the handle,
+pulled it aside,
+stubbed his toe on the sill as he stepped through,
+and slid the door shut behind him.
+*Snick!*
+He hoped that was a lock.
+Even more,
+he hoped he wouldn't be here long enough to find out if he was right.
+
+The room was even smaller than the one he'd woken up in.
+There was no furniture and no window,
+just a line drawing of a chimney on one whitewashed wall
+with a pair of heavy brass dials beside it.
+Half a dozen three-letter codes were stencilled on the wall beside it
+with a pair of number next to each:
+"QCD 143.7 22.8",
+"NAR 96.0 533.5"…
+The last code was "OVB".
+The numbers had been crossed out
+and the words "We miss you Number Five" hand-written in their place.
+
+"Hey!"
+A heavy fist banged on the door.
+"Open up!
+Open up *now*!"
+
+"Just a miiinuuute,"
+Finner sang.
+The codes had to stand for places,
+and the numbers had to be how to set the dials to get to them,
+but how was he supposed to know where "QCD" or "NAR" were
+or whether they were safe to go to,
+because he was pretty sure "OVB" wasn't.
+
+"Last chance!" Alpha Seven bellowed.
+"Either you open this door or I zap it open!"
+
+Finner said a word he was pretty sure his parents thought
+he still didn't know<span class="note">
+Though he had heard them both use it while playing dominoes.
+Drawing the double twelve late in the game
+when all the other twelves are already on the table
+often brings out the worst in people.
+</span>.
+If he went to any of the places marked on the wall
+he'd practically be throwing himself into the arms
+of some other bunch of elves.
+On the other hand,
+if he picked a destination at random,
+he could wind up on the moon without a spacesuit
+or sitting on an ice floe wondering if the cold or Santa Kraken
+would get to him first.
+
+His shoulders slumped.
+Better to be a prisoner than a meal.
+"All right, I give up," he said,
+or would have if a loud *boom!* hadn't shaken the zeppelin
+hard enough to knock Finner right off his feet.
+The whole room—in fact, the whole zeppelin—tilted to one side.
+
+As Finner fell forward
+his left hand hit one of the dials.
+The light above his head flashed,
+or maybe that just a side effect of him stretching in one impossible direction
+while the universe stretched around him in another.
+
+A moment later the lock sizzled and evaporated.
+Alpha Seven slid the door open,
+looked despondently at the empty room,
+and used exactly the same word Finner had used moments before.
 
 </section>
 
