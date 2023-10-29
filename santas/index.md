@@ -2326,6 +2326,75 @@ and used exactly the same word Finner had used moments before.
 
 </section>
 
+<section markdown="1">
+
+## Episode 10: Santasaurus Rex
+
+You have probably been cold at some point in your life.
+Maybe you wriggled out from under your blanket as a baby on a chilly night
+and weren't yet able to wriggle back underneath it.
+Maybe you didn't realize that someone else in the house liked cold showers
+and turned on the water *while you were already standing underneath the showerhead*
+and were blasted with the last few seconds of that previous person's liquid self-loathing.
+Or perhaps you have had to endure the kind of bone-deep chill of being poor in winter,
+of not being able to afford to turn up the heat during the day
+or to buy a coat that's thick enough to keep out the wind.
+That kind of cold is the worst:
+it seeps into your soul as well as your body
+because you lose hope of it ever ending.
+
+Thirty seconds after whumping<span class="note">
+Another word that sounds exactly like the thing it describes.
+</span>
+into a snowbank somewhere very Arctic,
+Finner felt even colder than that.
+The sky above him was an impossibly clear blue
+and the sun was so bright he couldn't even look *near* it,
+but each time he took a breath
+he could feel the air going into every little corner of his lungs.
+Tiny icicles had formed in his nostrils,
+and his beard crackled each time he squinted.
+
+The snow squeaked beneath his boots with every step.
+Basic survival training is part of every santa's education,
+and Finner knew that if he just stood still and shivered,
+he wouldn't shiver for long.
+He had no idea where he was going,
+or even if there was a "where" to go to,
+but he had to keep moving.
+
+He struggled up to the top of yet another shallow ridge
+and rubbed his eyes with fingers he could no longer feel properly.
+Were there icicles in his eyelashes?
+That wasn't important.
+What mattered was that the sunlight was reflecting off something up ahead.
+Glass, metal, it didn't matter:
+as long as it wasn't ice,
+it was something to aim for.
+He stumbled toward it,
+hugging himself to keep in what little body heat he had left.
+
+When he reached the top of the next ridge
+he had to stop and rub his eyes again.
+An enormous factory sat in the shallow valley in front of him.
+It was bigger than any building Finner had ever seen—he
+could have stacked ten copies of his school on top of one another
+and still not reached its steeply-slanted roof.
+Turrets and towers,
+windows of all shapes and sizes,
+and—
+
+A chill ran up his spine.
+A flying saucer was moored against the side of the factory,
+bobbing gently up and down in the Arctic breeze.
+It was almost as large as the zeppelin he had so recently escaped from,
+and its silver underbelly was scratched and scraped from heavy use.
+
+"The poor reindeer simply couldn't carry the load any longer,"
+a helpful voice said behind him.
+
+</section>
+
 <!--
 What did the pirate say on his eightieth birthday?
 "Aye Matey!"
