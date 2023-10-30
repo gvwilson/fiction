@@ -1177,23 +1177,23 @@ for example,
 you can expect to exist for billions of years,
 so "at the same time" includes pretty much all of human civilization.</span>
 
-1. A second, larger gray fin appeared in the water beside the first.
+1.  A second, larger gray fin appeared in the water beside the first.
 
-2. The edge of Santa Greenwood's ax brushed against the dinghy's rubber gunwale.
+2.  The edge of Santa Greenwood's ax brushed against the dinghy's rubber gunwale.
 
-3. There was a sharp *crack!*
+3.  There was a sharp *crack!*
     like someone snapping a piece of wood over their knee
     and a cannonball whistled over their heads.
 
 "Look out!" Finner shouted instinctively as:
 
-1. The larger gray fin changed course to head straight for them.
+1.  The larger gray fin changed course to head straight for them.
 
-2. Air began feeping<span class="note">A word that other worlds would do well to borrow.
+2.  Air began feeping<span class="note">A word that other worlds would do well to borrow.
     Our world's contribution would be "phlegm",
     which it sounds exactly like the thing it describes.</span> out of the dinghy;
 
-3. A set of black sails crested the horizon.
+3.  A set of black sails crested the horizon.
     There was another *crack!*
     and a second cannonball whistled overhead
     to splash into the water nearby.
@@ -2390,8 +2390,83 @@ bobbing gently up and down in the Arctic breeze.
 It was almost as large as the zeppelin he had so recently escaped from,
 and its silver underbelly was scratched and scraped from heavy use.
 
-"The poor reindeer simply couldn't carry the load any longer,"
+"It's not exactly traditional,"
 a helpful voice said behind him.
+"But the poor reindeer simply couldn't carry the load any longer."
+
+Finner turned around slowly.
+The person smiling at him was wearing a carefully-patched red coat and a tasselled hat.
+Their steel body and cheery painted face
+had fewer scratches and scrapes than the flying saucer,
+but they were clearly not fresh out of their box.
+
+"Whoops," the elf said,
+tucking the ray gun that Finner was staring at
+back into its holster.
+"Old habit.
+Used to be quite strict around here about security.
+Some folks would rather not wait for their presents,
+if you take my meaning."
+One red electric eye blinked on and off in a wink.
+"Now, I presume you'd be wanting somewhere warm to sit and a nice cup of tea, eh?"
+
+The hike from the ridge to the factory only took a few minutes,
+but as Finner's brain slowly retreated from reality
+it seemed to last forever.
+First he couldn't feel his toes,
+but that had happened before when he had gone out to play in the snow
+in his running shoes.
+Then his feet went numb,
+which made him feel like he was walking on two small sandbags<span class="note">
+Yes, it really does feel like that.
+</span>.
+His ears hurt, then stopped hurting;
+his eyelids started sticking together every time he blinked,
+and his fingers might as well have been the little breakfast sausages that his father was so fond of.
+*I wonder if someone will tell them?*
+he thought blearily,
+nodding (or trying to nod) at whatever the elf was saying.
+
+A hand on his arm stopped him.
+"We're here," the elf repeated gently.
+Finner wiped his eyes with his sleeve.
+There was a door in front of him,
+a perfectly normal door with a little peaked roof over it.
+The elf opened it and waved him through.
+
+The mud room on the other side had a boot rack,
+a couple of stools,
+some hooks for hanging coats (all empty),
+and a little electric heater
+whose cheery orange coils were the most beautiful thing Finner had ever seen.
+He stood so close that he could smell the wool of his jacket warming up,
+but he didn't care.
+He didn't care if it caught fire.
+
+"Here," the elf said,
+nudging a stool underneath him.
+"I'll see if I can find some tea.
+You do drink tea, don't you?"
+
+"Yuh-yuh-yuh-"
+
+The elf patted his shoulder.
+"I'll be right back."
+
+Finner vaguely noticed the elf open the mud room's other door.
+The icicles in his nose and beard and eyebrows were melting.
+He wiped his face with his sleeve again
+and then tried flexing his fingers.
+They still felt like rubbery sausages,
+but when he rubbed his hands together
+there was at least a little bit of feeling.
+
+He was just about to pull off one of his boots
+to see if his feet were still there
+when the inner door opened again.
+The elf who had saved him from freezing to death returned
+with a large cup of tea in their hand
+and a small dinosaur wearing a parka and a knit cap behind them.
 
 </section>
 
