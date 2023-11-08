@@ -2435,7 +2435,7 @@ a perfectly normal door with a little peaked roof over it.
 The elf opened it and waved him through.
 
 The mud room on the other side had a boot rack,
-a couple of stools,
+a couple of stools with U-shaped seats,
 some hooks for hanging coats (all empty),
 and a little electric heater
 whose cheery orange coils were the most beautiful thing Finner had ever seen.
@@ -2462,11 +2462,114 @@ but when he rubbed his hands together
 there was at least a little bit of feeling.
 
 He was just about to pull off one of his boots
-to see if his feet were still there
-when the inner door opened again.
-The elf who had saved him from freezing to death returned
+to see if his feet were still there when the inner door opened again.
+The steel-bodied elf who had saved him from freezing to death returned
 with a large cup of tea in their hand
-and a small dinosaur wearing a parka and a knit cap behind them.
+and a small dinosaur in a bright blue parka and a black knit cap behind them.
+
+Finner's first thought was, *Sure, why not a dinosaur?*
+His second was, *Tea!*
+"Thank you," they said fervently,
+taking it from the elf and cradling it in his hands
+the way he had seen Gran-Granna Tumbly do so many times<span class="note">
+For the first time,
+it occurred to him to wonder if she did it to warm her hands too.
+</span>.
+
+"I'll give you two a moment," the elf said,
+exchanging a nod with the dinosaur
+before slipping out of the room again.
+
+The dinosaur shifted the stool with one clawed foot and sat down,
+her tail tucked neatly into the "U" of the seat.
+"I'm Doctor Sssthzz-eep, but you can call me Doctor E,"
+the dinosaur said.
+"And you are…?"
+
+"I'm Finner," Finner said,
+taking a sip of—no,
+the tea was still too hot to drink,
+but just holding it still felt good.
+
+Doctor E waited a moment,
+then nodded briskly.
+"Right.
+Well, Finner, welcome to Castle Base.
+The name's a bit dramatic,
+if you ask me,
+but you elves do like a bit of drama.
+Now,
+once you're all warmed up we'll give you a once over,
+er what?
+And a good hearty meal with,
+er,
+vegetables and what-not,
+and then we can have a good long talk
+about what enhancements you'd like to start with.
+I, er, oh, blast."
+She patted her parka.
+"I seem to have left the catalog back in my office.
+Forget my own teeth next time,
+er what?"
+She smiled brightly,
+showing far more sharp teeth than Finner had seem up close
+in almost a whole day<span class="note">
+See the earlier incident with the sharks.
+</span>.
+
+"I'm sorry," Finner said wearily,
+"I really am,
+but I have no idea where I am or who you all are or what you're talking about.
+That's been happening a lot lately,"
+he added as the dinosaur cocked her head to one side.
+
+The dinosaur's tail twitched.
+"The, er, Rescue Committee?"
+she suggested.
+"The emergency chimney you arrived through,
+that's one of theirs,
+er what?
+That's why Abigail was there to, er, to collect you.
+Could have been quite chancy if they weren't,"
+she added,
+nodding in agreement with herself.
+"Wouldn't do at all to have you all popsicled, would it?
+Make it rather difficult for you to become an elf, er what?"
+
+Finner stared at Doctor E for a moment.
+"I'm not an elf, I'm a santa," he said.
+
+"Well, yes, obviously,
+but you're here to *become* an elf.
+Aren't you?"
+she added,
+cocking her head to the side once again.
+
+Finner slurped a mouthful of tea.
+It was good tea—a bit woody, perhaps,
+compared to what he was used to,
+but the milk and the slight bitterness of the leaves
+set each other off perfectly.
+
+He slurped another mouthful,
+took a deep breath,
+and let it out.
+"I'm a *santa*," he said firmly.
+"I may not be a particularly good one,
+but—"
+He shrugged,
+unsure how to finish the sentence even in his own head.
+
+"I see,"
+Doctor E said after a moment.
+"Well, that's, that's unfortunate."
+She stood up,
+tugged her parka down,
+squared the knit cap on her head,
+and then turned her head toward the door and bellowed,
+"Guards!
+Guards, in here!
+We have a spy in our midst!"
 
 </section>
 
