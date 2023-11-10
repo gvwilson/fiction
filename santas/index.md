@@ -2328,7 +2328,7 @@ and used exactly the same word Finner had used moments before.
 
 <section markdown="1">
 
-## Episode 10: Santasaurus Rex
+## Episode 10: Castle Base
 
 You have probably been cold at some point in your life.
 Maybe you wriggled out from under your blanket as a baby on a chilly night
@@ -2569,7 +2569,7 @@ squared the knit cap on her head,
 and then turned her head toward the door and bellowed,
 "Guards!
 Guards, in here!
-We have a spy in our midst!"
+It seems we have a spy in our midst!"
 
 </section>
 
