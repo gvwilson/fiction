@@ -1937,7 +1937,7 @@ she and Laurellen walked into the room.
 
 And stopped.
 
-And looked up---*way* up---at a rusty steel head that ten people could
+And looked up---*way* up---at a rusty steel head that three people could
 have sat on side by side, and rusty steel teeth as long as Madica's
 legs, and arms that weren't ridiculously little at all, not up close on
 a body built like a hungry missile on two piston legs. It was him. It

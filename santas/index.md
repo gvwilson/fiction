@@ -1318,7 +1318,7 @@ until Santa Greenwood sighed heavily and gestured at Captain Clausbeard.
 
 <section markdown="1">
 
-## Episode 6: Some Explanations Are Finally Given
+## Episode 6: Some Explanations Are Finally Given But Do Not Satisfy
 
 A few busy minutes later,
 Finner was sitting in a slightly cramped cabin
@@ -2054,7 +2054,7 @@ It was Gran-Granna Tumbly.
 
 <section markdown="1">
 
-## Episode 9: Emerg. Chimney
+## Episode 9: Our Protagonist Makes Use of an Emergency Chimney
 
 People sometimes say, "Their jaw dropped,"
 but that's not what actually happens,
@@ -2328,7 +2328,7 @@ and used exactly the same word Finner had used moments before.
 
 <section markdown="1">
 
-## Episode 10: Castle Base
+## Episode 10: The Kind of Cold That Seeps Into Your Sould
 
 You have probably been cold at some point in your life.
 Maybe you wriggled out from under your blanket as a baby on a chilly night
@@ -2570,6 +2570,98 @@ and then turned her head toward the door and bellowed,
 "Guards!
 Guards, in here!
 It seems we have a spy in our midst!"
+
+</section>
+
+<section markdown="1">
+
+## Episode 11: Santasaurus Rex
+
+You have probably never been imprisoned<span class="note">
+Being stuck in a crib as an infant doesn't count for some reason,
+despite the bars.
+</span>.
+If you have,
+you will understand that after Finner was done protesting
+("I'm not a spy!"),
+threatening
+("People are going to come looking for me, you know—scary people!"),
+and bargaining
+("Look, please just let me talk to whoever's in charge!"),
+what followed can only be described as boring.
+
+The elf guards who came in answer to Doctor E's call
+marched him down a series of corridors,
+up a flight of stairs,
+past a knot of elves and dinosaurs
+who paused their conversation long enough to give him a once-over
+before carrying on as if bedraggled santa prisoners were something they saw every day,
+and deposited Finner in a room with gray walls,
+a padded bench wide enough to double as a bed if you weren't the sort of person who rolled over in their sleep,
+and—well,
+that was pretty much it.
+The door had a small window covered by a hatch on the outside.
+There were no windows,
+and the only light came from a small bulb set into the ceiling.
+
+Finner didn't bother beating on the door and demanding to be let out.
+Instead,
+after sitting on the bench for a few moments and thinking about nothing,
+he pulled off his boots,
+flexed his toes a few times to make sure the pins and needles were gone,
+lay down on his back with one arm under his head as a pillow,
+and closed his eyes.
+He was hungry and he still felt cold,
+but since there was nothing he could do about either of those things
+he might as well…
+
+"Oy, wake up."
+He blinked,
+then rubbed the gunk from his eyes and tried to focus.
+
+"You with me, lad?" the dinosaur standing over him asked impatiently.
+"Yeah? Good.
+On your feet then.
+Himself wants to see you."
+The dinosaur's perpetual toothy grin widened slightly.
+"And you know what happens to folk as keep him waiting, aye?"
+
+"Uh, not really," Finner yawned.
+
+"Ah, well, best you don't find out then, eh?
+Now, boots on and hop skip with you."
+
+More corridors,
+more stairs,
+more elves and dinosaurs that paid only cursory attention to him
+or none at all.
+At one point a gangway gave him a glimpse of a workshop
+crammed with tables, lathes, drills, saws, and bins of odd parts<span class="note">
+But no body parts.
+</span>.
+It looked like the sort of place that ought to be bustling with activity,
+but it was unoccupied except for a lone elf pushing a broom.
+
+They finally reached a pair of double doors three times taller than Finner.
+The dinosaur halted.
+"Well, go on with you," he said,
+impatiently but not unkindly,
+when Finner did the same.
+
+Finner pushed one door open,
+stepped through,
+and looked up—*way* up—at a rusty steel head
+that three people could have sat on side by side
+and a mouth full of rusty steel teeth as long as his legs.
+It was him.
+It was Santa Claws,
+the one and only santasaurus rex.
+
+He lowered his head slightly,
+turning it from side to side to look at Finner
+with each of his glowing red eyes in turn.
+"Mm…" he rumbled.
+"Are you my lunch?"
 
 </section>
 
