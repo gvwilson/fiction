@@ -2328,7 +2328,7 @@ and used exactly the same word Finner had used moments before.
 
 <section markdown="1">
 
-## Episode 10: The Kind of Cold That Seeps Into Your Sould
+## Episode 10: The Kind of Cold That Seeps Into Your Soul
 
 You have probably been cold at some point in your life.
 Maybe you wriggled out from under your blanket as a baby on a chilly night
@@ -2662,6 +2662,177 @@ turning it from side to side to look at Finner
 with each of his glowing red eyes in turn.
 "Mm…" he rumbled.
 "Are you my lunch?"
+
+*Click.*
+The door closed behind Finner at precisely the same moment as
+his brain made sense of Santa Claws' words.
+He had just one moment to think,
+*Well, this is it,*
+before the giant robot dinosaur laughed.
+
+"I'm just teasing.
+I don't eat lunch any more—haven't for, oh, feels like forever.
+Still enjoy a good battery change, though.
+Now,
+why don't you have a seat so we can chat?"
+
+"Having a seat" turned out to mean climbing a ladder
+and perching on the top step,
+which was only not terrifying because
+being face-to-face with a giant robot dinosaur
+makes almost everything else seem fairly tame.
+
+"So," Santa Claws rumbled,
+turning his head to study Finner with one glowing red eye.
+"Sssthzz-eep says you don't actually want to be enhanced.
+I just want you to know that everyone here completely understands.
+It's a big step—you can take as long as you want to make up your mind,
+and no one will rush you.
+Or think any worse of you if you decide to stay a santa,"
+he added.
+"Quite a few do, you know—stay santas, I mean.
+If tinkering and inventing and what-not are all you want,
+you'll have plenty of company."
+
+"Thank you, sir,
+but I don't actually know what 'enhanced' means,"
+Finner admitted cautiously.
+"I got here kind of by accident, so…"
+He shrugged.
+
+"Hm."
+Santa Claws scratched his metal chest absently
+with an arm not much bigger than one of Finner's.
+"But you *do* like tinkering, don't you?
+Clockwork and chemicals and all that?"
+
+"I guess.
+I mean, yes, I do, but…"
+
+"…but your family and friends don't really approve,"
+Santa Claws finished when Finner fell silent.
+"They tell you that santas should santa and elves should elf,
+and that santas have always run things and that's just how the world's supposed to be?"
+
+"Yes sir."
+Finner cleared his throat.
+"But it *is* how things have always been, isn't it?"
+
+Santa Claws chuckled,
+which sounded a bit like a steam locomotive
+struggling up a steep hill in Patagonia
+on a cold day in May.
+"Always is a long time.
+I started it all, you know—the gifts, I mean.
+After the asteroid I got so lonely that
+I started making little gifts for other creatures
+instead of just eating them.
+I still ate some of them sometimes, of course—wouldn't have been
+much of a dinosaur if I didn't—but I made little birdhouses for the birds,
+and cozy little sweaters to keep the mammals warm during ice ages,
+and little floating toys for baby whales to play with.
+And when my body started to rust so badly that I couldn't make toys myself,
+I made the first elf to help me.
+Enhanced Life Form,"
+he added when Finner opened his mouth.
+"That's what it stands for,
+not that anyone but me remembers.
+But I never meant for it all to wind up like this,
+with elves being locked up in basements and what-not
+and santas giving all the orders
+and not knowing a Poynting collector from a collimating manifold."
+
+Finner wasn't about to admit that he had no idea what either of those things were,
+so instead he asked,
+"So what happened?"
+
+Santa Claws tilted his head to pick his teeth with one of his claws.
+"I fell asleep," he admitted.
+"Thought it would just be a quick nap,
+you know,
+ten years or so,
+but it wound up being a few hundred.
+By the time I woke up there were santas all over the multiverse."
+
+One of the double doors creaked open below.
+The normal-sized dinosaur who had brought Finner to see Santa Claws
+stuck his head in.
+"Everything all right?"
+
+"Oh yes,
+we're getting on famously,"
+Santa Claws said,
+oblivious (or perhaps not) to the thoughts whirling around in Finner's head.
+"Not a scratch or tooth mark on him, I promise."
+
+The door closed.
+"So why are you helping the elves?"
+Finner asked.
+
+Santa Claws sighed<span class="note">
+Which produced another locomotive-in-Patagonia sound.
+</span>.
+"I feel responsible, I suppose.
+And I don't think it should matter if you start off a santa or an elf,
+you ought to be able to be whatever you most want to be.
+I mean,
+look at me—carnivore through and through
+from a long line of absolute terrors,
+and yet here we are,
+having a very pleasant conversation without anyone so much as nibbling
+on anyone else."
+
+"So you…enhance santas?"
+Finner ventured cautiously.
+
+"If that's what they want,"
+Santa Claws replied gently.
+"If that's who they truly are.
+And if an elf wants to be a santa,
+well,
+that's all right too."
+
+And suddenly,
+without any warning and without knowing why,
+Finner realized he was crying.
+He wasn't sobbing or making snorkely noises or hiccupping<span class="note">
+Which, let's be honest, we've all done from time to time.
+</span>,
+he just had tears on his cheeks.
+
+"There, there,"
+Santa Claws rumbled.
+"It's a lot, I know.
+Why don't I get someone to make you a cup of tea
+and get you something to eat?
+Or if you'd like a bath,
+there's lots of hot water.
+Geothermal,"
+he added.
+"This whole place is built right on top of a dormant volcano.
+Well,
+mostly dormant, anyway."
+
+Finner wiped his face with his sleeve and nodded.
+"That would be nice.
+Thank you."
+
+"Of course."
+Finner didn't see him push a button or ring a bell,
+but the door below opened a moment later
+and the dinosaur who had brought him stuck his head in again.
+
+Finner turned around cautiously and clambered down the ladder.
+"Thank you," he said again.
+His tears had stopped as quickly and unexpectedly as they'd begun.
+
+"That's—" Santa Claws started,
+but Finner never got a chance to find out what "that" was
+as an alarm bell began to ring
+and a red light above the door began to blink.
+
+"Blast," Santa Claws said calmly.
+"We appear to be under attack again."
 
 </section>
 
