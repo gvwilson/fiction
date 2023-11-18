@@ -290,7 +290,7 @@ Finner ventured.
 "That's certainly the conclusion they reached.
 And they were pretty down in the mouth about it,
 let me tell you.
-The world needs doctors and zeppelin pilots and what-not,
+The world needs doctors and airship pilots and what-not,
 but when when you've been told your whole life that you're destined for something else,
 well,
 it's hard to change direction."
@@ -987,8 +987,8 @@ as Santa Hotep drew a circle with its fingertip on the mirror by its elbow.
 The mirror's surface rippled and reformed to show
 the steps leading up to the pyramid entrance,
 where the stone cats were fighting a quartet of hooded figures
-wielding swords and rayguns
-whose brilliant green beams left glassy scorches on the sand.<span class="note">The rayguns,
+wielding swords and ray guns
+whose brilliant green beams left glassy scorches on the sand.<span class="note">The ray guns,
 that is.
 Frankly, the swords were mostly for show.</span>
 
@@ -1042,7 +1042,7 @@ He was just about to ask how much further it was
 when he rounded a final bend and was almost blinded by
 the bright blue square of empty sky in front of them.
 That,
-and the dazzling green beam of a raygun blast.
+and the dazzling green beam of a ray gun blast.
 
 "Jet packs," Santa Greenwood spat
 "Of *course* they'd have jet packs."
@@ -1182,21 +1182,21 @@ so "at the same time" includes pretty much all of human civilization.</span>
 2.  The edge of Santa Greenwood's ax brushed against the dinghy's rubber gunwale.
 
 3.  There was a sharp *crack!*
-    like someone snapping a piece of wood over their knee
-    and a cannonball whistled over their heads.
+like someone snapping a piece of wood over their knee
+and a cannonball whistled over their heads.
 
 "Look out!" Finner shouted instinctively as:
 
 1.  The larger gray fin changed course to head straight for them.
 
 2.  Air began feeping<span class="note">A word that other worlds would do well to borrow.
-    Our world's contribution would be "phlegm",
-    which it sounds exactly like the thing it describes.</span> out of the dinghy;
+Our world's contribution would be "phlegm",
+which it sounds exactly like the thing it describes.</span> out of the dinghy;
 
 3.  A set of black sails crested the horizon.
-    There was another *crack!*
-    and a second cannonball whistled overhead
-    to splash into the water nearby.
+There was another *crack!*
+and a second cannonball whistled overhead
+to splash into the water nearby.
 
 Santa Greenwood stood up,
 nearly causing the others to spill into the ocean
@@ -1543,7 +1543,7 @@ and closed the door behind him.
 Santa Hood rolled her head to work out a kind in her neck.
 "So," she said conversationally,
 letting the blanket slide down so that Finner could see
-the raygun she was holding,
+the ray gun she was holding,
 which just happened to be aimed at his chest.
 "How about you tell me who you really are?"
 
@@ -1572,7 +1572,7 @@ about *any* of this!
 I just want to go *home*."
 
 Santa Hood studied his face for a moment,
-then flipped the raygun over and offered it to him.
+then flipped the ray gun over and offered it to him.
 "Doesn't work unless you're an elf," she explained.
 
 "Then why were you pointing it at me!?"
@@ -1617,7 +1617,7 @@ but the rock and sway of the ship made his stomach flip-flop
 every time he closed his eyes.
 Finally he sat up,
 rolled his head from side to side to get a kink out of his neck,
-and picked up the raygun Santa Hood had given him.
+and picked up the ray gun Santa Hood had given him.
 
 It looked like a well-made toy with its gnurled grip and shiny barrel,
 but was heavy in a way that said,
@@ -1629,7 +1629,7 @@ and said, "Blam!"
 A brilliant green beam of light blasted the glass right out of the porthole.
 Finner gaped,
 still feeling the hum of the shot in his hand,
-then tossed the raygun onto the desk as if it had just bitten him.
+then tossed the ray gun onto the desk as if it had just bitten him.
 
 "Wuzza?" Santa Hood grunted in her sleep.
 Finner held his breath until she rolled over under blankets
@@ -1664,7 +1664,7 @@ as a baby gift instead of something hand-made.
 he could actually help Santa Hood
 (and Santa Greenwood too, of course).
 For a moment he saw himself standing beside them,
-blasting away with the raygun while his new-found teammates tossed their grenades
+blasting away with the ray gun while his new-found teammates tossed their grenades
 and waved their ax menacingly.
 Maybe he could even—
 
@@ -1696,11 +1696,11 @@ bellowed orders.
 In between them,
 Santa Greenbeard was hacking at an enormous black tentacle with his ax.
 No, not a tentacle—it was a metal cable as thick as Finner's arm,
-and it hung down from the blue-and-gray zeppelin that was right above the ship.
+and it hung down from the blue-and-gray airship that was right above the ship.
 
-A second cable fell from the zeppelin as Finner gaped up into the sky,
+A second cable fell from the airship as Finner gaped up into the sky,
 and then a third.
-The sailors' bullets and arrows had no more effect on the zeppelin
+The sailors' bullets and arrows had no more effect on the airship
 than Santa Greenwood's ax had on the cable.
 "Stand by to repel boarders, ye grumble-fisted knucklewaddlers!"
 Captain Clausbeard shouted,
@@ -1762,7 +1762,7 @@ and put it between its teeth.
 It raised the blowgun to its lips and took aim.
 
 Afterward,
-Finner could never remember actually drawing the raygun.
+Finner could never remember actually drawing the ray gun.
 It was just suddenly there in his hand.
 A single brilliant bolt of green punched a smoldering hole in the foresail
 just a few inches from the elf's head.
@@ -1785,7 +1785,7 @@ and the elves hadn't counted on that.
 Blast their blasted ship, boy!"
 Captain Clausbeard shouted.
 Finner squinted,
-pointed the raygun into the air,
+pointed the ray gun into the air,
 and pulled the trigger
 just as the deck swayed beneath him.
 He took aim again,
@@ -2007,7 +2007,7 @@ and a dozen closed doors later,
 the corridor brought them to a ladder with eight brass rungs
 that had been polished to silver in patches by use.
 Finner clambered up into the murmur and bustle of
-the bridge of a zeppelin in flight.
+the bridge of a airship in flight.
 The front wall was made of hexagonal glass panels
 held together by thin strips of brass.
 The walls to either side were filled with instruments, controls, relays,
@@ -2066,7 +2066,7 @@ but can't find the right words—or even the wrong ones.
 It's as if something was stuck in the elevator doors of your mind
 and making it go *ding! ding! ding!* over and over again.
 
-The zeppelin's captain waited patiently for Finner's doors to close.
+The airship's captain waited patiently for Finner's doors to close.
 The other elves glanced at him occasionally but didn't interfere:
 keeping an airship flying is tricky even in the best of circumstances,
 and if Finner had been paying attention
@@ -2075,7 +2075,7 @@ and steering vanes needing in-flight repairs.
 The skirmish with Captain Clausbeard's ship had only been
 the equivalent of two cats taking swipes at one another
 and then pretending each other didn't exist,
-but zeppelins are fragile things.
+but airships are fragile things.
 
 "Gran-Granna?" Finner finally managed.
 Even as he said it he belatedly realized that the elf wasn't his great-grandmother.
@@ -2121,7 +2121,7 @@ there was this pyramid,
 and,
 um,
 look,
-I'm sorry I shot at your zeppelin.
+I'm sorry I shot at your airship.
 I didn't know it would actually work.
 I hope I didn't hurt anyone,"
 he added belatedly,
@@ -2309,9 +2309,9 @@ would get to him first.
 His shoulders slumped.
 Better to be a prisoner than a meal.
 "All right, I give up," he said,
-or would have if a loud *boom!* hadn't shaken the zeppelin
+or would have if a loud *boom!* hadn't shaken the airship
 hard enough to knock Finner right off his feet.
-The whole room—in fact, the whole zeppelin—tilted to one side.
+The whole room—in fact, the whole airship—tilted to one side.
 
 As Finner fell forward
 his left hand hit one of the dials.
@@ -2387,7 +2387,7 @@ and—
 A chill ran up his spine.
 A flying saucer was moored against the side of the factory,
 bobbing gently up and down in the Arctic breeze.
-It was almost as large as the zeppelin he had so recently escaped from,
+It was almost as large as the airship he had so recently escaped from,
 and its silver underbelly was scratched and scraped from heavy use.
 
 "It's not exactly traditional,"
@@ -2786,11 +2786,13 @@ on anyone else."
 Finner ventured cautiously.
 
 "If that's what they want,"
-Santa Claws replied gently.
+Santa Claws replied
+more gently than a giant robotic dinosaur should have been able to.
 "If that's who they truly are.
 And if an elf wants to be a santa,
 well,
-that's all right too."
+that's all right too.
+Everyone should be able to be who they really are."
 
 And suddenly,
 without any warning and without knowing why,
@@ -2824,15 +2826,97 @@ and the dinosaur who had brought him stuck his head in again.
 
 Finner turned around cautiously and clambered down the ladder.
 "Thank you," he said again.
-His tears had stopped as quickly and unexpectedly as they'd begun.
+His tears had stopped as quickly as they'd begun.
 
-"That's—" Santa Claws started,
-but Finner never got a chance to find out what "that" was
+"Of course. I just—" Santa Claws started,
+but Finner never got a chance to find out what he "just"
 as an alarm bell began to ring
-and a red light above the door began to blink.
+and a red light above the door
+that I just added to the story because I realized I needed it
+began to blink.
 
 "Blast," Santa Claws said calmly.
 "We appear to be under attack again."
+
+</section>
+
+<section markdown="1">
+
+## Episode 12: An Unwanted Rescue
+
+Depending on how you count it,
+the next few minutes were Finner's third, fourth, or possibly even fifth battle
+in just two days.
+A small dinosaur with a brightly-colored ruff of feathers around its neck
+hurried Finner along a corridor and up a flight of stairs
+as distant explosions went *thud!* and made the floor shake slightly.
+Elves and dinosaurs hurried past,
+some carrying laptops and armloads of paper,
+others with ray guns of various sizes and shapes.
+
+"I don't know," the dinosaur snapped when Finner asked the obvious question.
+It pulled yet another door open.
+"Through here."
+
+The Arctic sun nearly blinded Finner as he stepped out into the cold.
+He stopped and squeezed his eyes shut,
+then re-opened them cautiously and squawked.
+He and the dinosaur were standing on a metal gangplank
+with the battered silver bulk of the flying saucer above them
+and the ground a dozen stories below.
+There was no handrail—not even a rope to hold onto—but there *was*
+a stiff cross-breeze to make things interesting.
+
+*BOOM!* Another explosion,
+closer and not muffled by the castle's walls.
+One—two—no, three airships hung side by side in the distance,
+puffs of smoke blossoming along their sides as they fired their cannons.
+Sizzling bolts of green lanced back in answer.
+
+"Hurry!" the dinosaur ordered over its shoulder,
+sprinting for the flying saucer.
+Finner gulped and managed to get a whole two steps
+when something slammed into him and he fell screaming to his death.
+
+Or at least that's what he thought would happen
+in the moment between being knocked off the gangplank
+and a familiar voice triumphantly shouting, "Gotcha!" in his ear.
+Santa Hood whooped as helicopter blades roared to life over their heads
+and they shot away toward the attacking airships.
+
+"It works every time,"
+she explained smugly to Finner a few minutes later.
+"Well, almost.
+Come at them loud over here," she wiggled the fingers on one hand,
+"And while they're distracted,
+you sneak in over here."
+She waggled one finger on her other hand,
+which made the tea in the cup it was holding slosh around a bit.
+
+They were sitting in the tiny mess of the airship she had flown them to.
+It was smaller than the one that had attacked the *Dancing Marmot*,
+and was now headed away from the castle.
+As far as Finner had seen,
+its crew consisted of Santa Hood and a handful of elves
+who ducked their heads as she walked by.
+It reminded him uncomfortably
+of the way the elves in his parents' workshop always stepped aside for him.
+
+"But how'd you find me?" he asked.
+
+Santa Hood sipped her tea.
+"We didn't—Sensei Tumbly did.
+After they grabbed you I went back to tell her what had happened,
+and…"
+She shook her head.
+"I've never seen her like that.
+She wasn't angry or afraid.
+She was—she was *incandescent*,"
+she finished reverently.
+
+"Mm," Finner said noncommittally.
+He had never seen his gran-granna be anything more than annoyed,
+but he could imagine.
 
 </section>
 
