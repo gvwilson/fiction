@@ -2842,11 +2842,11 @@ began to blink.
 
 <section markdown="1">
 
-## Episode 12: An Unwanted Rescue
+## Episode 12: Rescue and Return
 
 Depending on how you count it,
-the next few minutes were Finner's third, fourth, or possibly even fifth battle
-in just two days.
+the next few minutes were the third, fourth, or possibly even fifth time
+Finner's life had been in peril in just two days.
 A small dinosaur with a brightly-colored ruff of feathers around its neck
 hurried Finner along a corridor and up a flight of stairs
 as distant explosions went *thud!* and made the floor shake slightly.
@@ -2894,13 +2894,19 @@ She waggled one finger on her other hand,
 which made the tea in the cup it was holding slosh around a bit.
 
 They were sitting in the tiny mess of the airship she had flown them to.
-It was smaller than the one that had attacked the *Dancing Marmot*,
+It was smaller than the one that had attacked the *Dancing Marmot*<span class="note">
+The airship, that is—Finner never got to see the mess on the first airship,
+and technically,
+it didn't attack the *Dancing Marmot*:
+it was just along for the ride when the airship did.
+</span>,
 and was now headed away from the castle.
 As far as Finner had seen,
 its crew consisted of Santa Hood and a handful of elves
 who ducked their heads as she walked by.
 It reminded him uncomfortably
-of the way the elves in his parents' workshop always stepped aside for him.
+of the way the elves in his parents' workshop always stepped aside for him,
+and of the fact that he'd never really noticed that they did that.
 
 "But how'd you find me?" he asked.
 
@@ -2910,13 +2916,83 @@ After they grabbed you I went back to tell her what had happened,
 and…"
 She shook her head.
 "I've never seen her like that.
-She wasn't angry or afraid.
-She was—she was *incandescent*,"
-she finished reverently.
+She wasn't angry—she was *incandescent*."
 
 "Mm," Finner said noncommittally.
 He had never seen his gran-granna be anything more than annoyed,
 but he could imagine.
+
+Santa Hood clicked her teacup into a little ring on the mess table
+so that it wouldn't slide around<span class="note">
+Airships actually have these.
+</span>
+and cracked her knuckles reflectively.
+"It's going to make everything even worse," she said bleakly.
+"Stealing llamas is one thing,
+but kidnapping elves—kidnapping *family*…"
+She shook her head.
+"Like I said,
+she was past angry."
+
+*They didn't actually kidnap me,* Finner thought but didn't say.
+After a few moments where the only sound was the deep thrum of the airship's engines,
+Santa Hood cleared her throat and stood up.
+"We'll have you home in a few hours.
+Can't offer you a bathtub or a shower,
+but there's hot water and towels and a bunk."
+
+The towels were mismatched—Finner assumed Santa Hood had stolen them—but
+the water was hot and the narrow fold-down bunk that one of the elves led him to
+was surprisingly comfortable.
+"Excuse me,"
+he said as the elf turned to leave,
+"But can I ask you a question?"
+
+"Of course, santa," the elf said,
+their eyes on the deck.
+
+Finner hesitated.
+"How long have you worked for Santa Hood?" he asked,
+
+"First time, santa," the elf replied.
+"I'm one of General Tumbly's.
+Will there be anything else?"
+
+"Um, no, that's everything," Finner said,
+wishing a moment too late that he'd added,
+"And please don't call me 'santa'.
+I'm just Finner,"
+but by then the elf had slid the cabin door shut behind them.
+
+He eventually fell asleep.
+
+A brisk knock on the cabin door woke him.
+"Welcome home," Santa Hood said briskly as she slid the door open.
+"We just did our last chimney—we're back in your world now.
+It's about…"
+She pulled up her sleeve and studied a wristwatch with half a dozen hands,
+her lips moving for a moment.
+"I'd say it's about tea time, actually."
+
+Finner looked down through one of the oversized windows in the airship's cockpit
+as farms slowly gave way to houses with big backyard gardens,
+which in turn gave way to older, taller houses standing shoulder to shoulder
+along cobblestoned streets that sparkled with frost under the morning sun.
+A few patches of snow huddled in shadowed corners
+and under the branches of the evergreens in an L-shaped park
+that Finner suddenly realized he had played in when he was younger.
+
+He swallowed the lump in his throat.
+"Th-that's my house," he said shakily, pointing at a slate-gray roof
+no different from any of those beside it
+except for how it made him feel.
+
+Santa Hood grinned.
+"Yes it is."
+Her grin slipped a bit.
+"Have to take you to Sensei Tumbly's first, though.
+She's going to have questions,
+and I'm afraid they can't wait."
 
 </section>
 

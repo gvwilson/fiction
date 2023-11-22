@@ -23,7 +23,7 @@ serve:
 status:
 	@python bin/status.py --chart status.svg --info _data/info.csv --status _data/status.csv
 
-## chapters: make a release
+## chapters: count words by chapter
 .PHONY: chapters
 ifeq (${book},)
 chapters:
@@ -31,4 +31,14 @@ chapters:
 else
 chapters:
 	@python bin/chapters.py $${book}/index.md
+endif
+
+## words: total words
+.PHONY: words
+ifeq (${book},)
+words:
+	@echo "'book' not defined"
+else
+words:
+	@python bin/chapters.py -t $${book}/index.md
 endif

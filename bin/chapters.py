@@ -1,6 +1,22 @@
 import sys
 
-with open(sys.argv[1], "r") as reader:
+USAGE = "Usage: chapters.py [-t] filename"
+
+if len(sys.argv) == 1:
+    print(USAGE)
+    sys.exit(0)
+
+if len(sys.argv) == 2:
+    filename = sys.argv[1]
+    details = True
+elif (len(sys.argv) == 3) and (sys.argv[1] == "-t"):
+    filename = sys.argv[2]
+    details = False
+else:
+    print(USAGE)
+    sys.exit(1)
+
+with open(filename, "r") as reader:
     in_chapter = False
     title = ""
     count = 0
@@ -21,7 +37,8 @@ with open(sys.argv[1], "r") as reader:
             if count > 0:
                 if title:
                     title = f": {title}"
-                print(f"{count:6d}{title}")
+                if details:
+                    print(f"{count:6d}{title}")
                 total += count
             count = 0
 
