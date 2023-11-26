@@ -2992,7 +2992,80 @@ Santa Hood grinned.
 Her grin slipped a bit.
 "Have to take you to Sensei Tumbly's first, though.
 She's going to have questions,
-and I'm afraid they can't wait."
+and I expect she's not in the mood to wait for answers."
+
+Like most neighborhoods in town,
+Finner's had a gangly airship docking tower
+that was mostly used for furniture deliveries and house removals.
+He'd only been up to the top once,
+on a school trip that consisted of flying in a big circle around town
+under drizzling clouds
+while the teacher tried to sound excited about industry and urban planning.
+The little waiting room seemed both larger and smaller than he remembered:
+larger because it wasn't packed with two dozen young santas,
+and smaller because—actually,
+he was grateful that he didn't have time to puzzle that out
+at that exact moment.
+
+He and Santa Hood rode the elevator down in silence.
+A tricycle taxi was waiting for them.
+Its driver nodded to Santa Hood and began pedalling
+without having to ask where they were going.
+
+Gran-Granna Tumbly's house looked exactly as it had just a couple of days before
+except for the scorch marks from the elves ray guns,
+the steel shutters over the windows,
+and the fact that the stone cat on the pedestal out front
+had been replaced by something that looked like an orangutan with four arms,
+each holding a different kind of sword or club.
+Its head swivelled menacingly to follow Santa Hood and Finner
+as they walked up to the front door,
+but other than that it was motionless.
+
+Santa Hood knocked three times,
+paused,
+knocked three times again,
+paused a second time,
+and then rapped her knuckles on the door one last time.
+Catching Finner's eye, she grinned.
+"There's not actually a secret code,"
+she whispered loudly.
+"But if anyone's watching, they won't know that.
+Clever, eh?"
+
+The door swung open with a Halloween creak
+before Finner could answer.
+He swallowed hard and followed Santa Hood into the house.
+
+The carpet in the hall looked just like it always had.
+So did the gargoyle coathooks and the over-stuffed chairs in the sitting room,
+but the plants were gone.
+In their place stood a large table covered in maps—maps of cities,
+continents,
+and solar systems,
+with floor plans and aerial photographs scattered among them
+like coins tossed into a fountain.
+
+"I dislike mess at the best of times,"
+Gran-Granna said from behind them,
+"And these aren't the best of times."
+She strode past him without a glance,
+picked up a green-and-white teacup perched on the corner of the table,
+and scowled at the confusion in front of her.
+
+Finner glanced at Santa Hood,
+hoping for  clue to what he was supposed to do or say,
+but her eyes were on the table as well.
+Just as he opened his mouth to speak,
+Gran-Granna Tumbly turned around.
+She had a patch over one eye and fresh stiches on her cheek,
+but what *really* startled Finner was the sturdy-looking pistol in her hand,
+which was pointed at his chest.
+
+"So," she said conversationally,
+cocking the gun with a very loud *click*.
+"How about you start by telling me who you really are
+and what you've done with my grand-grandson?"
 
 </section>
 
