@@ -1318,7 +1318,7 @@ until Santa Greenwood sighed heavily and gestured at Captain Clausbeard.
 
 <section markdown="1">
 
-## Episode 6: Some Explanations Are Finally Given But Do Not Satisfy
+## Episode 6: Some Explanations Are Finally Given
 
 A few busy minutes later,
 Finner was sitting in a slightly cramped cabin
@@ -1553,10 +1553,10 @@ which just happened to be aimed at his chest.
 
 ## Episode 7: An Airborne Attack Occurs
 
-Finner's hands put themselves up.<span class="note">
+Finner's hands put themselves up<span class="note">
 Whic is more accurate than saying "he raised his hands"
 because his brain wasn't really involved in the process.
-</span>
+</span>.
 "I'm Finner!" he exclaimed.
 "Finner Tumbly!"
 
@@ -3062,10 +3062,93 @@ She had a patch over one eye and fresh stiches on her cheek,
 but what *really* startled Finner was the sturdy-looking pistol in her hand,
 which was pointed at his chest.
 
-"So," she said conversationally,
-cocking the gun with a very loud *click*.
+"So," she said conversationally.
 "How about you start by telling me who you really are
 and what you've done with my grand-grandson?"
+
+</section>
+
+<section markdown="1">
+
+## Episode 13: It Doesn't *Feel* Normal
+
+If you have led a quiet life—a life in which
+it is relatively rare for people to point firearms of any kind at one another—you
+will probably find it hard to believe that
+having firearms pointed at you can become a little bit boring
+if it happens often enough.
+It's rather like living in a house next to a railway line or a spaceport:
+the first few nights,
+you wake up every time a train goes by or a rocket blasts into orbit,
+but then your brain gets used to it and says,
+"Meh,"
+and lets you get a good night's sleep.
+
+That said,
+it does depend on the firearm and on who's doing the pointing.
+Something that looks like it was designed to make holes in steel plate
+is pretty hard for a brain to "meh",
+and if the pointer is the kind of little old lady
+who looks as though she could chew a hole in that same piece of steel if she wanted to,
+your brain is far more likely to go "meep!"
+
+Finner's hands put themselves up,
+just as they had when Santa Hood had pointed the ray gun at him
+on board the *Dancing Marmot*.
+"I'm Finner!" he said.
+"Finner Tumbly!
+I'm your gran-grandson!"
+
+The pistol didn't waver.
+"Ask me something," Finner said desperately.
+"Something only I would know.
+Like—like that picture!"
+He pointed at a crayon drawing in a frame on the wall.
+"My dad drew that when he was little,
+and you used to have it on your refrigerator,
+but he took it and had one of the elves frame it
+so he could give it to you a second time,
+only my mum says you would rather he hadn't
+because it doesn't go with anything else in the room
+and you think it was better off on the fridge.
+See?
+I'm *Finner*."
+
+Gran-Granna Tumbly's jaw tightened.
+"I knew it," she hissed.
+"First faces, then memories.
+Do you see what we're up against, Periwinkle?
+Do you see it now?"
+She cocked her gun with a very loud *click*.
+
+"Sensei, wait! Wait!"
+Santa Hood raised one hand.
+"I'm not saying you're wrong,
+but—"
+
+"But nothing!" Gran-Granna Tumbly raged.
+"You saw it—you saw him fire one of their ray guns.
+You know as well as I do that only elves can use them."
+
+"Well then he must have been an elf all along,
+because he wasn't out of my sight
+from the time Greenwood and I came through your chimney
+until—well, until he did what you just said,"
+she finished relcutantly.
+
+"Why does everyone keep telling me I'm an elf?" Finner demanded,
+lowering his hands because having them up didn't feel like it was making any difference
+to his odds of survival
+and also because his arms were getting tired.
+"I'm a santa.
+Look, I have a beard—"
+he pointed at the wisps of hair on his chin
+"—and,
+and I won a prize for being the best in my class at ho-ho-hoing last year,
+and yeah,
+okay,
+I've never delivered a cake to a bunch of scientists in a submarine,
+but *I'm a santa.*"
 
 </section>
 
