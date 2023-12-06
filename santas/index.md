@@ -3331,6 +3331,112 @@ who shook her head.
 she said gently.
 "And it look like sensei and I have a raid to plan."
 
+So here's the thing about parents:
+they are the most important people in your life when you're growing up,
+but can also be the most annoying.
+Sometimes it's deliberate,
+like when they share your baby pictures with your friends just to make you squirm
+or,
+if their parents were cruel to them and they haven't learned any better since,
+when they keep making jokes about your haircut long after you're in tears.
+Mostly,
+though,
+parents are annoying because you think you're ready to be a grownup and they don't agree,
+or do but aren't ready to let you go.
+
+Going to your gran-granna's for a cup of tea and not coming home for two whole days
+pretty much guarantees annoying parental behavior,
+especially if the parents in question have been told that
+you spent those two days being chased across parallel dimensions
+by a band of murderous elves.
+When they ask if you're all right,
+what they really mean is that they were scared.<span class="note">
+You won't really understand *how* scared unless you have kids of your own one day,
+at which point you will occasionally wake up in a cold sweat in the middle of the night
+wondering how common meteor strikes actually are
+and whether there are any warning signs you can teach your offspring to look out for
+when they're not looking out for cars, falling trees, or hungry leopards.
+</span>
+And when they fuss over you and tell you everything's all right now,
+they're trying to convince themselves as much as you.
+
+We are therefore going to skip over the next few hours of Finner's life,
+and most of the week that followed.
+His dad baked three batches of his favorite cookies<span class="note">
+Chili-lime shortbread.
+</span>
+while his mum kept checking that he was warm enough.
+His classmates crowded around him and asked what had happened
+and whether it was true that he'd been in an airship battle
+and did he have any cool new scars to show off.
+He mostly mumbled in response,
+uncomfortable at suddenly being the center of attention
+instead of in his usual place on the edge of the crowd
+trying to figure out what the cool kids were up to.
+
+People eventually got tired of, "Yeah, something like that,"
+and went back to their usual gossip.
+His writing teacher took him aside and said that
+if he wanted to try expressing what had happened to him in a poem,
+she would be happy to give him extra credit for it.
+A vague, "I'll think about it," was apparently not the right answer,
+but he honestly didn't know what to say.
+The santas, the elves, the pyramids and the airship and the *Dancing Marmot*
+and the castle in the Arctic—it already felt like it had happened to someone else.
+
+And besides,
+he had other things to think about.
+He couldn't stop noticing
+how the elves in his parents' basement ducked their heads and went quiet
+whenever there was a santa around,
+or how they always asked permission before going out on an errand
+even though some of them were almost as old as Gran-Granna Tumbly.
+He couldn't stop wondering why they only made deliveries once a year.
+Didn't people need things on the other 364 days?
+
+He kept those thoughts to himself.
+And he was very, *very* careful not to let anyone know
+about the odds and ends he smuggled into his bedroom.
+A rusty pair of scissors that he spotted near a bus stop on his way home from school.
+A ball of string that he slipped into his pocket during science class.
+Some paper—not writing paper, but construction paper
+that had to be folded carefully and then creased twice to make a straight seam,
+but oh,
+what a beautiful seam it was—and best of all,
+a roll of tape with only a little bit of lint stuck to it
+that he fished out of a box that one of the elves was packing up
+when the elf went downstairs to get another armload of glass flowers.
+
+Finner felt terrible as he listened to muffled voices coming from the basement,
+one demanding where the tape had gone
+and the other protesting that they didn't know,
+but he couldn't stop himself.
+He needed to make things.
+No, he *needed* to make things,
+the same way that he needed to breathe after holding his breath under water
+for as long as he could.
+
+So let's skip ahead a week to the moment when
+Finner's mum opened his bedroom door
+to tell him that his dad had made another batch of cookies
+and found her son sitting on the floor
+taping carefully-folded bits of paper together
+to make a tiny cardboard dinosaur.
+"Oh," she gasped,
+her hand flying to her mouth.
+
+"Mum! You're supposed to knock!"
+Finner exclaimed as he tried to sweep his craft supplies under his bed.
+As his mum thundered down the stairs,
+calling for his dad,
+his stomach flip-flopped.
+He heard voices,
+first questioning and then angry,
+and then his dad saying,
+"All right. All right!
+Let's call your grandmother.
+She'll know what to do."
+
 </section>
 
 <!--
