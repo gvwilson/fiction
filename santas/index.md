@@ -1380,7 +1380,11 @@ No-one noticed.
 
 The pause stretched awkwardly
 until Santa Greenwood sighed heavily and gestured at Captain Clausbeard.
-"And *this* is my dad."
+"And *this* is my dad."<span class="note">
+What did the pirate say on his eightieth birthday? "Aye Matey!"
+Why do pirates love the opera? The arrrrias and the high c's.
+You're welcome.
+</span>
 
 </section>
 
@@ -3439,10 +3443,80 @@ She'll know what to do."
 
 </section>
 
-<!--
-What did the pirate say on his eightieth birthday?
-"Aye Matey!"
+<section>
 
-Why do pirates love the opera?
-The arrrrias and the high c's.
--->
+## Episode 14: Bars on the Windows
+
+Nobody called The Building a prison except the people who weren't allowed to leave.
+The staff sometimes used the word "hospital",
+but for the most part they stuck to euphemisms like "reorientation center"
+or "a place where you can get back in touch with your inner santa".
+
+And the daily activities weren't mandatory, either.
+In fact,
+they were so *not* mandatory that sometimes Finner wanted to scream.
+"Are you *sure* you don't want to do a little ho-ho-ho'ing?
+Everyone else will be there."
+If he had been at home or at school and said, "No thank you,"
+the person asking might have pressed him once or twice
+but would eventually have taken the hint.
+Not at The Building, though.
+There,
+"no thank you" produced an endless sequence of, "Are you sure?"
+and, "How about you just give it a try?"
+and, "Oh come on, Mister Frowny, it will put a smile on your face."
+
+That last comment actually did make him smile a little,
+but only because of the way Zubi said it.
+They were one of the other guests,<span class="note">
+*Not* "patients" and *definitely* not "prisoners".
+Finner was told very firmly several times that
+nobody used the "p" words in The Building.
+</span>
+and claimed to have come from a world where everyone was a santa.
+Or where santas didn't need chimneys
+because they could just imagine themselves wherever they wanted.
+Or where santas pulled sleighs and reindeer handed out presents.
+Their story changed every time they told it,
+but Finner didn't mind.
+It was more entertaining than the jingly movies
+that played on repeat in the dining room,
+none of which involved ray guns
+or santas wondering if they were really elves.
+
+"When we break out—"
+Zubi paused for a moment to chew a particularly tough piece of jello.
+They raised a finger,
+swallowed hard,
+and stuck out a green tongue.
+
+"When we break out,"
+they continued,
+setting aside the rest of the jello,
+"The first thing I'm going to make is a bicycle.
+A real bicycle, not a toy one,
+and I'm going to ride it aaall over town.
+What about you?"
+
+Finner shrugged.
+He had taken a mince pie for dessert instead of a bowl of jello,
+but the first mouthful had tasted of nothing at all,
+so he set it aside too.
+"I dunno.
+Figure it out when I get there, I suppose."
+
+There were only half a dozen other santas in the dining room that evening.
+Four of them sat together,
+grimly enjoying a complicated game of cards.
+The other two sat at the same table
+but did their best to ignore each other.
+Finner assumed that they would have preferred to sit by themselves,
+but as he had found out the hard way,
+it would only be about ninety seconds until one of the staff showed up
+and encouraged you to be more social.
+And while throwing food at them was briefly satisfying,
+it only made them heartier.
+One of them had actually started caroling
+as she mopped his chili off her coat.
+
+</section>
