@@ -3505,7 +3505,7 @@ so he set it aside too.
 "I dunno.
 Figure it out when I get there, I suppose."
 
-There were only half a dozen other santas in the dining room that evening.
+There were only half a dozen other young santas in the dining room that evening.
 Four of them sat together,
 grimly enjoying a complicated game of cards.
 The other two sat at the same table
@@ -3517,6 +3517,96 @@ and encouraged you to be more social.
 And while throwing food at them was briefly satisfying,
 it only made them heartier.
 One of them had actually started caroling
-as she mopped his chili off her coat.
+as she mopped his chili off her coat,
+as if being splattered with beans and sauce somehow proved her right.
+
+"I liked wind-up trains," she had confided afterward.
+Finner would rather have been anywhere else<span class="note">
+Yes, even the mouth of an active volcano.
+</span>
+than across the table from her,
+but there was no way to go.
+"I liked how the coilspring tightened as I turned the key,
+and the little clicking sound the refurgent gear made on tight corners,
+and…"
+She had sighed theatrically.
+"But then I realized—that's not who I am.
+I'm a santa.
+I deliver things, I don't make them.
+And I know how confused you feel right now,
+truly I do,
+but you're a santa too.
+You just need a little help realizing it."
+And then she had patted his hand and walked away,
+caroling softly to herself.
+
+"Hey, where'd you go?"
+Zubi prodded the back of Finner's hand with their fork.
+
+"Just thinking," he mumbled.
+
+Zubi grinned and leaned forward.
+"About an escape plan?"
+
+"About whether they'll let me sleep in if I say I'm not feeling well."
+Finner stacked his dishes on his tray and stood up.
+"See you tomorrow."
+
+His bedroom didn't have bars on the windows,
+but those windows didn't open either.
+He lay back with his hands behind his head
+and stared at sleigh-and-reindeer mobile hanging from the ceiling.
+
+And blinked.
+
+And rolled his head gently from side to side
+as if working a kink out of his neck.
+Yup,
+there was definitely something under his pillow.
+He yawned,
+stretched,
+and rolled over on his side
+so that he could slide his hand up to check it out.
+His fingers closed around a piece of metal about the size of his thumb.
+
+His breath caught in his throat as he turned it over.
+It felt like a key.
+In fact,
+it felt exactly like one of the keys that the staff used
+to unlock The Building's many doors.
+
+*Great,* he thought tiredly.
+He stood up with the key in his hand
+and tucked his feet into his slippers one by one.
+
+"Did someone lose this?" he asked a moment later,
+holding the key out
+for the santa behind the desk to inspect.
+He had an eyepatch,
+but looked more like someone who had been clumsy with a broom
+than like a pirate.
+
+The santa cleared his throat.
+"Oh, yes, dear me, I think that *is* one of ours," he said brightly.
+"Thank you."
+
+"You're welcome," Finner said automatically.
+It was the third time since he'd arrived
+that someone had "lost" a key where he would find it.
+He had no doubt that if he tried to use it,
+a couple of burly santas would be waiting on the other side
+of whatever door he opened,
+but at least it was subtler<span class="note">And safer.
+</span>
+than the hacksaw someone had put in his underwear drawer.
+
+"Oh, and there's a letter for you,"
+the desk santa added,
+rummaging around for a moment
+before handing Finner a square brown envelope
+covered in a confetti explosion of interdimensional stamps.
+Someone had carefully blacked out the address below Finner's name,
+but blocky capital letters in the corner spelled out
+"S. Greenwood, Isla del Tesoro".
 
 </section>
