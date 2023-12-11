@@ -506,7 +506,7 @@ and then everything went a little bit nuts.
 
 <section markdown="1">
 
-## Episode 3: A Moderate Amount of Mayhem Occurs
+## Episode 3: A Moderate Amount of Mayhem
 
 The second santa pulled a grenade out of her sack,
 drew the pin with her teeth,
@@ -768,7 +768,7 @@ We're trying to save the worlds."
 
 <section markdown="1">
 
-## Episode 4: Some Introductions are Made
+## Episode 4: Some Introductions
 
 Zombies and mummies are similar in many ways—the shambling gait,
 the moaning,
@@ -1120,7 +1120,7 @@ where they fell screaming to their deaths.
 
 <section markdown="1">
 
-## Episode 5: Our Protagonist Is Rescued at the Last Moment
+## Episode 5: A Last-Minute Rescue
 
 At least,
 that's what Finner expected would happen
@@ -1390,7 +1390,7 @@ You're welcome.
 
 <section markdown="1">
 
-## Episode 6: Some Explanations Are Finally Given
+## Episode 6: Some Explanations
 
 A few busy minutes later,
 Finner was sitting in a slightly cramped cabin
@@ -1636,7 +1636,7 @@ which just happened to be aimed at his chest.
 
 <section markdown="1">
 
-## Episode 7: An Airborne Attack Occurs
+## Episode 7: An Airborne Attack
 
 Finner's hands put themselves up.<span class="note">
 Whic is more accurate than saying "he raised his hands"
@@ -2140,7 +2140,7 @@ It was Gran-Granna Tumbly.
 
 <section markdown="1">
 
-## Episode 9: Our Protagonist Makes Use of an Emergency Chimney
+## Episode 9: An Escape of Sorts
 
 People sometimes say, "Their jaw dropped,"
 but that's not what actually happens,
@@ -2414,7 +2414,7 @@ and used exactly the same word Finner had used moments before.
 
 <section markdown="1">
 
-## Episode 10: The Kind of Cold That Seeps Into Your Soul
+## Episode 10: Cold That Seeps Into Your Soul
 
 You have probably been cold at some point in your life.
 Maybe you wriggled out from under your blanket as a baby on a chilly night
@@ -3480,7 +3480,7 @@ Or where santas pulled sleighs and reindeer handed out presents.
 Their story changed every time they told it,
 but Finner didn't mind.
 It was more entertaining than the jingly movies
-that played on repeat in the dining room,
+that played on repeat in the dining hall,
 none of which involved ray guns
 or santas wondering if they were really elves.
 
@@ -3505,7 +3505,7 @@ so he set it aside too.
 "I dunno.
 Figure it out when I get there, I suppose."
 
-There were only half a dozen other young santas in the dining room that evening.
+There were only half a dozen other young santas in the dining hall that evening.
 Four of them sat together,
 grimly enjoying a complicated game of cards.
 The other two sat at the same table
@@ -3596,7 +3596,8 @@ that someone had "lost" a key where he would find it.
 He had no doubt that if he tried to use it,
 a couple of burly santas would be waiting on the other side
 of whatever door he opened,
-but at least it was subtler<span class="note">And safer.
+but at least it was subtler<span class="note">
+And safer.
 </span>
 than the hacksaw someone had put in his underwear drawer.
 
@@ -3606,7 +3607,82 @@ rummaging around for a moment
 before handing Finner a square brown envelope
 covered in a confetti explosion of interdimensional stamps.
 Someone had carefully blacked out the address below Finner's name,
-but blocky capital letters in the corner spelled out
+but careful blocky letters in the corner spelled out
 "S. Greenwood, Isla del Tesoro".
+
+He took the letter back to his room
+and lay down once again with the letter on his chest.
+One of the toy reinder in the mobile hanging from the ceiling
+was missing a hoof.
+You could study the mobile for hours and not notice it,
+but once he had,
+he couldn't stop wondering how it had happened.
+Had someone forgotten to attach it when the mobile was made?
+Had it come off when the mobile was hung
+and been vacuumed up and thrown away before anyone noticed?
+Or was it a deliberate mistake,
+like the mis-tied knots weavers put in rugs
+to show that they'd been made by hand?<span class="note">
+The rugs, that is, not the weavers,
+and yes, they really do this.
+</span>
+Or was it a test?
+Was the staff watching to see if he just couldn't stop himself from fixing it?
+
+He shook his head.
+He was starting to think like Zubi,
+which meant it was time to think about something else.
+He held up the letter,
+turned it over to admire the stamps on the back,
+and tore it open.
+
+> Dear Finner,
+>
+> I heard you got home but are having more trouble.
+> Just wanted you to know that
+> it took me and my dad a while to figure things out
+> after I told him that I wanted to be with the trees
+> instead of sailing and pirating and all that.
+> I even spent a few days where you are now
+> but then he came and got me and we had a good talk.
+> We still argue sometimes
+> and he's never going to enjoy being in the forest
+> instead of on the ocean
+> but he wears the peg leg I made for him
+> and tells my friends his dumb jokes
+> and that's good enough for me.
+>
+> I hope you find your forest too.
+>
+> Your friend,
+>
+> Steve (Santa Greenwood)
+
+Finner wiped his eyes with his sleeve
+and folded the letter to tuck it back into the envelope.
+And stopped.
+And slowly,
+looking up at the mobile rather than at the stiff cardboard in his hands,
+used his finger to tear open the sides of the envelope
+so that he could unfold it.
+
+Faint silver lines reflected the light
+when he tilted the envelope at the right angle.
+One side showed a map of The Building
+with the dining hall,
+the dormitories,
+and a dotted line showing how to get into the laundry room in the basement
+and then out through a ventilation shaft.
+The other side showed the gardens around The Building,
+including a pond with a carefully drawn crocodile grinning in its center.
+
+A small X marked a spot on the fence.
+Next to it was one word: "Midnight."
+
+Finner tucked the letter into the torn envelope
+and slid it under his pillow.
+The cheerful santa clock on the wall told him it was half past seven.
+Was the letter real or was it a trap?
+There was only one way to find out.
 
 </section>
