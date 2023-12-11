@@ -27,7 +27,7 @@ def main():
     print(for_table.to_markdown(index=False))
 
     with_target["percentage"] = with_target["words"] / with_target["target"]
-    fig = px.line(with_target, x="date", y="percentage", color="title", markers=True, facet_row="target")
+    fig = px.line(with_target, x="date", y="percentage", color="title", facet_row="target", line_shape="vh")
     fig.update_yaxes(range=[0.0, 1.1], tick0=0.0, dtick=0.2)
     fig.write_image(options.chart, width=1200)
 
