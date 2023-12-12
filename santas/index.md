@@ -3445,7 +3445,7 @@ She'll know what to do."
 
 <section>
 
-## Episode 14: Bars on the Windows
+## Episode 14: No Bars on the Windows
 
 Nobody called The Building a prison except the people who weren't allowed to leave.
 The staff sometimes used the word "hospital",
