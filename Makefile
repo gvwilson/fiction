@@ -30,7 +30,7 @@ chapters:
 	@echo "'book' not defined"
 else
 chapters:
-	@python bin/chapters.py $${book}/index.md
+	@python bin/chapters.py --details $${book}/index.md ${base}
 endif
 
 ## words: total words

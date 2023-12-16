@@ -3445,7 +3445,7 @@ She'll know what to do."
 
 <section>
 
-## Episode 14: No Bars on the Windows
+## Episode 14: The Building
 
 Nobody called The Building a prison except the people who weren't allowed to leave.
 The staff sometimes used the word "hospital",
@@ -3677,12 +3677,157 @@ The other side showed the gardens around The Building,
 including a pond with a carefully drawn crocodile grinning in its center.
 
 A small X marked a spot on the fence.
-Next to it was one word: "Midnight."
+Next to it was one word: "Midnight."<span class="note">
+If you ever have to help someone escape from prison—and yes,
+despite the lack of bars on the windows,
+The Building very definitely *was* a prison—please
+try to be more precise than this in your directions.
+Did "midnight" mean "midnight the day this letter was sent"?
+If so,
+Finner had already missed his rendezvous.
+Did it mean "midnight the day the letter is opened"?
+How could the sender possibly know that?
+Or did it mean
+"every midnight for the next few nights but please don't take too long
+because sooner or later someone will spot me loitering"?
+If that had not in fact been the intended meaning in this case,
+our story would probably have ended here
+and never been told,
+which would have left me with an awful lot of blank pages.
+</span>
 
 Finner tucked the letter into the torn envelope
 and slid it under his pillow.
 The cheerful santa clock on the wall told him it was half past seven.
 Was the letter real or was it a trap?
 There was only one way to find out.
+
+</section>
+
+<section>
+
+## Episode 15: Not All Bars Are On Windows
+
+"Psst!"
+
+"Mm?"
+
+"Psst! Zubi! Wake up!"
+
+"Mmph? Uzzat?"
+
+"Zubi! Come on, wake up, wake up!"
+
+"Sh mibble. Uh sleebig."
+
+"No, no, you're not sleeping.
+You have to wake up.
+We're getting out of here.
+We're getting out of here *now*!"
+
+"Finner?"
+
+"Yeah, it's me.
+Listen,
+you have to wake up.
+I got a letter, and—wait.
+I'll be back in a sec."
+
+"Nng? Finner, is that you?"
+
+"Finner?"
+
+"Hey, Finner, are you there?"
+
+"Ssh!
+Keep it down."
+
+"Hey, Finner, where'd you go?"
+
+"One of the staff just went by.
+I had to hide under the credenza, and—listen,
+that's not important right now.
+I know a way out, Zubi.
+At least I think I do,
+but it's almost midnight—we have to go *now*."
+
+"…"
+
+"Psst!
+Zubi!
+Oh,
+come on,
+don't go back to sleep!"
+
+"I didn't.
+I'm right here.
+What do you mean, you know a way out?"
+
+"I think I know a way out of here,
+but we have to get moving.
+Get some clothes on and let's go."
+
+"…"
+
+"Zubi!
+Come on!
+The staff could be back any moment!"
+
+"You go ahead.
+I'm staying here."
+
+"What?
+Zubi, come on!
+I know it's scary, but this could be our only shot!"
+
+"I'm not scared, Finner, I just don't want to go."
+
+"…what?"
+
+"I don't want to go.
+I don't want to be here any more than you do,
+but—listen, you should go.
+You should go right now, okay?
+And, you know, good luck."
+
+"Wait.
+Zubi,
+just wait a second.
+I thought you hated this place."
+
+"I do, but—look,
+I don't know what kind of santa I'm supposed to be,
+but I don't think I'm an elf, all right?"
+
+"Zubi…I thought… You said you wanted to make bicycles."
+
+"Yeah, well, I say a lot of things.
+You ought to know better by now than to take me seriously."
+
+"So what,
+you're just going to spend the rest of your life chewing jello
+and watching the same stupid movies over and over again?"
+
+"I don't know.
+Maybe if I chew enough jello they'll make me one of the staff."
+
+"Oh, come on, Zubi, don't say that.
+Don't say that.
+Come with me."
+
+"Hey—are you crying?"
+
+"No!
+I just—uh oh."
+
+"Finner?
+Hey, Finner, are you there?"
+
+"Finner?"
+
+"Psst! Finner, are you there?"
+
+"Hey—good luck, okay?
+I hope—whatever."
 
 </section>

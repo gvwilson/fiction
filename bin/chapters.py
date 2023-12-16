@@ -1,51 +1,55 @@
+import argparse
 import sys
 
-USAGE = "Usage: chapters.py [-t] filename"
+def main():
+    """Main driver."""
+    args = parse_args()
+    print(args)
+    with open(args.filename, "r") as reader:
+        in_chapter = False
+        title = ""
+        count = 0
+        total = 0
 
-if len(sys.argv) == 1:
-    print(USAGE)
-    sys.exit(0)
+        for line in reader:
+            line = line.strip()
+            if not line:
+                continue
 
-if len(sys.argv) == 2:
-    filename = sys.argv[1]
-    details = True
-elif (len(sys.argv) == 3) and (sys.argv[1] == "-t"):
-    filename = sys.argv[2]
-    details = False
-else:
-    print(USAGE)
-    sys.exit(1)
+            if line.startswith("<section"):
+                in_chapter = True
 
-with open(filename, "r") as reader:
-    in_chapter = False
-    title = ""
-    count = 0
-    total = 0
-    for line in reader:
-        line = line.strip()
-        if not line:
-            continue
+            elif line.startswith("##"):
+                title = line.strip().split(maxsplit=1)[1]
 
-        if line.startswith("<section"):
-            in_chapter = True
+            elif line.startswith("</section>"):
+                in_chapter = False
+                if count > 0:
+                    if title:
+                        title = f": {title}"
+                    if args.details:
+                        print(f"{count:6d}{title}")
+                    total += count
+                count = 0
 
-        elif line.startswith("##"):
-            title = line.strip().split(maxsplit=1)[1]
+            elif in_chapter:
+                count += len(line.split())
 
-        elif line.startswith("</section>"):
-            in_chapter = False
-            if count > 0:
-                if title:
-                    title = f": {title}"
-                if details:
-                    print(f"{count:6d}{title}")
-                total += count
-            count = 0
+            else:
+                pass
 
-        elif in_chapter:
-            count += len(line.split())
+    base = "" if args.base is None else f" ({total - args.base})"
+    print(f"{total:6d}{base}")
 
-        else:
-            pass
 
-print(f"{total:6d}")
+def parse_args():
+    """Parse command-line arguments."""
+    parser = argparse.ArgumentParser()
+    parser.add_argument("filename", type=str, default=None, help="book file")
+    parser.add_argument("base", type=int, nargs="?", default=None, help="base count")
+    parser.add_argument("--details", action="store_true", default=False, help="show details")
+    return parser.parse_args()
+
+
+if __name__ == "__main__":
+    main()
