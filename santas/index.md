@@ -3827,7 +3827,104 @@ Hey, Finner, are you there?"
 
 "Psst! Finner, are you there?"
 
-"Hey—good luck, okay?
+"Hey—Finner.
+Good luck, okay?
 I hope—whatever."
+
+Santa Greenwood was waiting exactly where his map said he could be,
+hidden among the trees outside the fence.
+He wrinkled his nose when Finner came close.
+
+"It was a *sanitation* shaft, not a ventilation shaft," Finner explained,
+plucking at the odoriferous clothes sticking damply to his skin.
+
+"There's a pond right over there."
+Santa Greenwood nodded to his left.
+Something large and toothy swished through the water as if in response.
+"All right, never mind.
+Can't be any worse than when the llamas get into the candy canes."
+
+The fence wasn't electrified—after all,
+The Building wasn't a prison—but it was quite high
+and topped with spikes "to keep the pigeons off".
+Santa Greenwood solved that problem by putting on a heavy pair of gloves,
+bracing his legs,
+grabbing hold of the chain mesh,
+and pulling it out of the ground with one might heave.
+Finner scraped underneath<span class="note">
+Adding dirt to his clothes but removing some of the odor.
+</span>
+and scrambled back to his feet.
+
+"Definitely worse than the llamas,"
+Santa Hood said drily,
+stepping out of the shadows behind Santa Greenwood.
+
+Finner goggled at her.
+She shrugged.
+"What?
+You didn't think he came up with this plan all on his own, did you?"
+
+Finner spread his hands.
+"Why are you both even here?"
+
+Santa Greenwood glanced at Santa Hood.
+"Thought Sensei Tumbly might have made a mistake,"
+she said,
+not meeting his eyes.
+"Figured we should check in on you ourselves."
+
+Finner looked up at the sky.
+The moon was half full, or maybe half empty—he didn't know enough
+to be able to tell the two apart.
+He could see a few stars,
+but silvery clouds hid the others.
+A light breeze rustled the leaves on the trees behind the two santas.
+He took a deep breath,
+held it a moment,
+and let it out,
+savoring the absence of the cinnamon hot chocolate smell that pervaded The Building.
+
+"There was no mistake," he said.
+"I'm an elf,
+or at least I think I am.
+I don't know what that means yet,
+but I hope it doesn't mean we have to be on opposite sides of…
+Ooph!"
+
+He grunted as Santa Greenwood picked him up,
+squeezed him,
+and set him back down.
+Santa Hood looked back and forth between them,
+then sighed and punched his shoulder.
+"Come on," she said.
+"Escape's not over 'til you've had a bath."
+
+"This escape is over now,"
+a cold voice said.
+Santa Hood and Santa Greenwood whirled around
+as Gran-Granna Tumbly stepped out of the trees behind them
+with half a dozen other santas behind her.
+No,
+not santas,
+Finner realized: robo-santas with fake beards
+and white plastic smiles
+and thuddy things in their hands.
+
+"Sensei—" Santa Hood began.
+
+Gran-Granna Tumbly raised a hand to cut her off.
+"I am very disappointed in you," she hissed.
+"You have been very, *very* naughty.
+And you!"
+She jabbed a finger at Santa Greenwood.
+"What will your father say when he finds out, hm?"
+
+Santa Greenwood reached over his shoulder for his ax
+and grinned the kind of grin
+that would make even the most experienced lumberjack
+think about becoming a cheesewright instead.
+"He said, *now, Periwinkle, now!*"
+And the earth beneath the robo-santas erupted.
 
 </section>
