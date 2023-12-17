@@ -3924,7 +3924,106 @@ Santa Greenwood reached over his shoulder for his ax
 and grinned the kind of grin
 that would make even the most experienced lumberjack
 think about becoming a cheesewright instead.
-"He said, *now, Periwinkle, now!*"
-And the earth beneath the robo-santas erupted.
+"He would say *now, Periwinkle, now!*"
+
+Roots burst out of the earth beneath the robo-santas
+and twisted around their metal legs.
+With a bellow that would have made any pirate proud,
+Santa Greenwood charged forward with his ax held high.
+
+And promptly sprawled face-first in the dirt
+as Gran-Granna Tumbly flicked her cane between his ankles.
+Santa Greenwood scrambled to his feet,
+grabbed his ax,
+and promptly went down again.
+
+"So I guess we're doing this,"
+Santa Hood muttered beside Finner,
+drawing a slender sword with a blackened blade from her sack
+and tossing it aside.
+Gran-Granna Tumbly scowled,
+twisted the head of her cane,
+and drew the sparkly rapier Finner had last seen when the elves had attacked her house.
+It didn't seem particularly magical any longer.
+It just looked dangerous.
+
+"See what you can do about those robots, will you?"
+Santa Hood said,
+settling into a wide-legged stance
+as Gran-Granna Tumbly rocked her head from side to side to crack her neck.
+
+"What exactly do you want me to do?"
+Finner didn't ask,
+because he had now been in enough battles to know that
+there's a time for asking and there's a time for doing,
+and if your great-grandmother and the santa who was trying to rescue you
+had just started trading cuts and jabs and blocks,
+it wasn't the time for asking.
+
+"Hang on, Periwinkle, I'll—would you stop doing that!?"
+Santa Greenwood actually made it to his feet this time
+before a kick to the back of one knee put him back on the ground.
+Gran-Granna Tumbly hadn't even glanced at him.
+All her attention was on Santa Hood.
+
+Finner snatched Santa Greenwood's ax off the ground
+and brought it up in a wild parry
+just as one of the robo-santas swung a padded club at his head.
+The robot managed a second step before a fresh crop of roots
+wound themselves around its legs.
+
+*We're going to lose,* Finner realized.
+Gran-Granna Tumbly was more than a match for Santa Greenwood and Santa Hood together,
+and sooner or later the trees were going to run out of roots.
+
+"Catch!" he shouted,
+tossing Santa Greenwood's ax back to him
+and grabbing Santa Hood's sack.
+He thrust his arm into it,
+pulled out the first thing he found,
+and threw it at Gran-Granna Tumbly.
+
+*Flick!*
+Gran-Granna Tumbly knocked the bath duck aside with her sword.
+"Hey, that's mine!" Santa Greenwood shouted.
+
+"I was going to give it back!"
+Santa Hood shouted back,
+frantically parrying a sudden flurry of attacks from Gran-Granna Tumbly.
+
+A frisbee.
+A toy goat that bleated pitifully as it hit the ground.
+A pair of brightly-patterned socks
+that Finner would have looked at more closely under other circumstances.
+Another second frisbee.
+"Where are the grenades?" he demanded.
+
+"On the left!"
+Santa Hood shouted back.
+"No, not your left, the sack's left!"
+
+Finner thrust his arm into the sack as deep as it would go.
+His fingers closed on something rectangular.
+It was a remote control like the one for his family's refrigerator.<span class="note">
+What, your fridge doesn't have a remote?
+</span>
+He whirled around just as another robo-santa pulled its legs free from the tree roots
+and pointed the remote at it,
+clicking buttons with his thumb.
+
+*Bzzt!*
+The robo-santa froze.
+*All* the robots froze,
+and then turned their heads in unison to look straight at Gran-Granna Tumbly.
+"Safety protocols deactivated," they said in unison.
+"Resuming primary mode."
+
+Gran-Granna Tumbly's eyes widened.
+"Oh, you idiot boy," she snapped.
+"What have you done now?"
+But Finner barely heard her.
+He was too busy being terrified as the robo-santas dropped their padded clubs
+and retracted their hands into their arms,
+sprouting cannons and chainsaws in their place.
 
 </section>

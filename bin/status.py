@@ -1,9 +1,10 @@
 import argparse
-import sys
+from datetime import timedelta
 import numpy as np
 import pandas as pd
 import plotly.express as px
 from prettytable import MARKDOWN, PrettyTable
+import sys
 
 
 def main():
@@ -18,6 +19,7 @@ def main():
                      .sort_values(["category", "title"])\
                      .reset_index()\
                      [["title", "date", "words", "target"]]
+    combined["date"] = pd.to_datetime(combined["date"]).dt.date
     no_target = combined[pd.isna(combined["target"])].assign(percent=0).fillna(0)
     with_target = combined[pd.notna(combined["target"])]
     with_target = with_target.assign(percent=(100 * with_target["words"] / with_target["target"]).astype(int))
@@ -29,6 +31,8 @@ def main():
     with_target["percentage"] = with_target["words"] / with_target["target"]
     fig = px.line(with_target, x="date", y="percentage", color="title", facet_row="target", line_shape="vh")
     fig.update_yaxes(range=[0.0, 1.1], tick0=0.0, dtick=0.2)
+    date_offset = timedelta(days=1)
+    fig.update_xaxes(range=[min(with_target["date"]) - date_offset, max(with_target["date"]) + date_offset])
     fig.write_image(options.chart, width=1200)
 
 
