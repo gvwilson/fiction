@@ -4024,6 +4024,116 @@ Gran-Granna Tumbly's eyes widened.
 But Finner barely heard her.
 He was too busy being terrified as the robo-santas dropped their padded clubs
 and retracted their hands into their arms,
-sprouting cannons and chainsaws in their place.
+sprouting chainsaws and flamethrowers in their place.
+
+</section>
+
+<section>
+
+## Episode 16: Not Even at the Time
+
+Finner managed to push two more buttons,
+with no visible effect,
+before throwing it one way and himself another
+to avoid a jet of flame from one of the robo-santas.
+
+"Their control circuits are in their heads!"
+Gran-Granna Tumbly barked.
+
+"I know where their control circuits are!"
+Santa Hood snapped back.
+The two had just a second to glare at each other
+before the robo-santas were on them.
+Their swords flashed in the moonlight.
+Sparks flew every time they knocked aside a chainsaw.
+Santa Hood ducked, dodged, and whirled,
+never still.
+Gran-Granna Tumbly—Finner wasn't sure what she was doing,
+but somehow she just happened to never be in the way
+of a swinging chainsaw or a burst of flame.
+
+And then Santa Greenwood charged into the fight.
+*Clang!*
+A single mighty swing of his ax sent one robo-santa's head flying.
+"The trees, lad!" he yelled at Finner.
+"Get to the trees!"
+He swung his ax again and swore mightily
+as a lucky shot from a robo-santa set his beard on fire.
+
+Finner sprinted half a dozen steps and pulled up short.
+No.
+No, he wasn't going to run away.
+He didn't have a ray gun or a sword or an ax,
+but—he dodged sideways to avoid Santa Greenwood's backswing—but
+what he *did* have was two free hands and an idea.
+He threw himself full-length on the grass,
+grabbed the remote,
+rolled over,
+and pointed it at the nearest robot.
+
+*Click!*
+*Click!*
+*Click!*
+"Come on, *do* something!" he muttered.
+*Click!*
+*Click!*
+
+The robo-santa froze.
+"AAAAHHH!"
+Santa Greenwood swung his ax.
+*Clang!*
+The robot's head went flying.
+
+Four robots versus three santas (one with a smoldering beard) and Finner.
+*Clang clang zzzt!*
+Gran-Granna's rapier scraped along one of the robot's arms
+and into the joint where its head met its shoulders.
+The robot's eyes flared and went dark.
+
+*Click!*
+*Click!*
+Another robo-santa froze.
+"Yes!" Finner shouted.
+This time it was Santa Hood's blade that found an opening and—
+
+—and her eyes widened in shock
+as Gran-Granna Tumbly pivoted and ran her through.
+"Periwinkle!" Santa Greenwood bellowed in anguish
+as his friend fell to her knees,
+her sword dropping from her hand.
+
+"No!" Finner shouted,
+but then the flat of Gran-Granna Tumbly's sword struck the side of his head.
+He crumpled to the ground.
+
+Gran-Granna Tumbly oophed as she bent over to pluck the remote from his hand.
+Three quick clicks and the robo-santas were at her side.
+"You can save your friend or you can come after me,
+but you can't do both,"
+she told Santa Greenwood,
+backing away.
+
+"Sensei…"
+Santa Hood pleaded weakly.
+
+Gran-Granna Tumbly looked at her coldly.
+"Don't ever call me that again."
+And then she and the robo-santas were gone.
+
+"I'm sorry," Finner said,
+kneeling beside Santa Hood.
+"I'm sorry, I'm sorry."
+
+She coughed wetly.
+"Not…your fault.
+You didn't…stab me."
+
+Santa Greenwood hauled Finner to his feet.
+"Hold this,"
+he ordered,
+thrusting his ax into Finner's hands.
+He picked Santa Hood up and kissed her forehead.
+"Come on," he said gently,
+"Let's get you home."
 
 </section>
