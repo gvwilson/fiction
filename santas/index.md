@@ -4126,14 +4126,158 @@ kneeling beside Santa Hood.
 
 She coughed wetly.
 "Not…your fault.
-You didn't…stab me."
+You didn't…damn, that hurts."
 
 Santa Greenwood hauled Finner to his feet.
 "Hold this,"
 he ordered,
 thrusting his ax into Finner's hands.
 He picked Santa Hood up and kissed her forehead.
-"Come on," he said gently,
+"Come on," he said gently.
 "Let's get you home."
+
+Finner never found out what world The Building was on.
+What he *did* learn
+as they trudged deeper and deeper into the forest that surrounded it
+was that santas didn't just deliver presents to people.
+On one world,
+bears and wolves and beavers got gifts.
+On another,
+Santa Greenwood brought them for the ghosts of the departed,
+who lingered in the heart of the green
+far longer than they did in cities.
+
+"Which I figure stands to reason,
+seein' as how there's so much life there." he said conversationally.
+He didn't appear to be breathing any harder than normal
+despite Santa Hood's weight in his arms.
+Her eyes were closed.
+and Finner kept wanting Santa Greenwood to stop
+so that he could check her pulse or make sure she was breathing or,
+or *something*,
+but keeping up with the burly santa left no time for requests.
+
+After what seemed like all night but was probably only a few minutes
+they reached a small clearing.
+In its center stood the trunk of what had once been a mighty tree,
+thicker than Finner's parents' sleigh was wide.
+It should have reached halfway to the sky,
+but instead it stopped three stories above their heads
+where lightning had shattered it long ago.
+Its top looked like a blackened fang,
+which made the aluminum ladder leaning against it
+seem even more out of place.
+
+"Is that—"
+
+"—our chimney?
+'Fraid so."
+Santa Greenwood hefted Santa Hood,
+who grumbled quietly but didn't open her eyes.
+
+He turned to Finner.
+"Best be about it, then," he said gruffly.
+"And good luck to you."
+
+Finner blinked.
+"What?
+Wait,
+aren't you coming with me?
+Or,
+um,
+aren't I going with you?"
+
+Santa Greenwood shook his head.
+Just once,
+but firmly enough that Finner knew there would be no point arguing.
+"I don't hold with lockin' folks up,
+and I've never been able to say 'no' to Periwinkle,
+but all this talk about santas bein' elves…"
+He shrugged,
+then winced as Santa Hood grumbled again.
+"Anyway,
+you go on ahead—best if you don't tell me where.
+And like I said,
+good luck to you."
+
+"But—"
+Finner swallowed hard.
+"But I don't know where I'm going."
+
+Santa Greenwood shrugged again.
+"Most of us don't,
+lad,
+but we gotta keep goin' anyway."
+
+Finner nodded.
+"Okay.
+And thank you—thank you both.
+Tell her for me, will you?"
+Without waiting for answer he turned
+and put his foot on the first rung of the ladder.
+
+Santas aren't afraid of heights,<span class="note">
+Not even Subway Santa,
+who spent their whole life underground
+and never had a chance to realize
+that heights didn't bother them.
+Giraffes, yes—giraffes terrified them,
+but how they found that out is a story for another time.
+</span>
+so Finner didn't hesitate as climbed higher and higher.
+He didn't even flinch when the ladder shifted slightly under his weight
+and settled into a new (and hopefully more secure) position.
+
+At the top he found three dials screwed onto a plank,
+which was in turn nailed onto the scorched side of the tree.
+He peered over it.
+The tree trunk was hollow,
+which he guessed made sense from an "I'm a chimney" point of view.
+There were no instructions.
+
+*QCD*,
+he thought.
+He remembered those three letters from the airship,
+and from Gran-Granna Tumbly's questioning,
+but he couldn't remember the—what had she called the numbers?
+
+"Squiggle factors," he said out loud.
+He turned the first dial to "QCD"—
+
+—and nearly fell off as Santa Hood's voice said,
+"Hi Finner."
+
+He looked down.
+Santa Greenwood was still on the ground,
+and Santa Hood was still in his arms,
+but her voice was still speaking.
+
+"—hope you'll never hear this,
+but I think Sensei Tumbly is getting suspicious,
+and like she always says,
+a backup plan you don't need is better than one you don't have.
+So,
+if I'm not here to send you on your way,
+try QCD 143.7 22.8.
+It's—"
+He heard her pause for a moment.
+"It was never really a holiday spot,
+if you know what I mean,
+and what we did to it didn't make it any nicer,
+but it's all I've got.
+Good luck."
+There was a moment's pause,
+and then she continued in a deeper tone,
+"This chimney will self-destruct in five seconds."
+
+"What?"
+Finner reached for the dials.
+"But I haven't even—"
+
+"Just kidding,"
+her voice said in its normal tone.
+"Now get going,
+and like I said,
+good luck."
 
 </section>
