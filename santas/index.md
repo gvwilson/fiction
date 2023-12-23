@@ -478,7 +478,7 @@ drew the pin with her teeth,
 and chucked it overhand up the stairs.
 "Bang," she said calmly.
 Sure enough,
-a second later there was a loud, sharp *crack!*
+a second later there was a loud *crack!*
 Bilious green foam began expanding into the stairs.
 
 "That won't hold them for long,"
@@ -491,10 +491,10 @@ hefting his totally intimidating ax,
 which was in fact larger than Finner.
 
 "No we can't," Gran-Granna snapped.
-A UPF[^upof]
+A UPOF[^upof]
 crashed through a window upstairs
 and landed in the front yard with a wet *thud*.
-Boots clattered on the porch roof.
+Boots and broken glass clattered on the porch roof.
 
 [^upof]: Unidentified Piece of Furniture. It's like a flying saucer, except it's rectangular (usually), doesn't fly (unless it's thrown very hard), and (probably) isn't of alien origin.
 
@@ -3167,9 +3167,8 @@ the exact squiggle factors they used for it?
 The numbers beside the chimney code,"
 she explained impatiently.
 
-"Sorry, no," Finner said.[^remember-letters]
-
-[^remember-letters]: He actually thought he'd done rather well to remember the letters, all things considered.
+"Sorry, no," Finner said,
+looking down into his tea.
 
 Gran-Granna Tumbly looked at Santa Hood,
 who raised her hands apologetically.
@@ -3876,7 +3875,7 @@ sprouting chainsaws and flamethrowers in their place.
 
 <section markdown="1">
 
-## Episode 16: Not Even at the Time
+## Episode 16: The Recording
 
 Finner managed to push two more buttons,
 with no visible effect,
@@ -4062,12 +4061,12 @@ Tell her for me, will you?"
 Without waiting for answer he turned
 and put his foot on the first rung of the ladder.
 
-Santas aren't afraid of heights,[^giraffes]
+Santas aren't afraid of heights,[^elephants]
 so Finner didn't hesitate as climbed higher and higher.
 He didn't even flinch when the ladder shifted slightly under his weight
 and settled into a new (and hopefully more secure) position.
 
-[^giraffes]: Not even Subway Santa, who spent their whole life underground and never had a chance to realize that heights didn't bother them. Giraffes, yes—giraffes terrified them, but how they found that out is a story for another time.
+[^elephants]: Not even Subway Santa, who spent their whole life underground and never had a chance to realize that heights didn't bother them. Elephants, yes—elephants terrified them, for reasons that will shortly become clear.
 
 At the top he found three dials screwed onto a plank,
 which was in turn nailed onto the scorched side of the tree.
@@ -4099,13 +4098,10 @@ and like she always says,
 a backup plan you don't need is better than one you don't have.
 So,
 if I'm not here to send you on your way,
-try QCD 143.7 22.8.
-It's—"
-He heard her pause for a moment.
-"It was never really a holiday spot,
-if you know what I mean,
-and what we did to it didn't make it any nicer,
-but it's all I've got.
+try QXK 100.0 20.0.
+It's the single most boring world in existence,
+but you'll be safe there—at least,
+as safe as you can be anywhere.
 Good luck."
 There was a moment's pause,
 and then she continued in a deeper tone,
@@ -4116,9 +4112,118 @@ Finner reached for the dials.
 "But I haven't even—"
 
 "Just kidding,"
-her voice said in its normal tone.
+her recorded voice said in its normal tone.
 "Now get going,
 and like I said,
 good luck."
+The recording paused again.
+"I hope you find what you're looking for or,
+you know,
+*who* you're looking for,
+because I think that'll be amazing."
+
+"Thanks, Periwinkle," he whispered as the recording clicked off,
+knowing that he'd never have the courage to call her that to her face.
+He took a deep breath and turned the first dial to "QCD",
+the second to "143.7",
+and the third to "22.8".
+He half-expected the recording to start up again
+and tell him that he had gotten it wrong,
+but it didn't and he hadn't.
+When Gran-Granna Tumbly had been interrogating him
+and had asked if he remembered the other settings from the airship
+he had only hesitated a moment before lying.
+He didn't know what would be on the other side of the chimney,
+but—he glanced down again at Santa Greenwood and Santa Hood and sighed.
+*I hope it's not too cold,* he thought,
+then pressed the brass button set into the panel above the dials.
+
+Everything stretched around him,
+or possibly he did the stretching
+and once again he was somewhere else.
+
+</section>
+
+<section>
+
+## Episode 17: About Those Elephants
+
+> Hellscape (n.): short for "hellish landscape".
+> Used to describe a harsh or extremely unpleasant locale.
+
+"*Hsst!* Get head down!"
+A hand clamped onto the top of Finner's head and pushed it down
+before he had a chance to protest.
+Something or someone large and furry
+that smelled even more than he did[^still-smelly]
+crouched beside him.
+
+[^still-smelly] The sanitation shaft, remember?
+
+"Must not let them see you,"
+his neighbor whispered loudly,
+peering cautiously over the edge of the ditch
+they were both now in
+and then ducking down again.
+Their beard was streaked with dirt,
+and their santa suit had so much mud on it
+that they were practically camouflaged.
+
+"Who are 'they'?"
+Finner whispered back.
+All he could see was the dirt-and-cinderblock sides of the trench,
+a dull gray strip of overcast above them.
+*At least it's not cold,* he thought.
+
+The santa ignored his question.
+"Come.
+This way to safe place."
+Shouldering a sack that was even filthier than their suit,
+they scurried away.
+
+Finner hesitated,
+but then the ground shuddered slightly beneath him,
+making the water tremble in the puddles by his feet.
+All of a sudden,
+Santa Hood's single most boring world in existence seemed pretty attractive.
+He bent over and hurried after the filthy santa.
+
+The "safe place" turned out to be an abandoned subway station
+with cracked floor tiles and a truly memorable bouquet
+that was equal parts damp earth, oily rust, and wet dog,
+the last of which turned out to be coming from the santa's belongings.
+Two square glass panels connected to a boxy battery
+cast a gloomy blue light over their crates, boxes, sacks, and bags,
+each one overflowing with broken toys,
+salvaged pieces of clothing,
+and kitchen implements still in their immaculate plastic packaging.
+
+"Sit,"
+the santa ordered,
+pointing with their thumb.
+"I make tea."
+
+"What—what is this place?
+What happened here?"
+Finner asked,
+seating himself gingerly on a wooden stool.
+
+The santa snorted.
+"What happened?
+War is happened!
+First the elves with their neeny-neeny I-want-to-be-free."
+His voice shot up half an octave as he said it.
+"So *da*,
+we can talk about maybe some changes,
+but then a ha!"
+Their hands shot into the air dramatically.
+"Ambush!
+The santas,
+they make trap,
+only the elephants make trap as well
+and is all go to *zerfak*."
+
+Finner didn't know what *zerfak* was,
+but he could make a pretty good guess.
 
 </section>
