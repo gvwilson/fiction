@@ -23,17 +23,6 @@ p.author {
     font-weight: bold;
 }
 
-span.sidenote {
-    float: right;
-    clear: right;
-    margin-right: -25rem;
-    width: 20rem;
-    margin-top: 0.3rem;
-    margin-bottom: 0;
-    vertical-align: baseline;
-    position: relative;
-}
-
 /*
  * Flex grid
  */
@@ -74,4 +63,13 @@ span.sidenote {
 
 .center {
     text-align: center;
+}
+
+/*
+ * Footnotes
+ */
+
+div.footnotes {
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
 }

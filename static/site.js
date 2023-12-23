@@ -13,45 +13,46 @@ const fixToc = () => {
     })
 }
 
-const fixNotes = () => {
-    Array.from(document.querySelectorAll('section')).forEach((section, i) => {
-        // Only create list for footnotes at end of section if there are footnotes
-        var list = undefined
-        Array.from(section.querySelectorAll('span.note')).forEach((note, j) => {
-	    // Create footnote list if not already done
-            if (list === undefined) {
-                list = document.createElement('ol')
-                section.appendChild(list)
-            }
-
-            // Unique IDs forward and backward
-            const note_label = `note-${i+1}-${j+1}`
-            const anchor_label = `anchor-${i+1}-${j+1}`
-
-            // Insert forward-linked footnote
-            const forward = document.createElement('a')
-            forward.setAttribute('href', `#${note_label}`)
-            forward.setAttribute('id', anchor_label)
-            forward.textContent = `${j+1}`
-            const marker = document.createElement('sup')
-            marker.appendChild(forward)
-            note.parentNode.insertBefore(marker, note)
-
-            // Move footnote text and add backward link
-            const li = document.createElement('li')
-            li.setAttribute('id', note_label)
-            list.appendChild(li)
-            li.appendChild(note)
-            note.classList.remove('note')
-            const backward = document.createElement('a')
-            backward.setAttribute('href', `#${anchor_label}`)
-            backward.textContent = `\u2934`
-            li.appendChild(backward)
-        })
+const fixFootnotes = () => {
+    // Collect all footnotes.
+    const originalFootnotesDiv = document.querySelector('div.footnotes')
+    const footnotes = new Map()
+    Array.from(document.querySelectorAll('[role="doc-endnote"]')).forEach(note => {
+	footnotes.set(note.getAttribute('id'), note)
     })
+
+    // Move to section.
+    Array.from(document.querySelectorAll('section')).forEach((section, sectionNum) => {
+	// Skip if no footnotes in section.
+	const refs = Array.from(section.querySelectorAll('a.footnote'))
+	if (refs.length > 0) {
+	    // Create a home.
+	    const div = document.createElement('div')
+	    div.classList.add('footnotes')
+	    section.appendChild(div)
+	    const ol = document.createElement('ol')
+	    ol.setAttribute('id', `footnote-list-${sectionNum}`)
+	    div.appendChild(ol)
+
+	    // Move elements, recording IDs.
+	    refs.forEach(r => {
+		const id = r.getAttribute('href').substring(1)
+		const target = footnotes.get(id)
+		target.parentNode.removeChild(target)
+		ol.appendChild(target)
+	    })
+
+	    // Start numbering list at the right value.
+	    const refIds = refs.map(r => r.textContent)
+	    ol.setAttribute('start', refIds[0])
+	}
+    })
+
+    // Clean up.
+    originalFootnotesDiv.parentNode.removeChild(originalFootnotesDiv)
 }
 
 const fixPage = () => {
     fixToc()
-    fixNotes()
+    fixFootnotes()
 }
