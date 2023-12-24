@@ -205,7 +205,7 @@ Dockety buzzed.
 Many of us still require repairs."
 
 "Spare parts my tail!" Bluster said hotly.
-"They got a thing looks like a zap gun,
+"They got a thing that looks like a zap gun,
 and a buzz saw blade and all kinds.
 They put 'em all together one night while we're sleepin'
 and we'll all be in cage carts by sun-up!"
@@ -836,5 +836,114 @@ you have a visitor."
 
 Something warbled under the table.
 Maddy felt a tentative poke at her ankle and smiled despite herself.
+She leaned to the side to look under the table
+and waggled her fingers in greeting.
+"Hi, Mouse."
+
+The little cleaning bot flashed its lights and bleeped back at her.
+She was never sure how much it understood,
+but it always seemed happy to see her.
+
+Maddy reached down and held out a finger.
+Mouse extended its single arm and tapped it,
+then bleeped again and rolled away.
+"It found your silver pencil," Mama Roo said, smiling.
+"And a ball of hair the size of my soup pot."
+
+"Must have been Sindy's," Maddy replied absently.
+
+"Mm."
+Her mother tousled her fur.
+Maddy batted at her hand,
+then held it for a moment.
+"I'm glad you're both safe."
+
+The rest of the day passed in the meandering way that rainy days often do.
+Maddy and Sindy helped their mother wash clothes in the big tub on the back porch
+and then hung them up to dry.
+Potatoes were peeled and boiled,
+a torn sleeve was carefully sewn up,
+two games of checkers were played,
+and then it was time for dinner and bed.
+
+"Tell me a story about Papa,"
+Sindy begged as Mama Roo tucked her in.
+"Tell me the one about the time you two went dancing."
+
+Maddy sat quietly on the stairs out of sight to listen
+as her mother told the story.
+She was old enough now to notice how the details sometimes changed,
+but that didn't matter.
+"And then he said, not with feet like these," she mouthed silently
+in time with her mother
+at the story's end.
+There was a moment of quiet murmuring
+and the sound of Mama Roo kissing her youngest daughter's forehead.
+Maddy wiped her eyes and slipped quietly downstairs.
+
+By the time her mother came down,
+Maddy had opened her notebook and was sketching the outlines of the Prosecutors.
+The tiger would have a fierce scowl, she thought.
+The rabbit would be winking, and the bear—she wasn't sure about the bear yet,
+but maybe he could be resting his elbow on the mulebot's back
+and looking a little puzzled,
+just like Zeke did whenever someone used too many big words.
+
+Mama Roo was careful not to look over her daughter's shoulder
+as she poured the last of the dinner-time tea into her cup and sat down.
+"Quite a day," she sighed.
+
+"Mm."
+Three quick lines and the tiger was wearing a belt.
+"Would we really have run if they'd been here for Sindy?"
+
+Her mother sighed again.
+"I don't know, petal.
+Dockety would help if we did,
+and Special Leaf,
+but…"
+She shrugged.
+"All the stories they tell about Prosecutors,
+and what they write in the papers,
+I've never heard of anyone getting away from them."
+
+"Maybe folks just don't write those stories,"
+Maddy said.
+
+Mama Roo smiled.
+"Maybe they don't.
+But speaking of Special Leaf,
+you and Gumption have been spending a lot of time at his place of late."
+She twitched her whiskers.
+"Been, um, catching up on your reading?"
+
+Maddy rolled her eyes.
+"Mamaaa…"
+She shaded in a hat for the rabbit,
+pressing a little harder with the pencil than she needed to.
+"It's not like that.
+He just still can't do chores, is all.
+And if he takes books home the other goats nettle him something fierce."
+She set aside her pencil.
+"Did you know that his grandma was an ox?"
+
+"Gumption's?
+I believe I did."
+She sipped her tea.
+"It ain't common,
+different kinds getting together,
+but there's nothing wrong with it.
+Your papa's had some camel in it some ways back,
+or so his mama told me.
+Nothing wrong with that at all."
+
+She stood,
+rinsed her cup with a splash of water from the jug beside the sink,
+and set it back in its place on the shelf.
+Her hand lingered for a moment,
+not quite touching the brown-and-blue mug that hadn't been used
+since her husband was taken by bots.
+"Don't stay up too late,"
+she told Maddy.
 
 </section>

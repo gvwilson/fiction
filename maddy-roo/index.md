@@ -5725,7 +5725,7 @@ not just odds and ends like the mayor's zap gun."
 "Improbable events have occurred with surprising frequency."
 
 "Well, this calls for a toast," Mama Roo said.
-She went into the house and emerged a moment later with a bottle of sweet peach juice in one hand,
+She went into the house and emerged a moment later with a bottle of peach juice in one hand,
 four glasses in the other,
 and a small rectangle tucked under her arm.
 She passed the glasses around
