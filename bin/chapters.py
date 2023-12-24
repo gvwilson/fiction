@@ -4,7 +4,6 @@ import sys
 def main():
     """Main driver."""
     args = parse_args()
-    print(args)
     with open(args.filename, "r") as reader:
         in_chapter = False
         title = ""

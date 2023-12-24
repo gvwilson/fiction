@@ -840,14 +840,14 @@ She leaned to the side to look under the table
 and waggled her fingers in greeting.
 "Hi, Mouse."
 
-The little cleaning bot flashed its lights and bleeped back at her.
+The little maintenance bot flashed its lights and bleeped back at her.
 She was never sure how much it understood,
 but it always seemed happy to see her.
 
 Maddy reached down and held out a finger.
 Mouse extended its single arm and tapped it,
 then bleeped again and rolled away.
-"It found your silver pencil," Mama Roo said, smiling.
+"It found your blue pencil," Mama Roo said, smiling.
 "And a ball of hair the size of my soup pot."
 
 "Must have been Sindy's," Maddy replied absently.
@@ -941,9 +941,106 @@ She stood,
 rinsed her cup with a splash of water from the jug beside the sink,
 and set it back in its place on the shelf.
 Her hand lingered for a moment,
-not quite touching the brown-and-blue mug that hadn't been used
-since her husband was taken by bots.
+not quite touching the brown-and-blue mug that had sat and waited patiently
+since Papa Roo had been kidnapped by bots.
 "Don't stay up too late,"
 she told Maddy.
+
+A nudge against Maddy's ankle woke her.
+She had fallen asleep at the table with her head on her arms,
+a pencil still in her hand.
+She yawned,
+then jumped at another nudge.
+
+"Wuzza?"
+She looked under the table,
+not entirely sure if she was awake or dreaming.
+"Oh hey, Mouse.
+You're right,
+I should be in bed."
+
+But when she stood up and turned toward the stairs
+the little maintenance bot scooted in front of her.
+She tried to step around it,
+but it rolled back in her way again.
+
+"Hey,
+Mouse,
+come on.
+It's too late to play fetch,"
+she grouched.
+
+Lights flashed on the bot's back.
+Its single arm pointed toward the hallway.
+"What?
+No,
+I'm not going outside.
+It's the middle of the night!"
+
+The bot zipped back and forth a couple of times,
+still pointing at the front door.
+Maddy yawned again.
+"Fine, I'll have a look.
+But then I'm going to bed, aright?"
+
+The dirt road outside the Roos' front door was empty
+and as quiet as the stars overhead.
+A chuckwill sang a two-note song somewhere in the distance,
+pausing after every second note as if waiting for applause.
+Maddy shivered.
+The night wasn't cold,
+but the air was damp and she really should be in bed.
+
+"There, I looked, aright?"
+She looked down at the little bot in exasperation.
+
+And froze as a second bot crept out from under
+the battered wicker chair that stood beside the front door.
+"Hello,"
+she said uncertainly.
+It waggled one of its six legs at her,
+then shuffled to the side to make room for another hexabot,
+larger and with a heavy wrench claw in place of one of its legs.
+
+Something clunked on the steps behind her.
+She turned cautiously.
+The long-legged gardening bot that some of the townspeople called the Stork
+dipped its—she wasn't sure if it was a head or not,
+but she nodded in reply.
+
+Mouse nudged her ankle again,
+blinked its lights,
+and pointed toward the steps.
+"What?
+Oh no,
+no no no,
+not in the middle of the night."
+
+The little bot bumped her ankle again more insistently.
+"No!
+Mouse,
+mama would have me doing extra chores for a month if I went wandering off at this hour."
+Bump.
+"No!"
+
+"Pleezz."
+The buzzing voice seemed to come from all of the bots at once.
+The gardening bot nudged her hand with its might-as-well-call-it-a-head.
+"Pleezz."
+
+She hesitated a moment longer,
+then nodded.
+"Aright.
+But if anything weird happens,
+I'm headin' straight back here."
+
+The world is a different place at night.
+Even the most familiar things seem new and strange by moonlight
+when no one else is around.
+A tree she had climbed practically every day when she was Sindy's age
+looked like a silver sketch of itself.
+The tall grass waving gently in the breeze by the side of the road
+looked like waves on the ocean,
+or at least like what she had always imagined waves looked like.
 
 </section>
