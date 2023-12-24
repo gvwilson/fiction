@@ -4066,7 +4066,7 @@ so Finner didn't hesitate as climbed higher and higher.
 He didn't even flinch when the ladder shifted slightly under his weight
 and settled into a new (and hopefully more secure) position.
 
-[^elephants]: Not even Subway Santa, who spent their whole life underground and never had a chance to realize that heights didn't bother them. Elephants, yes—elephants terrified them, for reasons that will shortly become clear.
+[^elephants]: Not even Subway Santa, who spent their life underground and never had a chance to realize that heights didn't bother them. Elephants, yes—elephants terrified them, for reasons that will shortly become clear.
 
 At the top he found three dials screwed onto a plank,
 which was in turn nailed onto the scorched side of the tree.
@@ -4225,5 +4225,122 @@ and is all go to *zerfak*."
 
 Finner didn't know what *zerfak* was,
 but he could make a pretty good guess.
+The elephants, though…
+"So what happened next?" he asked cautiously.[^what-next]
+
+[^what-next]: He had learned at school that this was one of the three things you could almost always say if someone was telling a story, the others being, "Really?" and, "Wow."
+
+The filthy santa picked up a can,
+shook it next to their ear,
+frowned,
+and tossed it away.
+"Is all ray guns and speeches and explosions and more speeches.
+Then is everyone go away to fight somewhere else
+except they leave elephants here.
+Is make terrible mess, you see?"
+They waved one hand at everything
+while rummaging through the pile of cans with the other.
+
+"Wow," Finner said.
+"So why did you stay?"
+
+The filthy santa snorted.
+"Someone has to fix this all, yes?"
+They looked up,
+and for a moment the light glistened on the tears in their eyes.
+"Because if not fixed,
+how we will get presents to children?"
+They brightened.
+"Come—I show you."
+
+Finner was *not* excited about going deeper into the derelict subway tunnel,
+but when the filthy santa picked up both of the light panels and scurried away,
+it was either that or sit in the dark
+and listen to the slow drip, drip, drip from the ceiling.
+He picked his way around the debris and piles of salvage.
+
+The filthy santa waited impatiently for him in front of a heavy metal door.
+"Here, you take," the santa said,
+passing one of the lights to Finner.
+They punched a code into the panel beside the door,
+turned a key in a lock,
+turned a second key in another lock,
+and swung the door open.
+
+"Wow," Finner said again,
+but this time he meant it.
+The room he stepped into was as clean as the room behind him was dirty.
+A double dozen workbenches lined the walls,
+each one bearing lathes, saws, drills, and shelves of spare parts.
+Cans of paint and oil were stacked neatly between them,
+but he didn't see any of that,
+not at first,
+because standing in the center of the room was a red and white subway train.
+
+"Is beautiful, *da*?" the filthy santa said,
+putting an arm around Finner's shoulders.
+
+"Wow," Finner said a third time.
+The engine was decorated with silver bells
+and had a small silver snowman as a crest.
+Green enameled holly leaves ran up the sides of the three cars behind it.
+Only when he looked at it again did he notice the scrapes and scratches,
+the tell-tale scorch marks from ray gun fire,
+and the sheets of plastic taped up where windows had once been.
+
+"Is very special," the filthy santa said,
+lowering their voice.
+"Is its own chimney.
+One of a kind—can go anywhere.
+Well,
+anywhere with track,"
+they amended.
+"But I must finish fixing before goes anywhere.
+I am teaching myself how—see?"
+
+They dragged Finner over to the nearest workbench.
+Books and manuals lay on top of it,
+some with more scraps of paper tucked into them as placeholders
+than they had pages.
+Picking up a can of paint and a brush,
+they marched over to the subway train,
+squinted at it,
+and dabbed a bit of red paint on one of the scorch marks.
+
+Finner picked up one of the books.
+*Mechanical Motors Part XVII: Reciprocating Drives* was stamped on the cover.
+Inside were diagrams so detailed he would have needed a magnifying glass to make sense of them
+and dense blocks of text interrupted by formulas and tables.
+"Are these…elf books?"
+
+The santa nodded vigorously.
+"All kinds.
+Was school three stops that way before stupid *zerfak*.
+I sneak past elephants and bring them here."
+
+"But—"
+Finner paused for a moment to consider his words.
+"Isn't it a bit unusual for a santa to be doing this kind of thing?"
+he finally ventured.
+
+"Pfeh."
+The santa dabbed a bit more paint on the train.
+"Santa this, elf that—all this neeny-neeny who-does-what is foolishness.
+What matters is,
+people are happy or not, *da*?
+I fix train,
+train runs,
+I deliver presents,
+I am happy,
+children are happy,
+world is better place."
+
+Finner put *Mechanical Motors Part XVII* back on the workbench
+and picked up a can of silver paint and a brush.
+It took him a moment to open the can—he didn't want to spill any—but
+then he found a spot a few steps away from the santa
+and began dabbing paint on a scrape.
+When the santa began humming a carol,
+he joined in.
 
 </section>
