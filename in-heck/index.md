@@ -1043,4 +1043,109 @@ The tall grass waving gently in the breeze by the side of the road
 looked like waves on the ocean,
 or at least like what she had always imagined waves looked like.
 
+The quartet of bots led her off the road and along a narrow deerpath
+to a small clearing where a dozen other bots waited patiently among the shadows.
+Some she recognized from Dockety's camp,
+but others were new to her.
+
+"Hello," she said uncertainly when her guides paused.
+
+"Hello, Miz Roo," the bots replied in unison—or no,
+not in unison but in turn.
+They buzzed, warbled, clicked, and hummed in rapid succession
+to create the illusion of a single voice
+that seemed to come from everywhere and nowhere.
+"Thank you for coming.
+It is a pleasure to meet you."
+
+Maddy gulped.
+Shaking hands didn't seem like an option,
+so instead she said,
+"Thank you.
+Pleased to meet you too, um…?"
+
+"We are the GearHive,"
+the bots said.
+"We are the little machines that no one notices,
+the odds and ends that keep the world in repair.
+We are many,
+but we are one."
+
+"Um, aright."
+A thought struck her.
+"So is Mouse always part of you?
+Like,
+when I'm talking to it,
+am I talking to all of you too?"
+
+"When we are many, we are many."
+The bots paused.
+"And when we are one, we are one."
+Which Maddy thought was as clear as mud,
+but the bots were still speaking.
+"You helped free some parts of us
+and have made others of us welcome.
+We wish to thank you."
+
+"You're welcome," she said automatically.
+"It was—"
+
+But the GearHive wasn't finished speaking.
+"Your father is alive.
+He is with other organic prisoners in one of Central's facilities."
+The bots paused.
+"We calculated that you would desire this information.
+We hope we calculated correctly."
+
+"…what?"
+Maddy managed.
+
+"We calculated that you would desire this information.
+We hope we calculated correctly,"
+the bots repeated.
+
+Maddy swallowed,
+her mouth suddenly dry.
+Was this all actually just a dream?
+"How—how do you know?
+And where is he?
+*How* is he?"
+
+The stork bot clacked its shears.
+The other bots twitched, wriggled, or blinked in turn
+so that a wave ran through them.
+"Central is holding him in one of its operational centers—the place you call Heck.
+Other parts of us are captive there as well.
+We can only communicate when—"
+They paused.
+"You do not have the words.
+There are little moons above this world,
+placed in the sky by the Makers.
+We can only communicate with our other parts if they are in the right positions.
+We receive glimpses of your father and others when they are."
+
+Maddy shook her head.
+She didn't understand the part about "little moons",
+but that didn't matter.
+"Is he aright?
+Please,
+tell me,
+is he aright?"
+
+"He is—"
+The GearHive paused again as if searching for the right word.
+"He is functional,
+but the facility was not designed to sustain organics.
+He is functional, but not optimal."
+
+Maddy took a deep breath.
+"Are you sure it's him?"
+
+One of the hexabots scuttled forward,
+pulled a scrap of paper out of the wire basket attached to its underside,
+and offered it to Maddy.
+She unfolded it and bit her lip.
+It was a sketch of her and her sister—just their faces,
+but she'd recognize the style anywhere.
+
 </section>
