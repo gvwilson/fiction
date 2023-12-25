@@ -11,28 +11,20 @@ def main():
     options = parse_args()
 
     info = pd.read_csv(options.info)
-    status = pd.read_csv(options.status)
-
+    status = pd.read_csv(options.status).groupby("story").filter(lambda x: len(x) > 1)
     status = status.sort_values("date", ascending=False)
-    combined = status.set_index("story")\
-                     .join(info.set_index("story"))\
-                     .sort_values(["category", "title"])\
-                     .reset_index()\
-                     [["title", "date", "words", "target"]]
-    combined["date"] = pd.to_datetime(combined["date"]).dt.date
-    no_target = combined[pd.isna(combined["target"])].assign(percent=0).fillna(0)
-    with_target = combined[pd.notna(combined["target"])]
-    with_target = with_target.assign(percent=(100 * with_target["words"] / with_target["target"]).astype(int))
 
-    for_table = pd.concat([with_target, no_target]).sort_values(["percent"], ascending=False)
-    for_table = for_table.drop_duplicates(["title"])
-    print(for_table.to_markdown(index=False))
+    df = status.set_index("story")\
+               .join(info.set_index("story"))\
+               .sort_values(["category", "title"])\
+               .reset_index()\
+               [["title", "date", "words"]]
+    df["date"] = pd.to_datetime(df["date"]).dt.date
+    print(df.drop_duplicates(["title"]).to_markdown(index=False))
 
-    with_target["percentage"] = with_target["words"] / with_target["target"]
-    fig = px.line(with_target, x="date", y="percentage", color="title", facet_row="target", line_shape="vh")
-    fig.update_yaxes(range=[0.0, 1.1], tick0=0.0, dtick=0.2)
+    fig = px.line(df, x="date", y="words", color="title", line_shape="vh")
     date_offset = timedelta(days=1)
-    fig.update_xaxes(range=[min(with_target["date"]) - date_offset, max(with_target["date"]) + date_offset])
+    fig.update_xaxes(range=[min(df["date"]) - date_offset, max(df["date"]) + date_offset])
     fig.write_image(options.chart, width=1200)
 
 

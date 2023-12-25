@@ -1,22 +1,22 @@
-story,category,title,target
-35-pounds,short,"35 Pounds",NA
-arecibo,short,"Arecibo Mon Amour",NA
-beneath-coriandel,adult,"Beneath Coriandel",90000
-booksters-apprentice,ya,"The Bookster's Apprentice",90000
-cloudherd,ya,"The Cloudherd and the Tiger's Boy",90000
-eimin-medef,ya,"Eimin in Medef",90000
-eimin-ossisswe,ya,"Eimin in Ossisswe",90000
-extinction,short,"Extinction",NA
-five-letters,short,"Five Letters (None Complete)",NA
-iffy,ya,"Iffy",90000
-in-heck,ya,"In Heck",32000
-last-wolf,ya,"The Last Wolf",90000
-leaderboard,short,"Leaderboard",NA
-maddy-roo,ya,"Maddy Roo",32000
-madica,ya,"Madica",32000
-princess-bear,ya,"The Princess and the Bear",90000
-santas,ya,"All the Other Santas",32000
-still,ya,"Still",32000
-tuppence-a-bag,short,"Tuppence a Bag",NA
-voyage,adult,"The Voyage of the Unshadowed Land",90000
-wrestler,short,"Wrestler",NA
+story,category,title
+35-pounds,short,"35 Pounds"
+arecibo,short,"Arecibo Mon Amour"
+beneath-coriandel,adult,"Beneath Coriandel"
+booksters-apprentice,ya,"The Bookster's Apprentice"
+cloudherd,ya,"The Cloudherd and the Tiger's Boy"
+eimin-medef,ya,"Eimin in Medef"
+eimin-ossisswe,ya,"Eimin in Ossisswe"
+extinction,short,"Extinction"
+five-letters,short,"Five Letters (None Complete)"
+iffy,ya,"Iffy"
+in-heck,ya,"In Heck"
+last-wolf,ya,"The Last Wolf"
+leaderboard,short,"Leaderboard"
+maddy-roo,ya,"Maddy Roo"
+madica,ya,"Madica"
+princess-bear,ya,"The Princess and the Bear"
+santas,ya,"All the Other Santas"
+still,ya,"Still"
+tuppence-a-bag,short,"Tuppence a Bag"
+voyage,adult,"The Voyage of the Unshadowed Land"
+wrestler,short,"Wrestler"
