@@ -22,6 +22,7 @@ serve:
 .PHONY: status
 status:
 	@python bin/status.py --chart status.svg --info _data/info.csv --status _data/status.csv
+	@open status.svg
 
 ## chapters: count words by chapter
 .PHONY: chapters

@@ -22,7 +22,7 @@ def main():
     df["date"] = pd.to_datetime(df["date"]).dt.date
     print(df.drop_duplicates(["title"]).to_markdown(index=False))
 
-    fig = px.line(df, x="date", y="words", color="title", line_shape="vh")
+    fig = px.line(df, x="date", y="words", color="title", line_shape="vh", markers=True)
     date_offset = timedelta(days=1)
     fig.update_xaxes(range=[min(df["date"]) - date_offset, max(df["date"]) + date_offset])
     fig.write_image(options.chart, width=1200)

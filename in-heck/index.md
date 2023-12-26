@@ -1,5 +1,6 @@
 ---
 title: "In Heck"
+chapters: true
 ---
 
 <section markdown="1">

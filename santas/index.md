@@ -4296,7 +4296,7 @@ Well,
 anywhere with track,"
 they amended.
 "But I must finish fixing before goes anywhere.
-I am teaching myself how—see?"
+I am teach myself how—see?"
 
 They dragged Finner over to the nearest workbench.
 Books and manuals lay on top of it,
@@ -4342,5 +4342,91 @@ then he found a spot a few steps away from the santa
 and began dabbing paint on a scrape.
 When the santa began humming a carol,
 he joined in.
+
+There was a shower.
+The water was cold and the industrial smell of the soap stung Finner's nose,
+but being clean again made it bearable.
+And Subway Santa had a shelf full of clean uniforms
+still in their environmentally-friendly wax-paper wrapping.
+They were all too big for Finner,
+but once he rolled up the cuffs a couple of times they felt luxurious.
+
+"So tell me about the elephants,"
+Finner said,
+tucking a spoonful of cold baked beans into his mouth.
+
+Subway Santa shrugged.
+"Big.
+Smart.
+Dangerous.
+Loud,
+except when they want to be quiet,
+and then they are like mice."
+They glanced at Finner.
+"Quiet in elephants is very bad.
+It means they are hunting.
+If you cannot hear them,
+it means they are hunting *you*."
+
+Finner gestured at the train they had been painting.
+"And that's the only way out of here?"
+
+The santa shrugged again.
+"Is normal chimney[^normal-chimney] in factory,
+but factory is where elephants are."
+
+[^normal-chimney]: Anything can seem normal if you're around it long enough, even a transdimensional chimney.
+
+Finner nodded slowly.
+"Then I guess I'm going to get to meet some elephants,"
+he growled.
+
+Subway Santa blinked.
+"Why you would want to do that?
+I just tell you elephants are dangerous!"
+
+Finner shoveled a final spoonful of beans into his mouth
+and hoped that the santa wouldn't be able to see him blush in the dim light.
+The sentence had *sounded* tough in his head…
+
+It took a week to finish fixing the subway train
+and despite the cold showers and cold food,
+Finner enjoyed every moment of it.
+Well,
+not "enjoyed" enjoyed—he bashed his thumb with a mallet at one point,
+which really hurt,
+and he was frustrated over and over again by how little he actually knew
+about joints and couplings.
+There were plane joints, hinge joints, pivot joints,
+and (lower your voice when you say it) condyloid joints,
+all of which had to be connected with sleeve couplings,
+flanged couplings,
+universal couplings,
+and something called an Oldham coupling
+that he and Subway Santa spent half an hour puzzling over
+before the santa declared that the train would probably run without it.
+They loosened bolts and tightened screws,
+oiled pistons,
+and cleaned the grime out of window jambs
+so that the sashes slid up and down with only a faint *ssh*.
+
+Every once in a while,
+though,
+Subway Santa raised his hand in warning.
+When Finner paused and held his breath,
+he heard heavy steps on the ground above their heads.
+Neither of them moved until the ponderous *thud thud* had receded into the distance.
+
+Once,
+Finner knocked a tray of door handles off a workbench
+when Subway Santa signaled it was safe to go back to work.
+As they clattered onto the floor,
+the elephants' footsteps stopped.
+He held his breath,
+wide-eyed,
+as they grew louder once again.
+The lights suspended from the ceiling swayed slightly
+as the elephants paused overhead.
+Moments crawled by before a muffled trumpeting sent the patrol on its way again.
 
 </section>
