@@ -4146,7 +4146,7 @@ and once again he was somewhere else.
 
 <section>
 
-## Episode 17: About Those Elephants
+## Episode 17: The Subway
 
 > Hellscape (n.): short for "hellish landscape".
 > Used to describe a harsh or extremely unpleasant locale.
@@ -4372,8 +4372,9 @@ Finner gestured at the train they had been painting.
 "And that's the only way out of here?"
 
 The santa shrugged again.
-"Is normal chimney[^normal-chimney] in factory,
-but factory is where elephants are."
+"Is only going where tracks are.
+Is normal chimney[^normal-chimney] in factory,
+but is elephants all around factory."
 
 [^normal-chimney]: Anything can seem normal if you're around it long enough, even a transdimensional chimney.
 
@@ -4381,13 +4382,20 @@ Finner nodded slowly.
 "Then I guess I'm going to get to meet some elephants,"
 he growled.
 
-Subway Santa blinked.
+Subway Santa scowled petulantly.
 "Why you would want to do that?
-I just tell you elephants are dangerous!"
+I tell you over and over, elephants are dangerous!"
 
-Finner shoveled a final spoonful of beans into his mouth
-and hoped that the santa wouldn't be able to see him blush in the dim light.
-The sentence had *sounded* tough in his head…
+Finner shoveled a final spoonful of beans into his mouth,
+chewed,
+and swallowed.
+"There's someone I need to talk to."
+
+</section>
+
+<section markdown="1">
+
+## Episode 18: Elephants and Airships
 
 It took a week to finish fixing the subway train
 and despite the cold showers and cold food,
@@ -4428,5 +4436,93 @@ as they grew louder once again.
 The lights suspended from the ceiling swayed slightly
 as the elephants paused overhead.
 Moments crawled by before a muffled trumpeting sent the patrol on its way again.
+
+Finally the train was ready,
+or at least ready enough.
+Subway Santa assembled a complicated diagram out of thumbtacks and yarn
+on top of a grimy old map of the city.
+"Cannot go straight to factory—will give away location of secret workshop,"
+they explained,
+talking to themself as much as to Finner.
+"So we chimney to *here*,
+taken elevated track to *here*,
+switch lines,
+use chimney on train again to get *here*.
+Must slow a little for this bend,
+so you are jumping off there
+before pick up speed again and—"
+
+"Hang on,"
+Finner interrupted.
+"Jump off?"
+
+"*Da*."
+The santa stabbed the map with a grimy fingernail.[^no-shower]
+"Not safe for stopping.
+Don't worry,
+are bushes.
+Well,
+*were* bushes.
+But will be all right."
+
+[^no-shower]: To Finner's relief, Subway Santa actually did shower regularly, but immediately re-filthed their hair, beard, and clothes for extra security.
+
+Finner packed an extra santa suit and a couple of cans of beans into a bag
+and slung it over his shoulder.
+"Should take this also,"
+Subway Santa said gruffly,
+handing him a flat case held closed by a pair of snaps.
+
+Finner hefted it.
+"Thank you.
+What is it?"
+
+"Is your tools,"
+the santa said.
+They clapped Finner on the shoulder awkwardly.
+"I go start train."
+
+Finner swallowed the sudden lump in his throat
+and tucked the case into his bag.
+It was heavier than it had been,
+but he didn't mind the weight.
+
+"Ready?"
+Subway Santa asked as Finner closed the door of the subway engine car behind himself.
+
+"Ready," Finner said.
+
+Subway Santa nodded and pulled first one lever and then another.
+The subway car vibrated faintly as the engine came to life.
+Pulling another lever,
+the santa slowly pressed a pedal down with a booted foot.
+At first nothing happened,
+and for a heartbeat Finner was afraid that they had done something wrong,
+or that *he* had done something wrong,
+but then the train began to roll forward,
+slowly at first and then faster and faster.
+
+He grabbed a bar overhead to steady himself as Subway Santa giggled maniacally.
+"Is working!
+Is working!
+Oh, I love you so much!"
+They leaned forward and kissed the train's control panel.
+
+Faster and faster,
+out of the workshop and into the tunnel.
+The train's headlamp came on as it raced along the tracks.
+Finner and Subway Santa had spent hours clearing debris from them,
+huffing and puffing as they stacked fallen pieces of tile and masonry on a handcart
+to dump in a side passage.
+They hurtled past their hard work in moments,
+whooping with excitement as they shot out of the darkness into the gray light of an overcast day.
+
+"Here we go!" Subway Santa shouted.
+They reached up and pulled a lever attached to a large brass box welded to the ceiling.
+The world in of the train stretched
+and did something that by rights ought to have made a sound like *sproing!*
+and they were elsewhere,
+still under the same sky and surrounded by the same ruined buildings
+but on a different stretch of track with a steep incline right in front of them.
 
 </section>
