@@ -3,71 +3,62 @@ title: "Leaderboard"
 ---
 
 "I don't work with musicians.
-Or actors, or celebrity baristas, or virtuals.
+Or celebrity baristas, or virtuals.
 You know that."
 
 Bench grinned.
-"Maybe this'll change your mind."
+"Maybe this will change your mind."
 She pulled a holo out of the sleeve of her suit jacket,
 slid it across the black quartzite table,
-and sat back,
-already looking smug.
+and sat back looking smug.
 
 I put down my coffee and picked it up.
 "Turner,"
-I said.
+I said after a moment's unnecessary study.
 "*Rain, Steam, and Speed*, mid 1840s.
 It's beautiful."
-I sighed as Bench's grin widened to show off her fashionable steel teeth.
-"Let me guess---your noodle has it."
+I sighed as Bench's grin widened to show off slightly imperfect teeth.
+"Let me guess—your noodle has it."
 
-"He's not 'mine', and he's not a noodle.
-He's just...new."
-She waved a hand to forgive everyone in the world
-who hadn't grown up with enough to be comfortable
-but not so much that they needed people like me.
+"He's not mine, and he's not a noodle.
+He's just…new."
+She waved a hand to excuse her client's youth.
 "It showed up at an estate sale a few months ago,
 and yes,
 I made sure he hung it properly.
 Just give him ten minutes,"
-she wheedled.
-"I'll tell him you need to,
-I don't know,
-center yourself or some bullshit first.
-You can have as much time with it as you want before you talk to him."
+she wheedled as I open my mouth.
+"Ten minutes,
+and you can have as much time with it as you want."
 
 I gave her a tired look.
 "Excellent," she purred,
-reaching for her pad.
-"He's not really a morning person, so how about---"
+reaching for her tablet.
+"He's not really a morning person, so how about—"
 
-A hundred devices beeped, bleebled, or chimed in unison around us,
-momentarily derailing conversation.
-"Called it,"
-Bench said,
-turning her pad to show me the news.
-Vitaly Mendonca:
+A hundred devices beeped, bleebled, or binged around us.
+"Huh,"
+Bench grunted,
+turning her tablet to show me the news.
+Vitaly Mendonça:
 Brazilian,
-fifty-four,
+sixty-four,
 inherited a construction company after his father died (natural causes),
 then made a fortune in remediation work.
-He'd been on and off the leaderboard for years,
-always safely out of the top ten until a couple of hours ago.
+He had been in and out of the Top Twenty for years.
 A combination of fluctuating exchange rates
-and an automatic contract renewal someone had forgotten to account for
-had suddenly catapulted him into the number one spot.
-His handler---some German whiz kid
-whose name I sort of recognized---had been trying frantically to unload stuff since then,
+and an automatic contract renewal someone had overlooked
+had catapulted him into the number two spot that morning.
+His handler—some German whiz kid whose name I should have recognized—had been trying frantically to unload stuff since then,
 but apparently it hadn't been enough.
 A few minutes ago Senhor Mendonca had gone from
-briefly being the richest person in the world
+briefly being one of the richest people in the world
 to permanently being dead.
 
-I swallowed the dregs of my coffee and stood up,
-tucking the holo into my sleeve.
+I downed the last of my coffee and stood up.
 "Put him in my calendar," I said as the buzz in the coffee shop resumed.
 "Give me half an hour with the painting.
-And Bench---he really better not be a noodle."
+And Bench—he really better not be a noodle."
 
 ---
 
@@ -75,37 +66,34 @@ He was a noodle.
 I got an hour with the Turner,
 though,
 which almost made the trip worthwhile.
-It dropped out of sight in the early '30s
-when English museums started putting their collections out on "permanent loan"
+It dropped out of sight in the early thirties
+when English museums started putting their collections on "permanent loan"
 to make ends meet.
 It showed up at a sale in Italy a few years later,
-pre-leaderboard,
 then disappeared again until Guo Leji stopped being
 Vice Premier of the Standing Committee of the National People's Congress
-(or so my pad told me)
+(or so my tablet told me)
 and started being dead.
 
 I scrolled down,
-filling time while my minidrone camera completed its scan.
+filling time while my minidrone camera scanned the painting.
 Guo's story was typical:
 graft, bribes, fingers in too many pies, yadda bloody boo,
-so tangled that even AI accountants couldn't keep track of it.
+so tangled that even the best AI couldn't keep track of it.
 Or maybe he didn't trust them and tried to juggle it all in his head.
 
 The camera chimed softly to tell me it was done.
-I held out my hand and waited for it to settle on my palm.
+I plucked it out of the air and weighed it in my hand
+as I gave the painting one last, long look.
 Twenty terabytes wasn't an archival-quality scan,
-but it would be good enough to train the AI painting tutor
+but it would be good enough to train the AI
 that was trying to teach me how to perform miracles like this.
-
-I stepped back and gave it one last long look.
-I'd put off the inevitable for as long as I plausibly could.
 I put the camera in its case,
-put the case in my satchel,
+put the case in my pocket,
 and went to find Bench and her client.
 
 Chibundu "Zeebop" Unigwe,
-twenty-seven.
+age twenty-seven.
 Born in Lagos,
 grew up in Accra,
 started coding music in his teens,
@@ -114,19 +102,19 @@ and a string of others since then.
 He was rich enough that he could buy half a floor in the independent half of Manhattan,
 decorate it in blond pine,
 and hang a few masterworks like the Turner,
-but he wasn't even in the top ten kay on the board.
+but he wasn't even in the top hundred on the board.
 There was no family wealth to complicate things,
-and nothing to signal someone higher up might have set him up as a dumpster.
+and nothing to signal someone higher up might be using him as a lightning rod.
 
-He bumped elbows with me and offered me a seat
+He bumped elbows with me
 while Bench did something competent with a chrome Egyptian coffee set.
 We made small talk for a few moments,
 and then he asked the question everyone asks:
 who did I think was responsible?
 God?
 Aliens?
-Some kind of AI, or the Israeli government-in-exile
-(which I assumed was what he meant by "the Mossad")?
+Some kind of AI,
+or the Israeli government in exile (which I assumed was what he meant by "the Mossad")?
 
 I shrugged.
 "Doesn't matter," I said,
@@ -140,11 +128,10 @@ He nodded.
 I do have some thoughts about that.
 Have you see this?"
 He brushed the air backhand,
-sending a clip to my pad.
+sending a clip to my tablet.
 
 I heard Bench exhale as it opened on hers as well.
-She'd never been much of a poker player.
-"Yes, I've seen it,"
+"I've seen it,"
 I said flatly.
 I hadn't,
 but I'd seen bullshit like it a hundred times before.
@@ -153,7 +140,7 @@ but I'd seen bullshit like it a hundred times before.
 "But look at their research,"
 Unigwe insisted,
 clearly not used to being told he was wrong.
-"In cases where there was no contract---"
+"In cases where there was no contract—"
 
 "Contracts don't matter,"
 I said.
@@ -172,16 +159,111 @@ From the way he said it
 I could tell it was some fashionable memer's current explanation
 for all the world's ills.
 
-"I prefer to think of it as cautious," I said.
+"I prefer to think of it as experienced," I said.
 distracted by the smell of coffee.
-It had to be fabbed---anyone who could afford real beans
-wouldn't be wasting their time on wishful thinking
-about other people holding their money for them---but
-it still smelled delicious.
 
 I swiped Bench a surreptitious thumbs down.
 She swiped me back a shrug.
 She could bill the noodle for her time,
-and I had my scan so I'd forgive her for wasting mine.
+and the Turner meant I'd forgive her for wasting mine.
 All that was left was some more small talk
-and insincere promises to think about it and follow up at some unspecified future time.
+and insincere promises to follow up later.
+
+She called me again four days later.
+My left arm ached from what my tablet told me was almost thirty-one hours of painting,
+and four more people were dead:
+a Texan property developer (number one spot, had been holed up in a bunker for the last few years),
+a geriatric Arab prince who had "volunteered" to be the family's lightning rod (also number one),
+a government minister from the Philippines (number five or number six, depending on whose model you used),
+and a Papal banker who hadn't even been on the board, which caused a ten-second news flurry.
+There had been other news too—another carbon sequestration agreement had been signed,
+something called leishmaniasis had finally been eradicated,
+yada yada yada—but I had ignored most of it.
+Painting is more physically demanding than most people realize,
+and doing the same strokes over and over with two kilos of haptic trainer on your arm
+leaves you feeling like you've been trampled by an angry goat.
+
+On the upside,
+though,
+I was still alive.
+A flurry of offset trading the day the cardinal died
+had briefly made me the fifty-fifth richest person in the world,
+but the odds on that had seventeen zeroes between it and the decimal point,
+so I hadn't lost any sleep.
+
+"I have someone for you," she said without preamble.
+"And before you ask, no, he's not a noodle.
+He's *definitely* not a noodle."
+
+"What's his art collection like?" I asked,
+scowling at the soapsuds and lather I had inflicted on my canvas that morning.
+Even with the AI nudging my arm,
+I couldn't get the smudging right.
+
+"He doesn't have one," Bench said.
+And then she told me who the client was
+and for a moment I forgot about my painting.
+
+---
+
+You've seen the video.
+*Everyone* has seen the video:
+fifty of the richest people in the world standing awkwardly in three rows
+at the original United Nations building
+while their spokesman begged for their lives.
+It was thirty-three days since the first death—a trillionaire
+who had parlayed lax regulation and good luck into the biggest fortune in history—and
+the pattern had become clear.
+Every day,
+one of them would die,
+and the richer you were,
+the greater the odds of it being you.
+
+Nobody knew how or why.
+Benevolent aliens try to save us from ourselves?
+Some kind of artificial intelligence trying to do the same thing?
+The Jews, the Communists, the CIA, the Illuminati,
+a glitch in our simulation's source code—it didn't matter.
+Every twenty-four hours,
+someone just stopped.
+
+So there they were,
+the most powerful people on the planet,
+offering to meet any reasonable set of demands.
+That evening,
+the Russian Minister for Economic Affairs collapsed mid-cocktail.
+It turned out that she had been trying to find buyers
+for the farms, factories, and banks she had inherited from her father,
+but no one was buying,
+not any more.
+
+"They were cowards."
+The voice from behind me was still strong,
+even if its owner's body looked like a puppet made from old scraps of leather.
+He grinned,
+or perhaps just bared his teeth
+and jerked his chin at the video frame that was showing the speech on a loop.
+"They could all do the math,
+but they were afraid to follow where it led."
+
+"Unlike you,"
+I said,
+clasping my hands in front of me the way my third-grade teacher in Montréal had taught me.
+
+"Unlike me."
+His lifechair made a barely audible hum as it rolled forward
+across the dark wooden floor.
+"Half of them died within a month.
+None of them lasted a year."
+
+"But you did."
+He didn't seem like the sort of person who bumped elbows,
+so I unclasped my hands and put them in my pockets.
+"You paid off the entire foreign debt of Costa Rica,
+gave six billion euros' worth of food to climate refugee camps in the south of France,
+and then you disappeared."
+
+He scowled,
+though it would be more accurate to say his scowl deepened.
+"I didn't go anywhere.
+I just got out of the top hundred and stayed there."
