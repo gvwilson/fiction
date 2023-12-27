@@ -32,7 +32,7 @@ def main():
                 count = 0
 
             elif in_chapter:
-                count += len(line.split())
+                count += len(line.replace("—", " ").replace("…", " ").split())
 
             else:
                 pass

@@ -1147,6 +1147,132 @@ pulled a scrap of paper out of the wire basket attached to its underside,
 and offered it to Maddy.
 She unfolded it and bit her lip.
 It was a sketch of her and her sister—just their faces,
-but she'd recognize the style anywhere.
+but she'd recognize her father's wide-eyed style anywhere.
+
+She steadied herself.
+"Can you get him out?
+Can you—can you bring him home?"
+
+The lights on Mouse's back blinked.
+"Not without help," the GearHive said.
+"We are many, but we are small.
+We need help.
+We need your sister's help."
+
+"What? No!"
+Maddy shook her head.
+"Sindy's just a kid.
+She's not going anywhere near Heck!"
+
+The GearHive's component bots rustled.
+"We are many, but we are small," they repeated.
+"Even together, when we are larger, we are not organic.
+There are machines in the facility that only work for organic operators.
+This is why Central takes your people.
+This is why we need your sister."
+The stork bot clacked its shears again for emphasis.
+
+"But—"
+*But she almost didn't make it back the last time,*
+Maddy thought.
+*And neither did I, and Gumption could have died.*
+
+She took another deep breath,
+held it,
+and let it out slowly
+as she squeezed her hands into fists and relaxed them.
+Special Leaf had taught her to do that.
+*Slow your body, quicken your mind.*
+
+A sudden thought struck her.
+"What about the Prosecutors?" she asked excitedly.
+"They're organic,
+and they know *tons* more about sneaking into places and fighting bots and what-not than anyone!
+And they're right here—they came in this morning.
+I can bring 'em out here to meet you and—"
+
+"No!"
+The GearHive's voice was stern.
+"Not them.
+Not anyone,
+but especially not them.
+They hunt our kind.
+They disconnect us.
+They disassemble us.
+They *destroy* us.
+You must not tell them we are here."
+Mouse rolled back and forth in agitation,
+its lights blinking a rapid frightened pattern.
+
+Maddy swallowed,
+suddenly aware that it was the middle of the night
+and no one knew where she was.
+She shivered as the breeze ruffled her fur.
+"I gotta think about this," she hedged.
+"If I want to talk to you again,
+do I just ask Mouse?"
+
+There was a moment of silence.
+"What is 'mouse'?" the GearHive asked suspiciously.
+
+Maddy pointed at the little cleaning bot.
+"That one.
+I didn't know its real name, so I called it Mouse."
+
+The stork bot clacked its shears.
+"Its designation is Beta-Loopy Nine Six Six Four Rev Two,"
+the GearHive said.
+Mouse blinked.
+"But it says you may continue to call it Mouse."
+Mouse blinked again.
+"And it has something for you."
+
+Mouse rolled foward and reached up with its single arm
+to hand Maddy a—a something.
+She turned it over in her hand.
+It was as long as her thumb but twice as thick,
+made of dark glass and metal.
+Some parts were fused smoothly together,
+others looked like they had been welded on as afterthoughts,
+and the button on the end was protected by a cover plate.
+"What is it?"
+
+"It is a discombobulator," the GearHive said.
+
+Maddy gave the stork bot a look.
+"Seriously?
+That's just a thing in kids' stories."
+Which she still read, she didn't add.
+
+"Very well.
+It is a triphasic ee-em remodulator with enhanced wide-band refulgence."
+
+Maddy digested that.
+"So what does it discombobulate?"
+
+"It will hide you from Central, but only for a brief time.
+It should work four or five—"
+One of the hexabots wriggled its forelegs out of sync with the other bots.
+"Two or three times,"
+the GearHive amended.
+"After that,
+Central will learn the pattern and it will no longer be effective."
+
+Maddy hefted it,
+then slid it into a pocket in her dress.
+"Aright.
+I still got to think about it."
+
+"Think quickly,"
+the GearHive warned.
+"Central moves its prisoners from station to station.
+Your father is on the outskirts of Heck now,
+but only for a while.
+If he is relocated,
+we may not be able to reach him."
+
+Maddy nodded.
+"Come on," she said to Mouse.
+"I'll walk you home."
 
 </section>
