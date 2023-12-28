@@ -3,9 +3,9 @@ from datetime import timedelta
 import numpy as np
 import pandas as pd
 import plotly.express as px
+from plotly.subplots import make_subplots
 from prettytable import MARKDOWN, PrettyTable
 import sys
-
 
 def main():
     options = parse_args()
@@ -16,15 +16,22 @@ def main():
 
     df = status.set_index("story")\
                .join(info.set_index("story"))\
-               .sort_values(["category", "title"])\
+               .sort_values(["title", "date"])\
                .reset_index()\
                [["title", "date", "words"]]
     df["date"] = pd.to_datetime(df["date"]).dt.date
     print(df.drop_duplicates(["title"]).to_markdown(index=False))
 
+    df["change"] = df.groupby("title").diff()["words"]
+    change = df.dropna()[["date", "change"]].groupby(["date"]).sum("change").reset_index()
+    change = change[change["change"] != 0]
+    change = change.rename(columns={"change": "words"})
+    change["title"] = "change"
+
+    df = pd.concat([df[["title", "date", "words"]], change])
+
     fig = px.line(df, x="date", y="words", color="title", line_shape="vh", markers=True)
-    date_offset = timedelta(days=1)
-    fig.update_xaxes(range=[min(df["date"]) - date_offset, max(df["date"]) + date_offset])
+    fig.show()
     fig.write_image(options.chart, width=1200)
 
 

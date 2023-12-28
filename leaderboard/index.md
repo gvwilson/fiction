@@ -252,7 +252,7 @@ clasping my hands in front of me the way my third-grade teacher in Montréal had
 
 "Unlike me."
 His lifechair made a barely audible hum as it rolled forward
-across the dark wooden floor.
+across a dark wooden floor that was older than most countries.
 "Half of them died within a month.
 None of them lasted a year."
 
@@ -261,9 +261,38 @@ He didn't seem like the sort of person who bumped elbows,
 so I unclasped my hands and put them in my pockets.
 "You paid off the entire foreign debt of Costa Rica,
 gave six billion euros' worth of food to climate refugee camps in the south of France,
-and then you disappeared."
+and then poof—you disappeared."
 
-He scowled,
-though it would be more accurate to say his scowl deepened.
-"I didn't go anywhere.
-I just got out of the top hundred and stayed there."
+His scowl deepened.
+"I didn't disappear.
+I just kept myself out of the top hundred."
+He waved a petulant hand.
+The wall beside me made itself transparent.
+The hectares of bamboo outside were an almost ludicrous green.
+"Couldn't stop myself from making money,
+so every time I got into the red zone
+I'd throw it at some godawful idiocy like this."
+
+"Mm."
+Once upon a time,
+when we were a thing,
+Bench used my "mm" as a ringtone.
+She called it the Platonic ideal of noncommittal verbalizations.
+"So how can I be of use?
+You've lasted twenty years without the kind of service I provide.
+I'm not sure how—"
+
+"I want you to kill me,"
+he said.
+"I want you to talk to every lightning rod you know.
+Hell, I want you to talk to the ones you *don't* know—make some new friends.
+And then I want you to have them all to dump every penny they have on me,
+all at the same time."
+
+He leaned forward,
+his skeletal hands tight on the arms of his lifechair
+and his eyes blazing.
+"I don't care who's doing this.
+I don't care why they're doing it or what they want.
+You're going to make me as rich as the next hundred people put together—the next thousand—
+and *then* they can fucking have me."
