@@ -212,8 +212,8 @@ fifty of the richest people in the world standing awkwardly in three rows
 at the original United Nations building
 while their spokesman begged for their lives.
 It was thirty-three days since the first death—a trillionaire
-who had parlayed lax regulation and good luck into the biggest fortune in history—and
-the pattern had become clear.
+who had parlayed lax regulation and cannibalistic business tactics
+into the biggest fortune in history—and the pattern had become clear.
 Every day,
 one of them would die,
 and the richer you were,
@@ -225,7 +225,7 @@ Some kind of artificial intelligence trying to do the same thing?
 The Jews, the Communists, the CIA, the Illuminati,
 a glitch in our simulation's source code—it didn't matter.
 Every twenty-four hours,
-someone just stopped.
+one of them just…stopped.
 
 So there they were,
 the most powerful people on the planet,
@@ -235,25 +235,30 @@ the Russian Minister for Economic Affairs collapsed mid-cocktail.
 It turned out that she had been trying to find buyers
 for the farms, factories, and banks she had inherited from her father,
 but no one was buying,
-not any more.
+not any more,
+and she had refused to just give them away.
 
 "They were cowards."
 The voice from behind me was still strong,
 even if its owner's body looked like a puppet made from old scraps of leather.
-He grinned,
-or perhaps just bared his teeth
-and jerked his chin at the video frame that was showing the speech on a loop.
 "They could all do the math,
 but they were afraid to follow where it led."
 
 "Unlike you,"
 I said,
-clasping my hands in front of me the way my third-grade teacher in Montréal had taught me.
+clasping my hands in front of me the way my third-grade teacher had taught me
+before my forebrain could stop me.
 
-"Unlike me."
+An.ton grinned,
+or perhaps just bared his teeth.
+He had legally changed his name
+to celebrate the sale of his first startup.
 His lifechair made a barely audible hum as it rolled forward
 across a dark wooden floor that was older than most countries.
-"Half of them died within a month.
+
+He jerked his chin at the video frame that was showing the speech on a loop.
+"Unlike me.
+Half of them died within a month.
 None of them lasted a year."
 
 "But you did."
@@ -284,15 +289,54 @@ I'm not sure how—"
 
 "I want you to kill me,"
 he said.
-"I want you to talk to every lightning rod you know.
-Hell, I want you to talk to the ones you *don't* know—make some new friends.
-And then I want you to have them all to dump every penny they have on me,
+"You're going to talk to every lightning rod you know.
+Hell, you're going to talk to the ones you *don't* know too—go on,
+make some new friends.
+And then you're going to have them dump every penny they've got on me,
 all at the same time."
 
-He leaned forward,
+An.ton leaned forward,
 his skeletal hands tight on the arms of his lifechair
 and his eyes blazing.
 "I don't care who's doing this.
 I don't care why they're doing it or what they want.
-You're going to make me as rich as the next hundred people put together—the next thousand—
-and *then* they can fucking have me."
+You're going to make me as rich as the next hundred people
+put together—the next thousand—and *then* they can fucking have me."
+
+---
+
+Arranging a murder is surprisingly easy
+when the intended victim is very rich and completely cooperative.
+An.ton was a citizen of a little Pacific island nation
+whose territory had been abandoned during the Melt
+and whose continued existence was mostly an accounting fiction.
+Three different AIs confirmed that I couldn't be charged with murder under its laws,
+though one did think a case could be made for reckless endangerment.
+
+Choosing a date was also simple.
+The neurodegenerative disorder that had eaten away his muscle mass
+was a result of an overly optimistic gene therapy "cure" for old age
+he had spent one of his fortunes on in his forties.
+His AIs had been charting its progression ever since,
+and calculated a 98% probability that he had more than three months but less than six.
+
+"So make it April first,"
+he told me.
+"Sundays are always slow days for news.
+Maybe I'll give everyone something more interesting to talk about
+than reforestation or UB fucking I."
+
+I nodded and made a note but didn't say anything.
+The more time I spent with him,
+the more things I found myself not saying.
+He was very intelligent,
+very well informed,
+and hated everything that had happened in the last two decades.
+I got a half-hour lecture on the idiocy of rewilding the Great Plains,
+and another on why phasing out non-essential air travel
+had been an infringement of fundamental rights
+and a precursor to the imposition of totalitarian government.
+I didn't point out that by the time the Rewilding Act passed
+most of the land had been abandoned because of drought,
+or ask why the dictatorship he was so worried about
+was taking so long to set up.

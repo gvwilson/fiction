@@ -23,22 +23,12 @@ serve:
 status:
 	@python bin/status.py --chart status.svg --info _data/info.csv --status _data/status.csv
 
-## chapters: count words by chapter
-.PHONY: chapters
+## count: count words
+.PHONY: count
 ifeq (${book},)
-chapters:
+count:
 	@echo "'book' not defined"
 else
-chapters:
-	@python bin/chapters.py --details $${book}/index.md ${base}
-endif
-
-## words: total words
-.PHONY: words
-ifeq (${book},)
-words:
-	@echo "'book' not defined"
-else
-words:
-	@python bin/chapters.py -t $${book}/index.md
+count:
+	@python bin/count.py --details $${book}/index.md ${base}
 endif
