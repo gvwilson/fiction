@@ -30,7 +30,7 @@ def main():
 
     df = pd.concat([df[["title", "date", "words"]], change])
 
-    fig = px.line(df, x="date", y="words", color="title", line_shape="vh")
+    fig = px.line(df, x="date", y="words", color="title", line_shape="hv")
     date_offset = timedelta(days=1)
     fig.update_xaxes(range=[min(df["date"]) - date_offset, max(df["date"]) + date_offset])
     fig.show()

@@ -4524,5 +4524,105 @@ and did something that by rights ought to have made a sound like *sproing!*
 and they were elsewhere,
 still under the same sky and surrounded by the same ruined buildings
 but on a different stretch of track with a steep incline right in front of them.
+A *very* steep incline.
+In fact,
+they were on a roller coaster.
+
+Subway Santa hooted and hollered loudly enough
+to drown out Finner's terrified scream
+as they crested the top of the track and hurtled down.
+"Hang on!"
+Subway Santa shouted just before they hit a corkscrew section of track.
+Finner clamped one hand around an overhead bar and the other over his mouth
+as he was upside down,
+right-side up,
+upside down again,
+and—nope,
+now he was sideways as they rocketed around an impossibly tight turn,
+or at least his body was sideways,
+he wasn't sure where the cold beans he'd had for breakfast were going.
+
+"Again!" the manic santa shouted,
+pedalling pedals and pulling levers.
+Half the lights on the control panel in front of them were red[^panel-lights]
+as they stretched again.
+
+[^panel-lights]: Most of the others had either given up or were too scared to do anything.
+
+The ruined buildings around them were taller this time.
+The few shards of glass left in their windows looked like jagged teeth in hungry mouths.
+Then a windowless tower a few blocks away lifted, swung forward, and came down
+with a thud that made the train shiver on the tracks.
+"Oh," Finner said blankly.
+
+When you think about elephants,
+you probably think about something two or three times your height
+with gray skin,
+flappy ears,
+and a long trunk.
+You might think of tusks or give the picture in your head a cute little tail.
+You might even imagine it spraying water on its back.
+
+Now put that all aside
+and imagine something big enough to knock down a skyscraper.
+Four legs, yes, and a trunk,
+but it has a thick brown pelt
+and its eyes are bright with fury.
+These elephants are the reason Santa Claws stays in his castle,
+and one of them has just spotted the crushable collection of tin cans you are riding in.
+
+The elephant raised its trunk and trumpeted,
+shattering nearby windows with the sound.
+Swing, thud, swing, thud—its first few steps were almost casual,
+but then it started to pick up speed.
+
+Another blast of sound nearly deafened Finner
+as a second elephant answered the first one's call.
+"They try to cut us off!"
+Subway Santa shouted.
+
+"What?"
+Finner shouted back.
+
+Subway Santa shook his head and pulled another lever.
+Steam whistled from the control panel as they picked up speed.
+"Is good thing I take safeties off engine, *da*?
+Otherwise would shut down to stop from exploding!"
+
+"What?"
+
+For a moment they were surrounded by overgrown park instead of buildings.
+Finner twisted around.
+The elephant that had first spotted them had broken into a trot,
+each step eating up half a city block.
+The second elephant was closing in on the right,
+and he had a brief glimpse of a third one somewhere up ahead
+before they were back in the ruins of the city.
+
+Subway Santa reached back and tugged on Finner's sleeve.
+"Get ready!
+I slow down for next turn,
+you jump!"
+
+Finner looked back again.
+The elephant was galloping now and closing fast.
+"We're not going to make it!"
+
+Subway Santa beamed.
+"Will be good!
+I have presents!"
+They reached up,
+flipped the safety cover off a big red button,[^red-button]
+and punched it with their fist.
+
+[^red-button]: It had taken the santa almost a day to choose an appropriate button. It had to be red—tradition demanded nothing less—but they dithered for a while between one with the word "DANGER!" stamped on it and another shaped like a skull and crossbones. In the end, they went with something smaller and more tasteful.
+
+*Clunk!*
+The hitch connected to the last car in the train snapped open.
+As the rest of the train pulled away from it,
+Subway Santa counted,
+"One smelly reindeer, two smelly reindeer…"
+As they hit "five",
+the car exploded.
 
 </section>
