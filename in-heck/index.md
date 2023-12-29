@@ -1276,3 +1276,105 @@ Maddy nodded.
 "I'll walk you home."
 
 </section>
+
+<section markdown="1">
+
+## A Little Bit of Luck
+
+Gumption turned the discombobulator over in his hands.
+"It's a lot heavier than it looks."
+
+Maddy put her hands on her hips.
+"Gumption Goat!
+Is that all you can think to say?
+It's heavier than it looks?"
+
+"Well, what do you want me to say?" he replied defensively,
+handing the tech back to her.
+"You're the one havin' midnight conversations with strange bots,
+and you want *my* opinion?"
+He sighed,
+already wishing that he hadn't snapped at her.
+
+Maddy had been waiting for him that morning when he left home to do his chores.
+That wasn't unusual—Gumption's dad hadn't even bothered to wink at him
+when they rounded the corner to find Maddy standing next to a sheltering pine—but
+he had known right away that something was wrong.
+
+The story of the previous night's meeting had spilled out of her
+like stew being poured out of a saucepan.
+At first Gumption had tried asking questions,
+but each time she doubled back he just got more confused.
+The tech she handed him made it all very real,
+though—real enough to make his ribs twinge.
+
+"So what are you going to do?"
+he asked.
+
+"I don't know," she said.
+She blinked and wiped her face with her sleeve.
+"I don't *know*, Gumption.
+I have to go after my dad,
+you know I do,
+but I can't—"
+She halted.
+
+"You can't take Sindy with you,
+because if anything happened to her it would break you mama's heart,"
+Gumption finished for her.
+She nodded.
+
+Gumption swallowed hard and took her hand in his.
+"Well, whatever you decide to do, I'm in."
+He squeezed her hand for emphasis.
+
+"How can you say that?"
+Maddy wailed.
+"I don't even know yet if I'm going to do anything!"
+
+Gumption squeezed her hand again before letting go of it.
+He really, *really* hoped she couldn't hear his heart pounding.
+"Of course you are.
+And whatever it is, I—you know,
+if I can help or anything,
+I will."
+
+Maddy sniffled, then forced a weak smile.
+"You're just sayin' that 'cause you hope you'll get your ribs broke again
+and get to skip some more chores."
+
+"Absolutely," Gumption nodded.
+"But speakin' of chores,
+we best get started on ours or we're gonna have bigger problems than crazy bots."
+
+"What do you mean, crazy bots?"
+Gumption and Maddy jumped as Sindy stepped out from behind a nearby tree.
+
+"Sindy!
+What do you mean by sneaking up on people like that?"
+Maddy scolded.
+
+"I wasn't sneaking," Sindy protested.
+"I was just walking home and I heard you and—"
+
+"—and decided to sneak up on us and do a bit of eavesdropping,"
+Maddy finished sternly.
+"Anyway, why aren't you at Shaper Leaf's?
+Don't you have a lesson?"
+
+"Shaper Leaf isn't feeling well again.
+For real!"
+she added as Maddy opened her mouth.
+"He was looking *real* tired."
+
+"Well,
+if you don't have a lesson with him,
+you ought to be in school with us.
+No,
+no,
+none of that!"
+Maddy continued in a tone that reminded Gumption uncomfortably of Mama Roo.
+"Now come along, both of you.
+It isn't polite to be late."
+
+</section>
