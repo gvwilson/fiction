@@ -514,7 +514,7 @@ and armor that put Special Leaf's shell to shame.
 Behind them was a tiger,
 an actual tiger with a black patch over one eye and a sword slung on his hip.
 A bear carrying almost as many weapons as the mulebot brought up the rear.
-He wore the same dark green jackets with black collars and cuffs
+She wore the same dark green jackets with black collars and cuffs
 as the rabbit and tiger,
 while the mulebot was painted in matching camouflage.
 
@@ -886,7 +886,7 @@ By the time her mother came down,
 Maddy had opened her notebook and was sketching the outlines of the Prosecutors.
 The tiger would have a fierce scowl, she thought.
 The rabbit would be winking, and the bear—she wasn't sure about the bear yet,
-but maybe he could be resting his elbow on the mulebot's back
+but maybe she could be resting his elbow on the mulebot's back
 and looking a little puzzled,
 just like Zeke did whenever someone used too many big words.
 
@@ -1376,5 +1376,104 @@ none of that!"
 Maddy continued in a tone that reminded Gumption uncomfortably of Mama Roo.
 "Now come along, both of you.
 It isn't polite to be late."
+
+"Sorry, Miz Winnie,"
+the trio said in unison a few minutes later.
+They had gotten to school
+just as Rusty Bridge's other children were finishing
+a ragged rendition of the Plea to the Makers.
+The teacher,
+a horse with a graying mane that she dyed and a matching sock on one leg that she didn't,
+scolded them more sternly than usual
+as they slipped into their usual seats.
+
+The reason quickly became apparent.
+"Class,
+we have a special treat today.
+How many of you know what a Prosecutor is?"
+Every hand shot into the air.
+"And how many of you know that
+we actually have some Prosecutors here in Rusty Bridge *right now*?"
+Hands strained to reach even higher,
+and an excited murmur rippled through the room.
+
+"Well,"
+Miz Winnie said indulgently,
+"If you all promise to be *very good*,
+we have a special treat today.
+Everybody find a partner.
+No,
+Jessamyn,
+you can't be your own partner,
+just—yes, anyone will do.
+All right?
+Two by two,
+then,
+let's go outside for our surprise!"
+And then she sighed as twenty-two children scrambled for the door,
+their partners forgotten.
+
+Gumption was the last one through the door.
+"Oh wow," he breathed,
+then added,
+"Sorry,"
+when Maddy shot him a look.
+There,
+in the center of the more-or-less rectangular playing field behind the school,
+stood Special Blazes and bear who had arrived with him.
+Both of them were wearing their uniform trousers,
+but instead of their jackets they had plain tunics
+no different from what Rusty Bridge's farm hands would wear to do a warm day's work.
+
+"Get outta-come on, I wanna see."
+Bluster and Bravo shouldered their way through the other children
+to stand front and center.
+
+"I missed you in class today,"
+Miz Winnie said curtly.
+
+"Doin' chores,"
+Bluster lied without looking at her.
+He elbowed his twin.
+"Look at the size of 'em!"
+
+The tiger's ear twitched.
+Without warning he crouched and roared.
+Everyone jumped,
+and a few of the smaller children squeaked.
+
+Special Blazes straightened and bared his teeth
+in what Gumption really hoped was a smile.
+"Good morning.
+Who can tell me what we just learned?"
+
+"That you're really scary!"
+Bluster called,
+scowling when Bravo made a kissing sound beside him.
+
+"I try,"
+Special Blazes said modestly.
+"But the real lesson is surprise.
+If you're ever in trouble—if you're ever attacked
+by bots or anyone else—try to surprise them.
+Do something unexpected.
+Like this!"
+
+He scooped up a wooden baton from the grass by his feet
+and swung it at his companion's head.
+*Swish swish!*
+Gumption heard the baton cut the air,
+but as fast as it was,
+the bear was faster.
+She twisted sideways to avoid the first blow,
+ducked to avoid the second,
+then threw a punch that would have knocked the tiger halfway across the field
+if it had landed.
+
+But it didn't.
+The tiger spun the baton around,
+knocking the punch aside,
+then stepped in close and brought their hand up to the bear's throat.
+"Aaaand you're dead," he said pleasantly.
 
 </section>
