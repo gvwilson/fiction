@@ -48,11 +48,11 @@ then made a fortune in remediation work.
 He had been in and out of the Top Twenty for years.
 A combination of fluctuating exchange rates
 and an automatic contract renewal someone had overlooked
-had catapulted him into the number two spot that morning.
-His handler—some German whiz kid whose name I should have recognized—had been trying frantically to unload stuff since then,
+had catapulted him into the number one spot that morning.
+His handler—a German whiz kid I'd met a couple of times—had been trying frantically to unload stuff since then,
 but apparently it hadn't been enough.
 A few minutes ago Senhor Mendonca had gone from
-briefly being one of the richest people in the world
+briefly being the richest person in the world
 to permanently being dead.
 
 I downed the last of my coffee and stood up.
@@ -114,7 +114,7 @@ who did I think was responsible?
 God?
 Aliens?
 Some kind of AI,
-or the Israeli government in exile (which I assumed was what he meant by "the Mossad")?
+or the Israeli government in exile?
 
 I shrugged.
 "Doesn't matter," I said,
@@ -326,17 +326,75 @@ he told me.
 Maybe I'll give everyone something more interesting to talk about
 than reforestation or UB fucking I."
 
-I nodded and made a note but didn't say anything.
+I nodded but didn't say anything.
 The more time I spent with him,
 the more things I found myself not saying.
 He was very intelligent,
 very well informed,
 and hated everything that had happened in the last two decades.
 I got a half-hour lecture on the idiocy of rewilding the Great Plains,
-and another on why phasing out non-essential air travel
-had been an infringement of fundamental rights
-and a precursor to the imposition of totalitarian government.
-I didn't point out that by the time the Rewilding Act passed
-most of the land had been abandoned because of drought,
-or ask why the dictatorship he was so worried about
-was taking so long to set up.
+and another on why banning private air travel
+had been an infringement of fundamental rights.
+
+The hard part was convincing other lightning rods that this wasn't a joke or a hit.
+The choice of date made the first part harder,
+and as for the second…
+
+"*Nein*,"
+Joachim said flatly.
+"Remember what happened with the Koreans?"
+
+"That was completely different," I said.
+"This isn't his kids trying to bump him off.
+He's the one arranging it all.
+It's medically assisted—"
+
+"*Nein*," Joachim repeated,
+scratching at the piercing in his nose and then cutting the call.
+His reputation had taken a hit after what had happened with Mendonça,
+so I thought he'd be open to the idea.
+I shrugged and pinged the next person on my list.
+
+It took me a week to get nineteen people to say "yes".
+My models said fourteen would be enough,
+but everyone had their own formulas and hand-tuned AIs.
+After a bit of debate and a lot of posturing,
+we finally had a team—and some media attention.
+I don't know who leaked what we were doing—for all I know
+it was An.ton himself—but somehow word got out.
+Stories with titles like "The Last Trillionaire Cashes In" started popping up,
+and my status bot had to (politely) fend off thousands of queries a day.
+
+And then a week before our chosen Sunday
+it almost fell apart.
+I don't know if Joachim regretted saying no
+or was jealous of the attention we were getting
+or was just a monumental fuck-up,
+but somehow he got a sign wrong for a few crucial moments at just the wrong time.
+Instead of offloading his clients' money in a hundred different ways
+to keep them off the leaderboard,
+his AIs sucked it all in.
+For thirty-seven and a half seconds,
+he owned more than the next three people on Earth put together.
+Whoever or whatever was making decisions made it then,
+and Joachim flatlined at his desk.
+
+"Let me talk to them," Bench said.
+We were spooned together on the couch in her apartment
+listening to the near-hurricane outside
+while a Bollywood remake of *Buffy the Vampire Slayer*
+played silently on the wall.
+She cupped my breast for a moment,
+comfort rather than suggestion,
+and sat up.
+"Let me be your lightning rod, just this once."
+
+I sat and listened as she did what she did,
+flattering people and pointing out the holes in their arguments
+and generally just getting them back in line.
+"We'll start running sims tomorrow," she said
+in a tone that didn't leave room for disagreement.
+"We'll check each other's models,
+we'll try every one-in-a-billion scenario your AIs can think of.
+And if we screw up, well…"
+She grinned her famous grin and her avatar clapped mine on the shoulder.
