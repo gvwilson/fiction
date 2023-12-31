@@ -26,6 +26,7 @@
 - Special Blazes: a tiger with two pieces of weapons tech
   - Leads a group of Regulators to Rusty Bridge after the first attack
   - Scornful of Special Leaf's decision to lead a quiet life
+- Meribeth the bear
 - Mouse: a small maintenance bot from Patient's lair
   - Taken over by the Gears
 - The Gears
