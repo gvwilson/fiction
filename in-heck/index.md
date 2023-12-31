@@ -24,7 +24,7 @@ A lot had happened since then,
 but at least now they knew he might still be alive.
 
 "Waitin' on anything in particular?"
-a familar voice drawled behind her.
+a familiar voice drawled behind her.
 
 Maddy jumped, startled.
 Mayor Lupus smiled down at her from the porch behind her,
@@ -794,7 +794,7 @@ his eyes on the mayor's house.
 so no point talking of what-ifs and maybes.
 Especially not here,"
 he added,
-nodding slightly toward a small group of people still gossipping nearby.
+nodding slightly toward a small group of people still gossiping nearby.
 "But if I may offer some advice?"
 
 "Sure."
@@ -1227,7 +1227,7 @@ Mouse blinked.
 Mouse blinked again.
 "And it has something for you."
 
-Mouse rolled foward and reached up with its single arm
+Mouse rolled forward and reached up with its single arm
 to hand Maddy a—a something.
 She turned it over in her hand.
 It was as long as her thumb but twice as thick,
