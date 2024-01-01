@@ -32,3 +32,13 @@ else
 count:
 	@python bin/count.py --details $${book}/index.md ${base}
 endif
+
+## spell: check spelling
+.PHONY: spell
+ifeq (${book},)
+spell:
+	@echo "'book' not defined"
+else
+spell:
+	aspell list < ${book}/index.md | python bin/diffset.py - ${book}/words.txt
+endif

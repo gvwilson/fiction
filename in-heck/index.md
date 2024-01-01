@@ -24,7 +24,7 @@ A lot had happened since then,
 but at least now they knew he might still be alive.
 
 "Waitin' on anything in particular?"
-a familar voice drawled behind her.
+a familiar voice drawled behind her.
 
 Maddy jumped, startled.
 Mayor Lupus smiled down at her from the porch behind her,
@@ -794,7 +794,7 @@ his eyes on the mayor's house.
 so no point talking of what-ifs and maybes.
 Especially not here,"
 he added,
-nodding slightly toward a small group of people still gossipping nearby.
+nodding slightly toward a small group of people still gossiping nearby.
 "But if I may offer some advice?"
 
 "Sure."
@@ -1227,7 +1227,7 @@ Mouse blinked.
 Mouse blinked again.
 "And it has something for you."
 
-Mouse rolled foward and reached up with its single arm
+Mouse rolled forward and reached up with its single arm
 to hand Maddy a—a something.
 She turned it over in her hand.
 It was as long as her thumb but twice as thick,
@@ -1471,9 +1471,125 @@ then threw a punch that would have knocked the tiger halfway across the field
 if it had landed.
 
 But it didn't.
-The tiger spun the baton around,
-knocking the punch aside,
+The tiger spun the baton around to knock the punch aside,
 then stepped in close and brought their hand up to the bear's throat.
 "Aaaand you're dead," he said pleasantly.
+
+Some of the children clapped.
+Special Blazes handed the bear the baton and clapped her on the shoulder.
+"Come now,"
+he said,
+"You can do better than that for my friend Meribeth,
+can't you?"
+
+Gumption joined the applause,
+but stopped at a sour look from Maddy.
+"So here's the second lesson,"
+the tiger said.
+"Training wins.
+Training beats size and speed and everything else you can think of."
+
+"What about tech?"
+Bluster asked.
+
+"Even tech,"
+Meribeth the bear rasped.
+Her voice was as rough as sandpaper scraping rust off an old can.
+She took the baton from Special Blazes,
+spun it around,
+and settled into fighting stance.
+
+The tiger stepped back,
+raised his fists,
+and winked at the children as his fists burst into flame.
+The flurry of punches, kicks, and whirlwind baton strikes that followed
+was too fast for Gumption to follow.
+Special Blazes threw one fireball after another.
+The bear batted them aside,
+somehow finding time to strike at her opponent in between.
+
+And then Meribeth threw the baton at Special Blazes' head.
+As he ducked,
+she reached forward and grabbed the front of his shirt.
+"Gotcha," she growled as her other hand closed around his throat.
+
+Nobody had to prompt the children to applaud this time.
+"Woo hoo!" Bluster whooped.
+"That was *amazing*!"
+
+Miz Winnie stepped forward.
+"All right, um, thank you,
+thank you very much for, um, for that demonstration" she said.
+"Now how about we all line up and go *back into the classroom*
+and we can ask the Prosecutors about
+all the *other* things they know how to do?"
+
+Gumption and Maddy found themselves in line behind the goat twins.
+"We *got* got be Prosecutors," Bluster told his twin excitedly.
+"Did you see how they—blam! blam!"
+He threw a couple of punches at the air.
+
+"It was all right,"
+Bravo allowed.
+
+"I bet they rehearsed the whole thing,"
+Maddy muttered.
+
+"Better than makin' stupid little pictures,"
+Bluster shot back.
+Gumption put his hand on Maddy's arm and squeezed to stop her from replying.
+
+The children settled into their seats.
+Special Blazes stood at the front of the class
+with his hands clasped behind his back
+as Miz Winnie counted to make sure no one was missing.
+Gumption looked back at the door,
+but Meribeth had disappeared.
+
+"Now, who has questions?" Miz Winnie said.
+Hands shot into the air.
+How old had Special Blazes been when he became a Prosecutor?
+Eighteen, but he'd joined a troop of Junior Prosecutors when he was twelve.
+Oh, really?
+There wasn't one in Rusty Bridge?
+Well, they'd have to fix that wouldn't they.
+
+Could they see his tech?
+Special Blazes looked at Miz Winnie and tapped his chest.
+When she nodded,
+pulled up his shirt.
+The children ooh'ed and aah'ed at the glassy diamond lozenge strapped to his chest.
+"It lets me make fireballs with my feet too," he said as he pulled down his shirt,
+"But they're a lot harder to aim,
+and pretty hard on my boots."
+
+Had he ever killed anyone?
+"Bluster!"
+Miz Winnie scolded.
+
+"No, no, it's a fair question," Special Blazes said.
+"And unfortunately, the answer is 'yes'.
+I never set out to,
+but sometimes…"
+He shrugged, his face solemn.
+"Sometimes you have to choose between one life and many."
+
+"What about bots?"
+Maddy asked loudly.
+
+The corner of the tiger's mouth quirked.
+"Miz Roo, I presume?
+Pleased to make your acquaintance."
+
+"Pleased to meet you as well,"
+Maddy said in a voice that could have made ice cubes.
+"So if you don't mind me asking,
+how many bots have you killed?"
+
+"Too many," the Prosecutor replied levelly.
+"And I hope I've never *decommissioned* any that I didn't have to.
+But you of all people should know how dangerous rogue bots can be.
+Our job is to keep the living safe.
+Any bot that respects that has nothing to fear from me or any other Prosecutor."
 
 </section>
