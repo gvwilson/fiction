@@ -1320,7 +1320,7 @@ but I can't—"
 She halted.
 
 "You can't take Sindy with you,
-because if anything happened to her it would break you mama's heart,"
+because if anything happened to her it would break your mama's heart,"
 Gumption finished for her.
 She nodded.
 
@@ -1588,8 +1588,189 @@ how many bots have you killed?"
 
 "Too many," the Prosecutor replied levelly.
 "And I hope I've never *decommissioned* any that I didn't have to.
-But you of all people should know how dangerous rogue bots can be.
-Our job is to keep the living safe.
+But you of all people should know how dangerous rogue bots can be."
+His stern gaze swept the classroom.
+"Our job is to keep the living safe.
 Any bot that respects that has nothing to fear from me or any other Prosecutor."
+
+There were more questions—lots more—but Gumption barely heard them.
+When Maddy sat straight up like that with her hands folded primly in front of her
+it meant that she was furious,
+and her being furious meant trouble.
+He discarded one idea for distracting or diverting her after another,
+then resigned himself to getting soaked by the coming storm.
+
+"All right, everyone,
+that's all the time we have today,"
+Miz Winnie said.
+Twenty-two children minus one groaned.
+"You all go out and run around for a bit
+and we'll do some arithmetic practice after, aright?"
+After another round of groans,
+these ones more habitual than sincere,
+the children stood and headed for the door,
+chattering with excitement.
+
+"Miz Roo?
+Could stay behind a moment, please?"
+Special Blazes turned to the teacher.
+"If it's all right,
+I'd like a word with her in private."
+
+"Oh—um, of course."
+Miz Winnie glanced at Maddy.
+"I'll be right outside.
+Come along, Gumption Goat, 'private' doesn't include you."
+
+Once outside,
+Gumption walked as quickly as he could
+to the little alley that ran between the school and the cartwright's shop.
+He kept his head down,
+having learned long ago that
+the trick to not being noticed was to not meet anyone's eyes.
+
+He broke into a run as soon as he reached the alley.
+The cartwright was too busy sawing a broken spoke out of a wheel
+to notice the young goat scramble up the ladder
+that had stood forgotten in the alley for as long as Gumption could remember.
+Up and up he went until the top of his head was level with
+the school's overhanging eaves.
+He braced one hoof against the cartwright's wall,
+took a deep breath,
+and *pushed*.
+
+The ladder swung like an upside-down pendulum.
+It hesitated at the vertical,
+and for a moment he was afraid he hadn't pushed hard enough,
+but then it tipped over toward the school.
+"Mmph," he grunted as his shoulder hit the wall.
+
+Ten seconds of careful, awkward wriggling later,
+he was able to wriggle into the gap under the eaves.
+He peered into the classroom through a knothole.
+All he could see was Miz Winnie's desk,
+so he pressed his ear to it instead.
+
+"I would trust Bee Six Vee with my life, young lady.
+I have in fact done so many times."
+Gumption could hear Special Blazes working to keep his voice level.
+*Welcome to my world,* he thought.
+
+"And I would trust Dockety and Crusher the same way,"
+Maddy retorted sharply.
+"My sister would be in Heck right now if they hadn't fought for us.
+Makers' Names,
+we might *all* be there!"
+
+"I don't think there's any need for that kind of language,"
+Special Blazes shot back.
+Then he sighed.
+"Listen,
+Miz Roo,
+I know they're your friends,
+and I know what you and this town owe them.
+But from what Miz Tumbly tells me,
+there's more of them every day out at that camp of theirs,
+and—"
+
+"Mama Tumbly?"
+Maddy interrupted incredulously.
+"That's who you been listening to?
+Special,
+she's as sour as ten-year-old cider!"
+
+Gumption heard the Prosecutor snort.
+"She is that," he allowed.
+He sighed again.
+"But that doesn't mean she's wrong.
+There's been more traffic in and out of Heck since your little adventure
+than anyone can remember.
+The bots in Heck getting busy,
+well,
+that never goes well for the living.
+I'm not asking you to be a spy,"
+he continued before Maddy could interrupt again.
+"I'd just be grateful if you would be mindful of what you see and hear.
+It would break your mama's heart to lose you too."
+
+With the ladder safely back in place and no grown-ups any the wiser,
+Gumption ambled back onto the playing field behind the school
+as casually as he could.
+Maddy was sitting in her usual place on a rock under one of the cottonwood trees,
+sketching furiously.
+Gumption sat on the stump beside her and waited.
+
+And waited.
+
+And waited,
+until finally Maddy closed her sketchbook with an audible *thump*.
+"Do you know what he wanted me to do?"
+
+"Spy on Dockety an' the others,"
+Gumption said.
+"I was up in the rafters listenin',"
+he added with a non-apologetic shrug.
+
+"They've done nothing wrong!
+They've *helped* people!
+It's folk like Mama Tumbly that are the problem!"
+
+Gumption didn't bother trying to shush her.
+It would just have made her angrier,
+and anyway,
+nobody was paying them the least bit of attention.
+Half the children were either pretending to throw fireballs at each other,
+while the others were speculating on how many people the Prosecutors had killed
+had found sticks and were waving them around like batons.
+"Somebody's gonna stick somebody in the eye,"
+he observed.
+
+"Well at least then they'd have something to talk about for real,"
+Maddy grumbled.
+She opened her sketchbook,
+only to close it again as Sindy came running over.
+
+"We gotta go talk to Special Leaf,"
+the younger Roo said breathlessly,
+grabbing her sister's hand and tugging at her.
+"We gotta go *right now*."
+
+A few minutes later,
+the three children sat at Special Leaf's kitchen table
+as Sindy's story spilled out.
+She had been playing hide and seek instead of play fighting
+because fighting was stupid
+and it was her turn to hide
+so she hid behind the rain barrel,
+the one up at the front of the school by the street,
+and she heard Special Blazes talking with the other Prosecutor,
+the bear—
+
+"Meribeth,"
+Special Leaf inserted.
+
+Yeah,
+her,
+and the bear—sorry, Special, Meribeth—she asked
+if Special Blazes had found out anything
+and the Special said no,
+he didn't think Maddy knew anything they didn't already know.
+
+"An' then he said,
+so that means we go ahead as planned,"
+Sindy continued excitedly.
+"An' Meribeth said,
+well,
+you're the boss,
+but I ain't never heard of anyone goin' into Heck by choice,
+and the Special,
+he said,
+it ain't much of a choice,
+we gotta find out what's goin' on
+and that's the only place with answers."
+
+She bounced up and down in her chair.
+"They're goin' to Heck!
+They can rescue Papa for us!"
 
 </section>
