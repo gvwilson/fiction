@@ -7,6 +7,9 @@ from plotly.subplots import make_subplots
 from prettytable import MARKDOWN, PrettyTable
 import sys
 
+WEEK = 7
+
+
 def main():
     options = parse_args()
 
@@ -22,7 +25,13 @@ def main():
                .reset_index()\
                [["title", "date", "words"]]
     df["date"] = pd.to_datetime(df["date"]).dt.date
-    print(df.drop_duplicates(["title"], keep="last").to_markdown(index=False))
+    start = df.drop_duplicates(["title"], keep="first")\
+              .rename(columns={"date": "start", "words": "initial"})\
+              [["title", "initial", "start"]]
+    current = df.drop_duplicates(["title"], keep="last")
+    combined = start.set_index("title").join(current.set_index("title")).reset_index()
+    combined["diff"] = combined["words"] - combined["initial"]
+    print(combined[["title", "date", "words", "diff"]].to_markdown(index=False))
 
     # Find change over time.
     df["change"] = df.groupby("title").diff()["words"]
@@ -35,10 +44,14 @@ def main():
     known = set(change["date"])
     min_date = min(change["date"])
     max_date = max(change["date"])
-    full = {min_date + timedelta(days=d) for d in range(0, (max_date - min_date).days)}
+    num_days = (max_date - min_date).days
+    full = {min_date + timedelta(days=d) for d in range(0, num_days)}
     missing = pd.DataFrame({"title": "change", "words": 0, "date": list(sorted(full - known))})
     change = pd.concat([change, missing]).sort_values("date").reset_index()
-    print(change[["date", "words"]].tail(n=7).to_markdown(index=False))
+    print(f'\n{change[["date", "words"]].tail(n=WEEK).to_markdown(index=False)}')
+
+    # Show overall rate.
+    print(f'\nrate: {int(sum(combined["diff"]) / num_days)} words/day')
 
     # Combine stories and changes for plotting.
     df["kind"] = "story"
