@@ -1,5 +1,6 @@
 ---
 title: "Leaderboard"
+year: 2057
 ---
 
 "I don't work with musicians.
@@ -95,7 +96,7 @@ and went to find Bench and her client.
 Chibundu "Zeebop" Unigwe,
 age twenty-seven.
 Born in Lagos,
-grew up in Accra,
+grew up in Accra and Grenoble,
 started coding music in his teens,
 had his first viral show at nineteen
 and a string of others since then.
@@ -120,7 +121,7 @@ I shrugged.
 "Doesn't matter," I said,
 and it didn't,
 at least not to me.
-"What _matters_ is transparency.
+"What *matters* is transparency.
 Anything you hold back or keep off the books is a risk."
 
 He nodded.
@@ -147,14 +148,14 @@ I said.
 "If whoever you give it to thinks they're supposed to give it back,
 it counts as your money.
 Even if they're planning to steal it.
-Even if they _do_ steal it.
+Even if they *do* steal it.
 With respect,
-Mister Unigwe,
+M'sieur Unigwe,
 we've known that for years,
 and there's no way around it."
 
 Unigwe's jaw set.
-"That's a defeatist attitude," he snapped.
+"That is defeatist," he snapped.
 From the way he said it
 I could tell it was some fashionable memer's current explanation
 for all the world's ills.
@@ -252,7 +253,7 @@ before my forebrain could stop me.
 An.ton grinned,
 or perhaps just bared his teeth.
 He had legally changed his name
-to celebrate the sale of his first startup.
+to celebrate his first startup's IPO.
 His lifechair made a barely audible hum as it rolled forward
 across a dark wooden floor that was older than most countries.
 
@@ -270,7 +271,7 @@ and then poof—you disappeared."
 
 His scowl deepened.
 "I didn't disappear.
-I just kept myself out of the top hundred."
+I just kept myself out of sight and out of mind."
 He waved a petulant hand.
 The wall beside me made itself transparent.
 The hectares of bamboo outside were an almost ludicrous green.
@@ -289,29 +290,28 @@ I'm not sure how—"
 
 "I want you to kill me,"
 he said.
-"You're going to talk to every lightning rod you know.
-Hell, you're going to talk to the ones you *don't* know too—go on,
-make some new friends.
-And then you're going to have them dump every penny they've got on me,
+"I want you to talk to every lightning rod you know.
+Hell, I want you to talk to the ones you *don't* know—
+it'll be a chance to make some new friends.
+And then I want you to have them dump every penny they've got on me,
 all at the same time."
 
 An.ton leaned forward,
 his skeletal hands tight on the arms of his lifechair
 and his eyes blazing.
 "I don't care who's doing this.
-I don't care why they're doing it or what they want.
-You're going to make me as rich as the next hundred people
-put together—the next thousand—and *then* they can fucking have me."
+I don't care why they're doing it or what they want from us.
+You're going to make me as rich as the next hundred people on the planet put together,
+and *then* they can fucking have me."
 
 ---
 
-Arranging a murder is surprisingly easy
+Arranging a death is surprisingly easy
 when the intended victim is very rich and completely cooperative.
 An.ton was a citizen of a little Pacific island nation
-whose territory had been abandoned during the Melt
-and whose continued existence was mostly an accounting fiction.
+and whose current existence was mostly an accounting fiction.
 Three different AIs confirmed that I couldn't be charged with murder under its laws,
-though one did think a case could be made for reckless endangerment.
+though one did predict a case could be made for reckless endangerment.
 
 Choosing a date was also simple.
 The neurodegenerative disorder that had eaten away his muscle mass
@@ -332,9 +332,9 @@ the more things I found myself not saying.
 He was very intelligent,
 very well informed,
 and hated everything that had happened in the last two decades.
-I got a half-hour lecture on the idiocy of rewilding the Great Plains,
+I got a lecture on the idiocy of rewilding the Great Plains,
 and another on why banning private air travel
-had been an infringement of fundamental rights.
+had been an infringement of fundamental human rights.
 
 The hard part was convincing other lightning rods that this wasn't a joke or a hit.
 The choice of date made the first part harder,
@@ -344,9 +344,9 @@ and as for the second…
 Joachim said flatly.
 "Remember what happened with the Koreans?"
 
-"That was completely different," I said.
-"This isn't his kids trying to bump him off.
-He's the one arranging it all.
+"That was completely different," I shot back.
+"His kids aren't trying to bump him off.
+He doesn't even *have* kids.
 It's medically assisted—"
 
 "*Nein*," Joachim repeated,
@@ -392,9 +392,107 @@ and sat up.
 I sat and listened as she did what she did,
 flattering people and pointing out the holes in their arguments
 and generally just getting them back in line.
-"We'll start running sims tomorrow," she said
-in a tone that didn't leave room for disagreement.
+"OK,
+we'll start running sims tomorrow," she said
+in a tone that implied she was summing up something they had agreed to
+rather than making a decision.
 "We'll check each other's models,
 we'll try every one-in-a-billion scenario your AIs can think of.
 And if we screw up, well…"
 She grinned her famous grin and her avatar clapped mine on the shoulder.
+"It's been nice knowing you."
+
+---
+
+I spent the last day of March painting.
+Bench invited me to join her and one of her friend groups
+try something called immersive gardening,
+but was neither surprised nor disappointed when I shook my head.
+"Don't second-guess yourself," she ordered sternly,
+kissing me for emphasis
+before climbing into the back of a putt-putt
+with an actual human driver.
+
+My parents were refugees.
+So were the parents of pretty much everyone I knew until I was twelve.
+They got as far as Canada,
+but then there was a change of government
+or a change of policy
+or maybe there hadn't ever really been a plan or a home for them.
+My *ummi* thought she was going to be a doctor in Toronto.
+Instead,
+she cleaned houses in the suburbs around Sudbury
+while my *abbi* sorted trash instead of designing houses.
+AIs could clean and sort better and faster than people,
+but then what would newcomers like us do to earn citizenship?
+
+When I was little,
+I thought everyone had to wear a tracking bracelet.
+
+Art was a way out.
+If you wanted a picture,
+you described it to an AI and poof,
+there it was,
+so having art stopped mattering.
+*Artists*,
+on the other hand,
+remained scarce,
+so billionaires and trillionaires started collecting and trading
+people who could paint or sculpt.
+
+My *abbi* could work miracles with a pencil and a piece of paper.
+My *ummi* started leaving little sketches he had done
+in the houses she cleaned.
+"Oh, I am all sorry,"
+she would say, flustered.
+"It is my husband's.
+He makes it for our daughter.
+Thank you for finding it."
+
+They talked sometimes about what they'd do if he was ever discovered,
+but he never was.
+Later,
+when they got sick,
+my *abbi* drew picture after picture of houses he had once hoped to build,
+houses that could withstand the punishing heat
+that had made home unliveable.
+
+That morning,
+after Bench left,
+I pinned one of those drawings up on the wall,
+prepped a canvas,
+and started to paint.
+I left the haptic trainer in its case.
+I wanted to do this one.
+It wouldn't be a Turner,
+and I'd scrape the canvas clean when I was done,
+but—
+
+My tablet bleebled.
+"Piss off," I said.
+I was sure I had told it no interruptions.
+
+It bleebled again.
+"Come on, I know you're there,"
+An.ton's voice said.
+
+I let my breath out in a long hiss
+and set my brush down very precisely on the palette I'd been preparing.
+"Piss on.
+Good afternoon, An.ton.
+How can I help you?"
+
+"Have you ever been in orbit?"
+he asked.
+
+*Of course not, and you know that,* I didn't reply.
+"No."
+
+"I have.
+Four times.
+The sex wasn't nearly as good as they promised,
+but the view was…"
+
+"Amazing?" I filled in when he paused.
+
+"Just as disappointing," he snapped.
