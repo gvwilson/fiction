@@ -178,7 +178,7 @@ with a faint *zick zick*.
 while attempting to take possession of items that do not belong to them,"
 it said,
 its voice buzzing slightly.
-"We request punitive measures be taken to deter a repeat of such attempts."
+"We request punitive measures be applied to deter a repeat of such attempts."
 
 Mayor Lupus sucked in her cheeks.
 "Is that right, boys?
@@ -811,7 +811,7 @@ but he is not your friend."
 
 <section markdown="1">
 
-## The Mouse and the Gears
+## Gears
 
 Gumption went home after that—Prosecutors or no Prosecutors, he had chores to do.
 Maddy walked part of the way with him in silence
@@ -1192,7 +1192,7 @@ And they're right here—they came in this morning.
 I can bring 'em out here to meet you and—"
 
 "No!"
-The GearHive's voice was stern.
+The GearHive's voice was sharp.
 "Not them.
 Not anyone,
 but especially not them.
@@ -1279,7 +1279,7 @@ Maddy nodded.
 
 <section markdown="1">
 
-## A Little Bit of Luck
+## A Little Bit of Eavesdropping
 
 Gumption turned the discombobulator over in his hands.
 "It's a lot heavier than it looks."
@@ -1772,5 +1772,96 @@ and that's the only place with answers."
 She bounced up and down in her chair.
 "They're goin' to Heck!
 They can rescue Papa for us!"
+
+</section>
+
+<section markdown="1">
+
+## Loyalties
+
+Ten minutes later,
+Maddy slammed Special Leaf's front door behind her.
+She loved Sindy fiercely,
+but sometimes her sister just wouldn't *listen*.
+Prosecutors might take orders from children in story books,
+or let them come along on raids,
+but this wasn't a story.
+And for all his good manners,
+she didn't trust Special Blazes any further than she could have thrown him.
+Plus,
+the GearHive had said not to tell him,
+and it seemed to be the only one with anything *useful* to say.
+
+She stopped three doors up the street and sighed.
+It wasn't fair to leave Sindy with Gumption and Special Leaf—she ought to go back
+and deal with her sister's angry tears herself.
+But what could she say that would actually help?
+And who was going to help *her*?
+
+She waved half-heartedly at Able-Six
+as the bot rolled by on its rounds,
+then shouldered her bag.
+There was one place she could go…
+
+Nobody in Rusty Bridge knew quite what to call
+the camp that Dockety and its fellow bots had built
+a few minutes' walk from town.
+Was "camp" the right word for buildings with stone floors and proper roofs with eavestroughs?
+Maddy had overheard grownups referring to it as "Botburg" and "Botsville",
+but their listeners had scoffed each time.
+For now,
+it was just a place—just a dozen structures ranging in size
+from a garden shed to something half as big as the Roos' house
+standing in a circle around the black glass charging post.
+
+Docker was using a brush to clean the muck out of Crusher's treads when she arrived.
+"It says you are better at this than any bot,"
+Dockety told her as she dropped her bag on a bench covered in tools and spare parts.
+"Even better than this one."
+
+"Yeah?
+Well, I'm glad I'm good at something."
+She took the heavy brush from Dockety and patted Crusher's side.
+"Got a right mess of muck in here.
+Been clearing brush with Zeke again?"
+
+"Confirmed," the hauler bot flashed on its screen.
+The word dissolved into speckles and flashes
+as Maddy began scrubbing mud and leaves out of the gaps between its treads.
+
+It took her almost half an hour to get the bot clean
+and tell Dockety everything that had happened since the Prosecutors arrived.
+Finally,
+she tossed the brush into a nearby bucket and patted Crusher's side once again.
+"All done."
+The hauler bleeped,
+revved its motor happily,
+and rolled off to recharge.
+
+"So is this hive bot thing for real?"
+she asked Dockety as she wiped her hands clean.
+
+The lenses on the front of Dockety's head rotated a quarter turn
+and then rotated back.
+"This one has heard of such things,
+but never encountered one.
+They are dangerous."
+
+Maddy snorted.
+"You're all pretty dangerous, you know?"
+
+Dockety's manipulator clacked.
+"Dangerous to the bots that make it up.
+Merging processing streams in that way is difficult.
+Disentangling them is more so.
+It can result in permanent loss of self."
+
+Maddie digested that for a moment.
+"You mean, bots can get stuck like that?"
+
+"Affirmative."
+The bot's lenses rotated again.
+"Our individuality is our most precious component.
+A bot must be very lonely or very desperate to risk losing it."
 
 </section>
