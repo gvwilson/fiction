@@ -379,7 +379,7 @@ then reluctantly pulled the letter out of her satchel.
 "I was wondering when that would arrive."
 He opened the breadbox on the counter behind him,
 took out a butternut cookie,
-and offered it to Maddie.
+and offered it to Maddy.
 
 "What's this for?" she asked.
 
@@ -1259,7 +1259,7 @@ the GearHive amended.
 Central will learn the pattern and it will no longer be effective."
 
 Maddy hefted it,
-then slid it into a pocket in her dress.
+then slid it into a pocket in her skirt.
 "Aright.
 I still got to think about it."
 
@@ -1577,7 +1577,7 @@ He shrugged, his face solemn.
 "What about bots?"
 Maddy asked loudly.
 
-The corner of the tiger's mouth quirked.
+The corner of the tiger's mouth quirked up.
 "Miz Roo, I presume?
 Pleased to make your acquaintance."
 
@@ -1838,11 +1838,11 @@ The hauler bleeped,
 revved its motor happily,
 and rolled off to recharge.
 
-"So is this hive bot thing for real?"
+"So is this hive thing for real?"
 she asked Dockety as she wiped her hands clean.
 
 The lenses on the front of Dockety's head rotated a quarter turn
-and then rotated back.
+and rotated back.
 "This one has heard of such things,
 but never encountered one.
 They are dangerous."
@@ -1851,17 +1851,123 @@ Maddy snorted.
 "You're all pretty dangerous, you know?"
 
 Dockety's manipulator clacked.
-"Dangerous to the bots that make it up.
+"Thank you,
+but this one meant that it is dangerous to the bots that make up a hive.
 Merging processing streams in that way is difficult.
 Disentangling them is more so.
 It can result in permanent loss of self."
 
-Maddie digested that for a moment.
-"You mean, bots can get stuck like that?"
+Maddy digested that for a moment.
+"You mean, bots can get stuck in hives?"
 
 "Affirmative."
 The bot's lenses rotated again.
 "Our individuality is our most precious component.
 A bot must be very lonely or very desperate to risk losing it."
+
+Maddy digested that.
+"There's one more thing,"
+she said,
+pulling the cylinder of glass and metal out of the pocket in her dress.
+"Mouse gave me this—or the hive thingy did.
+They called it a discombobulator."
+
+Dockety took it with the smaller of its two manipulator arms
+and studied it.
+"This one does not recognize this technology.
+What is its function?" the bot asked.
+
+"They said it would hide from the bots in Heck,"
+Maddy said,
+taking it back.
+"Here, there's a button on the end."
+She flipped back the safety cover and pressed it.
+
+A tingle ran up her arm.
+Dockety's speaker crackled with static.
+Its arms shot up as if to block a punch.
+"Status!? Status!? Where are you? What has happened?"
+it demanded.
+
+"What?"
+Maddy took her thumb off the button.
+"I'm right here!"
+
+The bot's lenses rotated back and forth so quickly
+that Maddy could hear their little motors whine.
+"You disappeared," the bot said flatly.
+"You were there and then you were not and then you were again.
+How did you do that?"
+
+Maddy looked at the piece of tech in her hand.
+"I just pressed the button,
+like this."
+
+Dockety's speaker crackled again.
+"You are not there.
+You were there and you did not move but you are not there.
+This does not compute.
+It is not possible.
+Make it not be happening!"
+
+"Aright, aright!"
+Maddy released the button.
+"I'm sorry,
+I didn't mean to scare you.
+I swear, I didn't know what it would do."
+She hesitated.
+"What *did* it do?"
+
+Dockety lowered its manipulators.
+"You vanished.
+You were there and then you were not there.
+This one—this one was afraid for you."
+
+"I'm sorry," Maddy repeated.
+She turned the discombobulator over in her hands,
+her mind whirling.
+If it really did make her invisible to bots,
+then maybe rescuing her father wasn't as crazy an idea as it sounded.
+*Which doesn't mean it isn't crazy at all,*
+she reminded herself.
+
+Whatever she might have thought or said next
+was interrupted by a staccato trio of whistle toots.
+Dockety spun its head around.
+"The Prosecutors are here."
+Its head snapped back into position.
+"Do you want to hide?"
+
+"What?
+Why would I—"
+Maddy started,
+but it was already too late.
+Special Blazes had come around the corner with Bee Six Vee behind him.
+
+The Prosecutor touched a finger to the brim of his hat.
+"Morning," he said.
+"Hope I'm not interrupting anything."
+
+"Our conversation had just terminated,"
+Dockety replied,
+its voice buzzing slightly.
+"Is there something you require?"
+
+The corner of the tiger's mouth quirked up.
+"You know what I like most about bots?
+It's how direct you all are.
+No havering,
+nothing about the weather or how are the kids,
+just straight to the point.
+Isn't that right, Bee?"
+The mulebot stamped the ground twice with one of its forefeet.
+
+"Is there something you require?"
+Dockety repeated.
+
+Special Blazes nodded.
+"Matter of fact, there is.
+We're planning on doing a bit of scouting up along by Heck.
+I was hoping you'd be interested in joining us."
 
 </section>
