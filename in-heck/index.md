@@ -1970,4 +1970,158 @@ Special Blazes nodded.
 We're planning on doing a bit of scouting up along by Heck.
 I was hoping you'd be interested in joining us."
 
+Maddy knew how quickly bots could think.
+She also knew how much thinking it took to talk to people—Dockety and Special Leaf
+had explained it to her and Gumption and Sindy one afternoon
+when the bot failed once again to understand a joke.
+Each word could mean a dozen different things,
+and that was before you calculated tone and speed
+and the hesitations between them—all the things that
+people noticed without consciously paying attention to them.
+Multiplying all those possibilities together
+meant there were millions of ways to say the wrong thing
+or to say things the wrong way.
+
+She therefore wasn't surprised when Dockety didn't answer immediately.
+Neither,
+it seemed,
+was Special Blazes.
+After a few moments he cocked an eyebrow,
+but other than that
+there was just the usual mechanical sounds
+of bots turning trees into boards and boards into whatever the townspeople needed.
+
+"That is an unexpected request,"
+Dockety finally buzzed.
+
+Special Blazes shrugged.
+"I'm surprised that you're surprised.
+You know your way through the Mire and up along the Makers' road
+a lot better than we do.
+Plus,
+helping out might make some folk feel more comfortable about
+what you all are building here."
+His gesture took in the bots and their camp alike.
+
+Dockety's lenses rotated.
+"Are people uncomfortable with our presence?"
+
+Special Blazes' smile didn't reach his eyes.
+"I think some of them aren't quite sure where your loyalties lie."
+
+"My loyalty lies with my friends and with free bots everywhere."
+Dockety's voice was as calm as ever,
+but a double dozen paces away,
+Crusher chose that exact moment to disconnect from the charging post
+with an audible *clunk*.
+
+The fur stood up on the back of Maddy's neck,
+but Special Blazes didn't so much as glance at the hauler bot
+as it rolled over to join them on its heavy treads.
+"Then help us free more bots,"
+the Prosecutor said levelly.
+He patted the mulebot beside him.
+"Like I told Miz Roo here,
+Bee Six Vee here has saved my life more times than I can count.
+Can't think of anything I wouldn't do for it."
+He shrugged again.
+"Wouldn't hurt you and yours to be owed that kind of favor."
+
+Maddy didn't see or hear a signal pass between Dockety and Crusher,
+but after another moment of silence
+the hauler bot turned and rolled away.
+"This one will consider it,"
+Dockety said.
+
+"I want to come to,"
+Maddy burst out.
+"My papa is in Heck somewhere,
+and if you're going there—"
+
+Special Blazes held up a hand to stop her.
+"With respect,
+Miz Roo,
+this is going to be dangerous work,"
+he said firmly.
+"We can look for your father better than you can."
+
+"I don't think you can."
+Maddy pulled the discombobulator from her pocket
+and held it up for the Prosecutor to see.
+
+He frowned.
+"Now, what is that, exactly?"
+
+Maddy swallowed hard.
+"Ask your friend,"
+she said,
+then pressed the button.
+
+The mulebot scuttled backward.
+Its two front legs came up and pointed at Maddy,
+hooked blades sprouting from them.
+
+"Whoa, whoa!"
+Special Blazes stepped between them, his ears back.
+"What did you do?"
+
+Maddy released the button and jerked her chin at Bee Six Vee.
+"Go on, ask it."
+
+The Prosecutor looked at the mulebot.
+Bright squiggles scrolled across the screen on its front.
+Special Blazes frowned.
+"Really?"
+More squiggles scrolled past.
+
+He turned to Maddy and held out his hand.
+"May I?"
+
+She wanted to say "no",
+but she knew that would earn a "no" in return,
+so she handed him the heavy little piece of tech.
+Special Blazes frowned at it,
+turned it over in his hands a couple of times,
+then turned back to Bee Six Vee.
+
+"Like this?" he asked.
+He pressed the button.
+
+Squiggles.
+"Huh."
+He looked at Maddy.
+"Is there a trick to it?"
+
+She shook her head.
+"Not that I know."
+
+He hefted it again.
+"Mind me asking how you came by this?"
+
+"A bunch of stuff came down the river the day we found Dockety,"
+she said,
+which was technically true even if it had nothing to do with the discombobulator.
+
+The tiger nodded slowly.
+"Well, ain't that a thing?"
+He held it out to her.
+"First rule of being a Special,"
+he said when she hesitated.
+"Never touch someone else's tech."
+
+"I'm not—" she started, then stopped as the realization hit her.
+She had a piece of tech and it worked for her.
+She *was* a Special.
+
+"I'll need to think on this,"
+Special Blazes said.
+"And you best think on my offer,"
+he continued to Dockety.
+"We're heading out first thing day after tomorrow."
+He touched a finger to the brim of his hat again,
+turned,
+and walked away.
+With its razored forelegs still in the air,
+the mulebot pivoted and followed him.
+
 </section>
