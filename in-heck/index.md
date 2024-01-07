@@ -2121,7 +2121,98 @@ he continued to Dockety.
 He touched a finger to the brim of his hat again,
 turned,
 and walked away.
-With its razored forelegs still in the air,
-the mulebot pivoted and followed him.
+The mulebot pivoted and followed him
+with its razored forelegs still in the air.
+
+Maddy slumped slightly as the two Prosecutors rounded the corner
+and were lost among the trees.
+"Well," she said uncertainly,
+then stopped and looked at the discombobulator again.
+She couldn't be a Special—that was Sindy's job.
+She drew things.
+There was nothing special about that.
+
+"We have to help,"
+Dockety buzzed.
+"If we do not and their effort fails,
+we will be blamed."
+
+"Huh?"
+
+"We will be blamed if anything goes wrong,"
+Dockety repeated flatly.
+"They will say it was our fault for not going.
+And if we are there,
+they will also say it was our fault."
+Its lenses rotated back and forth a couple of times.
+
+Maddy had spent enough time with the bot to know that meant it was angry.
+"So what's it like being in charge?"
+she asked,
+trying to make it a joke.
+
+Dockety pivoted its head to look at
+the homes the bots had built for themselves.
+"It would be easier if this one was like Patient in Darkness
+and did not care what happened to others.
+That is why you must not come.
+This one does not want you harmed."
+
+"I appreciate that,"
+Maddy said,
+"But it's my papa we're talking about.
+What wouldn't you do for Crusher?"
+
+The bot's manipulator clacked.
+"Your analogy is compelling," it admitted.
+"Will you inform your mother?"
+
+Maddy snorted.
+"Absolutely not."
+
+</section>
+
+<section markdown="1">
+
+## All Together
+
+There was a small barn on the edge of town that people called the trading post.
+Years back,
+Lupus Wolf (who wasn't yet Mayor Lupus) had cleaned it out
+and laid split logs down for a floor
+in the hope of making Rusty Bridge a fair town.
+They'd never managed to attract enough peddlars and tinkers and what-not for that,
+but whenever someone did come through—a glazier with panes of glass for mending windows,
+a tinsmith with a portable furnace for melting solder—they
+would set up there for a day or a week.
+
+"You'd almost think they'd done this before,"
+Zeke Bear said to no one in particular,
+picking the remains of his lunch out of his teeth with a yellowing claw.
+The Prosecutors had left the barn doors open to let the light in,
+and a small crowd had gathered to watch
+as they prepared for their expedition.
+Food:
+the Prosecutors preferred things that were dense,
+rectangular,
+and would keep for several days,
+which meant pemmican and seed bars.
+"And coffee—make sure they have coffee,"
+Gumption heard the rabbit tell Meribeth,
+who seemed to be in charge of provisions.
+
+Batteries:
+Bee Six Vee had a complete spare set.
+Gumption spent a moment trying to figure out what they were worth
+and gave up.
+Just one battery could keep his family's house warm through an entire winter.
+The set of four cabled to the charging post could probably *buy* the house.
+
+Bandages and spare parts:
+the Bee Six Vee took them out of the saddle bags on its sides
+and laid them out on one of the tables
+for the rabbit to inspect.
+"They're fine,"
+he said without looking up from the letter he was writing.
 
 </section>
