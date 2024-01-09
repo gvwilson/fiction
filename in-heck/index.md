@@ -2196,10 +2196,10 @@ Food:
 the Prosecutors preferred things that were dense,
 rectangular,
 and would keep for several days,
-which meant pemmican and seed bars.
+which meant pemmican, dried fruit, and seed bars.
 "And coffee—make sure they have coffee,"
 Gumption heard the rabbit tell Meribeth,
-who seemed to be in charge of provisions.
+who grunted as she rearranged the provisions for the umpteenth time.
 
 Batteries:
 Bee Six Vee had a complete spare set.
@@ -2212,7 +2212,110 @@ Bandages and spare parts:
 the Bee Six Vee took them out of the saddle bags on its sides
 and laid them out on one of the tables
 for the rabbit to inspect.
-"They're fine,"
+"They's fine,"
 he said without looking up from the letter he was writing.
+
+Bee Six Vee bleeped.
+"Yes, I's sure," the rabbit said patiently.
+"They's fine when I packed 'em,
+they's fine now,
+they be fine if an' when we need 'em."
+The scars on his muzzle wrinkled his fur
+as he smiled at the mulebot.
+"An' if they isn't,
+well,
+I will apologize to th' wounded personal-like."
+
+"Children!"
+Miz Winnie's sharp voice made half the adults in the crowd jump.
+"Children,
+school started half an hour ago.
+I'm sure whatever's happening here will still be happening when we're done."
+
+"Aww…"
+Gumption joined the ragged chorus.
+Maddy and Sindy didn't,
+for the very good reason that neither of them were there.
+"I can't get anything together while mama and Sindy are in the house,"
+Maddy had told Gumption.
+"I'm going to say I need a day because of womanly things.
+You walk Sindy down to Special Leaf's,
+and I'll pack stuff up while mama's out doing chores."
+He hadn't minded much that she hadn't bothered to say please,
+but after seeing Sindy safely to the Special's,
+school had been about as appealing as a moldy biscuit.
+
+"Come along, quickly now!"
+Miz Winnie clapped her hands.
+
+"Actual-like,
+miz,
+before y'all go,
+I's wonderin' if I could beg a moment from you?"
+the rabbit said,
+pitching his voice to carry
+"I got a grammactical problem here's been worryin' at me,
+an' I'd be grateful for advice."
+He held up the letter he had been writing.
+
+"I'm sorry, you have a *grammatical* problem?"
+Miz Winnie asked disbelievingly.
+
+The rabbit sucked in his cheeks.
+"Well, I'm pretty sure I's spelled all the words right,
+so it's gotta be the grammatics that's wrong?"
+He cleared his throat.
+"I,
+Thoughtful Rabbit,
+Prosecutor Second Class,
+under the command of Special Blazes Tiger,
+Prosecutor First Class with Distinction—they just gave him
+that bit last year—um,
+right,
+where was I?"
+
+He cleared his throat again.
+"I,
+Thoughtful et cetera,
+do solemnly attest that this letter constitutes
+the entirety of my post mortem wishes,
+and that it does supercede all prior testaments making such a claim.
+I just copied that part,
+so I's pretty sure it's aright,"
+he continued in a normal voice.
+"It's the next bits what're makin' my head grumble."
+
+"I'm sorry, but are you writing you will?"
+Miz Winnie asked disbelievingly.
+
+"Yes miz,"
+the rabbit nodded.
+"Do it every time we go out.
+We all do,
+ain't that right,
+Bee?"
+The mulebot bleeped.
+
+"It ain't just in case of meetin' the Makers an' all,"
+Thoughtful explained.
+"It's powerful efficacious for focusin' the mind.
+Why,
+I bet if all these good children was to sit down and write out
+how they'd like their belongings distributed
+in th' sorry event of their demise,
+an' what final message they'd like to send their families,
+well…"
+He winked at her.
+"I imagine that would hold their interest for a moment or two."
+
+Miz Winnie stared at him for a moment.
+*Is she blushing?* Gumption wondered incredulously.
+
+But then she clapped her hands briskly.
+"All right, children,"
+she said in an absolutely-no-nonsense voice
+that straightened every spine within hearing range.
+"Back to school *now*.
+We have some writing to do."
 
 </section>
