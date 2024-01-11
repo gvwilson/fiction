@@ -421,7 +421,7 @@ then turned to Special Leaf with a grin as wide as a sunrise on her face.
 
 <section markdown="1">
 
-## The Prosecutors
+## The Regulators
 
 Gumption woke up the next morning
 to the sound of raindrops
@@ -519,7 +519,7 @@ as the rabbit and tiger,
 while the mulebot was painted in matching camouflage.
 
 A chill went up Gumption's spine.
-They were Prosecutors!
+They were Regulators!
 And they were headed for Rusty Bridge!
 *Sindy!* he thought.
 Somehow they must have found out about Sindy.
@@ -568,15 +568,15 @@ wiping her hands on a dishcloth.
 "I was just—what?
 What's wrong?"
 
-"P-Prosecutors,"
+"P-Regulators,"
 Gumption panted,
 getting the word out on the second try.
-"A bunch of Prosecutors just come up along Makers Road past our place
+"A bunch of Regulators just come up along Makers Road past our place
 headin' toward town."
 He waved more or less in the direction of the village.
 
 Mama Roo's eyes widened.
-"Prosecutors?
+"Regulators?
 Are you sure?"
 
 Gumption nodded breathlessly.
@@ -593,7 +593,7 @@ Mama Roo pointed at the ceiling.
 "No I'm not."
 Maddy slipped into the room as quietly as a puff of dandelion fuzz.
 "But Sindy still is.
-What's this about Prosecutors?"
+What's this about Regulators?"
 
 Gumption quickly described the travelers.
 "And he had an eyepatch, just like in the stories,"
@@ -657,7 +657,7 @@ Maddy then shook her head.
 "Let's just head down to the square.
 Whatever's gonna happen is gonna happen there."
 
-They reached the square moments before the Prosecutors.
+They reached the square moments before the Regulators.
 A double handful of townspeople were already milling around—Gumption
 wasn't the only one who'd run ahead and spread word.
 Mayor Lupus stood on the porch of the mayor's house
@@ -671,7 +671,7 @@ The time before that had been
 when she exiled one of the town bears for a year
 for getting drunk and stabbing the older Ox brother with a pitchfork.
 
-The sun broke through the clouds just as the Prosecutors arrived.
+The sun broke through the clouds just as the Regulators arrived.
 When Gumption thought about them afterward,
 that was always the image that came to mind:
 the one-eyed tiger and the rabbit in front,
@@ -683,7 +683,7 @@ but somehow that made them more intimidating rather than less.
 When they were ten steps away from the steps of the mayor's house
 the tiger whistled,
 short and sharp.
-The Prosecutors took two more steps each and halted,
+The Regulators took two more steps each and halted,
 still in formation.
 A low murmur ran through the townspeople.
 
@@ -739,7 +739,7 @@ without anyone noticing.
 He was wearing a thick, shapeless gray sweater
 that Mama Bear had knit for him the winter before last,
 and had an old blue scarf wrapped around his neck as well.
-He peered at the Prosecutors through his little round glasses
+He peered at the Regulators through his little round glasses
 as if trying to decide whether they were books that needed to be shelved.
 
 Special Blazes dipped his head deferentially.
@@ -769,14 +769,14 @@ if you can spare a bit of time for conversation,
 we'd be grateful for that as well."
 
 And just like that the little show was over.
-Mayor Lupus waved the three flesh-and-blood Prosecutors inside
+Mayor Lupus waved the three flesh-and-blood Regulators inside
 while the mulebot followed Zeke around to the back of the house.
 The townspeople dithered and buzzed for a few moments,
 but when the sky started spitting again
 they decided in ones and twos that their chores weren't going to do themselves
 and headed for home.
 
-"You ever seen a Prosecutor before?"
+"You ever seen a Regulator before?"
 Gumption asked Special Leaf.
 "I mean, you must have," he corrected himself immediately.
 
@@ -813,13 +813,13 @@ but he is not your friend."
 
 ## Gears
 
-Gumption went home after that—Prosecutors or no Prosecutors, he had chores to do.
+Gumption went home after that—Regulators or no Regulators, he had chores to do.
 Maddy walked part of the way with him in silence
 before grunting a "see you later" and turning right instead of left where the path forked.
 
 The excitement of knowing that the *Sandy Bend Chronicle* was going to publish her drawing had worn off,
 leaving her feeling as drizzly and gray inside as the weather was outside.
-It had been stupid to think that that the Prosecutors would just march into Rusty Bridge and say,
+It had been stupid to think that that the Regulators would just march into Rusty Bridge and say,
 "We're taking Sindy Roo,"
 without some kind of—of she didn't know what.
 A trial or something,
@@ -883,7 +883,7 @@ and the sound of Mama Roo kissing her youngest daughter's forehead.
 Maddy wiped her eyes and slipped quietly downstairs.
 
 By the time her mother came down,
-Maddy had opened her notebook and was sketching the outlines of the Prosecutors.
+Maddy had opened her notebook and was sketching the outlines of the Regulators.
 The tiger would have a fierce scowl, she thought.
 The rabbit would be winking, and the bear—she wasn't sure about the bear yet,
 but maybe she could be resting his elbow on the mulebot's back
@@ -904,7 +904,7 @@ Dockety would help if we did,
 and Special Leaf,
 but…"
 She shrugged.
-"All the stories they tell about Prosecutors,
+"All the stories they tell about Regulators,
 and what they write in the papers,
 I've never heard of anyone getting away from them."
 
@@ -1185,7 +1185,7 @@ Special Leaf had taught her to do that.
 *Slow your body, quicken your mind.*
 
 A sudden thought struck her.
-"What about the Prosecutors?" she asked excitedly.
+"What about the Regulators?" she asked excitedly.
 "They're organic,
 and they know *tons* more about sneaking into places and fighting bots and what-not than anyone!
 And they're right here—they came in this morning.
@@ -1390,10 +1390,10 @@ as they slipped into their usual seats.
 The reason quickly became apparent.
 "Class,
 we have a special treat today.
-How many of you know what a Prosecutor is?"
+How many of you know what a Regulator is?"
 Every hand shot into the air.
 "And how many of you know that
-we actually have some Prosecutors here in Rusty Bridge *right now*?"
+we actually have some Regulators here in Rusty Bridge *right now*?"
 Hands strained to reach even higher,
 and an excited murmur rippled through the room.
 
@@ -1521,11 +1521,11 @@ Miz Winnie stepped forward.
 "All right, um, thank you,
 thank you very much for, um, for that demonstration" she said.
 "Now how about we all line up and go *back into the classroom*
-and we can ask the Prosecutors about
+and we can ask the Regulators about
 all the *other* things they know how to do?"
 
 Gumption and Maddy found themselves in line behind the goat twins.
-"We *got* got be Prosecutors," Bluster told his twin excitedly.
+"We *got* got be Regulators," Bluster told his twin excitedly.
 "Did you see how they—blam! blam!"
 He threw a couple of punches at the air.
 
@@ -1548,8 +1548,8 @@ but Meribeth had disappeared.
 
 "Now, who has questions?" Miz Winnie said.
 Hands shot into the air.
-How old had Special Blazes been when he became a Prosecutor?
-Eighteen, but he'd joined a troop of Junior Prosecutors when he was twelve.
+How old had Special Blazes been when he became a Regulator?
+Eighteen, but he'd joined a troop of Junior Regulators when he was twelve.
 Oh, really?
 There wasn't one in Rusty Bridge?
 Well, they'd have to fix that wouldn't they.
@@ -1586,12 +1586,12 @@ Maddy said in a voice that could have made ice cubes.
 "So if you don't mind me asking,
 how many bots have you killed?"
 
-"Too many," the Prosecutor replied levelly.
+"Too many," the Regulator replied levelly.
 "And I hope I've never *decommissioned* any that I didn't have to.
 But you of all people should know how dangerous rogue bots can be."
 His stern gaze swept the classroom.
 "Our job is to keep the living safe.
-Any bot that respects that has nothing to fear from me or any other Prosecutor."
+Any bot that respects that has nothing to fear from me or any other Regulator."
 
 There were more questions—lots more—but Gumption barely heard them.
 When Maddy sat straight up like that with her hands folded primly in front of her
@@ -1679,7 +1679,7 @@ Maddy interrupted incredulously.
 Special,
 she's as sour as ten-year-old cider!"
 
-Gumption heard the Prosecutor snort.
+Gumption heard the Regulator snort.
 "She is that," he allowed.
 He sighed again.
 "But that doesn't mean she's wrong.
@@ -1720,7 +1720,7 @@ It would just have made her angrier,
 and anyway,
 nobody was paying them the least bit of attention.
 Half the children were either pretending to throw fireballs at each other,
-while the others were speculating on how many people the Prosecutors had killed
+while the others were speculating on how many people the Regulators had killed
 had found sticks and were waving them around like batons.
 "Somebody's gonna stick somebody in the eye,"
 he observed.
@@ -1743,7 +1743,7 @@ because fighting was stupid
 and it was her turn to hide
 so she hid behind the rain barrel,
 the one up at the front of the school by the street,
-and she heard Special Blazes talking with the other Prosecutor,
+and she heard Special Blazes talking with the other Regulator,
 the bear—
 
 "Meribeth,"
@@ -1783,7 +1783,7 @@ Ten minutes later,
 Maddy slammed Special Leaf's front door behind her.
 She loved Sindy fiercely,
 but sometimes her sister just wouldn't *listen*.
-Prosecutors might take orders from children in story books,
+Regulators might take orders from children in story books,
 or let them come along on raids,
 but this wasn't a story.
 And for all his good manners,
@@ -1830,7 +1830,7 @@ The word dissolved into speckles and flashes
 as Maddy began scrubbing mud and leaves out of the gaps between its treads.
 
 It took her almost half an hour to get the bot clean
-and tell Dockety everything that had happened since the Prosecutors arrived.
+and tell Dockety everything that had happened since the Regulators arrived.
 Finally,
 she tossed the brush into a nearby bucket and patted Crusher's side once again.
 "All done."
@@ -1934,7 +1934,7 @@ she reminded herself.
 Whatever she might have thought or said next
 was interrupted by a staccato trio of whistle toots.
 Dockety spun its head around.
-"The Prosecutors are here."
+"The Regulators are here."
 Its head snapped back into position.
 "Do you want to hide?"
 
@@ -1944,7 +1944,7 @@ Maddy started,
 but it was already too late.
 Special Blazes had come around the corner with Bee Six Vee behind him.
 
-The Prosecutor touched a finger to the brim of his hat.
+The Regulator touched a finger to the brim of his hat.
 "Morning," he said.
 "Hope I'm not interrupting anything."
 
@@ -2019,7 +2019,7 @@ The fur stood up on the back of Maddy's neck,
 but Special Blazes didn't so much as glance at the hauler bot
 as it rolled over to join them on its heavy treads.
 "Then help us free more bots,"
-the Prosecutor said levelly.
+the Regulator said levelly.
 He patted the mulebot beside him.
 "Like I told Miz Roo here,
 Bee Six Vee here has saved my life more times than I can count.
@@ -2047,7 +2047,7 @@ he said firmly.
 
 "I don't think you can."
 Maddy pulled the discombobulator from her pocket
-and held it up for the Prosecutor to see.
+and held it up for the Regulator to see.
 
 He frowned.
 "Now, what is that, exactly?"
@@ -2068,7 +2068,7 @@ Special Blazes stepped between them, his ears back.
 Maddy released the button and jerked her chin at Bee Six Vee.
 "Go on, ask it."
 
-The Prosecutor looked at the mulebot.
+The Regulator looked at the mulebot.
 Bright squiggles scrolled across the screen on its front.
 Special Blazes frowned.
 "Really?"
@@ -2124,7 +2124,7 @@ and walked away.
 The mulebot pivoted and followed him
 with its razored forelegs still in the air.
 
-Maddy slumped slightly as the two Prosecutors rounded the corner
+Maddy slumped slightly as the two Regulators rounded the corner
 and were lost among the trees.
 "Well," she said uncertainly,
 then stopped and looked at the discombobulator again.
@@ -2189,11 +2189,11 @@ would set up there for a day or a week.
 "You'd almost think they'd done this before,"
 Zeke Bear said to no one in particular,
 picking the remains of his lunch out of his teeth with a yellowing claw.
-The Prosecutors had left the barn doors open to let the light in,
+The Regulators had left the barn doors open to let the light in,
 and a small crowd had gathered to watch
 as they prepared for their expedition.
 Food:
-the Prosecutors preferred things that were dense,
+the Regulators preferred things that were dense,
 rectangular,
 and would keep for several days,
 which meant pemmican, dried fruit, and seed bars.
@@ -2267,9 +2267,9 @@ so it's gotta be the grammatics that's wrong?"
 He cleared his throat.
 "I,
 Thoughtful Rabbit,
-Prosecutor Second Class,
+Regulator Second Class,
 under the command of Special Blazes Tiger,
-Prosecutor First Class with Distinction—they just gave him
+Regulator First Class with Distinction—they just gave him
 that bit last year—um,
 right,
 where was I?"
@@ -2317,5 +2317,80 @@ she said in an absolutely-no-nonsense voice
 that straightened every spine within hearing range.
 "Back to school *now*.
 We have some writing to do."
+
+In the end the scouting party numbered eight.
+All four Regulators were included:
+Special Blazes,
+Meribeth,
+Thoughtful,
+and Bee Six Vee,
+but the mulebot wasn't the ponderous baggage carrier that had arrived in Rusty Bridge.
+Meribeth spent the afternoon removing some of its side panels
+and unbolting the heavy metal crates on its back.
+By dinner-time,
+the bot resembled an armored scorpion without a tail.
+
+Everyone expected Crusher would join the party,
+but Dockety said no.
+"Too slow off roads, and too visible everywhere,"
+the latter buzzed.
+Crusher flashed its arguments on its screen too faster for organic eyes to follow
+before trundling away in a two-ton huff.
+
+In its place,
+Dockety chose Able the mailbot and a little helibot that went by the name Flowers.
+The mailbot would carry supplies past the Mire to the edge of Heck
+and wait for the party there.
+Flowers would be their eyes,
+but would also stay well clear of the bot city.
+The machines in Heck had sharp eyes that never blinked.
+Even at night,
+something airborne would be too easy a target to be safe.
+
+The final and most surprising member of the party was Special Leaf.
+"They have a better chance of coming back if they go with someone who has done this before,"
+the old tortoise explained to Mayor Lupus.
+
+"I reckon there's a story and a half in that,"
+the old wolf said,
+one ear flicking back.
+
+Special Leaf smiled.
+"I wasn't always boring."
+
+Gumption kept his head down and continued sweeping Special Leaf's porch.
+*I'm not here, I'm not here, I'm not here,*
+he repeated in his head with each swoosh of the broom.
+The Roo sisters were sulking inside,
+Maddy because Special Blazes had decided she wasn't allowed to join them
+despite the discombobulator
+and Sindy because the discombobulator wouldn't work for her.
+"I don't need a bot to know if it works,"
+the younger girl had said petulantly when she finally gave up
+and tossed it back onto Special Leaf's kitchen table.
+"I can feel when something turns on for me,
+and this stupid thing's as dead as a doornail."
+
+Special Leaf finally shooed them out of the house.
+Halfway home,
+Maddy nudged her sister and said,
+"You go on ahead.
+Tell mama I'll be along shortly."
+
+Sindy looked from her to Gumption and made a disgusted face.
+"Eww.
+Take all the time you want."
+She flounced away.
+
+"You, uh, you have something particular in mind?"
+Gumption asked Maddy as casually as he could.
+It was a warm evening,
+and—
+
+"Come on,
+we have to find Mouse,"
+Maddy said,
+hitching her bag up on her shoulder and setting off at a brisk pace
+without looking back to see if he was following.
 
 </section>

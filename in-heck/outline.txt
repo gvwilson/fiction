@@ -18,9 +18,9 @@ permalink: /in-heck/
   - The awkwardness between Maddy and Gumption (Mama Roo's gentle teasing does *not* go over well)
   - Maddy's helplessness believing that her father is alive but nobody being willing to try to save him
   - See Mouse briefly (Gumption says, "Look, you saved *it*")
-- Mayor Lupus shakes her head: anything involving weapons is a matter for the Prosecutors
+- Mayor Lupus shakes her head: anything involving weapons is a matter for the Regulators
 
-## Episode 2: The Prosecutors
+## Episode 2: The Regulators
 
 - Gumption's PoV
 - Special Blazes and her motley crew
@@ -28,7 +28,7 @@ permalink: /in-heck/
 - Mayor Lupus is deferential without cringing
 - Special Leaf's response is cool
   - Tries to keep Sindy away from them
-  - Foreshadows later revelation that he was once one of the most feared Prosecutors in the territory
+  - Foreshadows later revelation that he was once one of the most feared Regulators in the territory
 - A short "trial" leads to the weapons being confiscated over Dockety's objections
   - Dockety: "Patient will return. We will defend ourselves. And you."
   - Special Blazes: "I figure townsfolk can defend their homes, don't you worry."
@@ -82,7 +82,7 @@ permalink: /in-heck/
   - Does a practice fight in the yard with her bot partner
   - Uses her fire shaping
   - She wins (bot says, "I always lose. It's my job.")
-  - Bluster and Bravo are star-struck: start talking about how *they* are going to become Prosecutors
+  - Bluster and Bravo are star-struck: start talking about how *they* are going to become Regulators
   - Special Blazes makes it clear that being smart as well as brave is important
   - Maddy suddenly realizes he's talking to *her*
   - So do Bluster and Bravo (they're not impressed)
@@ -126,7 +126,7 @@ permalink: /in-heck/
   - Recruiting for the raid
   - Special Blazes: "Be a good way to show where your loyalties lie"
   - Dockety: "My loyalty lies with my friends and with free bots everywhere."
-  - Messages Maddy where Special Blazes can't see it to get permission, then shows the Prosecutor the widget
+  - Messages Maddy where Special Blazes can't see it to get permission, then shows the Regulator the widget
   - "This may help blind Central for a while, but only if we can get it to a terminal."
   - Special Blazes: "What else are you holding back?"
   - Dockety: "What are you?"
@@ -144,7 +144,7 @@ permalink: /in-heck/
 - Gumption's PoV
 - Whirlwind of preparation
   - Food, fully-charged batteries, bandages, weapons
-  - The Prosecutors' sharpshooter, a melancholy rabbit named Thoughtful, rewrites her colleagues' letters
+  - The Regulators' sharpshooter, a melancholy rabbit named Thoughtful, rewrites her colleagues' letters
   - Children find out and start writing letters of their own
   - Winnie the teacher remarks acidly that it's the first time Bluster and Bravo have shown any interest in writing
 - Crusher can't come (too slow, too visible) but three of the new bots will
@@ -232,7 +232,7 @@ permalink: /in-heck/
   - The Gears: "I will provide one"
 - Oncoming bots freeze, pivot, hurry away
 - "What dd you do?"
-- The Gears: "I turned off the shielding device the others are using. Central can now see the Prosecutors."
+- The Gears: "I turned off the shielding device the others are using. Central can now see the Regulators."
   - Gumption: "They'll be crushed!"
   - The Gears: "Sacrifices are necessary."
 
@@ -378,7 +378,7 @@ permalink: /in-heck/
   - Gumption squeezes his hands into fists. "There's nothing we can do."
 - Out onto the street and around the corner to a scene of chaos
   - Broken bots, rifts in the ground, burn scars on buildings
-- The Prosecutors almost attack them but Gumption steps in the way
+- The Regulators almost attack them but Gumption steps in the way
   - Angry scene with Special Blazes, who is wounded
   - Gumption explains what has happened
 - Special Blazes (decisively): "Skedaddle."
