@@ -50,8 +50,8 @@ def main():
     # Fill in missing dates.
     known = set(change["date"])
     min_date = min(change["date"])
-    max_date = max(change["date"])
-    num_days = (max_date - min_date).days
+    max_date = max(datetime.today().date(), max(change["date"]))
+    num_days = (max_date - min_date).days + 1
     full = {min_date + timedelta(days=d) for d in range(0, num_days)}
     missing = pd.DataFrame({"title": "change", "words": 0, "date": list(sorted(full - known))})
     change = pd.concat([change, missing]).sort_values("date").reset_index()
