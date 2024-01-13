@@ -1112,7 +1112,7 @@ Was this all actually just a dream?
 And where is he?
 *How* is he?"
 
-The stork bot clacked its shears.
+The storkbot clacked its shears.
 The other bots twitched, wriggled, or blinked in turn
 so that a wave ran through them.
 "Central is holding him in one of its operational centers—the place you call Heck.
@@ -1170,7 +1170,7 @@ The GearHive's component bots rustled.
 There are machines in the facility that only work for organic operators.
 This is why Central takes your people.
 This is why we need your sister."
-The stork bot clacked its shears again for emphasis.
+The storkbot clacked its shears again for emphasis.
 
 "But—"
 *But she almost didn't make it back the last time,*
@@ -1219,7 +1219,7 @@ Maddy pointed at the little cleaning bot.
 "That one.
 I didn't know its real name, so I called it Mouse."
 
-The stork bot clacked its shears.
+The storkbot clacked its shears.
 "Its designation is Beta-Loopy Nine Six Six Four Rev Two,"
 the GearHive said.
 Mouse blinked.
@@ -1239,7 +1239,7 @@ and the button on the end was protected by a cover plate.
 
 "It is a discombobulator," the GearHive said.
 
-Maddy gave the stork bot a look.
+Maddy gave the storkbot a look.
 "Seriously?
 That's just a thing in kids' stories."
 Which she still read, she didn't add.
@@ -2387,10 +2387,112 @@ Gumption asked Maddy as casually as he could.
 It was a warm evening,
 and—
 
-"Come on,
-we have to find Mouse,"
+"Come on,"
 Maddy said,
 hitching her bag up on her shoulder and setting off at a brisk pace
 without looking back to see if he was following.
+"We have to find Mouse."
+Gumption sighed and hurried after her,
+ignoring the warning twinge in his ribs.
+
+The little cleaning bot wasn't by the charging post in Rusty Bridge,
+or by the bridge itself,
+or anywhere else they looked.
+Gumption suggested they check the bots' camp,
+but Maddy shook her head.
+"It never goes along by there,"
+she said dismissively.
+"I think it's a bit scared of the bigger bots."
+
+In the end they found themselves on the path by the river,
+halfway home to the Roos' house.
+"This is where it all started,"
+Gumption said as they reached the bend
+where they had first encountered Dockety.
+"Feels like a long time ago.
+I wonder what woulda happened if—hey!"
+
+He jumped back as a hexabot the size of a soup pot
+skittered onto the path in front of them.
+
+Maddy caught her breath.
+"I know this one.
+It's part of the hive!"
+
+The little bot waved one of its forelegs,
+then tapped the ground three times,
+paused,
+and tapped again just once.
+Three and one,
+three and one,
+over and over.
+
+Maddy glanced at Gumption,
+who spread his hands helplessly.
+"I'm sorry, we don't understand," she said,
+crouching down.
+
+She squeaked as the bot rushed forward
+and grabbed the hem of her skirt with its wrench claw.
+"I think it wants us to go with it,"
+Gumption offered as the bot tugged at her.
+
+"You think?"
+Maddy said acidly.
+"Aright, aright, I'm coming."
+
+She followed the bot into the trees and Gumption followed her.
+The ground was muddy underfoot in places.
+The bot just scrambled around those without stopping,
+leaving them to muck through the puddles as well as they could.
+
+Maddy ducked under low-hanging branch.
+Gumption lifted it out of his way to follow her,
+then pulled up short.
+"Huh," was all he could manage.
+
+A dozen little bots—no, more than that—were waiting for them in a semi-circle
+in a little clearing in the woods.
+The hexabot they had followed clambered up the trunk of a fallen tree
+and tucked its legs underneath itself like house cat.
+
+The storkbot Maddy had encountered before stepped forward.
+"Why are you not with the reconnaisance party?"
+it demanded in a reedy voice
+that reminded Gumption of a poorly-played harmonica.
+
+"They didn't want me,"
+Maddy replied bluntly.
+"I showed them your discombobulator,
+but Special Blazes said that bringing me along would be too risky."
+
+A rustle ran through the assembled bots.
+"We miscalculated,"
+the storkbot warbled.
+"We require another plan.
+Do you have one?"
+
+"Me? Uh uh.
+How about you?"
+she asked,
+turning to Gumption.
+
+"Well—"
+was all the goat got out before Maddy continued,
+"And even if we did,
+Special Leaf's going to be with them,
+and he'll send us back as soon as he sees us."
+
+"Actually—" Gumption started.
+
+"Much depends on this,"
+the storkbot said as the other bots rustled and clacked.
+"It is imperative that you find a way to get to Heck."
+
+"Excuse me!" Gumption said loudly.
+"We don't have to go with them.
+We… don't… have… to… go… with… them!"
+he repeated loudly as Maddy and the storkbot both started to speak.
+"We just have to *arrive* with them."
 
 </section>
