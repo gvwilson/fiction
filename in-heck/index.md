@@ -2495,4 +2495,103 @@ We… don't… have… to… go… with… them!"
 he repeated loudly as Maddy and the storkbot both started to speak.
 "We just have to *arrive* with them."
 
+Twelve hours later,
+he and Maddy lay next to each other
+in the bottom of a wagon full of supplies
+in the barn on the edge of town.
+It had taken them an hour to unload enough boxes and crates
+to make a space for themselves,
+an hour filled with whispered admonishments to each other
+to be quiet and not drop things.
+
+After they made room for themselves and their knapsacks,
+they wrestled a board into place to serve as a roof for their little cave
+and re-packed everything on top of it.
+After some more whispers of,
+"No, not that one, *that* one,"
+and,
+"The other way around!"
+the wagon's contents looked more or less as they had at the start.
+
+There was just enough room for Maddy and then Gumption
+to wriggle into their hiding place.
+They lay on their backs and braced their feet against the board above them.
+With a, "One, two, three,"
+they shifted it over to close the gap.
+
+"Well, that was fun,"
+Gumption whispered.
+
+Maddy elbowed him.
+After a moment of silence,
+she said,
+"It's a lot easier in stories, isn't it?
+Hiding and stowing away and all that—folk just do it.
+Nobody ever says it's hard work."
+
+"Yeah,
+and nobody ever talks about the smell,"
+Gumption agreed.
+
+"The what?"
+A moment later she said, "Eww!
+Gumption Goat, you're disgusting!"
+
+"Sorry," he said cheerfully.
+"Mama made chili for dinner, and you know she makes a powerful chili."
+
+"Ssh!"
+Maddy elbowed him again.
+"Go to sleep.
+And don't do that again.
+The Mire's going to be stinky enough."
+
+Silence,
+and then Gumption asked quietly,
+"Do you really think we'll find him?
+Your pa, I mean."
+
+"I know who you mean."
+It was Maddy's turn to be silent for a moment.
+"I don't know.
+But I gotta try."
+She found his hand in the darkness and squeezed it.
+"Thanks for coming with me."
+
+Gumption squeezed back.
+"Thanks for bringing me.
+I'd be stuck at home otherwise,
+and,
+well,
+everybody had the same chili I did,
+and that's gonna be—what?
+Do you need to sneeze or somethin'?"
+
+Maddy let go of his hand and reached up to wipe her eyes.
+"Do you ever take *anything* seriously?" she asked.
+
+Gumption shrugged,
+very aware of how warm she was beside him
+and of how clean her fur smelled.
+"Always taken *you* seriously," he said.
+"'Cept for that time you tried skating on Weaver's Pond.
+You remember that?"
+He tsk'ed.
+"That was truly spectacular."
+
+He rolled onto his side and propped his head up on his arm.
+"But other than that,
+and the time you tried make double-dip cookies but forgot the salt,
+and maybe a couple of other things,
+I've pretty much always taken you seriously.
+So don't worry—if he's there,
+you'll find him,
+and if you find him,
+I know you'll bring him home.
+Now get some sleep—we got a lot in front of us."
+
+He lay back down.
+When Maddy said, "Eww!" again a moment later,
+he smiled in the darkness.
+
 </section>
