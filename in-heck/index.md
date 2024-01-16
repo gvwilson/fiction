@@ -2595,3 +2595,94 @@ When Maddy said, "Eww!" again a moment later,
 he smiled in the darkness.
 
 </section>
+
+<section markdown="1">
+
+## Broken Roads
+
+Maddy woke two hours later
+when the wagon hit a pothole
+and the bump knocked her sideways onto Gumption.
+"Mmph?" the goat mumbled.
+
+"Ssh!"
+She clamped her hand over his mouth.
+Her mouth tasted *awful*,
+and her neck—she realized that she had never really appreciated pillows properly before.
+
+Gumption wriggled out from under her
+and peered between the boxes that hid them.
+"I can't see anything,"
+he whispered.
+"Oh wait, there's Mama Tumbly an' a couple of other folk.
+Is she wavin' flag?
+Tarnation,
+if that ain't the dumbest thing I ever seen."
+
+"Ssh!"
+Maddy hissed again.
+The bits of straw and what-not in the bottom of the wagon were itchy.
+She desperately wanted to give herself a good all-over scratch,
+but not in front of Gumption.
+
+Something plucked at her skirt.
+"What?"
+she whispered.
+
+"What?"
+Gumption whispered back.
+
+"What do you want?"
+
+"I don't want anything."
+
+"Then why are you—oh dithers."
+It was the hexabot.
+Sometime during the night it had crawled into the wagon with them.
+
+"Huh.
+Go figure."
+Gumption rolled onto his back and pillowed his arms beneath his head.
+A moment later he started snoring softly.
+
+Maddy sighed.
+The hexabot's eyes were triangles of glowing blue-green dots,
+and they were definitely staring at her.
+"Well, wake us up when we get somewhere."
+She settled down beside Gumption.
+"Or if they stop for a toilet break,"
+she added,
+wishing that she had thought just a little further ahead.
+
+An hour out of town
+the dirt road they were on joined the Makers' road.
+The ancient black surface of the highway was cracked in places,
+and Able had to swerve around fallen branches
+and clumps of weeds tough enough to have broken through the road,
+but even so
+they went fast enough that Maddy could feel their speed.
+It reminded her of her first time on the road months ago,
+when she and Dockety had chased the raiders who had kidnapped Sindy.
+
+They passed under a row of ruined arches that marched from one horizon to the other,
+crumbling but still solid.
+A half-sunken metal sphere as big as a house was next,
+and then a tangle of concrete and bent bars
+that the villagers just called "the thing".
+
+The ground on either side of the highway began to grow damp.
+The twin smells of rust and rotting vegetation filled Maddy's nose
+as they entered the polluted swamp known as the Mire.
+Somewhere out there was the bunker
+where Patient in Darkness had kept her father and other prisoners—where
+she and Sindy had almost spent wound up as prisoners too.
+Dockety and the other free bots had tried to salvage its riches,
+but whatever it was that lurked in the swamp nearby was still there,
+and in the end the task had proven too risky.
+
+*And now we're headed into somewhere a hundred times bigger,*
+Maddy thought despondently.
+Stowing away seemed like a worse idea with every passing hour,
+and she *really* needed a toilet break.
+
+</section>
