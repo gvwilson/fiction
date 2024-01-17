@@ -2685,4 +2685,93 @@ Maddy thought despondently.
 Stowing away seemed like a worse idea with every passing hour,
 and she *really* needed a toilet break.
 
+The sun was high in the sky when they turned off the Makers' road
+onto a smaller one.
+It had once been paved as well,
+but time, weather, and tree roots had all done patient damage.
+What had once been two smooth lanes with knee-high concrete barriers on each side
+was now a stream bed in some places
+and a jigsaw puzzle in others.
+The road climbed, dipped, and climbed again
+until finally they reached the summit of a hill overlooking the Mire.
+
+"Whoa up!"
+Meribeth called.
+Able slowed and stopped.
+The bear and Thoughtful hopped down from their seats at the front of the wagon.
+Pressing her face against a gap in the slats,
+Maddy saw Special Blazes climb down from atop Bee Six Vee.
+
+The tiger arched his back and rolled his head from side to side,
+then consulted a heavy pocket watch.
+"Four hours," he declared.
+"Thoughtful, you take first watch.
+Everyone else,
+eat up or recharge as you need.
+He turned to someone Maddy couldn't see.
+"This would be a good time for your little friend to scout ahead."
+
+"Noted,"
+Dockety replied in its buzzing voice.
+Maddy shrank back reflexively as the bot came into view,
+walking straight toward the wagon.
+It paused right in front of her.
+
+"Stay hidden,"
+it said quietly
+before extending its legs
+so that it could reach the solar panels stacked in the back of the wagon.
+
+Maddy gave Gumption a wide-eyed look.
+"What?" he mouthed silently.
+
+She pulled him close.
+"It knows we're here," she whispered in his ear.
+
+Gumption stared at her for a moment,
+then shrugged helplessly.
+
+It only took the travelers a minute to settle in.
+Dockety laid out the solar panels in a line
+near the edge of the turnaround they were parked on,
+connecting one cable to their batteries and the others to itself,
+Able,
+and Bee Six Vee.
+Thoughtful unfolded a camp chair
+and took a moment to assemble a long-barrelled rifle on a tripod,
+then sat down and began scanning the road below them
+through its telescopic sight
+in smooth, unhurried sweeps.
+Maddy couldn't see where Meribeth and Special Blazes went,
+but the bear's snoring told her they hadn't gone far.
+
+She held on as long as she could,
+but finally whispered to Gumption,
+"I gotta get out for a minute."
+
+"Me too," he said, grimacing.
+"But they'll see us for sure."
+
+Slowly,
+wincing with every slight bump and scrape,
+they pulled one of the boards to the side
+and unfastened the loose slat on the back of the wagon.
+Maddy looked at the narrow gap despondently.
+She would have to slither out head first
+and hope that she could somehow right herself
+before she fell on the ground.
+On the bright side,
+there was a thick stand of bushes just a few strides away.
+
+She poked her head out cautiously.
+No one was in sight.
+Digging her elbows into the boards,
+she dragged herself forward until she could reach the hitch
+at the back of the wagon.
+If she braced herself on that—
+
+"Would you like a hand?"
+Special Blazes asked,
+coming around the corner with a freshly-brewed cup of tea in his hand.
+
 </section>
