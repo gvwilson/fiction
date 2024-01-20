@@ -2770,8 +2770,88 @@ she dragged herself forward until she could reach the hitch
 at the back of the wagon.
 If she braced herself on that—
 
-"Would you like a hand?"
+"Would you like a hand getting down?"
 Special Blazes asked,
 coming around the corner with a freshly-brewed cup of tea in his hand.
+
+"I knew this was gonna happen,"
+Gumption muttered behind her.
+
+Special Blazes nodded,
+solemn-faced,
+at Maddy's polite,
+"No thank you,"
+and sipped his tea as she lowered herself awkwardly to the ground,
+stood,
+and brushed her skirt back into place.
+
+"Must've been mighty warm in there,"
+he observed.
+
+"It wasn't so bad.
+Um, if you'll excuse me a moment…?"
+
+"By all means."
+The Regulator stepped aside.
+Back straight,
+Maddy headed for the bushes.
+
+Five minutes later she and Gumption had joined the rest of the party,
+who were sitting or standing near the front of the wagon
+depending on their nature and inclination.
+"Your choice is reckless.
+You will not be safe.
+You must return home."
+Dockety sounded as angry as Maddy had ever heard it,
+but Special Blazes shook his head.
+
+"We're not turning around,
+and they can't go back on their own.
+Can't stay here either,"
+he went on,
+raising his voice slightly to forestall Dockety's protest.
+"We're too close to the Mire,
+and Heck's just down the road."
+
+"Sure as shootin' they'd be somethin' come crawl up outta the muck,"
+Thoughtful agreed
+without stopping his slow, careful scan of the horizon.
+"Why,
+we ain't barely—hold up."
+He swung his long rifle back a few degrees,
+then let loose a string of profanity that put Maddy's ears back against her head.
+His foot thumped against the ground in a rapid *pat-a-tat-tat*.
+"We got trouble, boss.
+Three uglies airborne,
+comin' fast!"
+
+Special Blazes put two fingers in his mouth and whistled loudly.
+Meribeth jerked upright and rubbed her eyes.
+"Wuzza?"
+
+"Wake them up,"
+Special Blazes ordered crisply,
+pointing at Able and Bee Six Vee.
+"Then get these two into the trees and sit on them."
+He turned to Maddy and Gumption.
+"You do exactly what she says,
+no more and no less.
+Understood?
+And you."
+He pointed at Dockety.
+"Back down to the main road.
+No, no, no arguing.
+Down to the main road and eyes wide.
+You see anything bigger than a butterfly
+you get back up here right away and let us know.
+Being ambushed would truly ruin my day."
+
+"Wait!"
+Maddy protested.
+"Where's Flowers?"
+
+The tiger and the rabbit exchanged looks.
+"If it's smart, or got lucky, it's halfway back to home," Thoughtful said.
+"If not…" He shrugged.
 
 </section>
