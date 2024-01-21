@@ -2773,11 +2773,7 @@ If she braced herself on that—
 "Would you like a hand getting down?"
 Special Blazes asked,
 coming around the corner with a freshly-brewed cup of tea in his hand.
-
-"I knew this was gonna happen,"
-Gumption muttered behind her.
-
-Special Blazes nodded,
+He nodded,
 solemn-faced,
 at Maddy's polite,
 "No thank you,"
@@ -2802,14 +2798,20 @@ depending on their nature and inclination.
 "Your choice is reckless.
 You will not be safe.
 You must return home."
-Dockety sounded as angry as Maddy had ever heard it,
-but Special Blazes shook his head.
+Dockety sounded as angry as Maddy had ever heard it.
 
+"I agree with my friend here,"
+Special Leaf said.
+He looked tired,
+Maddy thought.
+He didn't belong here any more than she did.
+
+But Special Blazes shook his head.
 "We're not turning around,
 and they can't go back on their own.
 Can't stay here either,"
 he went on,
-raising his voice slightly to forestall Dockety's protest.
+raising his voice slightly to forestall Dockety and Special Leaf's protests.
 "We're too close to the Mire,
 and Heck's just down the road."
 
@@ -2850,8 +2852,99 @@ Being ambushed would truly ruin my day."
 Maddy protested.
 "Where's Flowers?"
 
-The tiger and the rabbit exchanged looks.
-"If it's smart, or got lucky, it's halfway back to home," Thoughtful said.
-"If not…" He shrugged.
+The tiger and Special Leaf exchanged looks.
+"If it's smart or got lucky, it's halfway home by now," Special Leaf said.
+"If not…"
+He closed his eyes a moment.
+When he opened them again there was a hardness there that Maddy had never seen before.
+"This isn't a story.
+Go find cover,
+and do exactly what the Prosecutor tells you to."
+
+He raised pulled back his sleeves.
+The tech on his arms lit up as he concentrated.
+The ground rumbled and heaved as he pulled it apart to make a foxhole,
+no,
+a trench,
+waist-deep with a mounded wall in front of it.
+Special Blazes clapped him on the shoulder.
+Thoughtful just touched the brim of his hat and slid in
+with his rifle cradled in his arms.
+
+Crouching behind a stand of dwarf larch trees a few moments later,
+Maddy could smell the dry earth under her feet,
+Meribeth's sweaty fur on one side,
+and the cheap soap that Papa Gumption used on his children's clothes on the other.
+The bear had a heavy shotgun in her hands
+and a pair of wicked-looking hatchets on her belt.
+Her scowl told Maddy that questions wouldn't be welcome
+even if she had any more sensible than,
+will be be aright?
+
+The bots' engines whined and then shrieked as they dove at the camp.
+Bright sparks danced across their bellies.
+Maddy heard the *rat a tat tat* of their guns a moment later.
+Puffs of dirt spattered from the ground like raindrops falling in reverse.
+
+*Chonk!*
+A white streak shot up from the trench Special Leaf had made
+and went straight through one of the attackers.
+The bot tumbled end over end as it fell toward the ground.
+"That's one,"
+Meribeth muttered.
+
+The two remaining bots shot away in different directions,
+circled around,
+and came in for a second pass at right angles to each other.
+The ground heaved again as Special Leaf hastily pulled up another wall.
+*Chonk!*
+Another bot fell from the sky.
+
+The third one dove straight at the trench,
+its gun chattering.
+It threw itself to the side to dodge Thoughtful's third shot,
+banked,
+and raced back the way it had come.
+Maddy just had time to think,
+*It's going to get—*
+before it burst into flame.
+
+"Makers' names,"
+Gumption breathed as Special Blazes lowered his arms.
+"That was *amazing*!"
+
+Meribeth grunted.
+"Showin' off is what that was.
+Come on."
+
+She and Gumption ran ahead.
+"Are you all right?" she asked Special Leaf.
+Her hands flew to her mouth.
+The red stain on the tortoise's shirt
+was the size of a handkerchief
+and growing even as she watched.
+
+He smiled weakly.
+"Should have been a bit quicker with that second wall,"
+he said.
+
+"Yeah,
+well,
+I shouldn'a dawdled with that second shot,"
+Thoughtful replied as he unwound a length of white bandage.
+"Durn thing is still in there—you're gonna want t' get that dug out quick-like
+'fore it goes sour."
+
+Special Leaf winced.
+"At least—at least it wasn't my shell.
+Ahh…"
+He groaned as the rabbit poured something that made Maddy's eyes water onto the wound
+before pressing a folded pad of bandage over it.
+
+Special Blazes scanned the horizon one last time
+and then looked down at the injured tortoise.
+"End of the road for you, old timer," he said.
+He transferred his gaze to Maddy and Gumption.
+"Which I guess means you two are going home after all."
 
 </section>
