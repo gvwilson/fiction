@@ -1359,10 +1359,10 @@ Maddy scolded.
 
 "—and decided to sneak up on us and do a bit of eavesdropping,"
 Maddy finished sternly.
-"Anyway, why aren't you at Shaper Leaf's?
+"Anyway, why aren't you at Special Leaf's?
 Don't you have a lesson?"
 
-"Shaper Leaf isn't feeling well again.
+"Special Leaf isn't feeling well again.
 For real!"
 she added as Maddy opened her mouth.
 "He was looking *real* tired."
@@ -2875,7 +2875,7 @@ Crouching behind a stand of dwarf larch trees a few moments later,
 Maddy could smell the dry earth under her feet,
 Meribeth's sweaty fur on one side,
 and the cheap soap that Papa Gumption used on his children's clothes on the other.
-The bear had a heavy shotgun in her hands
+The bear had a small cannon in her hands
 and a pair of wicked-looking hatchets on her belt.
 Her scowl told Maddy that questions wouldn't be welcome
 even if she had any more sensible than,
@@ -2896,55 +2896,70 @@ Meribeth muttered.
 The two remaining bots shot away in different directions,
 circled around,
 and came in for a second pass at right angles to each other.
-The ground heaved again as Special Leaf hastily pulled up another wall.
+The ground heaved again as Special Leaf heaved another wall out of the ground.
+
 *Chonk!*
-Another bot fell from the sky.
+Thoughtful's shot hit off center.
+The bot tumbled,
+its rotors whining as it vainly tried to right itself
+before crashing into the trees.
 
-The third one dove straight at the trench,
-its gun chattering.
-It threw itself to the side to dodge Thoughtful's third shot,
-banked,
-and raced back the way it had come.
-Maddy just had time to think,
-*It's going to get—*
-before it burst into flame.
+"That's two!" Gumption whooped.
 
-"Makers' names,"
-Gumption breathed as Special Blazes lowered his arms.
-"That was *amazing*!"
+But even as he spoke,
+Maddy saw Dockety racing back up the road.
+"Alarm! Alarm!" it blared.
+"Marauders approach!
+We shall soon be under attack!"
 
-Meribeth grunted.
-"Showin' off is what that was.
-Come on."
+"Knew it,"
+Meribeth growled,
+hefting the cannon she was holding.
 
-She and Gumption ran ahead.
-"Are you all right?" she asked Special Leaf.
-Her hands flew to her mouth.
-The red stain on the tortoise's shirt
-was the size of a handkerchief
-and growing even as she watched.
+As the third flying bot raced away
+The earth rumbled and cracked under the force of Special Leaf's tech.
+Zig-zag cracks appeared in the hard-packed road.
+*He can't keep doing this,* Maddy thought,
+but the old tortoise didn't let up.
+He swept his arms from side to side,
+each slow pass creating dips and hummocks in the ground.
 
-He smiled weakly.
-"Should have been a bit quicker with that second wall,"
-he said.
+One breath, two, and the attacking bots were upon them.
+These weren't rag-tag cobbled-together machines
+like the ones Patient in Darkness had controlled.
+These were weapons.
+The small six-wheeled scouts in front were almost as fast as the flying bots had been.
+The ones behind them were as large as Bee Six Vee,
+squat and heavily armored,
+with four wheeled legs for speed
+and two crab arms for fighting.
 
-"Yeah,
-well,
-I shouldn'a dawdled with that second shot,"
-Thoughtful replied as he unwound a length of white bandage.
-"Durn thing is still in there—you're gonna want t' get that dug out quick-like
-'fore it goes sour."
+*Chonk!*
+Thoughtful's shot pinged off one of the crab tanks.
+*Chonk!*
+His second shot knocked a scout bot into the air.
+It hit the ground,
+righted itself,
+and rejoined the attack.
 
-Special Leaf winced.
-"At least—at least it wasn't my shell.
-Ahh…"
-He groaned as the rabbit poured something that made Maddy's eyes water onto the wound
-before pressing a folded pad of bandage over it.
+The earth shook and split.
+The lead crab tank braked hard but couldn't stop itself.
+It tumbled head-first into the fissure Special Leaf had made.
+The earth shook again as the fissure closed on it.
 
-Special Blazes scanned the horizon one last time
-and then looked down at the injured tortoise.
-"End of the road for you, old timer," he said.
-He transferred his gaze to Maddy and Gumption.
-"Which I guess means you two are going home after all."
+"Woo hoo!" Gumption slapped the trunk of the tree in front of him.
+
+"Quiet!" Meribeth ordered.
+"This ain't over yet,
+not by a long drag."
+
+As if to prove her right,
+an armored claw punched up out of the ground.
+A second followed,
+and then the crab tank heaved itself back into the world.
+One by one its legs pulled free and punched into the ground.
+It shook itself like a wet cat,
+re-extended its wheels,
+and rolled implacably forward.
 
 </section>
