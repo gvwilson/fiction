@@ -2598,7 +2598,7 @@ he smiled in the darkness.
 
 <section markdown="1">
 
-## Broken Roads
+## Stowaways
 
 Maddy woke two hours later
 when the wagon hit a pothole
@@ -2693,7 +2693,14 @@ What had once been two smooth lanes with knee-high concrete barriers on each sid
 was now a stream bed in some places
 and a jigsaw puzzle in others.
 The road climbed, dipped, and climbed again
-until finally they reached the summit of a hill overlooking the Mire.
+until finally they reached the summit of a tall hill overlooking the Mire.
+
+A single building stood there,
+its domed metal roof stained with rust but still intact.
+The ground in front of it had once been paved like the road,
+but was now home to scattered stands of larch and pine.
+The waist-high bushes between the trees were dry and brittle,
+and the grass below them brown instead of green.
 
 "Whoa up!"
 Meribeth called.
@@ -2789,12 +2796,29 @@ Um, if you'll excuse me a moment…?"
 
 "By all means."
 The Regulator stepped aside.
-Back straight,
-Maddy headed for the bushes.
 
-Five minutes later she and Gumption had joined the rest of the party,
+Back straight and head held high,
+Maddy got three steps toward the bushes when a small voice said,
+"Can I go too?
+'Cuz I *really* need to."
+
+"Sindy!?" Maddy blurted in disbelief
+as her sister lifted the lid of the box she had been hiding in.
+"What in the Makers' names do you think you're doing,
+hiding yourself away like that?
+It's dangerous out here!
+You shouldn't—oh, hush up!"
+She put her hands on her hips
+and glared at Special Blazes until the Prosecutor stopped chuckling.
+
+"Sorry about that," he said unapologetically.
+"You best come down and take care of what you need to, Miz Roo.
+And you too, young fella.
+Do your business and then come along by the front and we'll have a chat."
+
+Five minutes later she, Sindy, and Gumption had joined the rest of the party,
 who were sitting or standing near the front of the wagon
-depending on their nature and inclination.
+depending on their inclination and body shape.
 "Your choice is reckless.
 You will not be safe.
 You must return home."
@@ -2802,14 +2826,14 @@ Dockety sounded as angry as Maddy had ever heard it.
 
 "I agree with my friend here,"
 Special Leaf said.
-He looked tired,
+*he looks tired,*
 Maddy thought.
-He didn't belong here any more than she did.
+*He doesn't belong here any more than Sindy does.*
 
-But Special Blazes shook his head.
+Special Blazes shook his head.
 "We're not turning around,
 and they can't go back on their own.
-Can't stay here either,"
+They can't stay here either,"
 he went on,
 raising his voice slightly to forestall Dockety and Special Leaf's protests.
 "We're too close to the Mire,
@@ -2821,7 +2845,7 @@ without stopping his slow, careful scan of the horizon.
 "Why,
 we ain't barely—hold up."
 He swung his long rifle back a few degrees,
-then let loose a string of profanity that put Maddy's ears back against her head.
+then let loose a string of profanity that set Maddy's ears back against her head.
 His foot thumped against the ground in a rapid *pat-a-tat-tat*.
 "We got trouble, boss.
 Three uglies airborne,
@@ -2834,12 +2858,13 @@ Meribeth jerked upright and rubbed her eyes.
 "Wake them up,"
 Special Blazes ordered crisply,
 pointing at Able and Bee Six Vee.
-"Then get these two into the trees and sit on them."
-He turned to Maddy and Gumption.
+"Then get these three into the trees and sit on them."
+He turned to the teenagers.
 "You do exactly what she says,
 no more and no less.
-Understood?
-And you."
+Understood?"
+
+"And you."
 He pointed at Dockety.
 "Back down to the main road.
 No, no, no arguing.
@@ -2849,7 +2874,7 @@ you get back up here right away and let us know.
 Being ambushed would truly ruin my day."
 
 "Wait!"
-Maddy protested.
+Sindy protested as Maddy took her hand.
 "Where's Flowers?"
 
 The tiger and Special Leaf exchanged looks.
@@ -2859,7 +2884,8 @@ He closed his eyes a moment.
 When he opened them again there was a hardness there that Maddy had never seen before.
 "This isn't a story.
 Go find cover,
-and do exactly what the Prosecutor tells you to."
+do exactly what the Prosecutor tells you to,
+and *don't* try to help."
 
 He raised pulled back his sleeves.
 The tech on his arms lit up as he concentrated.
@@ -2868,8 +2894,8 @@ no,
 a trench,
 waist-deep with a mounded wall in front of it.
 Special Blazes clapped him on the shoulder.
-Thoughtful just touched the brim of his hat and slid in
-with his rifle cradled in his arms.
+Thoughtful just touched the brim of his hat and slid in,
+his rifle cradled in his arms.
 
 Crouching behind a stand of dwarf larch trees a few moments later,
 Maddy could smell the dry earth under her feet,
@@ -2879,52 +2905,69 @@ The bear had a small cannon in her hands
 and a pair of wicked-looking hatchets on her belt.
 Her scowl told Maddy that questions wouldn't be welcome
 even if she had any more sensible than,
-will be be aright?
+"will we be aright?"
 
-The bots' engines whined and then shrieked as they dove at the camp.
+The flying bots' rotors whined and then shrieked as they dove at the camp.
 Bright sparks danced across their bellies.
 Maddy heard the *rat a tat tat* of their guns a moment later.
-Puffs of dirt spattered from the ground like raindrops falling in reverse.
+Puffs of dirt spattered from the ground.
 
 *Chonk!*
-A white streak shot up from the trench Special Leaf had made
-and went straight through one of the attackers.
-The bot tumbled end over end as it fell toward the ground.
+A white streak shot up from the trench Special Leaf had made.
+Thoughtful's shot went straight through one of the attackers.
+The bot tumbled end over end before breaking apart.
 "That's one,"
-Meribeth muttered.
+Meribeth muttered as the smoldering fragments fell.
 
 The two remaining bots shot away in different directions,
 circled around,
 and came in for a second pass at right angles to each other.
-The ground heaved again as Special Leaf heaved another wall out of the ground.
+The earth rumbled again as Special Leaf heaved another wall out of the ground.
 
 *Chonk!*
-Thoughtful's shot hit off center.
-The bot tumbled,
-its rotors whining as it vainly tried to right itself
-before crashing into the trees.
+Thoughtful's second shot nicked one of the bots off center.
+Its rotors whined as it vainly tried to right itself
+before crashing into the trees
+and exploding with a muffled *whump!*
 
 "That's two!" Gumption whooped.
 
 But even as he spoke,
-Maddy saw Dockety racing back up the road.
+Dockety came racing back up the road on its single wheel.
 "Alarm! Alarm!" it blared.
 "Marauders approach!
-We shall soon be under attack!"
+We shall soon be under further attack!"
 
 "Knew it,"
 Meribeth growled,
-hefting the cannon she was holding.
+hefting her little cannon.
+"They always—"
 
-As the third flying bot raced away
-The earth rumbled and cracked under the force of Special Leaf's tech.
+She stopped mid-sentence and sniffed the air.
+"Makers' names,"
+she cursed.
+"If it ain't one thing it's another."
+
+The acrid tang of smoke tickled Maddy's nose.
+The bot that had just crashed—it must have set the dry brush alight!
+"The water tank!"
+Gumption pointed at the wagon.
+"I'll grab some buckets!
+We can—"
+
+"You can stay right where you are!"
+Meribeth snapped.
+"Fire's the least of our worries right now."
+
+The third flying bot raced away.
+The earth rumbled under the force of Special Leaf's tech.
 Zig-zag cracks appeared in the hard-packed road.
 *He can't keep doing this,* Maddy thought,
 but the old tortoise didn't let up.
 He swept his arms from side to side,
 each slow pass creating dips and hummocks in the ground.
 
-One breath, two, and the attacking bots were upon them.
+One breath, two, and the attacking bots came around the corner.
 These weren't rag-tag cobbled-together machines
 like the ones Patient in Darkness had controlled.
 These were weapons.
@@ -2937,29 +2980,24 @@ and two crab arms for fighting.
 *Chonk!*
 Thoughtful's shot pinged off one of the crab tanks.
 *Chonk!*
-His second shot knocked a scout bot into the air.
+His second shot knocked one of the little scout bots into the air.
 It hit the ground,
 righted itself,
 and rejoined the attack.
 
-The earth shook and split.
+The ground shook and split.
 The lead crab tank braked hard but couldn't stop itself.
 It tumbled head-first into the fissure Special Leaf had made.
 The earth shook again as the fissure closed on it.
 
-"Woo hoo!" Gumption slapped the trunk of the tree in front of him.
-
-"Quiet!" Meribeth ordered.
-"This ain't over yet,
-not by a long drag."
-
-As if to prove her right,
-an armored claw punched up out of the ground.
-A second followed,
-and then the crab tank heaved itself back into the world.
-One by one its legs pulled free and punched into the ground.
-It shook itself like a wet cat,
-re-extended its wheels,
+But almost immediately an armored claw punched up out of the ground.
+A second followed.
+The crab tank heaved itself back into the world.
+It pulled its legs free one by one,
+shook itself like a wet cat,
 and rolled implacably forward.
+
+Meribeth took Maddy by the shoulder.
+"You… stay… here," she growled.
 
 </section>
