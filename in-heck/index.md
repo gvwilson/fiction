@@ -2809,7 +2809,7 @@ hiding yourself away like that?
 It's dangerous out here!
 You shouldn't—oh, hush up!"
 She put her hands on her hips
-and glared at Special Blazes until the Prosecutor stopped chuckling.
+and glared at Special Blazes until the Regulator stopped chuckling.
 
 "Sorry about that," he said unapologetically.
 "You best come down and take care of what you need to, Miz Roo.
@@ -2884,7 +2884,7 @@ He closed his eyes a moment.
 When he opened them again there was a hardness there that Maddy had never seen before.
 "This isn't a story.
 Go find cover,
-do exactly what the Prosecutor tells you to,
+do exactly what the Regulator tells you to,
 and *don't* try to help."
 
 He raised pulled back his sleeves.
@@ -2946,7 +2946,7 @@ hefting her little cannon.
 She stopped mid-sentence and sniffed the air.
 "Makers' names,"
 she cursed.
-"If it ain't one thing it's another."
+"If it ain't one thing."
 
 The acrid tang of smoke tickled Maddy's nose.
 The bot that had just crashed—it must have set the dry brush alight!
@@ -2957,10 +2957,11 @@ We can—"
 
 "You can stay right where you are!"
 Meribeth snapped.
-"Fire's the least of our worries right now."
+"If we're still here in five minutes
+we can worry about the fire then."
 
 The third flying bot raced away.
-The earth rumbled under the force of Special Leaf's tech.
+The earth split under the force of Special Leaf's tech.
 Zig-zag cracks appeared in the hard-packed road.
 *He can't keep doing this,* Maddy thought,
 but the old tortoise didn't let up.
@@ -2968,11 +2969,11 @@ He swept his arms from side to side,
 each slow pass creating dips and hummocks in the ground.
 
 One breath, two, and the attacking bots came around the corner.
-These weren't rag-tag cobbled-together machines
-like the ones Patient in Darkness had controlled.
+These weren't rag-tag machines
+like the ones Patient in Darkness had cobbled together out of spare parts.
 These were weapons.
 The small six-wheeled scouts in front were almost as fast as the flying bots had been.
-The ones behind them were as large as Bee Six Vee,
+The two behind them were as large as Bee Six Vee,
 squat and heavily armored,
 with four wheeled legs for speed
 and two crab arms for fighting.
@@ -2990,14 +2991,121 @@ The lead crab tank braked hard but couldn't stop itself.
 It tumbled head-first into the fissure Special Leaf had made.
 The earth shook again as the fissure closed on it.
 
-But almost immediately an armored claw punched up out of the ground.
-A second followed.
-The crab tank heaved itself back into the world.
-It pulled its legs free one by one,
-shook itself like a wet cat,
-and rolled implacably forward.
+Almost immediately one of its armored claws punched up out of the ground.
+The second claw followed.
+The crab tank heaved itself back into the world,
+pulling its legs free one by one.
+It shook itself like a wet cat and rolled implacably forward.
 
-Meribeth took Maddy by the shoulder.
-"You… stay… here," she growled.
+*Crack!*
+A scout bot exploded,
+sending scraps of metal flying in all directions.
+The fireball that Special Blazes had thrown left a dazzling after-image on Maddy's eyes.
+The other scouts scattered in all directions like a flock of startled chickens.
+
+But "in all directions" meant "toward the trees".
+Maddy grabbed Sindy's arm and was about to yell, "Run!"
+when Meribeth fired her hand cannon.
+
+*Boom!*
+A wire spiderweb burst wide in the air and wrapped around the scout bot.
+The wires sparked and sizzled.
+The bot careened off course,
+crashed into a tree,
+and toppled over on its side to lie still.
+
+*Szzt!*
+Special Blazes' second fireball missed its target.
+It bounced across the broken ground and evaporated unnoticed.
+Another fireball,
+then another,
+and then the first crab tank was climbing the mounded wall
+that Special Leaf had made.
+
+*We're done for!*
+Maddy thought,
+panic rising in her throat.
+
+But she had reckoned without Bee Six Vee.
+The mulebot slammed into the attacker's side.
+As it scrabbled to regain its footing,
+Special Blazes punched forward with both hands
+to send a stream of fire straight into the joints
+of the crab tank's legs.
+The tiger roared,
+ducking a wild swipe from one of the bot's armored claws.
+
+One second, two…
+Smoke and flame burst out of the rear of the crab tank.
+Bee Six Vee rammed it again.
+Its legs crumpled beneath it and it lay still.
+
+*Boom!*
+Meribeth fired again,
+bringing down a scout that Maddy hadn't even seen.
+"Stay here!"
+the bear bellowed,
+sprinting into the clearing
+to press herself against the back of the wagon.
+She kicked the blocks away from its rear wheels,
+put her shoulder against the backboard,
+and pushed.
+
+The wagon began to roll forward,
+slowly at first and then picking up speed as the bear pushed.
+Meribeth tossed her hand cannon into the back,
+pulled one of the hatchets off her belt,
+and brought it down hard into the back of a scout bot
+as it charged at her.
+
+*Chonk!*
+*Crack!*
+Shots and fireballs kept the remaining scouts at bay,
+but not the second crab tank.
+It grabbed Bee Six Vee and staggered around
+to put the mulebot between it and Special Blazes.
+Metal shrieked as the crab tank's claws tightened.
+The mulebot's legs left gouges in the ground as it was pushed back,
+closer and closer to the defenders' trench.
+
+*Thud!*
+A pillar of earth punched up out of the ground
+directly beneath the crab tank.
+It was only airborne for a moment,
+but a moment was all Bee Six Vee needed.
+The mulebot rolled to the side,
+flipping the crab tank onto its back.
+As it hit the ground,
+Special Blazes poured fire into its exposed joints.
+
+Gumption whooped as the last of the scout bots fled.
+Maddy hugged her sister.
+"Are you aright?"
+she asked,
+her voice muffled by Sindy's curly hair.
+
+"I'm fine,"
+Sindy said.
+"It's not like it's my first fight or anything."
+Nevertheless,
+she held on to Maddy for a heartbeat when the older Roo would have let go.
+
+Gumption's hand came down on Maddy's shoulder.
+"Somethin's wrong."
+He pointed at the trench,
+then set off at a run.
+
+Maddy reached it a few moments after him.
+Her hand flew to her mouth.
+
+Special Leaf blinked up at her.
+"It's… not as bad… as it looks," the old tortoise wheezed.
+
+"No, it's worse,"
+Thoughtful said,
+folding a length of beige linen bandage
+and pressing it against the spreading red stain on Special Leaf's chest.
+The rabbit looked up at Special Blazes.
+"It's a lot worse."
 
 </section>
