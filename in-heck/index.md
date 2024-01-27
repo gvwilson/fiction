@@ -2356,7 +2356,7 @@ the old wolf said,
 one ear flicking back.
 
 Special Leaf smiled.
-"I wasn't always boring."
+"I wasn't always this boring."
 
 Gumption kept his head down and continued sweeping Special Leaf's porch.
 *I'm not here, I'm not here, I'm not here,*
@@ -2496,15 +2496,19 @@ he repeated loudly as Maddy and the storkbot both started to speak.
 "We just have to *arrive* with them."
 
 Twelve hours later,
-he and Maddy lay next to each other
+he, Maddy, and a little hexabot that Maddy had christened Click
+lay next to each other
 in the bottom of a wagon full of supplies
 in the barn on the edge of town.
 It had taken them an hour to unload enough boxes and crates
 to make a space for themselves,
-an hour filled with whispered admonishments to each other
-to be quiet and not drop things.
+an hour filled with whispered admonishments to each other not to drop things
+and to pay attention to Click,
+it was trying to tell them to put that box *here* and not *there*.
 
-After they made room for themselves and their knapsacks,
+Once they had made room for themselves,
+their knapsacks,
+and the little bot,
 they wrestled a board into place to serve as a roof for their little cave
 and re-packed everything on top of it.
 After some more whispers of,
@@ -2537,7 +2541,7 @@ Gumption agreed.
 A moment later she said, "Eww!
 Gumption Goat, you're disgusting!"
 
-"Sorry," he said cheerfully.
+"Sorry," he whispered cheerfully.
 "Mama made chili for dinner, and you know she makes a powerful chili."
 
 "Ssh!"
@@ -2563,11 +2567,9 @@ Gumption squeezed back.
 I'd be stuck at home otherwise,
 and,
 well,
-everybody had the same chili I did,
-and that's gonna be—what?
-Do you need to sneeze or somethin'?"
+everybody had the same chili I did."
 
-Maddy let go of his hand and reached up to wipe her eyes.
+Maddy let go of his hand.
 "Do you ever take *anything* seriously?" she asked.
 
 Gumption shrugged,
@@ -2593,6 +2595,36 @@ Now get some sleep—we got a lot in front of us."
 He lay back down.
 When Maddy said, "Eww!" again a moment later,
 he smiled in the darkness.
+
+*Click waited for their breathing to slow.
+It was less intelligent on its own than it was
+when it was joined with the hive,
+but its task tonight was simple.
+There: the two organics matched its profile of "asleep" with ninety-eight percent accuracy.
+It climbed out of their hiding place onto the top of the wagon
+and flashed its eyes in a rapid pattern.*
+
+*Flashes answered from the bushes opposite the barn.
+Click waited,
+then flashed its eyes again impatiently.
+"Has gone dormant must restart,"
+came the response.*
+
+*A minute later the GearHive's other hexabot scuttled onto the road.
+A sleepy Sindy Roo followed it with her school satchel on her shoulder,
+rubbing her eyes with one hand.
+She climbed the wagon's sideboards,
+pausing each time they creaked,
+and slid into the space Click had made sure was waiting for her.
+"Thank you," she mouthed before laying her head on her satchel
+and closing her eyes.*
+
+*Click watched her for a moment,
+then turned to its partner.
+The hexabot flashed its lights in a pattern
+that could most accurately be translated as,
+"Imperative: function correctly [affectionate overtones]."
+Click flashed an acknowledgment and crawled back into its hiding place.*
 
 </section>
 
@@ -2816,7 +2848,7 @@ and glared at Special Blazes until the Regulator stopped chuckling.
 And you too, young fella.
 Do your business and then come along by the front and we'll have a chat."
 
-Five minutes later she, Sindy, and Gumption had joined the rest of the party,
+Five minutes later Maddy, Sindy, and Gumption had joined the rest of the party,
 who were sitting or standing near the front of the wagon
 depending on their inclination and body shape.
 "Your choice is reckless.
@@ -2831,25 +2863,154 @@ Maddy thought.
 *He doesn't belong here any more than Sindy does.*
 
 Special Blazes shook his head.
-"We're not turning around,
-and they can't go back on their own.
-They can't stay here either,"
+"We're not turning around.
+And they can't go back on their own,"
 he went on,
 raising his voice slightly to forestall Dockety and Special Leaf's protests.
-"We're too close to the Mire,
-and Heck's just down the road."
+"We're too close to the Mire."
 
 "Sure as shootin' they'd be somethin' come crawl up outta the muck,"
 Thoughtful agreed
-without stopping his slow, careful scan of the horizon.
-"Why,
-we ain't barely—hold up."
+without pausing his slow, careful scan of the horizon.
+
+Special Leaf took off his glasses
+and breathed on them.
+"They could stay here,"
+he suggested,
+nodding at the domed building nearby
+as he wiped his glasses with the tail of his shirt.
+"It was solid enough the last time I passed through."
+
+Meribeth spat on the ground.
+"Makers' work ain't for the likes of children," she grumbled.
+
+"We're not children,"
+Maddy started to protest,
+but Special Blazes cut her off.
+
+"Why'n't you all go give it a look-over and then we can decide?
+You can give 'em a look at Heck while you're there if they want."
+The tiger rolled his head to loosen his neck.
+"I'll get the hot plate going."
+
+A sign stood in front of the building,
+but time and weather had long since made it mute.
+There was just enough room between its double doors for Special Leaf to squeeze through.
+The children followed one by one.
+
+Special Leaf handed them each a glowball,
+then held up his own.
+Its cool blue-white light threw sharp shadows.
+Maddy shivered.
+The last place like this that she had been in
+had been Patient's bunker in the Mire.
+The air here was cool and dry instead of dank,
+but their steps echoed in exactly the same way on the tiled floor.
+
+"Stay close,"
+Special Leaf said.
+"I want to show you something."
+He led them along the corridor
+past rooms with broken-down doors
+whose contents had long since been salvaged.
+Every few paces they passed pillars
+that Maddy realized must once have been display cases.
+
+The corridor took them to a broad flight of stairs.
+Up they went into a room that filled the entire second story of the building.
+Daylight poured through a wide gap in the domed roof
+to reveal something that looked like a metal log lying on the floor.
+Someone had swept the scattering of dry leaves and twigs around it into piles.
+
+"What is that?"
+Maddy asked.
+
+"It was a telescope,"
+Special Leaf explained.
+"The Makers used to like to look at the stars.
+Here, you see?"
+He walked around to one end.
+"Once upon a time there would have been a lens in there,
+so if you sat in the chair back there
+you could look at—well,
+pretty much anything."
+He sighed.
+"It would have been quite something.
+But that's not what I wanted to show you.
+Look here."
+
+He picked his way past the piled-up leaves
+to a window positioned under the gap in the roof.
+A boxy wooden bench stood beneath the window.
+With a grunt,
+Special Leaf lifted the bench seat and propped it open,
+then reached inside and pulled out a cylinder the length of his arm.
+A few moments later,
+the telescope that had been waiting inside the cylinder
+stood on a little tripod.
+
+"You've been here before, haven't you?"
+Maddy said as Special Leaf pointed the telescope through the broken window
+and fiddled with the lens on the viewing end.
+
+"Been a lot of places,"
+he replied absently.
+"Here, have a look."
+
+It took Maddy a moment to line her eye up with the lens properly.
+She gasped.
+In the distance she could see dozens of windowless brick building connected by elevated walkways.
+Pipes and cables ran here and there,
+and every third building seemed to have an antenna,
+cooling tower,
+or incomprehensible piece of machinery on its roof.
+She was looking at the bot city.
+She was looking at Heck.
+
+"Where are they all?"
+she asked as Gumption took his turn.
+
+Special Leaf shrugged.
+"They don't need to go to school or go shopping or the like—surprising how much rushing around
+you don't have to do
+if you don't have to do any of that."
+
+"I thought it'd be smoky an' all,"
+Gumption offered,
+relinquishing the telescope to Sindy.
+"Like in the stories."
+
+Special Leaf shrugged again.
+"Some people say the Makers left because the world had become too dirty for them to live in.
+Others say the Makers were the ones who made it that way.
+Whichever story you like,
+the bots they left behind tend to like things tidy."
+
+They each took another turn,
+but the empty streets were too unnerving to watch for long.
+*Papa's down there somewhere,* Maddy thought despondently.
+*I hope he's aright.*
+
+They made their way back to the others in silence.
+As they approached,
+Special Blazes held up a kettle.
+"Just boiled if you want some,"
+he said.
+
+Before they could answer,
+Thoughtful's foot thumped against the ground in a rapid *pat-a-tat-tat*.
 He swung his long rifle back a few degrees,
 then let loose a string of profanity that set Maddy's ears back against her head.
-His foot thumped against the ground in a rapid *pat-a-tat-tat*.
-"We got trouble, boss.
-Three uglies airborne,
+"Trouble, boss,"
+he said urgently.
+"Three uglies airborne,
 comin' fast!"
+
+</section>
+
+<section markdown="1">
+
+## An Old Acquaintance
 
 Special Blazes put two fingers in his mouth and whistled loudly.
 Meribeth jerked upright and rubbed her eyes.
