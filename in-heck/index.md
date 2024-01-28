@@ -1279,7 +1279,7 @@ Maddy nodded.
 
 <section markdown="1">
 
-## A Little Bit of Eavesdropping
+## Eavesdropping
 
 Gumption turned the discombobulator over in his hands.
 "It's a lot heavier than it looks."
@@ -3010,7 +3010,7 @@ comin' fast!"
 
 <section markdown="1">
 
-## An Old Acquaintance
+## The Observatory
 
 Special Blazes put two fingers in his mouth and whistled loudly.
 Meribeth jerked upright and rubbed her eyes.
@@ -3035,7 +3035,7 @@ you get back up here right away and let us know.
 Being ambushed would truly ruin my day."
 
 "Wait!"
-Sindy protested as Maddy took her hand.
+Gumption protested.
 "Where's Flowers?"
 
 The tiger and Special Leaf exchanged looks.
@@ -3064,13 +3064,13 @@ Meribeth's sweaty fur on one side,
 and the cheap soap that Papa Gumption used on his children's clothes on the other.
 The bear had a small cannon in her hands
 and a pair of wicked-looking hatchets on her belt.
-Her scowl told Maddy that questions wouldn't be welcome
-even if she had any more sensible than,
+Her scowl told Gumption that questions wouldn't be welcome
+even if he had any more sensible than,
 "will we be aright?"
 
 The flying bots' rotors whined and then shrieked as they dove at the camp.
 Bright sparks danced across their bellies.
-Maddy heard the *rat a tat tat* of their guns a moment later.
+Gumption heard the *rat a tat tat* of their guns a moment later.
 Puffs of dirt spattered from the ground.
 
 *Chonk!*
@@ -3109,7 +3109,7 @@ She stopped mid-sentence and sniffed the air.
 she cursed.
 "If it ain't one thing."
 
-The acrid tang of smoke tickled Maddy's nose.
+The acrid tang of smoke tickled Gumption's nose.
 The bot that had just crashed—it must have set the dry brush alight!
 "The water tank!"
 Gumption pointed at the wagon.
@@ -3124,7 +3124,7 @@ we can worry about the fire then."
 The third flying bot raced away.
 The earth split under the force of Special Leaf's tech.
 Zig-zag cracks appeared in the hard-packed road.
-*He can't keep doing this,* Maddy thought,
+*He can't keep doing this,* Gumption thought,
 but the old tortoise didn't let up.
 He swept his arms from side to side,
 each slow pass creating dips and hummocks in the ground.
@@ -3161,11 +3161,12 @@ It shook itself like a wet cat and rolled implacably forward.
 *Crack!*
 A scout bot exploded,
 sending scraps of metal flying in all directions.
-The fireball that Special Blazes had thrown left a dazzling after-image on Maddy's eyes.
+The fireball that Special Blazes had thrown
+left a dazzling after-image on Gumption's eyes.
 The other scouts scattered in all directions like a flock of startled chickens.
 
 But "in all directions" meant "toward the trees".
-Maddy grabbed Sindy's arm and was about to yell, "Run!"
+Gumption grabbed Maddy's arm and was about to yell, "Run!"
 when Meribeth fired her hand cannon.
 
 *Boom!*
@@ -3184,17 +3185,16 @@ and then the first crab tank was climbing the mounded wall
 that Special Leaf had made.
 
 *We're done for!*
-Maddy thought,
-panic rising in her throat.
+Gumption thought,
+panic rising in his throat.
 
-But she had reckoned without Bee Six Vee.
-The mulebot slammed into the attacker's side.
-As it scrabbled to regain its footing,
+But he had reckoned without Bee Six Vee.
+The mulebot slammed into the attacker's side
+with a clang he was sure they must have heard
+all the way back in Rusty Bridge.
+As the crab tank scrabbled to regain its footing,
 Special Blazes punched forward with both hands
-to send a stream of fire straight into the joints
-of the crab tank's legs.
-The tiger roared,
-ducking a wild swipe from one of the bot's armored claws.
+to send a stream of fire straight into its joints.
 
 One second, two…
 Smoke and flame burst out of the rear of the crab tank.
@@ -3212,8 +3212,10 @@ She kicked the blocks away from its rear wheels,
 put her shoulder against the backboard,
 and pushed.
 
-The wagon began to roll forward,
-slowly at first and then picking up speed as the bear pushed.
+The wagon began to roll forward slowly—too slowly.
+Swallowing hard,
+Gumption ran forward and put his shoulder against the backboard.
+The wagon begain picking up speed as he and the bear pushed.
 Meribeth tossed her hand cannon into the back,
 pulled one of the hatchets off her belt,
 and brought it down hard into the back of a scout bot
@@ -3236,37 +3238,142 @@ It was only airborne for a moment,
 but a moment was all Bee Six Vee needed.
 The mulebot rolled to the side,
 flipping the crab tank onto its back.
-As it hit the ground,
-Special Blazes poured fire into its exposed joints.
+Special Blazes raised his hands
+and poured fire into its joints.
 
 Gumption whooped as the last of the scout bots fled.
-Maddy hugged her sister.
-"Are you aright?"
-she asked,
-her voice muffled by Sindy's curly hair.
+"Did you see that!?" he yelled to Maddy and Sindy.
 
-"I'm fine,"
-Sindy said.
-"It's not like it's my first fight or anything."
-Nevertheless,
-she held on to Maddy for a heartbeat when the older Roo would have let go.
+Meribeth's hand came down on his shoulder.
+"Somethin's wrong,"
+she said,
+pointing at the trench.
 
-Gumption's hand came down on Maddy's shoulder.
-"Somethin's wrong."
-He pointed at the trench,
-then set off at a run.
-
-Maddy reached it a few moments after him.
-Her hand flew to her mouth.
-
-Special Leaf blinked up at her.
+Gumption reached it a few moments after her.
+Special Leaf blinked up at him.
 "It's… not as bad… as it looks," the old tortoise wheezed.
 
-"No, it's worse,"
+"No it ain't,"
 Thoughtful said,
-folding a length of beige linen bandage
+folding a length of linen bandage
 and pressing it against the spreading red stain on Special Leaf's chest.
-The rabbit looked up at Special Blazes.
-"It's a lot worse."
+"It's worse."
+
+Special Blazes swore under his breath.
+"Do what you can,"
+he said curtly.
+"Bee! Meri! Load up!
+Looks like we're turning around after all."
+
+Special Leaf coughed wetly.
+"Sorry, boss—I don't think we got that long,"
+Thoughtful said quietly.
+
+Special Blazes glared at the nearest crab bot.
+"What in the Makers' names were they doing this far out?"
+he demanded of the air,
+and then,
+"What?
+Who in the galloping garbage piles are you?"
+
+The hexabot tugged at his trouser leg again.
+"It came with us,"
+Gumption said.
+
+Special Blazes turned his glare on the young goat.
+"Did anyone *not* stow away on this trip?"
+he demanded.
+
+The hexabot tugged Special Blazes' trouser leg again
+and pointed its other claw toward the observatory.
+"I think it's telling us there's a fire,"
+Gumption offered.
+"From when the flyer crashed."
+
+"Well go and deal with it!"
+Special Blazes roared.
+He jabbed a finger at Dockety.
+"You go with him.
+Everyone else,
+pack up and get ready to move!"
+
+Halfway to the observatory,
+the hexabot's eyes began to flash.
+Dockety pulled up short.
+"This one says the fire is not spreading,"
+it said.
+"It says that it has a more important mission for us.
+It wants us to go into the building."
+
+"What?
+Why?
+There's nothing in there but a telescope,"
+Gumption protested.
+
+Click's eyes flashed again.
+"It says there is more,"
+Dockety translated.
+"It says it can help Special Leaf."
+
+Gumption hesitated.
+"Aright," he said.
+"But just for a minute.
+We gotta check the fire out no matter what it says."
+
+They didn't have Special Leaf's glowballs,
+but Dockety still had its chest light.
+Its bright yellow beam let Gumption pick his way down the long corridor.
+He tried hard to ignore the dark holes in the walls
+that had once held doors,
+and tried even harder not to think about what might be lurking in them.
+
+When they reached the stairs,
+Click scuttled around them and tapped on a small door.
+Gumption caught his breath as something tapped back.
+Click's eyes flashed.
+"If you say so," Dockety replied.
+The bot tapped a code into the lock panel on the door.
+
+*Clunk.*
+Gumption jumped as a heavy lock disengaged.
+Dockety pushed the door open and shone its light inside,
+then reached inside to flip a switch.
+
+Light spilled from the room into the corridor.
+A moment later,
+a handful of rectangular panels flickered to life above their heads.
+
+Dockety turned to Gumption.
+"Go tell the regulator we have found something.
+Tell him to bring Special Leaf.
+Proceed with haste."
+
+Gumption ran.
+
+Meribeth carried Special Leaf to the observatory.
+Dockety met them at the door.
+"It is quite remarkable," the bot said.
+It led them back to the door under the stairs
+and through it into a room almost as large
+as the one above it.
+Machines and cabinets lined the walls,
+dusty but unbroken.
+
+"Boots and biscuits,"
+Thoughtful said, wide-eyed.
+"I ain't never—boss, look at all o' this!"
+
+"Certainly is convenient,"
+Special Blazes said levelly,
+eyeing Click.
+The little hexabot scuttled around behind Dockety.
+"Any of it useful?"
+
+The rabbit took a deep breath.
+"Sure hope so.
+Meribeth,
+you put him on that table there.
+The rest o' you shoo.
+I got work to do."
 
 </section>
