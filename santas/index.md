@@ -169,7 +169,7 @@ but was clearly still keeping one eye on the empty bird bath.
 then added, "Thank you,"
 because a stone statue of a cat is still in some sense a cat,
 and one of the first lessons a santa is taught is
-to always be polite to cats.[^polite-to-cat]
+to always be polite to cats.[^polite-to-cats]
 
 [^polite-to-cats]: And watchmakers, but that's also—you know what? If it really is a story for another time, then from now on we'll just not mention it.
 
@@ -4144,7 +4144,7 @@ and once again he was somewhere else.
 
 </section>
 
-<section>
+<section markdown="1">
 
 ## Episode 17: The Subway
 
@@ -4158,7 +4158,7 @@ Something or someone large and furry
 that smelled even more than he did[^still-smelly]
 crouched beside him.
 
-[^still-smelly] The sanitation shaft, remember?
+[^still-smelly]: The sanitation shaft, remember?
 
 "Must not let them see you,"
 his neighbor whispered loudly,
