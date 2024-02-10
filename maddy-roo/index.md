@@ -834,9 +834,9 @@ and someone shrieked, "Bots! Bots!"*
 Tendrils of black dizzysmoke drifted between the lampposts.
 Half a dozen people lay on the ground,
 unconscious or too weak from inhaling the smoke to stand.
-The rest of Rusty Bridge was fleeing in all directions.
+The rest of Rusty Bridge was fleeing in all directions.*
 
-A hauler bot on tractor treads rumbled and chugged near the center of the square.
+*A hauler bot on tractor treads rumbled and chugged near the center of the square.
 Maddy watched in horror as two smaller bots picked up a fallen goat
 and slung him into the back of the hauler.*
 
