@@ -326,4 +326,147 @@ She closed the engine casing as gently as she could and hurried down the gangpla
 the weight of life on the *Guinevere* lifting from her shoulders
 as her boots hit the pier.
 
+<p class="right"><em>— added 2024-02-16</em></p>
+
+The Antarctic summer didn't have days or nights,
+but ships and people kept to clock time as best they could.
+An old couple had woken early
+to scrape tweaked barnacles off long strips of plastic they had hung from the pier months before.
+Hundreds of little shells glittered with tiny particles of metal they had filtered out of the water.
+Ground down and incinerated,
+they would yield a few grams of copper or manganese
+that could keep some old piece of tech limping along for another season.
+
+One of the women straightened and raised a hand in greeting as Iffy went by.
+"Beautiful day," she said. "You headin' t' town?"
+
+"Am that," Iffy nodded,
+not wanting to slow down for conversation.
+
+The old woman nodded back.
+"You be careful, aye?
+The *Taroona* came in yesterday.
+Those pirates been bustin' up ever since."
+
+"Thanks," Iffy said dutifully.
+The old woman smiled and bent back to her strips and buckets.
+
+The teens at the head of the pier arguing over how best to hang a net for mending
+glanced at her as she went by but didn't say anything.
+Iffy didn't expect them to.
+*At least they don't cross their fingers and spit,* she thought.
+Sailors were superstitious, and she was a sole survivor.
+Nobody looked at her sidelong
+the way they had when the loss of the *Rushin Doll* was still fresh,
+but despite Aunt Naggie's efforts,
+Iffy had found that friends were something that mostly happened to other people.
+
+*Mishra & Co Fine Technical Work - No Job Too Small!*
+occupied a long shed that might actually have been the oldest building in Halley.
+The sliding door that took up half its front wall hadn't opened since before she was born,
+so she banged on the smaller door cut into it.
+
+It scraped open on her third knock.
+"Hey Jeep,"
+she said to the boy scowling at her from inside.
+"Is your da here?"
+She held up the bent reciprocating rod by way of explanation.
+
+"Along back," Jeep muttered,
+jerking his thumb over his shoulder and making just enough room for Iffy to squeeze past him.
+
+The inside of the shed was a humid mug of long-ago fish,
+freshly singed metal,
+and the not-entirely-legal compost bricks Mister Mishra burned in the furnace
+to keep his equipment from freezing in the winter.
+Mismatched lights hung from the ceiling.
+The shadows they cast made the compact machines
+and shelves of carefully sorted scrap on the shop floor
+look like battlebots from old war sims.
+They had frightened Iffy the first time she ventured among them,
+but all she saw now was what they could make—what *she* could make with them.
+
+Mister Mishra was sharpening his fingers on a grinding wheel in the center of the shop.
+He nodded at Iffy but didn't speak until the last sparks had flown off his steel nails
+and the wheel spun down to a halt.
+Pushing his safety goggles up onto his forehead,
+he tugged the calloused fingers of his real hand through the tangles in his beard.
+"Buy, sell, or trade?" he asked.
+
+"Trade," Iffy said.
+She held up the bent reciprocating rod.
+"Tangled some flotsam comin' in from our last dredge.
+The engine over-spun before I could get to it.
+There's no cracks or nothin'," she added hastily,
+handing the piece to him.
+"Just needs t' be re-angled an' annealed."
+
+"Hm."
+The wiry machinist turned the rod over,
+sighted along its length,
+then held it up to his good ear and tapped it with his metal fingers.
+Iffy had seen him go through this ritual more times than she could count,
+but still didn't know if the he was bluffing
+or if he really could hear flaws too small for eyes to see.
+
+He handed the rod back to her.
+"She'll be right enough once she's straightened," he pronounced.
+"But it'll cost you."
+
+The tension eased out of Iffy's shoulders.
+Mister Mishra didn't bargain unless he'd already decided that he was going to say yes.
+After that it was just a matter of price.
+
+In the end,
+getting the rod bent straight cost her half an hour of sorting scraps for smelting.
+It wasn't the machine work she'd hoped for,
+but she had learned that if she timed her questions right
+he would take a minute here and there to show her
+how to dog the belaying plate on the laser drill
+or line up a set of gatling hammers to rat-a-tat-tat a piece of sheet metal into a graceful springy curve.
+She was careful never to stare at the burn scar where his left ear should have been
+or at the fractal spider's web of articulated metal that had replaced his left forearm.
+She was equally careful not to look up when his son Jeep slouched in
+to say that lunch was ready but *amma* said he had to clean up first.
+
+"You hungry?" Mister Mishra asked
+as he spun the handwheel on the drill to lift the laser into its locking position.
+
+"No thanks—I brought," Iffy said,
+holding up the egg Aunt Naggie had given her.
+
+"Hm." Mister Mishra ran his fingers through his beard again.
+"Not much to grow on."
+
+"It'll do me fine,"
+Iffy said.
+She nodded toward the laser drill as casually as she could.
+"You mind I try a couple of pieces while you're out?"
+
+Mister Mishra shook his head.
+"Nuh uh, girl.
+Nobody touches my darlin' without I'm here to watch.
+You break that,
+I'll have t' send up t' Amundsen for parts,
+and odds are they have t' send all the way up to Taz."
+
+"Aright," Iffy said,
+feigning disappointment even though she'd known what the answer would be.
+"How about I use th' mechanical one instead?
+Just for learnin'," she added hastily.
+"It's not paid work or nothin'.
+I'll just drill some scrap—you can count it all in an' out t' make sure."
+
+Mister Mishra chuckled.
+"No worry about th' scrap, girl.
+An' no worry about gettin' paid.
+If you found work hereabouts that I haven't, more power to you."
+He rolled his head to loosen the kinks in his neck
+and waggled the digits of his artificial hand.
+"Mind your eyes an' fingers, aye?"
+
+"Aye," Iffy agreed eagerly.
+She had her scavenged safety goggles on her face and the drill bit engaged
+before Mister Mishra reached the door.
+
 </section>
