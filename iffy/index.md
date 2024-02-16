@@ -7,7 +7,7 @@ chapters: true
 
 ## Chapter 1
 
-<p class="right"><em>— added 2024-02-15</em></p>
+<span id="2024-02-15-a"></span>
 
 Iffy had a bad dream that night.
 It was the same one she always had,
@@ -129,7 +129,7 @@ Real as being poor and lonely
 as she grew older
 and Uncle Jack's business deals left them with a little less each season.
 
-<p class="right"><em>— added 2024-02-16</em></p>
+<span id="2024-02-16-a"></span>
 
 Iffy woke that morning to the sound of Aunt Naggie bustling about in the galley.
 She lay on the narrow foam packing slab she used as a mattress for one final precious moment
@@ -326,7 +326,7 @@ She closed the engine casing as gently as she could and hurried down the gangpla
 the weight of life on the *Guinevere* lifting from her shoulders
 as her boots hit the pier.
 
-<p class="right"><em>— added 2024-02-16</em></p>
+<span id="2024-02-16-b"></span>
 
 The Antarctic summer didn't have days or nights,
 but ships and people kept to clock time as best they could.
