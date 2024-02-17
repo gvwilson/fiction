@@ -1426,4 +1426,437 @@ Iffy warned.
 Wales nodded.
 "Thank you—I'll keep that in mind."
 
+Ten minutes later Uncle Jack shouted,
+"No affin' way!
+We're a jelly dredger,
+not an affin' ferryboat!
+You wanna hitch up along Rothera,
+get yourself three piers over an' buy a ticket."
+
+Wales' polite expression didn't waver.
+"I understand it's not your usual line of work,"
+he said smoothly
+when the *Guinevere*'s bleary-eyed captain paused for breath.
+"And if no is your final answer,
+I'll respect that and take my business elsewhere.
+But!"
+He held up a hand to forestall another outburst.
+"What if I could do more than just pay for my passage?"
+
+Uncle Jack snorted.
+He had been dozing when Iffy and Wales reached the *Guinevere*,
+and from his squint and the smell on his breath
+Iffy guessed that she'd find at least one empty bottle in the recycling
+if she bothered to go and look.
+"Lemme guess—you can sing.
+Or no—you can do magic tricks an' turn jellyfish into gold."
+
+"Almost," Wales nodded.
+"Except it isn't magic, and gold will be all yours."
+He tapped the tech in his temple.
+"This is a satellite uplink.
+A *fully functional* satellite uplink,"
+he continued as Uncle Jack opened his mouth.
+"Which means I can spot patches of sea boil with half an hour to spare.
+Maybe a full hour, if a satellite is in the right positions.
+And *that* means—"
+
+Uncle Jack said a word that sent Aunt Naggie's hands flying to her mouth.
+"Ain't no such thing,"
+the *Guinevere*'s captain sneered.
+"Not since the war—everyone knows that.
+The sats are all 'crypted an' th' keys are long gone."
+
+"They are indeed encrypted," Wales nodded.
+"But as for the keys…"
+He closed his eyes.
+"Your beacon is GUIN40782, is that right?"
+He nodded to himself without waiting for an answer.
+"Your last trip, you were at sea nine days.
+You spent most of it over the Berkner Rise."
+
+"So what?" Uncle Jack contemptuously.
+"Everyone 'round here dredges th' Berk."
+
+"Some with more luck than others," Wales observed coolly.
+"Take the *Whitstable*, for example.
+The jellyfish they brought back came up in a boil
+just twenty kay northeast of you.
+If you'd known it was happening,
+they could have been yours."
+
+Uncle Jack scowled.
+The *Whitstable* was tied up two piers over,
+her captain overseeing a refit
+paid for by the full hold she had brought back
+the day after the *Guinevere* had returned.
+Her crew had been celebrating their good fortune in Halley's shops and bars ever since.
+
+Uncle Jack scratched his cheek through his uncombed beard.
+Iffy could practically hear him resenting the other ship's good luck.
+"You're shaddin' me," he growled.
+"There's no way you could know somethin' like that 'fore it happened."
+
+Wales didn't answer.
+Instead,
+he closed his eyes again and pointed toward the *Guinevere*'s stern.
+"There's a pair of Aussie freighters a hundred and forty kay that way,
+core pilots and human crews,
+carrying…"
+He paused.
+"Profile looks like grain,
+but they have something heavier for ballast.
+Smuggling in machinery to swap for coal, most likely."
+He pivoted twenty degrees like a weathervane.
+"The *Peacock*, the *Reculver*, and the *Watney Breach* are dredging together.
+They're not going to find much—the sea bottom there
+might as well be concrete."
+He pivoted again.
+"And there's a Brazilian catamaran out that way,
+three hundred kay and bearing northwest."
+He smiled slightly.
+"She looks like an old lady dressed up for church."
+
+He turned back toward them and opened his eyes.
+"I can get all of it,"
+he said in a voice that left no room for doubt or disagreement.
+"Every image, every signal.
+And I need to get to Rothera.
+The only question is, will that be your good fortune or someone else's?"
+
+Uncle Jack hefted his gaff hook.
+"Jack," Aunt Naggie began.
+
+"Quiet," he snapped, greed and mistrust warring on his face.
+"We keep whatever we haul," he finally said.
+"An' th' moment we tie up,
+you're off an' I never heard o' you."
+
+"Fair enough," Wales agreed.
+He stuck out his hand.
+
+Iffy held her breath.
+Uncle Jack scowled a moment longer,
+then grabbed it and gave it a single perfunctory shake.
+"I'm guessin' you'll want t' be off right away," he said sourly.
+
+Wales nodded.
+"Just as soon as I collect my—"
+He froze.
+
+"What?" Uncle Jack demanded.
+Wales raised a hand for silence, his eyes half-closed.
+
+"Oh no," Uncle Jack blustered,
+drawing himself up to his full height.
+"You don't shush me on my ship, you—"
+
+"Someone is breaking into my room."
+Wales said curtly.
+"Warm up the engines and get ready to cast off.
+I'll be back in ten minutes."
+
+"We'll cast off when *I* say!"
+Uncle Jack said angrily.
+
+Iffy's heart sank.
+Telling Uncle Jack what to do *always* made him do the opposite.
+
+But her uncle's anger had no more effect on Wales
+than a windstorm would on a mountain.
+"Here."
+He pulled a money out of his jacket and thrust it at Uncle Jack.
+"A down payment."
+
+Uncle Jack turned the black plastic rectangle over in his hands suspiciously.
+"What's it worth?"
+
+"Six thousand rand," Wales said.
+
+"Six *thousand*?"
+Uncle Jack pressed his thumb on the corner of the money.
+His eyes widened at the blinking figures it displayed,
+then narrowed again as he looked Wales up and down.
+"You must wanna get outta here pretty badly,"
+he mused.
+
+"It's no use to me if I can't spend it,"
+Wales said crisply.
+"Do we still have a deal?"
+
+Uncle Jack pocketed the card and grunted something unintelligible.
+"Thank you," Wales said. "I'll be quick."
+He turned to go, then stopped himself and tapped the tech in his temple.
+"Just so you know, this is still switched on.
+So if you try to call the Marines, I'll know."
+
+Uncle Jack spat over the taffrail.
+"Ain't nobody here calls th' Blues," he growled.
+
+"And none of your business associates either, please,"
+Wales added coolly.
+"Or I'll send the Marines to call on *them*
+and make it look like you did."
+
+Wales strode down the gangplank before Uncle Jack could reply,
+lengthening his stride into a jog
+that carried him along the pier and into town.
+"That one's trouble," Uncle Jack said flatly.
+He leaned his elbows on the taffrail,
+cleared his throat,
+and spat again into the water below.
+There was more gray in his beard than there used to be,
+Iffy thought,
+and the three-day fuzz on his shaved scalp
+had crept further and further away from his forehead.
+
+Uncle Jack noticed her looking at him.
+"Well, get movin'!" he barked,
+straightening up.
+"You too, woman," he added to Aunt Naggie.
+"I want us away from whatever's chasin' him soon as he's back."
+He strode away,
+muttering to himself.
+
+Aunt Naggie and Iffy whooshed out their breath at the same time.
+"You gonna tell me what's abunder?" Aunt Naggie asked.
+
+Iffy shrugged helplessly.
+"I dunno, auntie, true I don't.
+There was a fight up along by quarantine,
+an' French Henry got into it, and…"
+*And all of a sudden I know how to tag someone twice my size,*
+she almost added but didn't.
+Bots weren't the only ones infected with malware during the war.
+Talking about her visions with anyone—even Aunt Naggie—would mean
+opening a door she would rather stay closed.
+
+But something in her expression caught Aunt Naggie's eye.
+She put her hand on Iffy's forehead.
+"Just be still," she shushed,
+stern and worried at the same time.
+After a moment she took her hand away,
+but her expression didn't change.
+"There's no fever.
+How about you start gettin' us ready an' I'll make somethin' quick to eat?"
+
+"Tea'd be nice," Iffy said gratefully.
+
+It normally took a full day to get the *Guinevere* ready to sail,
+but the money in Uncle Jack's pocket seemed to make him believe it could be done in a blink.
+He roared at Iffy and Aunt Naggie to move their sorry sterns,
+and no,
+don't worry about tyin' that down,
+they could take care of it once they were at sea,
+just put it somewhere for now and get the affin' engine goin!
+
+It took Iffy five minutes of careful work to put the reciprocating rod back in place.
+Five more minutes and the engine was chugging away,
+biofuel gurgling through kinks in the feed pipe
+that she had never been able to get rid of.
+She would normally have checked the winch motor
+to make sure they could haul in whatever they caught,
+but instead she laced some straps around the fine mesh dredging nets
+to stop them shifting or tangling in high seas.
+Wait—the fuel hose!
+It was still connected to the pump on the pier.
+If they had set sail without undoing it,
+it would have snapped like an overstretched rubber band.
+She had seen that happen once.
+It had sounded like a gunshot,
+and the end had torn open an unlucky sailor's cheek.
+
+She scrambled up the ladder that connected the engine room to the deck.
+"Ready below," she called.
+
+Aunt Naggie coiled the last stayline and shoved it into a canvas bag,
+then shoved the bag into a bench locker and dogged the seat-lid shut.
+"That's all for me too."
+She handed Iffy half a sandwich—scrambled egg with more of Mrs. Sandhu's spice mix—and
+waited for her foster daughter to wolf it down
+before thumping the cabin wall with her fist.
+"Good when you are," she shouted,
+confident as she always was when something needed to be done.
+
+The cabin door flew open.
+Uncle Jack stepped out onto deck,
+glaring at his wife and foster daughter on principle.
+"That's what I said," he told the empty air impatiently.
+"Six thousand rand.
+I'll have it in a week.
+What?
+Never you mind how, but that'll more'n put us square.
+Right.
+Aright.
+What?
+No, you affin' well better *not* tell her,
+or she'll skin both of us!
+Right.
+Aright.
+*Vi da*."
+He blinked twice to end the call and bared his teeth.
+
+"Who was that?" Aunt Naggie asked cautiously.
+
+Uncle Jack's self-satisfied smile vanished.
+"Ne'er you mind," he said brusquely.
+"Everythin' stowed?"
+
+"Everythin' that's gonna be," Aunt Naggie said.
+"But Jack—"
+
+"I said, ne'er mind!"
+He slapped the taffrail with his hand.
+"Now where's our high-top troublemaker?"
+
+Five minutes crawled by,
+each one tenser than the last,
+until Wales appeared at the end of the pier
+with one toolbox in each hand.
+The third hung over his shoulder on a strap,
+and he had a small travelling pack on his back.
+
+Iffy scurried down the gangplank and ran to him.
+"Thank you,"
+Wales said gratefully
+as she took one of the boxes from his hand.
+
+"No worries," Iffy replied.
+Then she gasped.
+"You're bleeding!"
+
+"Still?"
+Wales pulled a rag out of his pocket,
+dabbed at his nose,
+and studied the red blotch a moment.
+"So I am."
+He put the rag back in his pocket and limped toward the *Guinevere*.
+
+"What happened?"
+Iffy puffed as she fell into step beside him.
+"Was someone really tryin' t' break into your room?
+Were they along from the *Taroona*?
+Did you get punched up?
+An' what's wrong with your leg?"
+
+"Oh, everything was mostly sorted out by the time I got there,"
+Wales said vaguely.
+"And my leg's bothered me for years.
+I keep meaning to get it looked at,
+but I never seem to have time.
+There's just never enough time," he repeated.
+
+Uncle Jack didn't wait for Wales to stow his belongings
+before hauling in the gangplank and casting off.
+The engine rumbled and coughed for a moment
+as they pulled away from the pier,
+then settled into the steady thumping that was as familiar to Iffy as her own breathing.
+
+They were halfway across the harbor
+when a klaxon blared *brrrap! brrrap!*
+Iffy ran to the stern in time to see
+a flock of drones converge on a pier halfway around the harbor
+from the *Guinevere*'s berth.
+
+A single ship lay alongside the pier,
+long and low and gray and dangerous—the *Taroona*.
+Iffy shaded her eyes with her hand.
+The ship looked like she was casting off,
+but no,
+a pair of Marine cutters had boxed her in
+and a platoon of figures in blue were trotting down the pier.
+She glanced at Wales,
+wondering if this was somehow his doing,
+but the American's eyes were on the horizon ahead of them.
+
+They rounded the broken-backed carrier that was Halley's seawall a few minutes later.
+The swell beneath them instantly grew stronger.
+Uncle Jack took the first watch,
+grumbling that if they were hauled in by the Marines
+everyone should just let him do the talking.
+Aunt Naggie said she would take the second watch,
+then shooed Iffy off to sleep.
+"You can talk to Mister Johnson in the morning,"
+she said firmly.
+"Let him have his rest now."
+Then she smiled the way she only did
+when she and her foster daughter were alone together.
+"You'll need some too
+if you're gonna go chattin' up that special friend o' yours."
+
+"Honesty ain't special!" Iffy protested automatically.
+Still smiling,
+her foster mother pulled her into a hug and kissed the shaven top of her head,
+then gently pulled the door of the storage locker closed behind her.
+
+Iffy took her nature book out from under her mattress
+and lay on her stomach to page through it.
+The orca, the tiger, the gorilla…
+She ran her fingers over the pictures,
+sounding out the handwritten comments beside them.
+*Mom took us to see the baby giraffes today,* said one.
+*There are three of them.
+They are all clones and they live in a big dome because of the virus.
+Mom says they have been tweaked to be immune to it.*
+And then,
+in an older version of the same hand,
+*Turns out they weren't.
+Mom says there isn't money to try again.*
+And then there was a sad cartoon face,
+one of several scattered through the book.
+
+Iffy browsed the other animals,
+wondering what it would have been like to live in a world
+that had so many different kinds of creatures.
+She stubbornly tried to keep her eyelids from closing
+until she couldn't remember why they shouldn't.
+When she finally dozed, she dreamed.
+
+*She was on deck.
+The sky was a perfect blue,
+and her olders were stuffing her into her ecosuit.
+"Just in case, love," Second said, forcing a smile.*
+
+*When the ship's horn blared it wasn't a horn at all
+but the sound of a drill press.
+She was in Mister Mishra's,
+fumbling clumsily to reassemble a mound of chips and gears and actuators
+that she had never seen before.
+Her heart raced as she tried to piece them together.
+This rod into that socket—no,
+that couldn't be right,
+it turned the wrong way and didn't leave enough space for the lens,
+because the lens had to go there,
+it had to,
+she didn't know how she knew but she did and time was running out.*
+
+*And then suddenly she could see the whole design
+from the overall schematic
+down to the bevelled teeth of the microscopic gears
+that would catch and grind on specks of dust too small to see or feel
+if they weren't assembled just so in airtight diamond cases.
+There and there,
+that's where the hair-fine optical fibers had to go,
+and there,
+right in the machine's heart,
+was the space where a miniaturized core could—*
+
+*The whole room heeled hard, throwing her to the floor.
+"She's gonna blow!" Mister Mishra shouted,
+and then all Iffy could hear was a rushing sound
+as the ship fell away beneath her into a pit of churning foam.*
+
+She woke up drenched in sweat.
+She kicked her way out of her sleeping back,
+rolled over,
+and buried her face in her mattress.
+When her tears finally ran dry she wiped her nose angrily on her sleeve,
+rolled over on her back,
+and fumbled on the floor beside her for her water bottle
+before remembering that she hadn't refilled it.
+"Idiot," she muttered,
+thumping her fist against her mattress.
+
+It took her a long time to fall asleep again.
+
 </section>
