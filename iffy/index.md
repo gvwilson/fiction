@@ -1327,4 +1327,103 @@ Lights sparkled briefly in the rectangle set into his temple,
 making Iffy wonder how honestly the drones were reporting the scene
 to Halley's central core.
 
+<span id="2024-02-17-d"></span>
+
+They picked up their loads and walked side by side
+past the Sandhus' grocery
+to the café where Wales had rented an upstairs room.
+The owner glanced from Wales to Iffy to the cases
+but said nothing more than, "Tea?"
+
+They sat at the café's single stone-topped table
+and sipped the strong, minty brew from mis-matched ceramic mugs
+the size of Iffy's doubled fists.
+Wales sighed contentedly,
+then set his mug aside,
+lifted the case Iffy had been carrying onto the table,
+and opened it.
+
+"Whoa," Iffy breathed.
+Some of the tools inside looked as good as new,
+though they had to be at least a hundred years old—only
+a handful of well-defended factories scattered around the world
+still had the cleanrooms and nano-fabricators needed
+to create marvels like the fractal iridium mesh that
+Wales briefly let her inspect
+through a monocle made from a single perfectly-formed diamond.
+Other tools were clearly cobbled together
+from whatever spare parts Wales had been able to find.
+Iffy felt more comfortable with these,
+since pretty much everything in Halley was built the same way.
+
+"An' what about those?" she asked eagerly,
+pointing at a nested set of asymmetric gears
+as Wales carefully repacked everything.
+
+The square man chuckled.
+"Let's save them for another time."
+The squares in his temples flickered.
+"The town says the explosion by the quarantine shed
+was apparently a result of faulty maintenance
+on an outflow pipe that wasnt't registered in the town plans.
+Oh,
+and the Marines have resolved the disturbance
+involving the crew of an unnamed Australian vessel."
+
+Iffy snorted.
+"Faulty maintenance my orphaned arse.
+I know that was you."
+
+"I'm sure I have no idea what you mean,"
+Wales said drily.
+
+"Uh huh."
+Iffy glanced at the clock painted on café wall.
+"Oh crivens," she swore,
+scrambling to her feet.
+She'd been gone nearly half an hour—Aunt Naggie would be worried sick
+and Uncle Jack would be furious.
+
+"Hold on," Wales said, patting the air.
+"Just a minute, I promise.
+Tell me more about this ship of yours…"
+
+Wales locked his toolboxes in his room before they left
+and put a small toy bear with bright blue eyes on the shelf above them.
+"To keep an eye on things,"
+he said,
+tapping the tech in his temple.
+Iffy nodded—smart toys were an everyday thing,
+even for someone who had grown up as poor as she had.
+She didn't know what the orange-and-red globe of Mars next to the bear was for,
+but she suspected it would do more than just watch if someone broke in.
+
+A pair of bulky gray drones hovered over the harbor
+as Iffy and Wales walked down to the pier.
+"Keeping an eye on the *Taroona*," Wales guessed,
+shielding his eyes with his hand to study them.
+"Those forks on the front are ultrasonics.
+One zap from them and you'll have a headache for a week.
+The nozzles behind them probably spray strangle foam."
+
+"Why are they just watchin'?" Iffy asked.
+"Why don't th' Marines just haul everyone in for th' governors to sort out?"
+
+Wales sighed.
+"Politics.
+Even if they *did* blow up the quarantine building,
+the *Taroona* and the rest of the Australian fleet
+are the only thing stopping the Brazilians from walking in here.
+Odds are the captain and her crew will be back on the dock by morning,"
+he continued,
+speaking to himself as much as to the frowning tween beside him.
+"Which is another reason I need to talk to your uncle."
+
+"Y'oughta know he don't keep his word 'less it suits him,"
+Iffy warned.
+"Or 'less he figures you got some serious haul back o' you."
+
+Wales nodded.
+"Thank you—I'll keep that in mind."
+
 </section>
