@@ -469,4 +469,152 @@ and waggled the digits of his artificial hand.
 She had her scavenged safety goggles on her face and the drill bit engaged
 before Mister Mishra reached the door.
 
+<span id="2024-02-17-a"></span>
+
+Drilling holes wasn't hard—she'd mastered that long ago.
+The hard part was drilling them in the right place.
+After examining and discarding half a dozen pieces of scrap,
+she found one that was bent enough to be a challenge.
+
+The first hole only took a minute.
+It then took her another fifteen minutes to measure,
+mark,
+measure again,
+swear under her breath,
+find a pair of calipers in the chaos on top of Mister Mishra's toolbench,
+chock the piece,
+measure a third time,
+and re-align everything juuuuust a little.
+A bot could have done the whole job in a couple of seconds,
+but bots had malware—at least,
+the kinds of bots that people in Halley could afford.
+"You want it fast, use a bot," Mister Mishra always said.
+"You want it *right*, do it yourself."
+
+Slowly, steadily, Iffy brought the spinning drillbit down
+until it just barely kissed the metal and—
+
+"What are you doin'?"
+She jumped and spun around.
+Jeep was leaning against a set of shelves,
+arms crossed and scowl firmly in place.
+
+"What're you doin' sneakin' up on me like that?" she demanded.
+"Aren't you supposed t' be havin' lunch or something?"
+
+His scowl deepened.
+"Finished. Does my da know what you're about?"
+
+"Course he does."
+Iffy scratched a sudden itch on her nose,
+then pulled her hand back down to her side.
+Mister Mishra *did* know, and she had nothing to be embarrassed about.
+
+"Uh huh. What about your uncle?" Jeep asked,
+looking everywhere but straight at her.
+"He still bein' trash on you?"
+
+Iffy shrugged.
+"Comes an' goes."
+She and Jeep had talked a few times
+when she first started coming by.
+He had shown her a few of his sims
+and she had shared a few stories about life at sea.
+For a while she had thought he was working up the courage
+to do something more than just talk,
+but…
+
+The silence stretched uncomfortably.
+"I gotta get back t' this," she finally said,
+waving a hand at the drill press idling behind her.
+
+Jeep straightened up.
+"Wouldn't you rather be doin' somethin useful?"
+
+"This *is* useful!" Iffy said hotly.
+"And it's none o' your business what I do or don't."
+She turned back to the drill,
+placing her foot firmly on the pedal that controlled the motor's speed.
+
+"Just be careful," Jeep said belligerently.
+"Da's double worried about that new printer takin' work away.
+If anythin' here gets bust up—"
+
+"Anythin' here gets bust up your da will know it was me that did it
+because it ain't like *you* ever put your hands to any o' this!"
+Iffy snapped.
+She cranked the drill bit up into its locked position and switched the machine off.
+"Here!"
+Three quick twists undid the chocks that held her test piece in place.
+She tossed it at him harder than the distance required,
+then took the calipers from the work tray on the side of the drill
+and slapped them back onto the bench.
+"Gimme a sec an' I'll sweep up th' shavings for you to weigh
+so you can be sure I ain't fillin' my pockets or nothin'."
+
+Without waiting for answer she pulled the goggles down around her neck
+and grabbed the old broom that stood next to a broken sonic press like a forgotten sentry.
+Jeep watched her sweep,
+anger and something that might have been embarrassment written on his face.
+"You missed a bit," he finally said,
+jerking his chin at a random patch of floor before turning and stalking away.
+The door banged behind him.
+
+Iffy emptied the dustpan into the trash and tossed her goggles into her toolbag.
+It wasn't fair—Jeep could use the equipment any time he wanted,
+but all he ever did was complain and look for ways not to.
+
+The worst thing was,
+she knew it wasn't Jeep's fault he was like this.
+Like everyone else in Antarctica
+he had been inducted into the Marines when he turned sixteen.
+He'd only served a quarter—just long enough to be sure that the imprinting had worked—but
+having someone else's personality temporarily pushed down on top of his own had changed him.
+"He'll come back eventually,"
+Mister Mishra said the one time Iffy broached the subject,
+his tone making it clear that she shouldn't bring it up again.
+"It just takes some folk longer than others to find their way home."
+
+The sky was the same relentless blue it had been an hour earlier when Iffy stepped outside,
+the mended reciprocating rod tucked inside her coat.
+She peeled her egg as she walked toward the grocery store,
+trying not to get grease on the rubbery white flesh and the warm yellow-brown yolk.
+A couple of Aunt Naggie's friends smiled or waved as she went by.
+She nodded back,
+ignoring the others who tsk'ed to each other
+at the sight of a scruffy little jelly dredger
+in a stained coat two sizes too big for her.
+
+A commotion down a side street caught her ear.
+Someone was singing off-key.
+Another voice joined in, then a third, and then glass broke on stone.
+"Bloody pirates," a passer-by muttered to his companion.
+"Governors shoulda sunk the *Taroona*, not let her berth."
+The second man grunted acknowledgment.
+Iffy kept her eyes on the cobblestones and picked up her pace.
+
+Sandhu's grocery store was out of eggs.
+They had onions,
+though,
+and a box of dried green peppers that had come in from somewhere carefully unspecified.
+Little Mrs. Sandhu wrapped half a dozen slices in wax paper.
+"For your beautiful aunt," she said over Iffy's protests,
+just as she did every time she gave her something extra.
+"An' here,
+a little of our special curry mix.
+I know how much you like it."
+She handed Iffy a small plastic jar of orange-brown powder.
+
+Big Mrs. Sandhu snorted just as *she* always did.
+"You should take Nagatha your presents yourself," she scolded.
+
+Her wife smiled.
+"*La,* but where would be th' romance in that?"
+
+Big Mrs. Sandhu snorted again.
+Whatever Little Mrs. Sandhu might have said next
+was cut short by a jingle from the bell on the store's front door.
+Three heads turned at a cheerful, "Good morning!"
+as the squarest man Iffy had ever seen walked in.
+
 </section>
