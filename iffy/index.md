@@ -617,4 +617,114 @@ was cut short by a jingle from the bell on the store's front door.
 Three heads turned at a cheerful, "Good morning!"
 as the squarest man Iffy had ever seen walked in.
 
+<span id="2024-02-17-b"></span>
+
+"Square" really was the only word for him.
+He wasn't much taller than Iffy,
+but three of her could have stood side by side in the span of his shoulders.
+Strong white teeth gleamed against his black skin when he smiled,
+and the flickering silver rectangles in his temples
+made him look like he had stepped out of an adventure sim.
+
+"Good mornin, *sri*," Big Mrs. Sandhu said, bowing her head slightly.
+"Is there something we could help you with?"
+
+"Just some advice, ma'am, if you've any of that for sale?"
+His twanging accent sounded American to Iffy,
+though the only Americans she had ever heard had been market preachers
+or villains in sims.
+
+"Advice is always free here," Little Mrs. Sandhu simpered,
+wiping her hands on her apron.
+Big Mrs. Sandhu looked sidelong at Iffy and rolled her eyes.
+Iffy bit back a laugh—Little Mrs. Sandhu's flirting was as famous in Halley
+as her smuggled vegetables.
+
+"Thank you kindly," the square man said.
+"I'm just in from South Georgia,
+and find myself in need of a place to stay for a few days.
+I don't suppose you could recommend somewhere that isn't too expensive?"
+He spread his hands apologetically.
+"It seems that my luggage went missing in transit."
+
+"Oh you poor *cho*," Little Mrs. Sandhu clucked sympathetically.
+
+Big Mrs. Sandhu shook her head.
+"That'd be the *Taroona* you come in on?"
+When the newcomer nodded she shook her head again.
+"They're *bura badi*,
+that crew,
+pirates and leggers and worse.
+You're lucky if all they nickered was your bags an' not your kidneys."
+
+The square man sighed.
+"That may be, but I confess that I don't feel particularly lucky.
+I was hoping to set myself up in business, but without my tools…"
+He shrugged.
+
+"What kind o' tools?" Iffy asked.
+She had been about to slip away—her uncle would be looking for her soon,
+and she didn't want to leave Aunt Naggie to deal with his ire on her own—but
+tools were worth a few extra seconds.
+
+The square man grimaced.
+"A couple of half-mil waldoes,
+a sintering laser,
+a fractal de-ionizer for cleaning chaff off old cores,
+a set of diffraction lenses,
+and—"
+
+"There's no such thing as a fractal de-ionizer,"
+Iffy cut in scornfully.
+
+The square man blinked.
+"Sure there is.
+You take the ionizer out of a differential micromagnetic filter,
+stick it in a high-conductance fractal mesh,
+and boom—there's your de-ionizer."
+
+"Huh.
+Feedback would slag that th' second you turned it on,"
+Iffy scoffed.
+
+"If you're careless, sure," the square man agreed.
+"You have to recalibrate the impedance every once in a while so that it doesn't overheat.
+But if you have a micropore evaporator—"
+
+"—you can use liquid nitrogen to quench the thermal,"
+Iffy finished,
+the solution suddenly clear in her head.
+
+"Exactly."
+The newcomer cocked his head,
+looking at Iffy as if she was some strange machine brought in for repair.
+
+"Well, if you two are done comparin' notes,
+there's a coupla places I can point you at,"
+Big Mrs. Sandhu cut in briskly.
+"Can't promise they'll be cheap,
+but they're clean,
+an' you won't wake up in the middle o' the night with any o' your parts gone."
+
+"Thank you," the square man said absently, still studying Iffy.
+"And if you don't mind me asking another question,
+where did your daughter learn so much about tech?
+There are people with a lot of years behind them
+who wouldn't have thought about the resonance feedback."
+
+"Oh, Iffy's not ours,"
+Little Mrs. Sandhu said lightly.
+"She's crew off the *Guinevere*."
+
+"I see."
+The square man nodded as if that explained everything
+and stuck out his hand.
+"Johnson Wales," he said.
+"Pleased to meet you."
+
+Iffy hesitated,
+then took his hand and shook it.
+"Fifth Ang Kwan, but everyone calls me Iffy.
+Pleased to meet you too."
+
 </section>
