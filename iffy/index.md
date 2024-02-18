@@ -1860,3 +1860,170 @@ thumping her fist against her mattress.
 It took her a long time to fall asleep again.
 
 </section>
+
+<section markdown="1">
+
+<span id="2024-02-18-a"></span>
+
+## Chapter 3
+
+It was four days to Rothera across the Weddell Sea.
+Once upon a time their route would have taken them over a solid sheet of ice.
+During the Melt they would have had to thread their way between cakes and bergs,
+but those days were long gone too.
+There was nothing between them and their destination except
+floating plastic,
+the inevitable gulls,
+and the waves.
+
+In no time at all Halley had fallen below the horizon.
+After motoring for an hour under thin, high clouds,
+Uncle Jack ordered the *Guinevere* to raise her sails.
+The ship's tiny core obediently ran mis-matched gossamer sheets up her twin Y-masts.
+Waves a meter high made the *Guinevere* rock from side to side in a rhythm
+that Iffy knew as well as she knew her own heartbeat.
+
+"Best stay outta his way," Aunt Naggie advised
+when her foster daughter clambered down into the galley to get tea.
+"He ain't used t' havin' folk on board, but I 'spect he'll settle in."
+It sounded more like a prayer than a prediction,
+but Iffy nodded and climbed back on deck
+with a chipped ceramic mug in her hand.
+
+"'Bout affin' time," her uncle said sharply
+when she knocked on the door of the pilot house
+and handed him the mug.
+He slurped a mouthful and set it in the ring next to the ship's wheel.
+
+Iffy glanced at the control panel.
+Tiny cameras dotted about the ship showed the engine,
+the hold,
+the sails,
+and practically everywhere else on the ship
+except the insides of the cabins and the tiny toilet near the stern.
+Small graphs scattered among the images told her at a glance
+how much fuel they had,
+how much tension was in the forestays and mainstays,
+and what the wind and the currents around them were doing.
+
+The most important display was the sonar.
+Every captain kept a close eye on that if they wanted to make it home.
+At the first sign of gas bubbling up from the ocean floor,
+they would fire up the engine and run.
+
+Uncle Jack jerked a thumb at a panel highlighted in orange.
+"You get that backstay cable mended soonish if you want lunch,"
+he growled.
+
+"Yessir," Iffy said obediently.
+He'd been drinking again, she realized.
+She could smell it on his breath,
+and from the way he clutched the wheel to hold himself steady
+she guessed he'd been at it for a while.
+
+"An' see if that baggage o' yours wants t' make himself useful as well,"
+Uncle Jack added as she turned to go.
+"Or better yet, just tell 'im I told him to!"
+
+Wales had reorganized the ship's other storage locker while Iffy was asleep
+to make room for his pack and toolboxes.
+He was seated on a thwart at the *Guinevere*'s stern,
+seemingly lost in thought as Iffy approached him,
+but said, "Of course," in reply to Iffy's tentative request for help.
+Standing,
+he straightened his jacket and smiled.
+"Being useful would do me good right now."
+
+"You thinkin' bout them off th' *Taroona*?
+Not that it's any o' my look-in,"
+she added hastily.
+
+Wales shook his head.
+"No,
+I was thinking about the *Landrieu*.
+The big ship back at Halley,"
+he continued as Iffy gave him a blank look.
+"The one the town uses as a breakwater.
+She was a marvel in her time.
+Fractal carbon ribs,
+a foamed poly-composite hull,
+and a core smart enough to qualify for citizenship.
+She was the first of her kind to solo the Pacific,
+but then the war came, and…"
+He sighed.
+"It must have broken her heart to up like this."
+
+"I guess," Iffy said to fill the silence that followed.
+"Can't imagine how I'd feel if somethin' like that happened to th' *Ginny*.
+Or to me,"
+she added after a moment's thought.
+
+Wales shook his head to clear it.
+"Let's hope you never have to find out," he said,
+suddenly brisk.
+"Now, where's this cable we're supposed to splice?"
+
+Iffy had hoped that Wales would bring out his toolboxes—she
+was itching to examine their contents in detail—but instead,
+he studied the hacked-off ends of the backstay cable
+with a hand-held smart lens
+that highlighted the worse of the damage in garish reds and yellows.
+Iffy wanted to tell him that the damage wasn't her fault,
+but she bit back her words.
+There was no way she could say that without pointing the finger at Uncle Jack,
+and as much as she wanted him to think well of her as a mechanic,
+no self-respecting sailor would ever cast shade on her captain
+in front of a passenger.
+
+"All right," Wales said,
+slipping the magnifier back into one of his coat's many pockets.
+"What's the plan—splice, clamp, strap, or weld?"
+
+"I was thinkin' I could splice it?" Iffy ventured hesitantly.
+When Wales nodded
+she fished a roll of twisted eight-gauge cable from her bag of odds and ends
+and dug around to find a wire cutter and a pair of needle-nosed pliers.
+
+The next half hour flew by as Iffy lost herself in the task at hand.
+She had expected Wales to take charge,
+but instead he asked one question after another,
+drawing ideas out of her that she hadn't know were there.
+It was like the schematics that sometimes popped into her head
+but without the chill in her gut of not knowing where they came from.
+
+Once the first dozen lengths of splice were woven into the cable
+Wales sat cross-legged on the deck and held the ends together
+so that Iffy could finish connecting them.
+She worked as quickly as she could,
+waiting for him to say it was time for a break,
+but he didn't.
+*Uncle Jack wouldn't have been able to hold the cable like that,* she thought.
+Even Mister Mishra would have struggled after a minute or two,
+but Wales seemed unbothered.
+She glanced at the silver rectangles in his temples
+and wondered what other tech he might have that wasn't so visible.
+
+Over, through, under, through…
+"There." She sat back on her haunches.
+"Wanna see if it holds together?"
+
+Wales stood,
+trapped one end of the cable under his boot,
+and pulled hard.
+The splice stretched slightly,
+and for a moment Iffy was afraid it would give way,
+but it held.
+"Looks good to me.
+Well done."
+
+Iffy shrugged, embarrassed by the praise.
+"Only one way t' find out for sure."
+She hit the switch on the winch beside her.
+The cable zinged as it was wound taut.
+Iffy picked up a wrench and whacked the splice a couple of times as hard as she could.
+
+Wales blinked. "Are you always this direct when you're working?"
+
+Iffy grinned. "Pretty much."
+
+</section>
