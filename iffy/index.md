@@ -2026,4 +2026,343 @@ Wales blinked. "Are you always this direct when you're working?"
 
 Iffy grinned. "Pretty much."
 
+<span id="2024-02-19-a"></span>
+
+There were other things to mend after the cable.
+There always were on the *Guinevere*:
+a spidery network of microscopic cracks on the forward mast,
+a loose coupling on a bilge pipe,
+and a handle on the main hatch
+that had started sticking mid-way through their last voyage.
+Like most of the vessels that called Halley home
+the *Guinevere* was constructed from materials that could no longer be made,
+only repaired.
+Keeping her afloat was a matter of swaps and trades and patches,
+of scouring noticeboards in Hell
+to find tips that weren't self-replicating spamotage left over from the war,
+of swapping messages with other mechanics
+trying to keep their own ships running,
+and of running sims to see if this patched with that
+would hold together in sub-zero temperatures.
+In the end,
+though,
+it always came down to the combination of clever hands,
+brute force,
+and improvisation that Iffy had used on the cable.
+She loved it.
+
+Wales worked beside her the whole time,
+handing her tools,
+holding things steady while she screwed them in
+or used her cherished little laser to put a patch on a weld
+that held an even older patch in place.
+He somehow managed to keep up a steady stream of questions
+without ever making her feel like he was pestering her.
+She enjoyed every minute of it,
+just like she enjoyed the times
+when Mister Mishra turned something she'd made over and over in his hands
+and pronounced it well done,
+or when Uncle Jack was sound asleep
+and Aunt Naggie told her stories about growing up in South Africa
+before the long drought.
+
+Wales seemed to enjoy the work as well,
+right up until the moment he helped Iffy lift the cover off the backup motor
+near the *Guinevere*'s stern.
+His face fell at the sight of its compact, soot-stained bulk.
+"Y'aright?" Iffy asked,
+fanning away the smell.
+
+"I'm fine," Wales said,
+gazing down at the filthy ceramic engine block.
+"I just thought you ran on jelly render, not coal dust."
+
+"The main engine's a jelly-burner," Iffy said.
+"This here is just for when it's bust,
+or for haulin' the winches when there's ice 'n' all."
+
+The square-faced man sighed.
+"But—coal? Really?"
+
+Iffy's eyes widened.
+"Oh crivens—you ain't an Eco, are you?
+Uncle Jack'll put you o'er the side an' no mistake.
+He hates Ecos even worse'n he hates Zillions."
+
+Wales sighed again.
+"No, I'm not an Ecologist.
+Or Brazilian, for that matter.
+I just…"
+He squatted on his haunches
+and looked resignedly at the engine.
+"Come on. Let's get this done."
+
+He asked fewer questions after that,
+but despite his obvious distaste
+he clearly knew how coal engines worked.
+Half an hour after they started,
+the lasers that ignited the coal dust it used for fuel
+were sparking and zapping in perfect time
+and the cinder clog that had been blocking the intake pipe
+had finally been dislodged.
+She would normally have let the engine run for a few minutes to test it,
+but the thought of Wales not saying anything if she did
+made her leave it for later.
+
+Aunt Naggie made noodles for lunch.
+The smell of synthetic coconut milk,
+greenhouse peppers,
+diced mushrooms,
+and spices made the galley as warm and as comfortable as an old sweater.
+"Just for you," Aunt Naggie whispered to Iffy,
+spooning a bit of Mrs. Sandhu's curry powder into her foster daughter's bowl
+when Uncle Jack's back was turned.
+
+Wales thanked Aunt Naggie profusely before taking his up onto deck to eat.
+"I like watching the waves," he explained
+when she protested that the galley could hold four.
+
+"Foolishness,"
+Uncle Jack muttered as soon as Wales was gone,
+though whether he meant the idea of trying to squeeze four people around the galley's little table
+or the idea of watching waves for pleasure
+he didn't say.
+He stabbed a chunk of mushroom with a chopstick and stuffed it into his mouth.
+"I don't like 'im.
+Bet there's more'n just th' *Taroona*'s crew lookin' for 'im, too.
+Hell,
+I bet someone would pay double what he's givin' us
+to know where he's at."
+He stabbed another piece of mushroom.
+
+Iffy ate in silence, head down.
+The safest thing to do when Uncle Jack got a money-making idea
+was to wait for it to pass—pointing out the holes was the surest way to make him actually do it,
+just to prove that no one could tell *him* which way was up.
+And while she still knew next to nothing about their passenger,
+she had the feeling that double-crossing Wales
+might actually be the dumbest idea Uncle Jack had ever had.
+
+She and Aunt Naggie cleaned up afterward.
+"He seems nice," Aunt Naggie observed
+as she scraped the last traces of sauce off a plate into the composter.
+"Handy, too."
+
+"Mm hm," Iffy agreed
+around one last rubbery noodle.
+"Might even be able to talk th' core into bein' a little less stupid
+if Uncle Jack'll let him take a crack at it."
+
+"Oh now, wouldn't that be nice?" Aunt Naggie sighed wistfully.
+"No more sittin' up in th' middle of th' night
+wonderin' if the ship's gonna get a notion to head for Argentina or somethin'."
+
+"But then when would you knit?" Iffy asked,
+nudging her foster mother with her elbow.
+Aunt Naggie blushed.
+Her "knitting" consisted of two balls of yarn,
+a pair of needles,
+and an endless series of romance sims
+featuring dashing Zillion smugglers with smoldering eyes
+who didn't realize how empty their lives were until they met the right person,
+who was inevitably a poor but honest sailor.
+The sims were churned out by a core in Rothera
+that had spent the war crafting inspirational propaganda for soldiers and civilians.
+Their implausibility and steamy dialogue
+only added to the thrill Iffy felt
+whenever she managed to get an hour alone with Aunt Naggie's app.
+
+"Never you mind about my knittin'," Aunt Naggie said primly.
+"You're on watch tonight,
+so you best nap.
+I'll wake you when."
+She kissed the top of her foster daughter's head as Iffy groaned.
+"Off with you now."
+
+Wales was back on the thwart at the stern when Iffy got topside,
+his empty bowl in his lap.
+She hesitated,
+wanting to talk but not knowing what to say,
+then slipped silently into her converted storage locker.
+Taken by a sudden restlessness,
+she spent five minutes rearranging her meager possessions
+before flopping down on her bed and pulling out her nature book.
+The giraffe, the tiger, the wolf with his sad, intelligent eyes…
+Someone had written *Looks like Grandad!!!* beside it in tiny curving script.
+Iffy had long ago decided that the writer had been a girl about her own age
+who had a family and a whole pack of friends.
+She closed the book,
+tucked it back into her mattress,
+and squeezed her eyes shut.
+
+A soft chime in her ear woke her.
+She sat up and stretched,
+then dug the sleep out of the corners of her eyes.
+Her windowless room was completely dark,
+but her hands found her clothes on the floor beside her foam slab.
+She pulled them on over the onesie she had slept in,
+slipped her feet into her boots,
+and went out to face another day on the southern ocean.
+
+Aunt Naggie nodded to Iffy when she reached the pilot house.
+"Sleep well?"
+
+Iffy yawned and plopped herself onto the stool beside her foster mother.
+"'Saright. How's she doin'?"
+She studied the control panel for a moment.
+There was a bit too much tension in the mainsail,
+and wind drag over the hull was ten percent higher
+than the ship's simple-minded core thought it ought to be,
+but that was all normal.
+She wondered wistfully what it would be like to have tech in her head
+that would let her feel the ship
+the way she felt the sun on her face
+or the sting of the spray on her skin in a high sea.
+She knew it would never happen:
+stuff like that had to be implanted at birth
+for the brain to learn how to use it.
+But she had once paid two carefully-hoarded rand
+for five minutes under an induction headset at Halley's midsummer carnival
+reliving a glitchy pre-war recording of someone riding a surfboard,
+and had fantasized about being the *Guinevere* ever since.
+
+Aunt Naggie nudged her.
+"Come about, sleepy head," she chided gently.
+Iffy started and straightened.
+Her foster mother jerked her chin at the thermos of tea
+in the ring holder next to the ship's wheel.
+"Fresh made.
+Well, fresh-ish," she amended.
+"But it'll keep you through a watch."
+
+"Thanks auntie."
+Iffy jerked her chin at the panel
+as one of the cameras switched views
+to show Wales sitting on the thwart at the stern.
+"He been there th' whole time?"
+
+"Hasn't budged 'cept to visit th' necessary," Aunt Naggie confirmed.
+"Turned on th' sound a while back to ask if he wanted to come an' sit,
+but the *Ginny* told me he was talkin' to himself, and…"
+She shrugged.
+Listening to someone without them knowing was surveillance,
+and decent people didn't do that.
+
+"Aright, lemme take over."
+Iffy reached past Aunt Naggie
+to press her thumb against the dark glass square beside the control panel.
+After a moment's hesitation it bleeped and blinked green
+to confirm that the ship's core understood a different human was now in charge.
+
+Iffy had scrolled through the core's log many times.
+It had been almost sixty years years since it had last been reset
+(probably,
+she suspected,
+because the holds had been full of contraband instead of jellyfish at the time).
+Six watches a day while at sea,
+with only a couple of weeks a year tied up or idle,
+made for almost a hundred and twenty five thousand thumb presses and bleeps.
+
+She had read the highlights
+almost as often as she had read her nature book.
+Storms, storms, and more storms as the planet warmed up,
+some hurling waves taller than the ship's fully-extended mast across the *Guinevere*'s decks.
+Births and deaths and shipboard weddings—Aunt Naggie's parents
+had invited a dozen friends on board in Rothera to see her exchange vows with a beaming Uncle Jack.
+Pirates, twice, and angry notes about dock wardens who wouldn't stay bribed.
+"A whale??" followed by "don't be an idiot",
+repairs on top of older repairs like layers of barnacles,
+and a one-line entry noting that
+the sole survivor of a ship lost to a clathrate blow
+had been brought on board.
+
+Iffy gave the control panel a protective pat.
+"I gotcha, *Ginny*," she whispered.
+
+She watched through the cameras
+as Aunt Naggie trudged back to the cabin she shared with her husband of twenty years,
+then stared out at the sea.
+The endless light of the Antarctic summer
+cut sharp reflections into the waves around her.
+She toyed with the idea of playing a sim on the ship's core—a sea monster
+with tentacles the size of pier posts,
+or a war-time training drill
+that would send her dodging and weaving through flocks of hostile drones—but
+instead she sighed and pulled up some homework.
+Her classroom schooling had petered out when she turned ten.
+Since then her teachers had been tutoring programs
+that Aunt Naggie had salvaged, scrounged, or traded for,
+each one guarded by security tough enough to keep out generations of teenagers.
+If she didn't do at least a little every day,
+her foster mother would sigh and look disappointed,
+and she'd rather learn anything—even biology—than face that.
+
+That evening, though, the subject was history.
+Iffy turned the interaction speed to maximum as the story unfolded.
+People burned coal,
+then oil,
+then coal again even when they knew what it was doing to the world.
+Forests were cut down or worn to nothing by drought as the winds shifted…
+Fish disappeared as pollution and warming took their toll,
+replaced by the jellyfish that now choked the seas.
+She skipped over the description of how
+warming caused the ancient clathrate ice on the ocean floor to thaw,
+sending even more greenhouse gases into the atmosphere.
+She knew all she needed to
+about what giant bubbles could do to ships unlucky enough to be above them.
+
+She played half a dozen quick "what if?" sims,
+doing worse each time.
+Fed up,
+she closed her homework
+and tapped one of the video squares on the control panel.
+"Hey," she said,
+her heart in her throat.
+"Don't mean t'interrupt, but I got a question if you got th' time."
+
+The tiny image of Wales turned its head.
+"You're not interrupting at all," he said,
+speaking directly to the pin-sized camera and microphone
+set into the taffrail beside him.
+"I'm always happy to talk."
+
+A few moments later he knocked on the pilot house door.
+"Permission to come aboard?" he asked,
+waiting for Iffy to gesture at the stool beside her before seating himself.
+He looked around the pilot house appreciatively.
+"She's beautiful, isn't she?"
+
+"She's aright," Iffy allowed proudly.
+"Still mends her own hull if we give her time.
+Gotta keep an eye on the core, though.
+We let it sit too long,
+it just stops talkin' to us."
+
+Wales nodded.
+"Could be over-cooled.
+A lot of people did that to cores when the war started,"
+he continued in response to Iffy's questioning look.
+"Someone started a rumor that the colder the core was,
+the less likely it was to go rogue,
+so everyone cranked the nitrogen down almost to the icing point
+and then forgot they'd done it.
+Have you tried putting a twist coil inside the housing
+to rebalance the thermal bleed?"
+
+And as easily as that they slid into a conversation
+that leaped from
+the relative merits of fractal carbon versus foamed aluminum for masts
+to tricks for keeping a drill press lined up and steady
+when the building it was in was shaking.
+Iffy was just about to ask when that would ever actually be an issue
+when he raised a hand to stop her.
+
+"Hang on."
+His eyes closed as he communed with a satellite passing overhead,
+then snapped open.
+
+"We need to change course," he said urgently,
+surging to his feet.
+"We need to change course *now*."
+
 </section>
