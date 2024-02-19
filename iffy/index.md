@@ -2255,7 +2255,7 @@ After a moment's hesitation it bleeped and blinked green
 to confirm that the ship's core understood a different human was now in charge.
 
 Iffy had scrolled through the core's log many times.
-It had been almost sixty years years since it had last been reset
+It had been almost sixty years since anyone had last reset it
 (probably,
 she suspected,
 because the holds had been full of contraband instead of jellyfish at the time).
