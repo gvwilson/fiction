@@ -2365,4 +2365,606 @@ then snapped open.
 surging to his feet.
 "We need to change course *now*."
 
+<span id="2024-02-19-b"></span>
+
+"What's wrong?" Iffy asked,
+but Wales was already gone.
+His boots thumped the deck as he ran sternward
+to bang on the door of Uncle Jack and Aunt Naggie's cabin.
+
+"Captain! Captain, I need to speak with you!"
+He waited a second, then pounded on the door again.
+
+"Uh oh," Iffy muttered,
+watching on the control panel as the door flew open.
+
+"You better tell me we're sinkin' or I'm puttin' you over the side!
+I was *asleep*!"
+Uncle Jack bellowed.
+
+"We'll be worse than sinking if we don't change course," Wales said,
+tapping the tech in his temple.
+"A ship just glitched out of stealth about thirty kay behind us.
+She's still throwing up a lot of dazzle,
+but she's moving fast,
+and she's definitely not here for the jellyfish."
+
+Uncle Jack goggled at him.
+"Pirates?" he spluttered.
+
+"Only if we're lucky," Wales said grimly.
+"We need to change course *now*, captain.
+If we head straight for shore
+I can put up some dazzle of my own
+and try to keep us away from any drones she sends up."
+
+Uncle Jack swore.
+"Naggie! Up and movin', woman! We got trouble!"
+
+Iffy had simmed dozens of chases at sea.
+Sometimes she was the captain of a customs cutter
+trying to catch a school of smugglebots.
+Other times she was in command of a Zillion catamaran
+skimming across the water under core-trimmed sails
+with a hold full of organic food and subversive software.
+Some of the sims ran for hours as she played gulls and rats
+among the jagged rocks of the Antarctic shore.
+She had won more than she had lost,
+but that was little comfort now that the game was real.
+
+Wales winced but said nothing as the *Guinevere*'s coal engine sputtered to life.
+The ship picked up speed,
+her propellors churning the sea behind them into a white froth.
+Uncle Jack's hands danced across the control panel,
+telling the ship's core to tilt the sails all the way to their stalling line
+to balance the increased thrust at the stern.
+The ship swayed more wildly with each passing wave
+as she traded stability for speed.
+
+"Bearing one sixty five, at twenty-six kay and change,"
+Wales called as he ran to the bow to clip a sleek black cylinder to the taffrail.
+The ship's control panel wavered and reformed as the gadget powered up
+and began spraying misinformation on all frequencies.
+
+"How fast?" Uncle Jack growled.
+"Tell me how shaddin' fast, man."
+
+"Twenty kay an hour." Wales hesitated.
+"Make that twenty-two.
+She's military for sure."
+
+Uncle Jack horked and spat into the garbage pail by his feet.
+"Naggie!
+Bring me some affin' tea, woman, I got pilotin' to do!"
+
+Iffy stepped out of the doorway to let her foster mother squeeze past her
+and hand a thermos to her husband.
+She put her arm around Iffy,
+but the frightened expression on her face
+cancelled out whatever reassurance she meant to give.
+Jelly dredgers didn't have much worth stealing,
+but the ships themselves were worth a lot—enough
+for their captains to make a habit of sailing close to each other
+whenever strangers were near.
+And while Iffy didn't pay any more attention to politics than her homework required,
+she knew that the tension between the Zillions
+and the governors who ran Antarctica on Australia's behalf
+was worse than it had ever been.
+
+"Fifth."
+Wales fished a plastic chip out of his pocket and handed it to Iffy.
+"In my cabin,
+the toolbox with the purple square on the end.
+Can you get it for me, please?
+Be sure to tap this near the handle before you open the cabin door."
+
+The cold spray thrown up by their speed stung her face
+as she ran to his cabin
+and tapped the plastic shard on the door handle.
+She waited for a click or a tone or *something*.
+When nothing came she swallowed hard and yanked the door open.
+
+Wales' three toolboxes lay side by side on the floor.
+She lifted the one marked by a purple square,
+turned around,
+and squawked at the sight of Wales' toy bear crouched on all fours in the doorway.
+Its blue eyes flickered.
+She held her breath as it scurried across the floor
+and disappeared into the odds and ends Wales had strapped against the locker's walls.
+
+She hurried back to the pilot house,
+the toolbox bruising her thigh with every second step.
+"How we at?" she asked.
+
+Wales shook his head as he took the toolbox from her.
+"She hasn't changed course.
+Either she doesn't know we've spotted her or she doesn't care."
+
+"Or she's just waitin' 'til we're in closer to shore,"
+Uncle Jack growled.
+"She's got dazzle enough to cover th' both of us
+if she gets us up against the rocks."
+He swiped two fingers across the control panel
+in an angry, futile attempt
+to squeeze a little more speed out of the *Guinevere*'s struggling engine.
+
+Wales hefted his toolbox.
+"I might be able to do something about that.
+Excuse me."
+He squeezed past Iffy and Aunt Naggie.
+
+"You go lend 'im a hand,"
+Aunt Naggie told Iffy in a low voice.
+"I'm gonna make some more tea an' put some food together.
+No sense bein sunk on an empty stomach."
+
+"Ain't nobody gonna sink us," Uncle Jack snapped
+without taking his eyes off the control panel.
+Aunt Naggie shooed Iffy out of the pilot house without replying.
+
+Wales was on one knee near the bow beside his open toolbox.
+The half-assembled drone in his hands
+was the same size as the toy bear in his room
+but skinned with camo
+that changed color to match his hands and coat and the deck
+each time he turned it over.
+
+Using a pair of diamond-tipped tweezers,
+Wales detached a manipulator as thin as a drinking straw
+and placed it carefully back in the toolbox.
+"Have to cut the weight," he explained to Iffy without looking up.
+"We're going to need all the range we can get."
+
+He removed the drone's other tiny arm,
+stowed it beside its twin,
+and handed the compact little machine to Iffy.
+"Probably best if you don't tell your uncle about this part," he said quietly
+as he used the nail of his left thumb
+to peel the false skin back from the pad of his right forefinger.
+Underneath lay a small patch of silver
+whose lights blinked in time with the larger square set in his temple.
+
+Iffy gasped. "Are you trans?"
+
+Wales glanced at her, a wry smile on his face.
+"You know, that used to mean something very different.
+But no, I'm not transhuman.
+I just don't like advertising how much tech I have in me.
+It's hard enough having people try to cut my head off every once in a while—if
+I had to worry about waking up minus a finger or two I'd never get any sleep."
+
+He pressed his silver fingertip against the side of his toolbox.
+"Sixteen orange kneecap," he said quietly.
+
+Iffy held her breath,
+half-expecting the toolbox to transform itself into—well,
+she didn't know what, but *something*.
+Instead,
+a tiny blue light blinked twice in the handle.
+
+Wales took a deep breath and lifted the toolbox's inside
+to reveal a shallow compartment in the bottom.
+Nestled among the tech hidden there were half a dozen small cylinders,
+each the size of Iffy's little finger.
+Four empty holes showed where others had once been.
+Using his tweezers once again,
+Wales plucked one of the cylinders from its resting place
+and inserted it into the base of the drone.
+
+"Is that a battery?" Iff guessed.
+
+Wales shook his head.
+"The drone's battery is built in.
+This is—this is just in case."
+He reassembled the bottom of the toolbox and tossed the drone into the air.
+
+It rose, started to fall, and then—Iffy blinked.
+She couldn't see any rotors or hear any buzzing or whining.
+The drone just *floated*,
+its sides shimmering slightly as if it were a hologram.
+
+"Ionizing impellers,"
+Wales explained before Iffy could ask.
+"They were designed for Mars,
+but they work in our atmosphere too."
+
+Before Iffy could ask how a drone built to explore Mars
+wound up in a toolbox in Antarctica,
+Wales pointed his silver-tipped finger toward the horizon.
+With no more command than that the drone shot away,
+vanishing as its camo matched the blue, gray, and white of the sky, sea, and waves.
+
+Wales locked his toolbox and folded the false skin back in place over his fingertip.
+"Let's watch from inside."
+
+Uncle Jack was chewing the end of his beard as they entered the pilot house.
+"Well?" he demanded.
+
+Instead of answering
+Wales pressed his palm against the nearest corner of the control panel.
+The images from the ship's cameras slid aside to make room for a larger one.
+
+Seen from on high through a fisheye lens,
+the ocean looked like a crumpled sheet of gray plastic.
+The irregular lines running diagonally across it were wave crests,
+and the speck near the bottom was the *Guinevere*.
+There was nothing around them but emptiness.
+
+"Have you sent a distress call?" Wales asked quietly.
+
+Uncle Jack scowled.
+"Nearest shout I got back is a hundred kay east,
+but they're smaller than us an' too scared to fight.
+Halley wasn't much interested 'til I told them our friends looked military.
+Then they made noises about lookin' into it and dropped off comms.
+And then the shaddin' *comms* dropped off."
+He jabbed a finger at a small image in the corner of the control panel
+that was blinking an orange warning.
+Whoever was hunting them was blocking their transmissions.
+They were on their own.
+
+"All right, let's get a look at you," Wales said under his breath.
+He slid his hand across the control panel again.
+The scene shifted as the drone tilted its camera forward and narrowed its focus
+to zoom in on a dark blur on the ocean below.
+The outline remained blurry even as it grew larger.
+That was its camo,
+Iffy guessed—thousands of micro-thin strips of smart material
+absorbing and re-emitting light,
+infrared,
+radar,
+and everything else that might reveal the ship's position and profile.
+
+Even blurred,
+the ship was a frightening sight,
+long and lean and four times the *Guinevere*'s size,
+the narrow V of her wake betraying the power of her engines.
+"Saints and their mercies!"
+Aunt Naggie exclaimed from behind Iffy,
+a tray of tea mugs in her arms.
+"That's the bloody *Taroona*!"
+
+As if in answer a splash of text began scrolling next to the image.
+*Glenunga*-class forward combat asset…
+active keel…
+modified infrared profile…
+modified camouflage…
+The words solidified into a spider-web of facts and guesswork
+as the *Guinevere*'s core tried to make sense of what it was seeing.
+
+"How fast can that thing o' yours move?"
+Uncle Jack asked as the ship swelled on the screen.
+
+"Mach three and change," Wales replied. "Hang on."
+
+The image tilted and swooped as the drone dove toward the sea below,
+levelling off at the last moment to skim the tops of the waves.
+A trio of graphs appeared at the top of the control panel.
+Wales cursed under his breath.
+
+"What now?" Uncle Jack demanded.
+
+"They're using some kind of multipath radar rig," Wales muttered.
+
+"Is that bad?" Iffy asked anxiously.
+
+"It means they can tell someone is looking at them,
+but they won't be able to get a lock.
+I hope," Wales amended grimly.
+The *Taroona*'s outline suddenly came into focus
+as the drone got close enough
+for its tiny core to see through the ship's dazzle.
+
+"Well ain't she murder in high heels?" Uncle Jack growled.
+The stubby frames of railguns bristled at her bow and stern,
+freed from whatever disguise had concealed them while the ship was docked in Halley.
+The large tube amidships had to be some sort of EM pulse cannon,
+Iffy guessed—at least,
+that's what it would be if this was a sim.
+But the most frightening thing was what *wasn't* there:
+no flag,
+no call numbers,
+nothing to give her any sort of identity.
+Not even her name,
+so defiantly displayed when she was tied up in port.
+She was hunting now,
+not swaggering.
+
+Without warning the display went blank.
+"What happened?" Uncle Jack demanded as the image re-formed.
+
+"Laser burst," Wales said curtly.
+"The drone's core is shielded,
+but another hit like that will fry the ionizers.
+No way they did that from so far out.
+They must have a shark in the water
+or something in the air I can't spot.
+I'm going to pull back."
+Even as he spoke, the *Taroona* began to dwindle.
+
+"Dammit!" Uncle Jack slapped the controls in frustration.
+"We can't outrun that."
+
+Wales drummed his fingers.
+"Maybe we don't have too."
+A swirl of false-color oranges and pinks bloomed on the control panel.
+A heavy line marked the shore
+and a pair of dots the *Guinevere* and her pursuer.
+
+Wales pointed at a splotch of pink between the two dots.
+"There's a ridge about two hundred meters down.
+Satellites picked up a mudslide this morning,
+and it's been bubbling since."
+He glanced at the *Guinevere*'s captain.
+"It's a sea boil waiting to happen," he translated.
+"If it blows, it'll slow her down or scare her off."
+
+"If?" Uncle Jack spat.
+"If don't help us!"
+
+"Leave that to me," Wales said.
+Thin white lines appeared and disappeared on the display
+as he and the *Guinevere*'s core explored a thousand possible futures.
+After a couple of seconds
+their criss-cross confusion locked into place.
+Wales tapped the image.
+"That's our best chance.
+Head for these coordinates.
+I'll update them as I get more data from the drone."
+
+"It's affin' madness to be steerin' *into* a boil," Uncle Jack grumbled,
+bending the *Guinevere*'s path to port despite his words.
+He grabbed a sandwich from Aunt Naggie's tray,
+gobbled half in a single hasty bite,
+and chased it down with a gulp of tea and a belch.
+Wales took a second ceramic mug and sipped its contents.
+
+Aunt Naggie handed Iffy the remaining mug.
+"I'll be down in th' galley," she said.
+
+Uncle Jack eyed Iffy,
+clearly expecting her to follow her foster mother,
+but said nothing when she stayed.
+Her tea tasted metallic in her mouth.
+It took her a moment to realize that she had bitten her lip.
+Her heart was pounding.
+This wasn't a sim.
+This wasn't anything like a sim.
+This was *terrifying*.
+
+Wales grunted.
+"She's turning faster than I expected.
+I'll update the model."
+The white lines on the screen danced and twisted again,
+settling quickly back into a pattern as confusing as the original.
+
+Wales grunted again.
+"Four minutes to optimal position.
+Assuming they're not skewing the nav to throw us off track."
+
+Soft green digits in the corner of the control panel counted down the seconds.
+The tension in the pilot house stretched
+until Iffy thought it would snap like a rubber band.
+Uncle Jack's knuckles were white on the wheel,
+and she couldn't quite seem to catch her breath.
+Even Wales seemed to feel it.
+He flew the drone in a back-and-forth sweep,
+never too far in front of the Aussie warship
+but never letting it close in enough to take another shot with its laser.
+
+Three minutes.
+Two.
+One.
+"Show time," Wales said quietly.
+He bowed his head as if in prayer.
+The image on the screen steadied as the drone slowed and stopped.
+The Aussie ship drew closer,
+gray and single-purposed like the shark in Iffy's nature book.
+
+The map on the control panel tilted to show depth.
+The ridge on the sea floor lay directly beneath the drone,
+orange splashed with warning pink.
+"Ten seconds," Wales said.
+Before Iffy could ask, "Until what?"
+the drone dove straight down into the water.
+
+The image from its cameras dimmed and went black
+as the drone left the world of light behind.
+Two white sparks appeared on the map next to *Taroona*
+and sped toward the blue dot that marked the drone's position.
+"*Ta ma dé*," Wales swore.
+
+The drone plummeted toward the sea floor as the *Taroona*'s torpedoes closed in,
+finally able to get a lock on their target from its trail in the water.
+"C'mon c'mon c'mon," Iffy pleaded,
+not realizing she was speaking aloud.
+
+The drone's dot disappeared.
+A balloon of red light expanded where it had been
+as the finger-sized bomb it carried did what bombs have been doing
+for as long as there have been bombs.
+The torpedoes tried to curve away, but it was too late.
+Their trajectories disappeared as they intersected the expanding violet blob.
+
+And then the blob touched the sea floor.
+The pink blotch beneath it writhed like like a living thing.
+Graphs flashed onto the screen,
+probability surfaces dancing in three dimensions
+as the *Guinevere*'s core tried to predict what would happen next.
+
+"Oh hell," Wales said softly
+as a section of the sea ridge started sliding slowly into the depths.
+Blue fissure lines flashed along the edges of the mudslide like lightning,
+their bright lines connecting and spreading in a sudden spiderweb fracture.
+
+"Come about," Wales snapped at Uncle Jack. "Now!"
+
+The *Guinevere*'s captain didn't need to be told twice.
+"I told you this was stupid!"
+he shouted as his hands danced across the controls.
+
+Iffy grabbed the door frame to keep her feet
+as the *Guinevere* heeled over to starboard.
+"What's happening?" she asked.
+
+"Fault line in the ridge," Wales said angrily.
+"It wasn't in the survey data and the satellite couldn't see it.
+The last bot to scan that area must have—"
+He cut himself off and pressed his hand onto the control panel.
+The map and graphs were replaced by a grainy image
+that zoomed in to show the now-familiar outline of the *Taroona*.
+"Hang on!" he ordered as the sea behind them started to bubble.
+
+Iffy couldn't look away.
+The mudslide started by the bomb the drone had been carrying
+had broken up a field of barely-frozen clathrate ice,
+releasing enormous bubbles of methane.
+As they rose to the surface they churned the sea into
+a froth unable to bear the weight of a ship.
+
+Too late, the *Taroona* realized the danger beneath her.
+Her stern dipped, throwing her bow into the air.
+She tipped on her side and slid down into the dark unforgiving ocean.
+
+"Saints and their mercies," Uncle Jack said quietly.
+
+But no—there she was, still afloat!
+She wasn't a jelly dredger or a cargo hauler.
+She had been built to withstand gunfire
+and scalpel mines
+and the storms of the great southern ocean.
+She bobbed and wallowed like an oversized bath toy,
+her deadly grace gone,
+but as the water that had tried to claim her sluiced off her sides
+she turned toward the *Guinevere*.
+Twin jets of white steam spurted from her stern as her engines briefly lifted above the waves,
+and she surged forward once again.
+
+"Crap," Wales said under his breath.
+
+Uncle Jack said something louder and much worse.
+Wales caught his wrist as he reached for the control panel.
+"What are you doing?"
+
+"Cuttin' the affin' engines!"
+Uncle Jack yanked his arm free,
+as angry Iffy had ever seen him.
+"You can't sink 'em and we can't outrun 'em
+so th'only thing we got is a run up a white flag
+and hope you're all they take!
+And if you ever lay hands to me again on *my* ship, I'll—"
+
+*BOOM!*
+Yellow-red flame burst from the *Taroona*'s side.
+Iffy shrieked as a second blurred streak hit the Aussie ship,
+then a third,
+each striking right at the waterline.
+As the *Taroona* shuddered under the force of the blows,
+an explosion inside the ship kicked her sideways like a child's toy.
+
+"Ya killed 'em,"
+Iffy whispered unbelievingly
+as the *Taroona* broke in two.
+She dragged her sleeve across her face.
+"Ya killed 'em all.
+Why'd ya do that?"
+
+"That wasn't me!"
+Wales' hands danced across the control panel.
+"Damn it!
+I need to get another drone up there."
+
+"No you don't," Uncle Jack said flatly, pointing out the window.
+
+A ship had appeared out of nowhere,
+its camo briefly disrupted by the missiles it had launched.
+Where the *Taroona* and the *Guinevere* were metal,
+the newcomer was made of engineered bamboo.
+Her dozen sails were a tangle of fractal geometry
+too complex to be managed or even really understood by a merely human mind.
+Her green and yellow pennant with the slogan *Este mundo é de deus*
+proclaimed to all who she was,
+while her railguns and missile racks said just as plainly what she had been built for:
+war.
+
+"Zillions…" Iffy whispered.
+Everyone knew the words on that flag—knew them and feared them.
+Brazil had fought beside the rest of humanity during the war,
+but had turned on their allies once the bots lost interest.
+"This world is God's!" they screamed in sim after sim,
+always the villains.
+The earth's self-appointed defenders would sacrifice everything
+to undo the damage humanity had done to the Earth.
+Whenever a shaft in a coal mine collapsed
+people blamed Zillion saboteurs.
+When a mutant fungus turned the contents of a greenhouse into sludge,
+all its owner had to do was say,
+"It musta been Zillions!"
+for people to demand that the governors *do* something.
+And when a Zillion trader was brave enough or stupid enough
+to go more than a block or two from Halley's market by themself
+and woke up in hospital,
+everyone just nodded at the Marines' straight-faced apologies
+for the inexplicable glitch in their drones' recordings
+that left them unable to identify anyone who might have been involved.
+
+Even as they watched,
+the Zillion ship blurred and vanished once again.
+The faint spiderweb tracery of her rigging glinted in the sun,
+then it too was gone.
+"Why'd they—" Iffy felt lightheaded.
+"Why'd they do that?
+Why'd they kill 'em?"
+
+"Because they could," Wales replied wearily.
+"There's no way they could get past the *Taroona*'s defenses
+when she was running at spec,
+but knocked off balance the way she was…"
+He shrugged.
+"They saw a shot and they took it."
+
+"A shot *you* gave 'em," Uncle Jack said accusingly,
+quick as always to make sure trouble was someone else's fault.
+"There's gonna be hell t' pay for this."
+He slapped at the control panel to put the *Guinevere* in a tight turn.
+
+"Wait—no! We can't go back for them."
+Wales reached for the panel.
+
+Uncle Jack slapped his hand away.
+"We don't leave folk in a water," he said flatly.
+
+Wales shook his head.
+"Look."
+Another pink blotch was rising from the ocean floor on the panel in front of them.
+It churned and reformed
+as the *Guinevere*'s sonar tried to make sense of a maelstrom of bubbles.
+When it reached the surface the broken remains of the *Taroona* disappeared.
+
+Uncle Jack swore again.
+For a moment Iffy thought he was going to hit Wales.
+Instead,
+he swiped his hand across the control panel to turn them back toward Rothera.
+
+All of a sudden Iffy needed to be somewhere else—anywhere else.
+She threw open the door of the pilot house
+and stumbled out into the endless hard light of the southern summer.
+Her feet took her to the galley on auto-pilot.
+She pulled open the hatch and fell into her foster mother's arms.
+Aunt Naggie wrapped her meaty arms around her adopted daughter.
+"Sweetie, what's wrong?"
+
+"They dead!" Iffy cried.
+"They all sunk an' dead!"
+
+"Oh, sweetie."
+Aunt Naggie hugged her tight, rocking her from side to side.
+"Oh, sweetie…"
+For a moment Iffy thought she heard another voice say,
+"I love you so much,"
+but no.
+There were just her sobs
+and the hum of the engines
+and the muffled sound of the uncaring sea.
+
 </section>
