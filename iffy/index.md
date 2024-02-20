@@ -48,7 +48,7 @@ but the thick insulation in the suit made it hard to bend her arms.
 
 Second bent over and kissed them both on the tops of their heads.
 She smelled like engine oil and the soap she always used when she shaved her head.
-That was what Iffy remembered afterward—that,
+That was what Iffy remembered afterwards—that,
 and the stench of methane rising out of the sea around them.
 Hundreds of meters below,
 a million tiny bubbles trapped in ancient clathrate ice were about to burst free.
@@ -4009,8 +4009,44 @@ everyone found they had more pressing things to worry about.*
 
 ## Chapter 5
 
+The Marines took them back to the pier
+with strict orders not to tell anyone what had happened at the governor's mansion.
+The fact that every feed in the Antarctic was talking about it didn't seem to matter.
+Half the continent thought the attack was a first strike by the Zillions.
+The other half was convinced the machines were about to restart the war.
+Hadn't they blown up the quarantine shed in Halley?
+If so,
+humanity's only hope was to set aside their petty differences and—
+
+Iffy sighed.
+According to her history lessons,
+Hell had once been called a web or a net,
+as if people had hoped to catch the truth in it,
+but those days had ended long before the ice started to melt.
+For every truth there were a dozen half-truths and two outright lies.
+Malware that could erase all record of you or make you speak in tongues lurked in the undergrowth,
+mutating and hybridizing.
+A handful of people so brave or desperate that they might as well be crazy
+still risked their sanity with virtual reality and direct neural links.
+Everyone else stuck to text, voice, and simple, sanitized graphics.
+
+She was about to close her app for the night
+when it pinged softly to tell her she had a message from Jeep.
+*saw the feed—hope you're bonna.*
+
+She hesitated before typing,
+*we're aright*,
+and then,
+*thanks for askin*.
+She waited a few moments for a reply.
+When none came,
+she thumbed the app off and slithered into her sleeping bag.
+Sleep was a long time coming,
+but for once she didn't dream.
+
 "We ain't goin' nowhere 'til I done some shoppin',"
-Aunt Naggie said firmly.
+Aunt Naggie said firmly the next morning
+after a hasty breakfast of cold rice.
 "You'll be the first to complain if we run out of aught."
 
 For a moment Iffy was sure Uncle Jack would explode again,
@@ -4025,43 +4061,7 @@ he added over his shoulder as he stalked away.
 Aunt Naggie slumped and took a deep breath.
 "Thanks auntie," Iffy said,
 nudging her lightly with her shoulder.
-
 Her foster mother smiled shakily.
-The Marines had taken them back to the pier
-with strict orders not to tell anyone what had happened at the governor's mansion.
-The fact that every feed in the Antarctic was talking about nothing else
-didn't seem to matter.
-Half the continent thought it was a first strike by the Zillions.
-The other half was convinced the machines were about to restart the war.
-Hadn't they blown up the quarantine shed in Halley?
-If the machines had finally decided to start shooting again,
-humanity's only hope was to unite and—
-
-Iffy had sighed.
-According to her history lessons,
-Hell had once been called a web or a net,
-as if people had hoped to catch the truth in it,
-but those days had ended long before the ice started to melt.
-For every truth there were a dozen half-truths and two outright lies.
-Malware that could erase all record of you or make you speak in tongues lurked in the undergrowth,
-mutating and hybridizing.
-A handful of people so brave or desperate that they might as well be crazy
-still risked their sanity with virtual reality and direct neural links.
-Everyone else stuck to text, voice, and simple, sanitized graphics.
-
-She had been about to close her app for the night
-when it pinged softly to tell her she had a message from Jeep.
-*saw the feed—hope you're bonna.*
-
-She'd hesitated before typing,
-*we're aright*,
-and then,
-*thanks for askin*.
-She'd waited a few moments for a reply.
-When none came,
-she'd thumbed the app off and slithered into her sleeping back.
-Sleep had been a long time coming,
-and for once she hadn't dreamed.
 
 It only took Aunt Naggie a minute to gather a trio of sturdy mesh bags
 and an ancient handheld scanner
@@ -4757,20 +4757,20 @@ She laughed shakily.
 straightening up and turning back to her cooking.
 "Now come on, let's get this in you before Jack gobbles it all up."
 
-- Hey.
+- *Hey.*
 - *Ho.*
-- Huh?
+- *Huh?*
 - *Hoot!*
-- Stop it ya dingus.
+- *Stop it ya dingus.*
 
 Iff smiled.
 Any night Honesty called her "dingus" was a good night.
 
-- Y'aright? We heard about the jammer along by the Dance Hall.
+- *Y'aright? We heard about the jammer along by the Dance Hall.*
 - *Yeah.* Iffy hesitated. *Saw it happen.*
-- Tay bangle. Y'aright for reals?
+- *Tay bangle. Y'aright for reals?*
 - *Yeah.* Iffy hesitated again. *How bout you? Tomorrow 'n' all.*
-- Aff, I be kappa. But Second says I gotta go do chores. You be safe.
+- *Aff, I'll be kappa. But Second says I still gotta do chores. You be safe heart.*
 - *You too.*
 
 She waited a moment for a reply,
