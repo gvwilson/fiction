@@ -4002,3 +4002,138 @@ and tweaked jellies drove one species of fish after another to extinction,
 everyone found they had more pressing things to worry about.*
 
 </section>
+
+<section markdown="1">
+
+<span id="2024-02-20-b"></span>
+
+## Chapter 5
+
+"We ain't goin' nowhere 'til I done some shoppin',"
+Aunt Naggie said firmly.
+"You'll be the first to complain if we run out of aught."
+
+For a moment Iffy was sure Uncle Jack would explode again,
+but to her surprise he backed down.
+"Fine," he snapped, waving her away.
+"You go get whate'er we need.
+I'm gonna look at th' engine an' see what th' sainted *Mister* Wales has gaffled.
+An' take th' girl with you,"
+he added over his shoulder as he stalked away.
+"She's been underfoot enough for one day."
+
+Aunt Naggie slumped and took a deep breath.
+"Thanks auntie," Iffy said,
+nudging her lightly with her shoulder.
+
+Her foster mother smiled shakily.
+The Marines had taken them back to the pier
+with strict orders not to tell anyone what had happened at the governor's mansion.
+The fact that every feed in the Antarctic was talking about nothing else
+didn't seem to matter.
+Half the continent thought it was a first strike by the Zillions.
+The other half was convinced the machines were about to restart the war.
+Hadn't they blown up the quarantine shed in Halley?
+If the machines had finally decided to start shooting again,
+humanity's only hope was to unite and—
+
+Iffy had sighed.
+According to her history lessons,
+Hell had once been called a web or a net,
+as if people had hoped to catch the truth in it,
+but those days had ended long before the ice started to melt.
+For every truth there were a dozen half-truths and two outright lies.
+Malware that could erase all record of you or make you speak in tongues lurked in the undergrowth,
+mutating and hybridizing.
+A handful of people so brave or desperate that they might as well be crazy
+still risked their sanity with virtual reality and direct neural links.
+Everyone else stuck to text, voice, and simple, sanitized graphics.
+
+She had been about to close her app for the night
+when it pinged softly to tell her she had a message from Jeep.
+*saw the feed—hope you're bonna.*
+
+She'd hesitated before typing,
+*we're aright*,
+and then,
+*thanks for askin*.
+She'd waited a few moments for a reply.
+When none came,
+she'd thumbed the app off and slithered into her sleeping back.
+Sleep had been a long time coming,
+and for once she hadn't dreamed.
+
+It only took Aunt Naggie a minute to gather a trio of sturdy mesh bags
+and an ancient handheld scanner
+that she swore would warn them of anything toxic.
+Iffy slipped a few small tools into a waistbelt under her coat.
+If Aunt Naggie asked,
+she'd say that she hoped
+someone would have mending work she could do for a few rand
+while her foster mother haggled over onions, noodles, and soy.
+
+After dragging a shaver over her scalp
+and watching sternly while Iffy did the same,
+Aunt Naggie strode down the gangplank with her foster daughter in her wake.
+One of the Marines listened patiently
+as Aunt Naggie somewhat breathlessly launched into her planned itinerary,
+then raised a hand to stop her.
+"Please procure whatever you require, citizen" he said,
+passing her a black-edged money.
+"But keep in mind that Finance will decline charges for anything it considers a luxury item."
+He glanced pointedly over her shoulder at Uncle Jack,
+whose plan for looking at the engine
+seemed to consist of leaning on the *Guinevere*'s taffrail
+and scowling at the world.
+
+Rothera's streets were busy but not crowded.
+Its older stores clustered along the harborfront
+like gulls standing just out of reach of the waves,
+their signs bigger and brighter than those in Halley.
+Cartoon characters and celebrities from far-off Australia
+beckoned, danced, pouted, and cracked jokes as people walked by.
+Iffy would have gone into every one,
+but Aunt Naggie hurried past them,
+her expression set.
+She regarded shopping as a competitive sport
+and had no intention of letting Rothera get the better of her.
+
+The city's main market had originally been an aircraft hangar.
+A century ago,
+someone with more money than sense
+had added a spun glass floor two stories above the ground.
+Their attempt to turn the building
+into "The Big South's Biggest, Bestest Dance Hall!!"
+had failed almost immediately.
+The squatters who took it over after the war possessed surplus weapons,
+combat conditioning,
+and radical political ideas.
+After a couple of unsuccessful attempts to oust them,
+Rothera's governor and core had thrown up their physical and digital hands
+and let anyone who could pay a few rand a month set up a stall.
+The result reminded Iffy of the picture of an anthill in her nature book.
+
+Aunt Naggie tapped her money on the reader at the entrance
+to pay her ten pence admission and then squared her shoulders.
+Noticing Iffy's yearning look back toward the docks,
+she nudged her foster daughter with her elbow.
+"Why'n't you go off an' see what you can find?
+Or who, if you've a mind to?" she teased.
+
+Iffy felt her cheeks go warm.
+"Y' sure y' don't need me?"
+
+Aunt Naggie looked around.
+Greenhouse potatoes hung in net bags
+next to stacks of dried fruit in single-molecule shrink wrap.
+Burlap sacks of rice piled higher than Iffy
+threatened to topple onto a line of people gossiping with each other
+as they waited to buy ginger, cardamom, and bay leaves from a one-legged woman
+whose tweaked hair sparkled red and purple every time she turned her head.
+A surgical bot that had been converted for tailoring waited patiently,
+its four skeletal arms at its sides,
+while a man with an enormous beard
+struggled out of a salvaged coat two sizes too small for him.
+"I'll be fine," Aunt Naggie said.
+
+</section>
