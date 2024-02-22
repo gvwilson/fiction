@@ -5210,7 +5210,7 @@ hating her plaintive tone.
 "I don't know," Wales said bleakly.
 "I really don't know."
 
-"People knew this was coming," he continued after a moment.
+"We knew this was coming," he continued after a moment.
 "The ice was melting,
 the fish were dying,
 machines were watching us every second and getting smarter every day…
@@ -5219,14 +5219,14 @@ but everyone who could have fixed it was so afraid of things changing
 or,
 or so wrapped up in their own little problems
 that they wouldn't let themselves see that all those problems were connected.
-By the time they couldn't pretend any more it was too late."
+By the time we couldn't pretend any more it was too late."
 
 "I—I was just talkin' about the drone an' Honesty an' stuff,"
 Iffy ventured weakly
 after he had been silent for a moment.
 "Not about th' whole world."
 
-Wales snorted.
+Wales snorted and wiped his sleeve across his face.
 "Sorry.
 I get carried away sometimes.
 But I promise you."
