@@ -5471,7 +5471,7 @@ is actually pretty lenient."
 "Lemme guess," Aunt Naggie said neutrally.
 "You give th' governors your fancy toolbox an' they'll make it all go away.
 Oh, don't look at me like that,"
-she continued as Iffy opened her mouth.
+she continued as Iffy opened her mouth again.
 "I been payin' attention."
 
 Wales shrugged.
@@ -5743,6 +5743,10 @@ Wales' jaw worked for a moment.
 "It's China," he said.
 "It wants to talk to you."
 
+Iffy stared at him for a moment while his words sunk in.
+As she opened her mouth to protest,
+a window-shaking *boom!* echoed across the harbor.
+
 *Nova Zembla wasn't the only cold mind to wake up.
 Once upon a time there was a country called China.
 Its leaders were so afraid of their own people
@@ -5779,5 +5783,407 @@ And sometimes
 sometimes,
 like the gods of old,
 it made bargains.*
+
+</section>
+
+<section markdown="1">
+
+<span id="2024-02-24-a"></span>
+
+## Chapter 7
+
+*Boom!*
+Iffy felt the explosion as much as she heard it.
+She whirled around.
+A pillar of dust climbed toward the sky above Rothera
+as klaxons began to blare.
+
+The portable railgun on the pier spun through a hundred and eighty degrees.
+*Crack!*
+A jacketed steel slug took one of the Marines in the chest,
+throwing his lifeless body back twenty meters.
+The other Marine jerked from side to side as her exoskeleton's defenses took control.
+The railgun tracked her,
+twitching left left left right left right *crack!*
+The slug took her leg off at the knee,
+spinning her around in a full circle.
+She toppled over the edge of the pier and into the harbor.
+
+Wales grabbed Iffy and pulled her back around the corner
+as a pair of drones shed their gossamer wings and plummeted toward the railgun.
+Iffy heard a *crack!* as the railgun shot down one of the drones
+and then a crash as the other one hit it.
+"Affin' hell," she swore.
+She yanked a life preserver off the wall
+to fling at the antenna standing on the deck.
+
+Wales caught her arm.
+"No," he said sharply.
+"Iffy, it's not China!
+And whatever it is,
+it's not using that.
+I'd know—I'd know."
+
+Uncle Jack bellowed something from the pilot house.
+The deck thrummed as the *Guinevere*'s engines came to life.
+"Cast off!" he shouted at Aunt Naggie.
+"We're gettin' th' hell out o' here!"
+
+The galley hatch clanged open.
+"Auntie, look out!" Iffy shouted
+as the railgun on the pier spun around.
+She pulled her arm away from Wales and—
+
+*The world slowed down.
+Angles and vectors and trajectories painted crisp colored lines
+across wireframe renderings of the ship and the pier
+A drone ID RTHDR172 was banking to attack
+the railgun RTHFG1343 was fully operational
+the other drone RTHDR206's impact had knocked it out of position by 1.7 meters
+but it was still upright capacitors intact
+and pivoting as it acquired another target
+human unarmored
+bearing ninety-seven degrees
+elevation thirty-eight point four degrees
+range twenty-one point two two meters
+negligible lateral velocity
+no need to adjust for the slight obstruction of the ship's taffrail.*
+
+"No!" she screamed.
+
+Her command struck the railgun's tiny core with more force than the drone had struck its housing.
+Five redundant security systems toppled over,
+as dead as the first Marine.
+*Firing: unthinkable.
+Targeting: unthinkable.*
+With a spark too small to be called microscopic
+the railgun's core electrocuted itself.
+
+"Citizens!"
+A mechanical voice boomed across the harbor.
+"This is an emergency!
+Take shelter immediately.
+Power down or disable any advanced devices in your immediate vicinity.
+Do not attempt to flee!
+Any vehicle or vessel that moves will be treated as hostile."
+
+Aunt Naggie spun around,
+not realizing how close her end had been.
+"Jack—" she started.
+
+"Cast off that affin' line!" he shouted.
+Even at the stern and with her head spinning
+Iffy heard his fist hit the display in the pilot house.
+*He better not break it,* she thought muzzily.
+What had just happened?
+How could she hack the railgun like that?
+How could she *see* like that?
+What was she?
+
+The drone that had been about to attack the railgun circled them.
+"Citizens!"
+its tinny voice said.
+"Do not attempt to flee!
+Any vehicle or vessel in motion during the current situation will be treated as hostile."
+
+Aunt Naggie raised her hands and backed away from the taffrail,
+the stayline still tied on.
+The pilot house door flew open.
+"I told you to cast off!"
+Uncle Jack shouted,
+shoving Aunt Naggie out of his way.
+He grabbed the stayline—
+
+—and fell to the deck like a sack full of seaweed
+as a life preserver hit him in the head with a thump.
+It ricocheted off the wall,
+spun away over the railing,
+and splashed into the harbor.
+
+"Sorry about that,"
+Wales said brightly as Aunt Naggie and Iffy turned and stared at him.
+"But I think the core is serious about staying put."
+
+Aunt Naggie's mouth worked for a moment.
+"No need fer sorry," she said.
+"Shoulda done it myself years ago.
+Now can someone please tell me what's happenin'?"
+
+"Help!"
+someone shouted before Iffy or Wales could answer.
+"Citizen, help me!"
+
+The Marine who had been knocked off the pier!
+Iffy raced to the railing and looked down.
+The Marine's exoskeleton had kept her afloat
+long enough for her to grab the life preserver that had just landed beside her,
+but she didn't look like she could last much longer.
+
+"The winch!"
+Aunt Naggie pointed.
+
+"There's no time!"
+Wales snapped.
+"Just get a rope down to her!"
+
+Iffy didn't need to be told twice.
+If there was anything a ship like the *Guinevere* had lots of,
+it was rope.
+She yanked open a locker and pulled a coil out.
+
+Wales tied a quick loop.
+"Get this under your armpits!" he shouted,
+tossing it to the Marine.
+She pulled it over her head one-handed then slumped back into the water.
+
+Bracing one foot against the taffrail
+Wales looped the end of the rope around his back and handed it to Iffy.
+"Take up the slack.
+And *one*, and *two*."
+With each grunt he pulled in a meter of the bright yellow rope
+for Iffy to re-coil.
+
+The Marine thumped against the *Guinevere*'s hull.
+"Hold on!" Wales said,
+pulling her up the last two meters and grabbing her limp arm.
+One final heave got her up over the rail and onto the deck.
+
+"Here."
+Aunt Naggie handed him the first aid kit from the pilot house.
+Wales turned it on and pressed it against the Marine's neck.
+
+"Come on come on," Wales muttered.
+Aunt Naggie put her arm around Iffy and squeezed.
+The status light on the first aid kid blinked orange, yellow, orange, yellow:
+the Marine was alive but in critical condition.
+The exoskeleton had clamped an emergency tourniquet around her leg
+to stop her bleeding out,
+but those seconds in the harbor had been enough to send her into hypothermia.
+
+Diagnostics scrolled up the first aid kid's screen.
+Pain killers,
+stimulants to counteract their dulling effects and kick her metabolism into action,
+microdoses of a dozen precautionary antibiotics, antivirals, antifungals, and antiprions.
+"Remain calm, citizen," her exoskeleton said.
+"Help is on its way."
+
+By the time that help arrived the Marine was sitting up
+with her back against the pilot house
+and a thermal blanket tucked awkwardly around her exoskeleton.
+She mumbled a thank you when Aunt Naggie pressed a cup of tea into her hand,
+staring dully at what was left of her left leg.
+
+"We'll take it from here,"
+said the first Marine up the gangplank.
+Wales stepped aside to let him kneel beside his comrade.
+He slipped a boxy medical unit over the stump of her leg
+while the two Marines behind him unfolded a stretcher.
+
+"Any idea what's going on?"
+Wales asked as they lifted their wounded comrade into place
+and rolled her down the gangplank.
+
+The first Marine shook his head.
+"There will be an update as soon as it's safe, citizen.
+Please remain where you are until then and—"
+He stopped mid-sentence.
+"Please confirm that you are Commander Johnson Wales,"
+he continued abruptly.
+
+*Commander?* Iffy thought as Wales nodded.
+"I am."
+
+"Hold for transmission."
+The Marine straightened.
+
+"Johnson?"
+Doctor Johel's voice came from a speaker somewhere on the Marine's exoskeleton.
+"Are you all right?"
+
+"We're fine, Gayathri.
+What the hell's going on?"
+
+"I'll brief you when you get here,"
+Doctor Johel replied crisply.
+"Stay where you are for now—someone will collect you
+as soon as the situation stabilizes.
+Johel out."
+
+The Marine saluted and followed his squad mates down the gangplank.
+Down on the pier,
+another trio of Marines were zipping up a heavyweight navy blue bag
+just large enough to hold a body in an exoskeleton.
+With a drone circling overhead,
+they marched away.
+
+"That stuff in yer head tellin' you anythin'?"
+Iffy asked Wales.
+
+He shook his head.
+"There's a total blackout.
+I could try one of the military channels,
+but if they spot me they'll think it's part of the attack."
+
+Three paces away Uncle Jack groaned and sat up.
+"What th' hell?" he mumbled.
+
+"You hit your head,"
+Wales said before Aunt Naggie or Iffy could speak.
+"Then the Marines showed up."
+
+Uncle Jack stood unsteadily.
+"Affin' hell."
+He glared at Wales,
+then at his wife,
+and stumbled away to his cabin muttering under his breath.
+
+The short blue bus that came to collect Wales half an hour later
+had a few more nicks and dents than
+the one that had taken them to see the governor in Rothera.
+"They're with me," Wales told the Marines,
+jerking his thumb at Iffy and Aunt Naggie.
+
+"What?" said Aunt Naggie
+and "No sir," the Marine sergeant said firmly.
+
+"My orders say one passenger," he continued.
+
+Wales crossed his arms.
+"It's for their safety.
+Check with Doctor Johel if you need to."
+
+The Marine's lips moved silently.
+"D'you think there's gonna be another attack?"
+Iffy whispered.
+
+Wales glanced past her at Aunt Naggie.
+"That's not what I'm worried about."
+Embarrassed, Aunt Naggie looked away.
+
+"Doctor Johel asks, is it absolutely necessary?"
+the Marine relayed.
+Wales nodded curtly.
+"Very well, sir.
+After you."
+
+As they walked down the pier Iffy said,
+"Since when are you a commander?"
+
+Wales snorted.
+"Silly, isn't it?"
+I'll tell them to update their records."
+Which, Iffy noted, wasn't an answer.
+
+Rothera's streets were empty
+except for pairs of Marines.
+Vehicles stood where their owners or passengers had abandoned them.
+People watched the bus go by through the windows of shops and cafés,
+their questions and worries clear on their faces.
+Hell was still locked down:
+all her app would show her was the same repeating message.
+This was a class one emergency.
+Take shelter,
+stay calm,
+and power down or disable any advanced hardware nearby.
+More information would be forthcoming.
+
+"Hey,"
+Iffy said quietly to Aunt Naggie as the bus made its way downtown.
+"Watcha gonna do 'bout Uncle Jack?"
+
+Her foster mother forced a smile.
+"Oh, I'm sure his head'll be fine.
+He's had worse knocks 'n that."
+
+"That's not what I mean, auntie."
+
+Aunt Naggie squeezed Iffy's hand.
+"I know, love.
+I know."
+
+Then the bus came around a corner and they could see the damage the explosion had wrought.
+Rothera's town hall overlooked a cobbled square.
+Ten meters of its front wall was gone,
+concrete and rebar and translucent cabling strewn about
+as if a giant had tripped while taking out the garbage.
+Another ten meters of wall on either side had collapsed
+to leave the rooms inside open for all to see.
+
+Iffy swallowed hard at the sight of half a dozen navy blue bags
+lined up neatly beside a light fountain.
+Every window facing the square had been shattered.
+The broken glass would have been like flying knives.
+
+"Saints and our sins,"
+Aunt Naggie whispered,
+squeezing Iffy's hand.
+"Who could do somethin' like this?"
+
+"Almost anyone,"
+Wales said bleakly.
+"There's nothing people won't do if they're afraid enough or want something enough."
+
+"Y' think it was people an' not…you know."
+Iffy nodded toward the front of the bus where a driver would have sat
+if the bus needed one.
+
+"The machines?"
+Wales shrugged.
+"Maybe.
+Maybe they're thinking twenty moves ahead
+and this is part of some strategy we can't even start to understand.
+Or maybe there was a glitch and this is just collateral damage."
+
+"Or maybe it's nothing to do with the machines,
+or at least nothing they care about.
+Maybe it's someone back in Hobart trying to distract attention from something else.
+Hell, maybe it *is* the Zillions.
+We might never know."
+He sighed and rubbed his eyes.
+
+The bus picked its way through the rubble
+and deposited them in front of a side door
+guarded by a squad of Marines and a pair of sentry bots.
+One of the Marines waved them inside.
+"You're cleared for entry," de said.
+
+Iffy froze.
+"Honesty?" she asked incredulously.
+
+The Marine raised der visor.
+Honesty's Third looked at Iffy with clear brown eyes.
+"Hello Iffy," de said.
+
+Iffy gaped at them.
+"What—how're you doin'?"
+
+"I'm fine, thank you," Honesty replied politely,
+der accent and crisp enunciation straight out of a pre-war sim.
+"How are you?"
+
+"'m aright."
+Iffy's mind spun.
+"Are you?" she blurted.
+"I mean, when they put th' machine on you, was it—?"
+
+"I'm fine, thank you."
+The smile on Honesty's face was as bright as the Antarctic sun.
+"They warned me that I might find being Corporal Kibbens somewhat awkward at first,
+but he served with distinction in the Fourth Augmented Infantry during the evacuation of Hawai'i,
+and was decorated posthumously for valor twice during the defense of Auckland.
+He was an outstanding soldier, and I am proud to be his inductee."
+
+Iffy took a step forward,
+some part of her thinking that if only she took Honesty by the shoulders and shook der hard enough
+de would snap out of it and be derself again,
+but before she could make a fool of herself,
+someone whistled from down the street.
+"Excuse me," Honesty said.
+De closed der visor,
+turned,
+and marched away with long mechanical strides.
+
+"Come on," Aunt Naggie said gently.
+Iffy let her foster mother pull her up the stairs and through the door.
 
 </section>
