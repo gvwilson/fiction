@@ -5798,20 +5798,20 @@ She whirled around.
 A pillar of dust climbed toward the sky above Rothera
 as klaxons began to blare.
 
-The portable railgun on the pier spun through a hundred and eighty degrees.
+The railgun on the pier spun a hundred and eighty degrees.
 *Crack!*
-A jacketed steel slug took one of the Marines in the chest,
-throwing his lifeless body back twenty meters.
+A jacketed steel slug hit one of the Marines squarely in the chest,
+throwing his suddenly lifeless body back ten meters.
 The other Marine jerked from side to side as her exoskeleton's defenses took control.
 The railgun tracked her,
 twitching left left left right left right *crack!*
-The slug took her leg off at the knee,
+The slug hit her in the knee,
 spinning her around in a full circle.
 She toppled over the edge of the pier and into the harbor.
 
 Wales grabbed Iffy and pulled her back around the corner
 as a pair of drones shed their gossamer wings and plummeted toward the railgun.
-Iffy heard a *crack!* as the railgun shot down one of the drones
+Iffy heard a *crack!* as the railgun shot one of them down
 and then a crash as the other one hit it.
 "Affin' hell," she swore.
 She yanked a life preserver off the wall
@@ -5822,7 +5822,7 @@ Wales caught her arm.
 "Iffy, it's not China!
 And whatever it is,
 it's not using that.
-I'd know—I'd know."
+I'd know—believe me, I'd know."
 
 Uncle Jack bellowed something from the pilot house.
 The deck thrummed as the *Guinevere*'s engines came to life.
@@ -5851,7 +5851,8 @@ no need to adjust for the slight obstruction of the ship's taffrail.*
 
 "No!" she screamed.
 
-Her command struck the railgun's tiny core with more force than the drone had struck its housing.
+Her command struck the railgun's tiny core
+with more force than the drone had struck its housing.
 Five redundant security systems toppled over,
 as dead as the first Marine.
 *Firing: unthinkable.
@@ -5880,7 +5881,7 @@ How could she hack the railgun like that?
 How could she *see* like that?
 What was she?
 
-The drone that had been about to attack the railgun circled them.
+A drone swooped down and then circled overhead.
 "Citizens!"
 its tinny voice said.
 "Do not attempt to flee!
@@ -5894,7 +5895,7 @@ Uncle Jack shouted,
 shoving Aunt Naggie out of his way.
 He grabbed the stayline—
 
-—and fell to the deck like a sack full of seaweed
+—and fell to the deck like a sack of seaweed
 as a life preserver hit him in the head with a thump.
 It ricocheted off the wall,
 spun away over the railing,
@@ -5934,14 +5935,15 @@ She yanked open a locker and pulled a coil out.
 Wales tied a quick loop.
 "Get this under your armpits!" he shouted,
 tossing it to the Marine.
-She pulled it over her head one-handed then slumped back into the water.
+She pulled it over her head one-handed and slumped back into the freezing water.
 
 Bracing one foot against the taffrail
 Wales looped the end of the rope around his back and handed it to Iffy.
 "Take up the slack.
 And *one*, and *two*."
-With each grunt he pulled in a meter of the bright yellow rope
-for Iffy to re-coil.
+With each grunt he hauled in a meter of bright yellow rope,
+lifting two hundred kilos of Marine and machinery
+as easily as Iffy would have picked up a sack of laundry.
 
 The Marine thumped against the *Guinevere*'s hull.
 "Hold on!" Wales said,
@@ -6034,12 +6036,15 @@ Wales said before Aunt Naggie or Iffy could speak.
 Uncle Jack stood unsteadily.
 "Affin' hell."
 He glared at Wales,
-then at his wife,
-and stumbled away to his cabin muttering under his breath.
+then at his wife.
+"We're gonna talk about this later,"
+he said,
+his voice cold and hard.
+He stumbled away to his cabin muttering under his breath.
 
 The short blue bus that came to collect Wales half an hour later
-had a few more nicks and dents than
-the one that had taken them to see the governor in Rothera.
+had more nicks and dents than
+the one that had taken them to see the governor.
 "They're with me," Wales told the Marines,
 jerking his thumb at Iffy and Aunt Naggie.
 
@@ -6108,16 +6113,21 @@ concrete and rebar and translucent cabling strewn about
 as if a giant had tripped while taking out the garbage.
 Another ten meters of wall on either side had collapsed
 to leave the rooms inside open for all to see.
-
-Iffy swallowed hard at the sight of half a dozen navy blue bags
-lined up neatly beside a light fountain.
 Every window facing the square had been shattered.
 The broken glass would have been like flying knives.
 
+Iffy swallowed hard at the sight of half a dozen navy blue bags
+lined up neatly beside a light fountain.
+She had seen death before—not a season went by
+that someone's luck didn't run out on the docks or at sea,
+and even Uncle Jack at his worst
+wouldn't have dared to miss a funeral—but
+this was different.
+
 "Saints and our sins,"
 Aunt Naggie whispered,
-squeezing Iffy's hand.
-"Who could do somethin' like this?"
+squeezing her foster daughter's hand.
+"Who would do somethin' like this?"
 
 "Almost anyone,"
 Wales said bleakly.
@@ -6130,15 +6140,10 @@ if the bus needed one.
 "The machines?"
 Wales shrugged.
 "Maybe.
-Maybe they're thinking twenty moves ahead
-and this is part of some strategy we can't even start to understand.
-Or maybe there was a glitch and this is just collateral damage."
-
-"Or maybe it's nothing to do with the machines,
-or at least nothing they care about.
-Maybe it's someone back in Hobart trying to distract attention from something else.
-Hell, maybe it *is* the Zillions.
-We might never know."
+They're normally a lot tidier than this,
+but this could be part of some strategy we couldn't even begin to understand.
+Or maybe politics back in Hobart is getting hot again.
+Hell, maybe it *is* the Brazilians."
 He sighed and rubbed his eyes.
 
 The bus picked its way through the rubble
