@@ -5465,8 +5465,7 @@ he added as Iffy opened her mouth to protest.
 The *Taroona* hadn't actually gotten around to doing anything illegal before she went down,
 so as far as they're concerned,
 it was all a Zillion trap and I'm the evil mastermind.
-They could have locked me up until they figured it all out—a tracker
-is actually pretty lenient."
+They could have locked me up—a tracker is actually pretty lenient."
 
 "Lemme guess," Aunt Naggie said neutrally.
 "You give th' governors your fancy toolbox an' they'll make it all go away.
@@ -5493,7 +5492,40 @@ not knowing if anyone was coming…
 
 Wales shrugged.
 "As all right as anyone can be after something like that.
-Assuming, of course, that it actually happened the way they said."
+But if it wasn't this, it would have been something else.
+The governor here in Rothera wants to declare independence
+so he can open the port to Brazilian trade.
+His clone in Halley doesn't think the Aussies would let us,
+so we should just join the Commonwealth like they've always wanted us to,
+and the one in Paddington South—"
+He paused as if to organize his thoughts,
+then laughed humorlessly.
+"Nobody has a clue what he wants.
+Gayathri—Doctor Johel—thinks he had a hand in the Bharati fire,
+but—"
+
+"You make it sound like some kinda sim,"
+Iffy said accusingly.
+
+Wales shrugged again,
+his eyes on his tea and his thoughts far away.
+"You're not wrong.
+Women like your olders started cloning themselves to pass on
+all the tweaks they'd paid a fortune for.
+Men mostly did it out of vanity,
+or because they thought someone would finally get imprinting to work
+so they could pass on their mind as well as their genes.
+I know, I know."
+He raised his hands in mock surrender as Iffy and Aunt Naggie both goggled at him.
+"It was a stupid time, people did stupid things."
+
+"Not as stupid as gettin' frisky when your ship's goin' into a fight,"
+Aunt Naggie observed archly.
+
+"Auntie!" Iffy spluttered as Wales laughed.
+
+"True," he said.
+"*If* that's what actually happened."
 
 Aunt Naggie stopped mid-sip.
 "You think they're lyin'?"
@@ -5501,11 +5533,10 @@ Aunt Naggie stopped mid-sip.
 Wales shook his head.
 "I don't know.
 I ran a few sims.
-They *could* be telling the truth, but…"
-He shruggged again.
+They *could* be telling the truth."
 
 Iffy's eyes widened.
-"You think they're Zillion spies or some such?"
+"You think they're spies or some such?"
 
 Wales chuckled.
 "Maybe.
@@ -5713,7 +5744,7 @@ maybe we can do it durin' the day?"
 
 Wales looked at her quizzically.
 "Last night."
-She gestured vaguely toward the stern.
+She gestured toward the stern.
 "That antenna o' yours."
 
 He frowned.
@@ -5813,20 +5844,11 @@ Wales grabbed Iffy and pulled her back around the corner
 as a pair of drones shed their gossamer wings and plummeted toward the railgun.
 Iffy heard a *crack!* as the railgun shot one of them down
 and then a crash as the other one hit it.
-"Affin' hell," she swore.
-She yanked a life preserver off the wall
-to fling at the antenna standing on the deck.
+"Affin' hell," she whispered,
+her mind and body both going cold as gunfire snapped somewhere in the distance.
 
-Wales caught her arm.
-"No," he said sharply.
-"Iffy, it's not China!
-And whatever it is,
-it's not using that.
-I'd know—believe me, I'd know."
-
-Uncle Jack bellowed something from the pilot house.
 The deck thrummed as the *Guinevere*'s engines came to life.
-"Cast off!" he shouted at Aunt Naggie.
+"Cast off!" Aunt Jack shouted at Aunt Naggie from the pilot house.
 "We're gettin' th' hell out o' here!"
 
 The galley hatch clanged open.
@@ -5855,37 +5877,34 @@ Her command struck the railgun's tiny core
 with more force than the drone had struck its housing.
 Five redundant security systems toppled over,
 as dead as the first Marine.
-*Firing: unthinkable.
-Targeting: unthinkable.*
+*Targeting: impossible.
+Firing: unthinkable.*
 With a spark too small to be called microscopic
 the railgun's core electrocuted itself.
 
 "Citizens!"
 A mechanical voice boomed across the harbor.
 "This is an emergency!
-Take shelter immediately.
 Power down or disable any advanced devices in your immediate vicinity.
-Do not attempt to flee!
+Remain in place!
 Any vehicle or vessel that moves will be treated as hostile."
 
 Aunt Naggie spun around,
 not realizing how close her end had been.
-"Jack—" she started.
+"Iffy—" she started.
 
-"Cast off that affin' line!" he shouted.
+"Cast off that affin' line!" Jack shouted.
 Even at the stern and with her head spinning
 Iffy heard his fist hit the display in the pilot house.
 *He better not break it,* she thought muzzily.
 What had just happened?
-How could she hack the railgun like that?
-How could she *see* like that?
-What was she?
+How could do that?
 
 A drone swooped down and then circled overhead.
 "Citizens!"
 its tinny voice said.
-"Do not attempt to flee!
-Any vehicle or vessel in motion during the current situation will be treated as hostile."
+Remain in place!
+Any vehicle or vessel in motion during the current situation will be considered hostile."
 
 Aunt Naggie raised her hands and backed away from the taffrail,
 the stayline still tied on.
@@ -5925,7 +5944,7 @@ Aunt Naggie pointed.
 
 "There's no time!"
 Wales snapped.
-"Just get a rope down to her!"
+"Just get me a rope!"
 
 Iffy didn't need to be told twice.
 If there was anything a ship like the *Guinevere* had lots of,
@@ -5971,19 +5990,19 @@ microdoses of a dozen precautionary antibiotics, antivirals, antifungals, and an
 
 By the time that help arrived the Marine was sitting up
 with her back against the pilot house
-and a thermal blanket tucked awkwardly around her exoskeleton.
-She mumbled a thank you when Aunt Naggie pressed a cup of tea into her hand,
+and a thermal blanket tucked awkwardly around her exoskeleton,
 staring dully at what was left of her left leg.
 
 "We'll take it from here,"
 said the first Marine up the gangplank.
 Wales stepped aside to let him kneel beside his comrade.
 He slipped a boxy medical unit over the stump of her leg
-while the two Marines behind him unfolded a stretcher.
+while the Marine behind him unfolded a stretcher,
+her eyes and augments scanning the horizon.
 
-"Any idea what's going on?"
-Wales asked as they lifted their wounded comrade into place
-and rolled her down the gangplank.
+"Any idea what's happening?"
+Wales asked as they lifted their wounded comrade onto the stretcher.
+It beeped and started down the gangplank on spindly legs.
 
 The first Marine shook his head.
 "There will be an update as soon as it's safe, citizen.
@@ -6006,32 +6025,28 @@ Doctor Johel's voice came from a speaker somewhere on the Marine's exoskeleton.
 What the hell's going on?"
 
 "I'll brief you when you get here,"
-Doctor Johel replied crisply.
-"Stay where you are for now—someone will collect you
-as soon as the situation stabilizes.
-Johel out."
+she replied crisply.
+"Johel out."
 
 The Marine saluted and followed his squad mates down the gangplank.
 Down on the pier,
-another trio of Marines were zipping up a heavyweight navy blue bag
-just large enough to hold a body in an exoskeleton.
-With a drone circling overhead,
-they marched away.
+another pair of Marines had taken hold of their fallen comrade's exoskeleton.
+The dead man's head bounced up and down as they trotted after the stretcher.
 
+The sight made Iffy's stomach roll over.
 "That stuff in yer head tellin' you anythin'?"
-Iffy asked Wales.
+Iffy asked Wales desperately.
 
 He shook his head.
 "There's a total blackout.
 I could try one of the military channels,
-but if they spot me they'll think it's part of the attack."
+but if they spot me they'll think it's an attack."
 
 Three paces away Uncle Jack groaned and sat up.
 "What th' hell?" he mumbled.
 
 "You hit your head,"
 Wales said before Aunt Naggie or Iffy could speak.
-"Then the Marines showed up."
 
 Uncle Jack stood unsteadily.
 "Affin' hell."
@@ -6040,17 +6055,20 @@ then at his wife.
 "We're gonna talk about this later,"
 he said,
 his voice cold and hard.
-He stumbled away to his cabin muttering under his breath.
+He stumbled away to his cabin.
 
-The short blue bus that came to collect Wales half an hour later
-had more nicks and dents than
-the one that had taken them to see the governor.
-"They're with me," Wales told the Marines,
+A horn blatted as a short blue bus rolled to a stop on the dock.
+It had more nicks and dents than
+the one that had taken them to see the governor,
+and the Marines beside it fanned out,
+moving in random stop-start-sideways anti-patterns generated by their exoskeletons' cores
+to throw off enemy targeting.
+
+"They're with me," Wales told the Marine sergeant who jogged up the pier to collect him,
 jerking his thumb at Iffy and Aunt Naggie.
 
 "What?" said Aunt Naggie
 and "No sir," the Marine sergeant said firmly.
-
 "My orders say one passenger," he continued.
 
 Wales crossed his arms.
@@ -6059,9 +6077,9 @@ Check with Doctor Johel if you need to."
 
 The Marine's lips moved silently.
 "D'you think there's gonna be another attack?"
-Iffy whispered.
+Iffy asked breathlessly.
 
-Wales glanced past her at Aunt Naggie.
+Wales glanced over her head at Aunt Naggie.
 "That's not what I'm worried about."
 Embarrassed, Aunt Naggie looked away.
 
@@ -6080,9 +6098,13 @@ I'll tell them to update their records."
 Which, Iffy noted, wasn't an answer.
 
 Rothera's streets were empty
-except for pairs of Marines.
+except for Marines and their drones.
 Vehicles stood where their owners or passengers had abandoned them.
-People watched the bus go by through the windows of shops and cafés,
+The town's few free machines that hadn't found cover had frozen in place.
+Blinking blue lights attached to their sides
+showed which ones had been inspected and cleared.
+
+People watched the bus through the windows of shops and cafés,
 their questions and worries clear on their faces.
 Hell was still locked down:
 all her app would show her was the same repeating message.
@@ -6106,7 +6128,8 @@ Aunt Naggie squeezed Iffy's hand.
 "I know, love.
 I know."
 
-Then the bus came around a corner and they could see the damage the explosion had wrought.
+Then the bus came around a corner
+and they could see the damage the explosion had wrought.
 Rothera's town hall overlooked a cobbled square.
 Ten meters of its front wall was gone,
 concrete and rebar and translucent cabling strewn about
@@ -6118,33 +6141,15 @@ The broken glass would have been like flying knives.
 
 Iffy swallowed hard at the sight of half a dozen navy blue bags
 lined up neatly beside a light fountain.
-She had seen death before—not a season went by
+She had seen the aftermath of death before—not a season went by
 that someone's luck didn't run out on the docks or at sea,
 and even Uncle Jack at his worst
 wouldn't have dared to miss a funeral—but
 this was different.
 
-"Saints and our sins,"
+"Saints and their mercies,"
 Aunt Naggie whispered,
 squeezing her foster daughter's hand.
-"Who would do somethin' like this?"
-
-"Almost anyone,"
-Wales said bleakly.
-"There's nothing people won't do if they're afraid enough or want something enough."
-
-"Y' think it was people an' not…you know."
-Iffy nodded toward the front of the bus where a driver would have sat
-if the bus needed one.
-
-"The machines?"
-Wales shrugged.
-"Maybe.
-They're normally a lot tidier than this,
-but this could be part of some strategy we couldn't even begin to understand.
-Or maybe politics back in Hobart is getting hot again.
-Hell, maybe it *is* the Brazilians."
-He sighed and rubbed his eyes.
 
 The bus picked its way through the rubble
 and deposited them in front of a side door
@@ -6160,11 +6165,12 @@ Honesty's Third looked at Iffy with clear brown eyes.
 "Hello Iffy," de said.
 
 Iffy gaped at them.
-"What—how're you doin'?"
+"What—what are you doin' here?"
 
-"I'm fine, thank you," Honesty replied politely,
+"It's my first patrol," Honesty replied proudly,
 der accent and crisp enunciation straight out of a pre-war sim.
-"How are you?"
+"How are you?
+Were you injured in the attack?"
 
 "'m aright."
 Iffy's mind spun.
@@ -6175,7 +6181,7 @@ Iffy's mind spun.
 The smile on Honesty's face was as bright as the Antarctic sun.
 "They warned me that I might find being Corporal Kibbens somewhat awkward at first,
 but he served with distinction in the Fourth Augmented Infantry during the evacuation of Hawai'i,
-and was decorated posthumously for valor twice during the defense of Auckland.
+and was decorated posthumously twice during the defense of Auckland.
 He was an outstanding soldier, and I am proud to be his inductee."
 
 Iffy took a step forward,
