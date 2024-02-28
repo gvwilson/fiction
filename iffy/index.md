@@ -6127,8 +6127,11 @@ and they could see the damage the explosion had wrought.
 Aunt Naggie whispered,
 squeezing her foster daughter's hand.
 
-Rothera's town hall overlooked a cobbled square.
-Ten meters of its front wall was gone,
+The center of Old Rothera was a cobbled square
+with the Marines' headquarters on one side,
+the hospital on another,
+and shops Iffy had never been in on the other two.
+Ten meters of the front wall of the Marines' headquarters was gone,
 concrete and rebar and translucent cabling strewn about
 as if a giant had tripped while taking out the garbage.
 Another ten meters of wall on either side had collapsed
@@ -6149,15 +6152,16 @@ He closed his eyes as his tech reconnected with the world.
 "Three attackers, maybe more," he said,
 his eyes flickering under his lids as he absorbed the information.
 "All human as far as anyone knows.
-Two are down,
-the rest still at large.
+Two are accounted for,
+the other or others still at large.
 It looks like the crew from the *Taroona* were the target—whoever it was got them both."
 His shoulders slumped slightly.
 "And eleven bystanders."
 
 The bus picked its way through the rubble
 and deposited them in front of a side door
-guarded by a squad of Marines and a pair of sentry bots.
+guarded by a pair of Marines,
+each with a sentry bot beside them.
 One of the Marines waved them inside.
 "You're cleared for entry," de said.
 
@@ -6200,5 +6204,103 @@ and marched away with long mechanical strides.
 
 "Come on," Aunt Naggie said gently.
 Iffy let her foster mother pull her up the stairs and through the door.
+
+<span id="2024-02-28-a"></span>
+
+Every old building has its own smell.
+Paint, varnish, concrete, glue, dust,
+and several generations of people sweating and crying and farting and just *breathing*
+are all part of it.
+Soap and bleach mix with the lingering traces of someone's perfume,
+the supposedly odorless oil applied to the joints of aging exoskeletons,
+and the curry that the roti shop around the corner used for forty years,
+forty years ago.
+
+The blast that had torn open the front wall of the Marines' headquarters
+had changed the building's smell.
+The acrid afterburn of the explosives stung Iffy's nose,
+and the ragged opening where the wall had been let in
+a cold salt-and-jellyfish breeze from the harbor.
+She didn't realize what had been lost—how could she—but
+the anger and grief on the faces of the people she passed
+spoke of more than one kind of loss.
+
+"Wait here,"
+the Marine guiding them said.
+She heard the lock on the door click
+as she, Wales, and Aunt Naggie lowered themselves
+into uncomfortable rectangular chairs.
+The room had no desk, no windows, and no decorations,
+just a small app set into the wall
+endless scrolling the same message:
+take shelter,
+stay calm,
+and power down or disable any advanced hardware nearby.
+
+She opened her mouth to ask how long Wales thought it would be,
+but closed it as he and her foster mother shot her warning glances.
+After that,
+there was nothing to do but wait and worry.
+
+Footsteps in the corridor and a perfunctory knock on the door
+roused her from her funk.
+She and her foster mother stood as the door opened
+and Doctor Johel stepped through.
+"You can wait outside,"
+she told her unseen escort.
+
+Wales slowly got to his feet.
+For a moment the two just looked at each other,
+and then he stepped forward and wrapped his arms around her.
+"I'm sorry,"
+he said,
+his voice muffled by her shoulder.
+"Gayathri, I'm so sorry."
+
+She nodded and extricated herself from his hug.
+"The price of freedom," she said,
+patting her bun back into place
+and then catching the cuff of Johnson's jacket as he stepped back.
+
+He looked down at her hand and back at her face.
+She nodded almost imperceptibly.
+Wales put his free hand on the buttons on his cuff and closed his eyes.
+The tech in his temple twinkled.
+"Sixty seconds," he said.
+
+"Rothera's making his move,"
+Doctor Johel said,
+her voice low and urgent.
+"Independence and a deal with Brazil.
+Paddington's going to back him.
+The core says there's a ninety-two percent chance Halley will declare for Australia.
+The *Glenunga* and half a dozen other ships are already on their way.
+Johnson, I'm sorry—I wish there was more time,
+but it's now or never."
+
+Wales' broad shoulders slumped.
+"You should have let me sleep," he said,
+the weight of years in his voice.
+
+As Doctor Johel turned to open the door,
+Wales turned to face the other two women.
+"I'm sorry.
+I'm so, so sorry,
+but…"
+He took a deep breath.
+"The world needs you, Iffy.
+This is our last chance to fix everything,
+and we need what's in your head to do it."
+
+"What—?" Iffy and Aunt Naggie started
+as two Marines stepped into the room.
+
+"Miz Kwan?"
+the first one said.
+"Under Section Twenty Four Point Three
+of the Permanent Emergency Act,
+and as authorized by the Governor of Rothera and the city core,
+you are hereby ordered to report for immediate induction
+into the armed forces of the Commonwealth of Greater Australia."
 
 </section>
