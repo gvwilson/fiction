@@ -1,6 +1,8 @@
 ---
 title: "Madica"
 chapters: true
+fontfamily: Garamond
+fontsize: 10pt
 ---
 
 <section markdown="1">
