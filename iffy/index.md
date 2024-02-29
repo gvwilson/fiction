@@ -6290,17 +6290,120 @@ but…"
 He took a deep breath.
 "The world needs you, Iffy.
 This is our last chance to fix everything,
-and we need what's in your head to do it."
+and we can't do it without you."
 
 "What—?" Iffy and Aunt Naggie started
 as two Marines stepped into the room.
 
 "Miz Kwan?"
-the first one said.
-"Under Section Twenty Four Point Three
-of the Permanent Emergency Act,
-and as authorized by the Governor of Rothera and the city core,
-you are hereby ordered to report for immediate induction
-into the armed forces of the Commonwealth of Greater Australia."
+the first one said,
+back straight and voice formal.
+"Under Section Twenty Four of the Permanent Emergency Act,
+and as authorized by the Governor of Rothera and validated by the city core,
+you are hereby ordered to report for induction
+into the armed forces of the Commonwealth of Greater Australia
+for an indefinite period of service."
+De cleared der throat and gestured toward the door behind der.
+"If you'll come this way?"
+
+<span id="2024-02-29-a"></span>
+
+"What!? No! Absolutely not!" Aunt Naggie exploded,
+pulling Iffy toward her protectively.
+"I know th' law!
+She ain't sixteen!
+You can't just take her cuz you want to!"
+
+"I'm afraid we can,"
+Doctor Johel said calmly.
+"And yes,
+it is legal,
+so please don't make it difficult."
+
+Iffy stared at her,
+then at Wales,
+who wouldn't meet her eyes,
+and then turned to her foster mother.
+"Auntie?" she asked,
+her voice that of the bewildered little girl she had once been.
+
+Aunt Naggie hugged her.
+"I'm not gonna let 'em take you," she whispered fiercely in Iffy's ear.
+"I'm not, I'm not, I'm not."
+
+"I think you gotta,"
+Iffy whispered back,
+squeezing as hard as she could and then letting go.
+
+After a moment Aunt Naggie sagged and nodded,
+her cheek scritching against Iffy's shaved head.
+Straightening up and wiping her cheek with her sleeve,
+she looked Doctor Johel in the eye and said,
+"You take care of her.
+I'll know if you don't."
+
+"I promise—" Wales started.
+
+"An' you shut yer hole,"
+Aunt Naggie said coldly.
+"You just shut yer affin', backstabbin' hole."
+
+The hospital smelled nothing like the Marines' headquarters.
+The soapy undertone was the same,
+but disinfectant and the lingering traces of worry, desperation, and dashed hopes
+covered it up.
+It was warmer,
+though,
+and the halls and offices were painted in soothing pastels
+instead of bedrock gray.
+
+Iffy barely noticed.
+All she could think about as Doctor Johel and the two Marines
+led her past people who carefully didn't look her in the eye
+how Jeep had changed and how Honesty had seemed like someone else entirely.
+Induction was supposed to be temporary,
+but—
+
+"Are you all right?" one of the Marines asked
+when they finally reached yet another waiting room.
+
+Iffy swallowed back nausea.
+"'m fine," she said brusquely.
+
+Doctor Johel gestured at the cot that stood against one wall of the windowless room.
+"Get some rest,"
+she said.
+"Someone will bring you a snack while we get everything set up."
+Once again Iffy heard the lock on a door click
+with her on the wrong side of it.
+
+She sat in the chair next to the cot instead of lying down
+and closed her eyes.
+The lock—it was mechanical,
+or at least she hoped it was.
+Only idiots relied on electronic locks,
+and Doctor Johel and the Marines weren't idiots.
+
+"Oh come on," she muttered a moment later.
+Why wouldn't it happen when she wanted it to?
+Why couldn't she just—
+
+*The lock was a Martree MTR470
+manufactured twenty-eight years ago in a restitution labor camp
+near Glenavy in South New Zealand.
+It was a single-cylinder deadbolt with a double-edged cylindrical key
+(dimensions danced neon along the wireframe in her head).
+The inset in the cinderblock wall was a basic steel tube—there was
+nothing for her there—but the blocking plate was held in place
+by three simple back-screws.*
+
+She got up,
+stretched,
+and ambled over to the door.
+Her heart sank.
+The three back-screws were held in place by tiny welds.
+Whatever tech or bot had installed the lock had thought one step ahead.
+She could get it off,
+but not without tools and enough banging that someone outside would be sure to overhear.
 
 </section>
