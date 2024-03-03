@@ -4526,7 +4526,8 @@ She shook her head and peeked around the carpet's edge.
 
 There, just a couple of meters away,
 stood Aunt Naggie
-and a trim Asian man wearing a time-worn jacket
+and a trim Asian man with a neat little beard
+wearing a time-worn jacket
 in the brown and green of the old Ecological Corps
 with the shoulder patches torn off.
 Iffy couldn't hear what they were saying over the bustle of the crowd,
@@ -4629,7 +4630,7 @@ The plastic flickered.
 Suddenly a different man was standing there,
 one with a heavier jaw and wider cheekbones.
 
-The ecologist slipped off his jacket and turned it inside out
+The Ecologist slipped off his jacket and turned it inside out
 to reveal a purple paisley pattern
 that had briefly and unfortunately been popular ten years before.
 He put it back on and smiled at Aunt Naggie.
@@ -6405,5 +6406,98 @@ The three back-screws were held in place by tiny welds.
 Whatever tech or bot had installed the lock had thought one step ahead.
 She could get it off,
 but not without tools and enough banging that someone outside would be sure to overhear.
+
+<span id="2024-03-03-a"></span>
+
+*there is a way*
+
+Her breath caught in her chest.
+She hadn't heard a voice.
+The thought was just *there*
+like a long-lost memory brought to mind by a familiar smell
+or an ice cube dropped into a glass of water.
+She sniffled and then wiped her nose,
+half-expecting to see a streak of blood on her sleeve,
+but there was nothing.
+
+*there is a way / exchange of value / binding agreement*
+
+The thoughts rising side by side in her head were no more human than jellyfish.
+They were a choir,
+a jigsaw puzzle,
+and a vast subterranean lake untouched by light for millenia,
+all at once and all together.
+
+*limited time interval / urgency of action / exchange of value / binding agreement / confirm*
+
+For a moment she saw Honesty's smile,
+as bright as the Antarctic sun and just as far away,
+and nearly panicked.
+"Help me," she whispered.
+
+*binding agreement / confirm*
+
+She didn't want someone else's accent or someone else's feelings.
+She didn't someone else's memories,
+even if only for a while.
+She was Fifth Ang Kwan.
+She didn't know what that meant yet,
+but she wanted to find out.
+
+"Yes,"
+she said into the emptiness.
+"Yes, I agree.
+Now get me th' hell outta here."
+
+The alien thoughts vanished as quickly as they had appeared,
+leaving behind a sensation like knowing that you'd been told someone's name several times
+but not being able to remember it.
+Iffy looked at the lock,
+willing it to open itself,
+but nothing happened.
+The lights didn't flicker or go out like they would at a dramatic moment in a sim,
+and the corridor outside was as quiet as it had been a moment before.
+
+"Come *on*!"
+She kicked the door,
+then grabbed the handle and shook it.
+Nothing.
+
+She flopped down onto the cot and buried her face in the thin pillow.
+She wanted to scream or cry or punch something.
+Was this what her olders had felt like
+when they'd realized there was nothing they could do to save themselves?
+Was this how Aunt Naggie felt,
+knowing that Iffy was going to leave one day?
+Why did it all have to be so hard?
+
+*Click.*
+She swung her legs around and sat up as the door opened.
+
+"Good morning, Miz, um, Kwan?"
+The man Aunt Naggie had spoken to in the Dance Hall market
+was wearing a simple gray jacket and trousers
+instead of the brown and green jacket Iffy had seen him in the day before.
+He looked up from the app in his hands,
+his face a picture of professional disinterest.
+"You are Miz Kwan, from the *Guinevere*?"
+His fingers made the handcode signs for "surveillance",
+"help",
+and "breakfast"—no,
+that couldn't be right,
+but it didn't matter.
+
+Iffy cleared her throat.
+"Yes.
+Um,
+yes,
+that's me.
+What's going on?
+What's going to happen to me?"
+
+"Just some tests for now, please,"
+the man said,
+sounding distracted.
+"If you'll follow me?"
 
 </section>
