@@ -4625,7 +4625,7 @@ urgent and fearful and calm all at once.
 "Stubborn woman," the stranger scolded,
 but he smiled as he said it.
 He pulled an orange knit cap out of one pocket and pulled it down low over his ears,
-then fished a flimsy oval of plastic out of another pocket and pressed it onto his face.
+then fished a flimsy oval mask out of another pocket and pressed it onto his face.
 The plastic flickered.
 Suddenly a different man was standing there,
 one with a heavier jaw and wider cheekbones.
@@ -6475,11 +6475,12 @@ Why did it all have to be so hard?
 She swung her legs around and sat up as the door opened.
 
 "Good morning, Miz, um, Kwan?"
-The man Aunt Naggie had spoken to in the Dance Hall market
-was wearing a simple gray jacket and trousers
-instead of the brown and green jacket Iffy had seen him in the day before.
-He looked up from the app in his hands,
-his face a picture of professional disinterest.
+The Ecologist that Aunt Naggie had spoken to in the Dance Hall market
+was wearing a simple gray tunic and trousers
+instead of brown and green,
+but his trim little beard was unchanged.
+He looked up from the app in his hands
+with professional disinterest on his face.
 "You are Miz Kwan, from the *Guinevere*?"
 His fingers made the handcode signs for "surveillance",
 "help",
@@ -6495,9 +6496,85 @@ that's me.
 What's going on?
 What's going to happen to me?"
 
+<span id="2024-03-04-a"></span>
+
 "Just some tests for now, please,"
-the man said,
-sounding distracted.
+the Ecologist said,
+sounding bureaucratically bored.
 "If you'll follow me?"
+He stepped aside for her to pass
+and gestured down the corridor.
+
+Their footsteps echoed on the tiled floor
+as they walked past closed doors,
+unoccupied charging alcoves for cleaning bots,
+and storage lockers labeled with cryptic acronyms.
+Iffy wanted to ask where everyone was,
+but the first time she opened her mouth
+the Ecologist flashed the handsign for "quiet".
+She bit back her question,
+kept her head down,
+and counted steps in her head.
+
+She had just reached one hundred and thirty two
+when the Ecologist stopped
+and pressed his thumb against a silver plate set waist-high on one of the doors.
+After a brief hesitation
+the door whooshed sideways to reveal an elevator
+barely tall enough for Iffy
+and a head too short for him.
+
+As the door whooshed closed behind them
+he stripped off his tunic
+and crouched down to open a box on the floor.
+"Here, put this one."
+He handed her a transparent face mask and a patched orange windbreaker,
+then fit a similar mask over his own face.
+His features melted and reformed
+to widen his nose and chin
+and add a bit of sag to his cheeks.
+
+Iffy pressed her mask to her face.
+It was cool against her skin for an instant
+like a facecloth that had been sitting in cold water.
+"How do I look?" she asked.
+
+He flashed her a smile.
+"Just like Nagatha when I first met her.
+Here, you'll need this too."
+He waited for her to shrug into the windbreaker
+before handing her a bracelet
+that snapped snug around her wrist.
+"If anyone asks,
+you came in for induction two days ago but it didn't take.
+I'm your uncle
+and I'm here to take you home."
+He waited for her to nod and then pressed the single button beside the door.
+
+The elevator lurched upward.
+One second, two, three—it stopped just as abruptly.
+"Go," he muttered.
+She slipped out the door and into a dimly-lit room full of sentry bots.
+
+"It's aright."
+He put his hand on her shoulder.
+"They're all on standby.
+Come on."
+
+A moment later they were in a corridor
+as busy as the one below had been quiet.
+People in navy blue Marine uniforms strode past medical staff in white tunics.
+Voices were hushed but urgent:
+how many injured still needed to be screened?
+How long until the printer finished making new ribs for the patient in room twelve?
+And who in the saints' names had told the governor they could double their induction intake?
+Did he have any idea how risky that would be?
+Or did he just not care?
+
+"Not so loud."
+The woman who had made the comment glanced at Iffy and the Ecologist
+as her companion whispered to her.
+The Ecologist put his arm around Iffy's shoulder and hurried her along,
+just another nobody in the wrong place at the wrong time.
 
 </section>
