@@ -6475,8 +6475,7 @@ Why did it all have to be so hard?
 She swung her legs around and sat up as the door opened.
 
 "Good morning, Miz, um, Kwan?"
-The Ecologist that Aunt Naggie had spoken to in the Dance Hall market
-was wearing a simple gray tunic and trousers
+Ignacio the Ecologist was wearing a simple gray tunic and trousers
 instead of brown and green,
 but his trim little beard was unchanged.
 He looked up from the app in his hands
@@ -6499,7 +6498,7 @@ What's going to happen to me?"
 <span id="2024-03-04-a"></span>
 
 "Just some tests for now, please,"
-the Ecologist said,
+Ignacio said,
 sounding bureaucratically bored.
 "If you'll follow me?"
 He stepped aside for her to pass
@@ -6511,13 +6510,13 @@ unoccupied charging alcoves for cleaning bots,
 and storage lockers labeled with cryptic acronyms.
 Iffy wanted to ask where everyone was,
 but the first time she opened her mouth
-the Ecologist flashed the handsign for "quiet".
+Ignacio flashed the handsign for "quiet".
 She bit back her question,
 kept her head down,
 and counted steps in her head.
 
 She had just reached one hundred and thirty two
-when the Ecologist stopped
+when Ignacio stopped
 and pressed his thumb against a silver plate set waist-high on one of the doors.
 After a brief hesitation
 the door whooshed sideways to reveal an elevator
@@ -6571,10 +6570,111 @@ And who in the saints' names had told the governor they could double their induc
 Did he have any idea how risky that would be?
 Or did he just not care?
 
-"Not so loud."
-The woman who had made the comment glanced at Iffy and the Ecologist
+"Not so loud!"
+The woman in white who had made the comment glanced at Iffy and Ignacio
 as her companion whispered to her.
 The Ecologist put his arm around Iffy's shoulder and hurried her along,
-just another nobody in the wrong place at the wrong time.
+just two more nobodies in the wrong place at the wrong time.
+
+<span id="2024-03-06-a"></span>
+
+There were Marines at the door,
+Marines and sentry bots and a squat three-wheeled medical scanner
+that rotated its paddle-liked arms as people walked in and out.
+Panic rose in Iffy's throat as they joined the short queue
+of staff and visitors and patients.
+Their masks wouldn't stand close inspection.
+Whatever Ignacio was going to do—
+
+"Any time now," he muttered.
+
+"What?"
+
+"Whatever you're gonna do, do it now."
+
+"I thought *you* were doin' somethin'!"
+
+"Ssh!"
+His arm tightened around her shoulders.
+"Aright, when I say, you go limp-like, aright?
+I'll pick you up an'—whoa!"
+
+They froze as a sentry bot loped forward and halted right in front of them.
+Its streamlined gray head pivoted from side to side as it scanned them.
+Iffy held her breath as everyone else inched away.
+
+"Is there a problem?"
+One of the Marines stepped away from the door.
+
+*be ready*
+The thought appeared fully-formed in Iffy's head.
+She elbowed Ignacio just as all hell broke loose.
+
+The scanner bot raised its paddle arms and spun around,
+knocking one of the Marines off der feet.
+Another sentry bot lunged at the other Marine,
+tangling itself in the legs of her exoskeleton.
+As she crashed to the floor,
+the lights went out.
+
+"No no no no," someone moaned as red emergency lights came on
+and people surged toward the door.
+
+"Halt!
+Do not attempt to exit without authorization!"
+The Marines were already back on their feet,
+the motors their joints revving hard.
+One spread her arms wide to block the panicked stampede,
+only to be sent staggering as the scanner bot whacked her from behind.
+
+People pressed in on Iffy from all sides.
+Someone or something hit her hard between her shoulder blades.
+She felt Ignacio stumble—no,
+he hadn't stumbled,
+he'd broken stride to trip whoever was behind her,
+and then they were out the door and on a cobbled side street with a dozen other people,
+heads down and walking quickly as drones circled overhead
+and told them to stay calm,
+this was not an attack,
+it was just a temporary malfunction
+and they should all resume normal activity immediately.
+
+Two minutes and five corners later
+they stopped next to a nondescript utility truck.
+Blocky fuel cells lay three deep on its flat bed.
+Ignacio unlocked the cab door and reached in
+to pull a section of the bench seat forward.
+"In through there," he told Iffy.
+"The cells'll hide you from scans."
+
+She wriggled through the hole onto the cold metal bed of the truck.
+The gap between the stacked fuel cells was no bigger than her bed on the *Guinevere*,
+but too low for her to sit up.
+As Ignacio put the seat back in place a small blue light came on overhead.
+She exhaled gratefully.
+
+The truck's motor whined to life.
+It rolled forward smoothly,
+bumping over the cobblestones.
+
+"You can take your mask off now,"
+Ignacio's voice said overhead.
+
+"Thanks."
+Iffy peeled it away from her face
+and wiped her eyes.
+"How far are we goin'?
+And is Aunt Naggie aright?"
+
+"She's fine.
+She'll be pleased t' know you are too.
+Best settle in, though—we're gonna a bit."
+She slid sideways as he rounded a tight corner.
+The low hum of tires on asphalt replaced the duh-duh-duh-duh of the cobblestones.
+"You want some music?"
+
+"Sure."
+She closed her eyes as a woman's voice began to croon something melancholy
+in a language she didn't recognize.
 
 </section>
