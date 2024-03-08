@@ -2063,7 +2063,7 @@ just like she enjoyed the times
 when Mister Mishra turned something she'd made over and over in his hands
 and pronounced it well done,
 or when Uncle Jack was sound asleep
-and Aunt Naggie told her stories about growing up in South Africa
+and Aunt Naggie told her stories about growing up in KwaZulu
 before the long drought.
 
 Wales seemed to enjoy the work as well,
@@ -4852,7 +4852,7 @@ Iffy let out a shaky breath and worked her tongue in her mouth.
 
 Aunt Naggie laughed shakily.
 "Yeah, but there's medicine in it.
-Ignacio—the fella you met today—he been gettin' it for me.
+Iñacio—the fella you met today—he been gettin' it for me.
 For you, I mean.
 Sendin' it to me along by Mrs. Sandhu."
 
@@ -6475,7 +6475,7 @@ Why did it all have to be so hard?
 She swung her legs around and sat up as the door opened.
 
 "Good morning, Miz, um, Kwan?"
-Ignacio the Ecologist was wearing a simple gray tunic and trousers
+Iñacio the Ecologist was wearing a simple gray tunic and trousers
 instead of brown and green,
 but his trim little beard was unchanged.
 He looked up from the app in his hands
@@ -6498,7 +6498,7 @@ What's going to happen to me?"
 <span id="2024-03-04-a"></span>
 
 "Just some tests for now, please,"
-Ignacio said,
+Iñacio said,
 sounding bureaucratically bored.
 "If you'll follow me?"
 He stepped aside for her to pass
@@ -6510,13 +6510,13 @@ unoccupied charging alcoves for cleaning bots,
 and storage lockers labeled with cryptic acronyms.
 Iffy wanted to ask where everyone was,
 but the first time she opened her mouth
-Ignacio flashed the handsign for "quiet".
+Iñacio flashed the handsign for "quiet".
 She bit back her question,
 kept her head down,
 and counted steps in her head.
 
 She had just reached one hundred and thirty two
-when Ignacio stopped
+when Iñacio stopped
 and pressed his thumb against a silver plate set waist-high on one of the doors.
 After a brief hesitation
 the door whooshed sideways to reveal an elevator
@@ -6571,7 +6571,7 @@ Did he have any idea how risky that would be?
 Or did he just not care?
 
 "Not so loud!"
-The woman in white who had made the comment glanced at Iffy and Ignacio
+The woman in white who had made the comment glanced at Iffy and Iñacio
 as her companion whispered to her.
 The Ecologist put his arm around Iffy's shoulder and hurried her along,
 just two more nobodies in the wrong place at the wrong time.
@@ -6584,7 +6584,7 @@ that rotated its paddle-liked arms as people walked in and out.
 Panic rose in Iffy's throat as they joined the short queue
 of staff and visitors and patients.
 Their masks wouldn't stand close inspection.
-Whatever Ignacio was going to do—
+Whatever Iñacio was going to do—
 
 "Any time now," he muttered.
 
@@ -6608,7 +6608,7 @@ One of the Marines stepped away from the door.
 
 *be ready*
 The thought appeared fully-formed in Iffy's head.
-She elbowed Ignacio just as all hell broke loose.
+She elbowed Iñacio just as all hell broke loose.
 
 The scanner bot raised its paddle arms and spun around,
 knocking one of the Marines off der feet.
@@ -6629,7 +6629,7 @@ only to be sent staggering as the scanner bot whacked her from behind.
 
 People pressed in on Iffy from all sides.
 Someone or something hit her hard between her shoulder blades.
-She felt Ignacio stumble—no,
+She felt Iñacio stumble—no,
 he hadn't stumbled,
 he'd broken stride to trip whoever was behind her,
 and then they were out the door and on a cobbled side street with a dozen other people,
@@ -6642,7 +6642,7 @@ and they should all resume normal activity immediately.
 Two minutes and five corners later
 they stopped next to a nondescript utility truck.
 Blocky fuel cells lay three deep on its flat bed.
-Ignacio unlocked the cab door and reached in
+Iñacio unlocked the cab door and reached in
 to pull a section of the bench seat forward.
 "In through there," he told Iffy.
 "The cells'll hide you from scans."
@@ -6650,7 +6650,7 @@ to pull a section of the bench seat forward.
 She wriggled through the hole onto the cold metal bed of the truck.
 The gap between the stacked fuel cells was no bigger than her bed on the *Guinevere*,
 but too low for her to sit up.
-As Ignacio put the seat back in place a small blue light came on overhead.
+As Iñacio put the seat back in place a small blue light came on overhead.
 She exhaled gratefully.
 
 The truck's motor whined to life.
@@ -6658,7 +6658,7 @@ It rolled forward smoothly,
 bumping over the cobblestones.
 
 "You can take your mask off now,"
-Ignacio's voice said overhead.
+Iñacio's voice said overhead.
 
 "Thanks."
 Iffy peeled it away from her face
@@ -6676,5 +6676,100 @@ The low hum of tires on asphalt replaced the duh-duh-duh-duh of the cobblestones
 "Sure."
 She closed her eyes as a woman's voice began to croon something melancholy
 in a language she didn't recognize.
+
+</section>
+
+<section markdown="1">
+
+<span id="2024-03-08-a"></span>
+
+## Chapter 8
+
+If the Antarctic Peninsula was an arm reaching toward Patagonia,
+Rothera was the bump on its elbow.
+The two-lane highway beneath them climbed one ridge after another,
+each drop a little shallower than the one before.
+Arctic willow, cotton grass, and purple lupines grew wherever there was soil.
+Yellow patches of tweaked lichen grew wherever there wasn't,
+patiently working its way into every microscopic crack in the ancient bedrock.
+The truck's tires hummed over grated bridges
+and crunched on the occasional spill of gravel
+that the road cleaning bots hadn't swept away yet.
+Every once in a while Iffy heard the cry of a gull,
+and once the louder squawk of a cormorant.
+It wasn't all that different from being at sea,
+excep the smell was wrong
+and Aunt Naggie wasn't going to knock on her door
+and tell her there was tea.
+
+Iffy's back was aching by the time Iñacio pulled over.
+She wriggled into the cab and blinked against the orange glare
+coming through the polarized windows.
+"Can't let anyone see in while you're up front,"
+the Ecologist said,
+passing her a couple of cold samosas,
+a bottle of water,
+and a second, empty bottle.
+"I'll, um, I'll just step outside while you…"
+He gestured at the second bottle
+and then mercifully turned away
+so as not to see her blush.
+
+Afterward,
+they sat in the cab and ate their meager meals.
+"This have any o' th' medicine you been puttin' in th' curry?"
+Iffy asked around a mouthful of pastry, potatoes, and mushrooms.
+
+Iñacio nodded.
+
+"An'—did you really know my olders?"
+
+He nodded again.
+"Only met 'em a coupla times,
+'long by Port Progress.
+Was just First an' Second then,
+crewin' on the *Rushin Doll* before Cap'n Wang passed
+an' they took her for their own.
+They were good people
+an' tryin' to do good in th' world."
+
+Something glinted on the road a kilometer away.
+They waited in silence as the robotruck neared,
+rolled past,
+and disappeared around the next switchback.
+"Were they Ecologists like you?" Iffy asked.
+
+He smiled.
+"They weren't like anybody, really.
+Your First came outta some camp in KwaZulu.
+Tough as old rope,
+but never mean.
+I dunno how she wound up this side o' the water.
+I just know she had—"
+He tapped a finger against his forehead.
+"Gave her headaches somethin' fierce.
+Wouldn't ever see a doctor about it, though."
+
+He took another samosa from the box on the seat between them
+and offered it to Iffy.
+When she shook her head he took a bite himself.
+"Din't have any reason to think about it 'til word came down
+there was gonna be a package for her.
+She din't seem particu'ly happy t' see me,
+but your Second was startin' t' get headaches too,
+an' whatever that stuff is made 'em go away."
+
+Iffy looked through the tinted glass at the sparse landscape around them.
+She'd been inland before a couple of times,
+but never so far that she couldn't smell the ocean.
+"When you say word came down—" she started,
+then stopped.
+
+Iñacio swallowed the last of his samosa
+and wiped his hands on the cardboard box.
+"Sorry,
+but it's not my place t' say.
+You can stay up front if you want, though—if I keep th' windows dark
+we oughta be safe enough."
 
 </section>
