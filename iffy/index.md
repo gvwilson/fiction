@@ -6734,9 +6734,10 @@ They were good people
 an' tryin' to do good in th' world."
 
 Something glinted on the road a kilometer away.
-They waited in silence as the robotruck neared,
+They waited in silence as the robot hauler neared,
 rolled past,
-and disappeared around the next switchback.
+and disappeared around the next bend
+with its three trailers rattling and bumping in a line behind it.
 "Were they Ecologists like you?" Iffy asked.
 
 He smiled.
@@ -6765,11 +6766,95 @@ but never so far that she couldn't smell the ocean.
 "When you say word came down—" she started,
 then stopped.
 
+"I'm sorry,
+but it's not my place t' say."
 Iñacio swallowed the last of his samosa
 and wiped his hands on the cardboard box.
-"Sorry,
-but it's not my place t' say.
-You can stay up front if you want, though—if I keep th' windows dark
-we oughta be safe enough."
+"We should get goin'.
+You can stay up front from here—if I keep th' windows dark
+it oughta be safe enough."
+
+<span id="2024-03-09-a"></span>
+
+The highway rose more steeply as they got further from the ocean.
+Each time they crested a ridge,
+the next one was higher.
+The dark mass of the Vinson Massif lay against the horizon behind them.
+Each time it came into sight Iffy thought of
+the ship that had run itself aground to make a breakwater for Halley—the one
+Johnson Wales had called the *Landrieu*.
+Thinking of Wales and the things he had said made her wonder if Aunt Naggie was aright
+and if Honesty would ever be derself again
+and what the voice in her head had meant by "binding agreement".
+
+She jerked upright when Iñacio elbowed her.
+"Cargo drone," he said,
+pointing through the glass at a streamlined black dirigible high above them.
+"Prolly outta Nova Zembla from the look of it.
+Be a thing an' a half to see th' world from up there, wouldn't it?"
+
+And then he shouted and spun the steering yoke hard
+as the hauler that had passed them earlier
+charged out of its hiding spot behind a boulder by the side of the highway
+and crunched into the back of the truck.
+For a heart-stopping moment Iffy thought they were going over,
+but somehow Iñacio straightened them.
+
+"Look out!" Iffy yelled.
+One, two, three—the trailers that had been hitched behind the hauler
+roared up out of a roadside gulley ahead of them,
+gravel spraying from beneath their tires.
+
+Iñacio reached under the dashboard and pulled something Iffy couldn't see.
+The tailgate of the truck dropped.
+"Hang on!" he ordered,
+throwing the truck from side to side.
+One fuel cell and then another tumbled off the back of the truck.
+
+The hauler swerved to avoid the first
+only to have the second hit it head-on.
+A ball of yellow-white flame sent metal flying
+and threw the hauler sideways.
+
+Iffy yelped as Iñacio pumped the brakes and spun the steering yoke again.
+*Bang!*
+One of the hauler's trailers hit his side of the truck.
+They spun around,
+only to be hit by a second trailer.
+
+And then something punched *though* the third trailer,
+breaking it in two
+and leaving a bright streak of after-image on the polarized truck window.
+Two more impacts,
+two more streaks,
+and the ambush was over as quickly as it had started.
+
+"What th' hell?" "Was that you?"
+Iffy and Iñacio said on top of each other.
+
+"Me?"
+Iffy protested incredulously.
+"What's this got to do with me!?"
+
+Iñacio pointed at the cargo drone banking overhead.
+"That was a railgun!
+That thing's got a *railgun*
+an' it just happens to be here when we need it?"
+
+Iffy's mouth worked.
+"I dunno anythin' about it!
+I swear,
+I don't!"
+
+Iñacio looked at her for a long moment before saying,
+"Aright.
+I gotta close up the back.
+If you—if you *can* talk to that thing,
+tell it I said thank you."
+He shut the cab door behind himself harder than he needed to.
+Iffy stared at the ruined trailers without really seeing them
+until he got back in.
+When they drove on,
+they did so in silence.
 
 </section>
