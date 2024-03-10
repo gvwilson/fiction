@@ -6737,7 +6737,7 @@ Something glinted on the road a kilometer away.
 They waited in silence as the robot hauler neared,
 rolled past,
 and disappeared around the next bend
-with its three trailers rattling and bumping in a line behind it.
+with three smaller haulers rattling and bumping in a line behind it.
 "Were they Ecologists like you?" Iffy asked.
 
 He smiled.
@@ -6789,7 +6789,8 @@ and what the voice in her head had meant by "binding agreement".
 
 She jerked upright when Iñacio elbowed her.
 "Cargo drone," he said,
-pointing through the glass at a streamlined black dirigible high above them.
+pointing through the glass at a streamlined black airship
+as it emerged from the clouds stacked like plates high above them.
 "Prolly outta Nova Zembla from the look of it.
 Be a thing an' a half to see th' world from up there, wouldn't it?"
 
@@ -6797,33 +6798,33 @@ And then he shouted and spun the steering yoke hard
 as the hauler that had passed them earlier
 charged out of its hiding spot behind a boulder by the side of the highway
 and crunched into the back of the truck.
-For a heart-stopping moment Iffy thought they were going over,
-but somehow Iñacio straightened them.
 
+For a heart-stopping moment Iffy thought they were going over,
+but somehow Iñacio and the truck's gyros kept them upright.
 "Look out!" Iffy yelled.
-One, two, three—the trailers that had been hitched behind the hauler
+One, two, three—the smaller haulers that had been following the big one
 roared up out of a roadside gulley ahead of them,
-gravel spraying from beneath their tires.
+spraying gravel with their tires.
 
 Iñacio reached under the dashboard and pulled something Iffy couldn't see.
 The tailgate of the truck dropped.
 "Hang on!" he ordered,
 throwing the truck from side to side.
-One fuel cell and then another tumbled off the back of the truck.
+A pair of fuel cells tumbled off the back of the truck.
 
 The hauler swerved to avoid the first
 only to have the second hit it head-on.
-A ball of yellow-white flame sent metal flying
-and threw the hauler sideways.
+The pressurized hydrogen inside it exploded in a ball of yellow-white flame,
+throwing the hauler sideways.
 
 Iffy yelped as Iñacio pumped the brakes and spun the steering yoke again.
 *Bang!*
-One of the hauler's trailers hit his side of the truck.
+One of the small haulers hit his side of the truck.
 They spun around,
 only to be hit by a second trailer.
 
 And then something punched *though* the third trailer,
-breaking it in two
+scattering scraps of white-hot metal in all directions
 and leaving a bright streak of after-image on the polarized truck window.
 Two more impacts,
 two more streaks,
@@ -6834,27 +6835,200 @@ Iffy and Iñacio said on top of each other.
 
 "Me?"
 Iffy protested incredulously.
-"What's this got to do with me!?"
+"I didn' do this!"
 
-Iñacio pointed at the cargo drone banking overhead.
-"That was a railgun!
-That thing's got a *railgun*
+"That was an affin' railgun!" Iñacio shouted.
+He pointed at the cargo drone banking overhead.
+"That thing's got a *railgun*
 an' it just happens to be here when we need it?"
 
 Iffy's mouth worked.
 "I dunno anythin' about it!
-I swear,
-I don't!"
+I swear!"
 
-Iñacio looked at her for a long moment before saying,
-"Aright.
-I gotta close up the back.
-If you—if you *can* talk to that thing,
-tell it I said thank you."
+<span id="2024-03-10-a"></span>
+
+The truck's radio crackled.
+"Precious cargo intact interrogative?"
+A shiver ran up Iffy's spine.
+The voice sounded exactly like the singer they had been listening.
+
+"Preciouse cargo intact interrogate respond imperative,"
+the voice said,
+its inhuman phrasing making its sultry tone far more frightening
+than the harsh buzzing of a villainous bot in a sim.
+
+Iñacio swallowed hard.
+"We're aright.
+Who th' hell are you?"
+
+"Confirm cargo Kwan comma Ang du-du-du-duplicate undamanged."
+
+Iffy and Iñacio stared at each other.
+"Undamaged," Iñacio said curtly.
+"Are you in the airship?
+*Are* you the airship?"
+
+Feedback whined through the radio for a moment,
+or maybe it was the voice speaking too quickly for anything merely human to comprehend.
+"Additional hostile entities minus twenty-two degrees your location
+distance one hundred fifteen kilometers
+velocity fifty-one point three meters per second
+estimate arrival thirty-seven minutes.
+Imperative confirm immediate departure
+confirm alternative route."
+
+"Confirmed,"
+Iñacio said after a moment's hesitation.
+"And thank you."
+
+He closed his eyes and bowed his head.
+It took Iffy a moment to realize he was praying.
+She craned her neck.
+The airship was moving away,
+back on its course toward Rothera or Patagonia or somewhere further
+whose name she would never know.
+
+"Aright,"
+Iñacio said,
+straightening up.
+"There's a box under your seat—see what we got that'll fit you.
+I gotta close up the back."
 He shut the cab door behind himself harder than he needed to.
-Iffy stared at the ruined trailers without really seeing them
-until he got back in.
-When they drove on,
-they did so in silence.
+
+The box was just that,
+a waxed cardboard box that might once have held vegetables or packs of tofu jerky
+but which was now home to a mix of puff jackets in zippered bags,
+a stained pair of snow pants,
+winterized boots in three different sizes,
+gloves,
+mittens,
+a snorkel—she studied that for a moment—and goggles
+with three different polarization settings.
+
+By the time Iñacio climbed back into the cab she was bundled up
+and already overheating.
+"Back there,"
+she said.
+"I din't think fuel cells would explode."
+
+"Ours do,"
+Iñacio said shortly.
+He put the truck in gear.
+
+They drove on without music,
+faster than before.
+Iffy watched the time the voice had given them tick away
+on the watch sewn into the cuff of her jacket.
+With sixteen minutes remaining
+Iñacio slowed and turned onto something too faint to be called a track.
+Iffy put one hand on the roof of the cab to brace herself
+as the truck bounced over sharp-edged rocks the size of her head.
+
+Nine minutes remaining.
+The truck dipped nose-down into a narrow gulley.
+The stream at the bottom had once flowed beneath the ice.
+Now it wound its way between clumps of tweaked Arctic willow
+spaced too evenly apart to be natural.
+Water splashed up onto the hood of the truck
+as they followed the stream for two and a half precious minutes.
+
+"Aright,"
+Iñacio said.
+"Get your door open.
+I can't slow down much,
+but when I do,
+you jump.
+Try t' stay on your feet if you can—you get anythin' more than your boots wet,
+it's gonna be a very cold night.
+Ready?"
+
+"No!" and "Are you just leavin' me here?" flashed through Iffy's mind,
+but, "Ready," was what she said.
+
+"Aright.
+*Três*, *dué*, *una*—go!"
+
+Iffy opened the door,
+swung down one-handed on the seatbelt,
+and twisted frantically to face forward
+as the stream splashed over her boots.
+She let go of the seatbelt strap and tried to run
+but stumbled and went to one knee.
+Pain bit her leg as stone hit bone.
+She struggled clumsily back to her feet
+as Iñacio ran back toward her.
+"Next time try t' close th' door," he said,
+taking her arm and hurrying her back the way they had come
+as the truck drove itself away.
+
+Four minutes remaining.
+Iñacio stopped next to a stand of willows no different from the others
+except for a twist of faded yellow survey tape around one stem.
+He pressed his hand against a boulder by the stream's edge,
+counted under his breath,
+and then bent his knees to reach under it and heaved.
+
+The boulder lifted to reveal a round shaft
+drilled into the bedrock at a forty-five degree angle
+with rungs as steps.
+"Go," he ordered,
+gripping Iffy's forearm as she twisted around
+and felt backward to find the first rung with her boot.
+
+Down she went, ten rungs, fifteen, twenty.
+Iñacio followed,
+his boots sometimes scraping on a rung just as her hand let go of it.
+"That's far enough," he said.
+The hatch closed above them,
+leaving them in total darkness.
+
+"What—" Iffy started.
+
+"Ssh!"
+
+The only light was the faint glow of her jacket watch.
+Two minutes.
+One minute thirty.
+One minute.
+The seconds seemed too fast and too slow at the same time.
+Ten.
+Five.
+Four.
+Three.
+Two.
+
+The tunnel shuddered for a moment
+as if from a sudden chill.
+Was that the airship's railgun again,
+Iffy wondered,
+or the fuel cells on the back of the truck?
+Whatever it was,
+it didn't come again.
+All she could hear was her breathing
+and the occasional faint rustle
+as Iñacio shifted his weight above her.
+
+It was half an hour before he said,
+"Aright, mind your eyes."
+She blinked as a faint reddish strip came to life over their heads.
+Her back and arms ached from holding the unnatural position,
+and she had to bite down hard to stop herself from whimpering
+each time she put weight on her injured knee,
+but after another fifty rungs they reached the bottom of the shaft.
+
+She limped out of Iñacio's way and leaned against a rounded wall
+as he pressed a panel.
+Soft white lights came on overhead to reveal a domed roof,
+four cots,
+shelves stacked with sealed storage containers,
+and something that she hoped was a toilet stall.
+
+Iñacio pulled off his coat,
+sat on the nearest cot,
+and began to unlace his boots.
+"Make y'self comfortable,"
+he said without looking at her.
+"We're gonna be here for a bit."
 
 </section>
