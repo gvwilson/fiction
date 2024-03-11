@@ -7031,4 +7031,89 @@ and began to unlace his boots.
 he said without looking at her.
 "We're gonna be here for a bit."
 
+<span id="2024-03-11-a"></span>
+
+"A bit" turned out to be three long days.
+They stood watches,
+just as Iffy had on the *Guinevere*,
+so that one of them could always keep an eye on the sensors
+that warned them if anyone was near on the surface.
+That happened twice the first day
+and once again faintly on the second.
+Each time Iñacio held a finger to his lips and dimmed the lights
+until the display went green again,
+then kept them in twilight silence for another hour just in case.
+
+In between watches they played hive and santorini
+or Iñacio did yoga
+while Iffy studied the specs for reclamation machines
+she found on an old app someone had left in the toilet stall.
+It had a few decade-old sims as well,
+but they didn't calm her the way the wireframes and animations did.
+She half-expected to hear the machine voice in her head again,
+or to suddenly see how the machines worked or could be improved,
+and was strangely disappointed that neither happened.
+
+None of it was enough to take her mind off the news from Rothera.
+There had been more attacks and more casualties.
+The radio never gave numbers,
+but the governor was grateful for the cooperation of
+the Federated Republics of Brazil
+in the investigation.
+
+"I wish I knew,"
+Iñacio said when Iffy asked if he thought Aunt Naggie was aright.
+He didn't have answers for her other questions either—how he had known the shelter was there,
+where they were going,
+who he worked for,
+and what was going to happen to her—so she stopped asking.
+
+"Aright,"
+he finally said,
+straightening up and cracking his back after yet another series of yoga poses.
+"Let's tidy up an' get outta here."
+
+Fifteen minutes later they opened the hatch
+and climbed out into air that smelled of cold running water and wildflowers
+rather than their unwashed bodies.
+Iñacio resealed the entrance behind them and patted it fondly.
+"I hope I never see you again."
+Shrugging one strap of a small rucksack over his shoulder,
+he began to pick his way up the slope.
+Iffy followed,
+squinting against the bright summer sun.
+
+She thought they would head toward the highway,
+but instead they angled away from,
+cross-country straight toward the looming bulk of the distant massif.
+Iffy wondered why Iñacio wasn't worried about being spotted by drones,
+but if he wasn't going to volunteer the information,
+she wasn't going to ask.
+Besides,
+she was too busy putting one foot in front of the other
+over and over again.
+She had never walked this far off pavement.
+Gravel shifting underfoot made her feel unsteady,
+while the spongy beds of carbon-capture moss made her calves ache.
+She had a headache too—when she turned down the polarization in her goggles
+to see where she was putting her feet,
+the sunlight dazzled her,
+and one big gulp of water from the bottle in Iñacio's pack every half hour
+wasn't enough to stave off dehydration.
+
+The shelter was hours behind them when Iñacio finally called a halt.
+Dinner was a dense brick of soy, fat, and sugar with no describable flavor.
+Iffy chewed it slowly while Iñacio refilled their water bottle
+from a damp trickle too small to be called a stream
+and set it aside to purify.
+Their tents were barely bigger than Iffy's sleeping bag on the *Guinevere*.
+Iñacio waved her off as he set up their springy lightweight frames
+and then spread thin conducting wires around them
+to disperse their body heat.
+They would still be visible in infrared,
+he told her,
+but with luck they would look like a family of arctic hares in a burrow
+rather than a couple of people
+kilometers away from where people ought to be.
+
 </section>
