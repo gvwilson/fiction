@@ -6689,7 +6689,7 @@ If the Antarctic Peninsula was an arm reaching toward Patagonia,
 Rothera was the bump on its elbow.
 The two-lane highway beneath them climbed one ridge after another,
 each drop a little shallower than the one before.
-Arctic willow, cotton grass, and purple lupines grew wherever there was soil.
+Arctic willow, cotton grass, and purple lupins grew wherever there was soil.
 Yellow patches of tweaked lichen grew wherever there wasn't,
 patiently working its way into every microscopic crack in the ancient bedrock.
 The truck's tires hummed over grated bridges
@@ -7070,7 +7070,7 @@ and what was going to happen to her—so she stopped asking.
 
 "Aright,"
 he finally said,
-straightening up and cracking his back after yet another series of yoga poses.
+straightening up after yet another series of yoga poses.
 "Let's tidy up an' get outta here."
 
 Fifteen minutes later they opened the hatch
@@ -7112,8 +7112,113 @@ and then spread thin conducting wires around them
 to disperse their body heat.
 They would still be visible in infrared,
 he told her,
-but with luck they would look like a family of arctic hares in a burrow
+but with luck they would look like a colony of arctic hares in a burrow
 rather than a couple of people
 kilometers away from where people ought to be.
+
+<span id="2024-03-11-b"></span>
+
+She tossed and turned in her sleeve tent,
+unable to fall asleep.
+The roof of the tent was claustrophobically close above her.
+The wind sounded wrong,
+and the ground was uneven and still.
+She missed the swell of the ocean.
+She missed its smell and the sound of Aunt Naggie in the galley
+and her picture book
+and she was tired of things happening to her.
+
+When Iñacio wriggled out of his tent a few hours later
+Iffy was already sitting cross-legged in front of hers
+throwing pebbles one by one at a boulder.
+He stretched and twisted to crack his back,
+then bent over and pressed his forehead against his knees.
+"Aright," he sighed,
+straightening up.
+"Let's pack up an' get movin'."
+
+"No," Iffy said,
+quiet but firm.
+*Plink.*
+A pebble bounced off the boulder.
+
+Iñacio let his breath out in a long whoosh.
+"I know cross-country ain't your thing,"
+he started.
+
+"It ain't that,"
+Iffy said,
+cutting across him.
+"It's not knowin' where or why.
+It's not knowin' who you're workin' for
+or what's gonna happen when we get to wherever we're goin',
+an' I'm not takin' another step 'til you give me some answers."
+*Plink.*
+Another pebble bounced off the boulder.
+
+The Ecologist spread his hands helplessly.
+"I wish I could tell you, but—"
+
+"Wish harder!" Iffy snapped.
+"I'm done bein' everybody's football.
+An' I'm done bein' treated like a kid.
+You said my First wasn't like anybody else.
+How about you pretend you're talkin' to her right now instead o' me?"
+
+Iñacio's jaw set.
+"Iffy, we don't have time for this.
+You just gotta trust me a little while longer."
+
+"Like I trusted Johnson Wales?
+That didn't work out p'ticularly well for me."
+The pebble she threw missed the boulder.
+
+"Iffy…"
+The Ecologist squatted on his heels beside her.
+"Iffy, I would tell you if I could, I swear,
+but I can't."
+He tapped two fingers against his temple.
+"I *can't*,
+d'you understand?
+If I could tell you,
+I could t-t-tell anyone,
+so—"
+
+His mouth worked for a moment,
+and then swallowed hard as if fighting nausea
+and stood up.
+"So I *really* can't talk about it,"
+he continued,
+his voice less strangled than it had been a moment before.
+"But if you want t' sit here,
+then I'll make us some tea an' we can wait for th' Marines to catch up with us.
+Soldier's oath, Iffy.
+You just lemme know."
+
+*Plink.*
+Pause.
+*Plink.*
+Pause.
+*Plink.*
+"So are you a soldier?" Iffy asked.
+
+Iñacio shook his head.
+"Nope, never.
+It's from before the war.
+It means if you can't walk I'll carry you,
+an' if I can't carry you,
+I'll sit with you 'til the end."
+
+The wind caressed the stubble on Iffy's scalp.
+"Aright," she finally said,
+tossing her last pebble at the boulder
+and clambering awkwardly to her feet.
+Her legs hated her and she hated them back.
+"But there better be tea wherever we're goin'."
+
+"I promise," Iñacio said.
+"I promise, tea an' a whole lot more.
+Now,
+let's get these tents packed up."
 
 </section>
