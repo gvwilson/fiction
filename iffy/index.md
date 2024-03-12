@@ -7106,7 +7106,7 @@ Dinner was a dense brick of soy, fat, and sugar with no describable flavor.
 Iffy chewed it slowly while Iñacio refilled their water bottle
 from a damp trickle too small to be called a stream
 and set it aside to purify.
-Their tents were barely bigger than Iffy's sleeping bag on the *Guinevere*.
+Their chameleon tents were barely bigger than Iffy's sleeping bag on the *Guinevere*.
 Iñacio waved her off as he set up their springy lightweight frames
 and then spread thin conducting wires around them
 to disperse their body heat.
@@ -7217,7 +7217,106 @@ Her legs hated her and she hated them back.
 
 "I promise," Iñacio said.
 "I promise, tea an' a whole lot more.
-Now,
-let's get these tents packed up."
+Now let's get packed up—we got a lot o' walkin' to do today,
+an' it's mostly uphill."
+
+<span id="2024-03-12-a"></span>
+
+The cramped pain left in Iffy's legs by the previous day's walking
+went away after a couple of kilometers,
+only to be replaced by a deeper ache
+that made her want to lie down and never get up again.
+The sky was empty except for a few wispy cirrus clouds
+made of crystals blown high off the ice
+that still covered the center of the continent.
+They didn't see any drones,
+and the only birds were too far away
+and too close to the ground for Iffy to identify.
+
+That didn't mean the land was empty.
+Once a small brown-and-white hare bounded away from and disappeared into a burrow.
+There were shrews too,
+and once a few desiccated brown beads that Iñacio said were lynx scat.
+Transplanting the animals' ancestor from the other pole
+and nurturing an ecosystem that could sustain itself
+had taken a generation.
+Many species hadn't survived,
+but each year,
+the fragile patches of life scattered across the continent
+grew a little bit larger.
+
+"The hardest part is soil,"
+Iñacio told her,
+seeming no more tired after hours of walking
+than he had been when they set out.
+"Folk think it's just rock,
+but if that's all you got,
+what you've got is sand.
+*Soil* is full of life."
+
+Iffy just nodded.
+At that moment
+she would have traded all the greenery in Antarctica
+for a hot shower and a working toilet.
+
+Danger came without warning.
+One moment she was plodding up yet another gravelly slope.
+The next she was flat against the ground
+with her arms pinned to her sides
+and Iñacio hissing,
+"Quiet! Stay quiet!" in her ear.
+He waited a heartbeat for her to nod
+before rolling away and wriggling out of his knapsack.
+
+"Get under," he said,
+pulling out one of the tents and shaking it open.
+Iffy pulled it over herself like a blanket.
+She heard rather than saw the rustle of Iñacio doing the same beside her.
+
+Silence,
+and then a faint hum that grew steadily louder.
+She held her breath as the noise peaked and softened.
+Metal clicked softly on metal in the silence that followed.
+She heard the faint *shing shing shing*
+of a large-gauge pipe being screwed together.
+What was Iñacio making?
+
+The hum grew louder again.
+"Don't move," he whispered urgently.
+His tent rustled as he threw it aside.
+
+*Crack!*
+She jumped at the sound of a shot.
+Iñacio swore and fired again.
+
+"Come on!"
+He yanked the tent off her and pulled her to her feet.
+The rifle in his other hand looked like a cartoon:
+a long barrel,
+a shorter piece of pipe on top of it for a sight,
+a curved bar to rest against his shoulder,
+and two yellow hand grips.
+She didn't need a picture in her head to see that
+the parts had all come from the frame of his knapsack.
+
+Something crumpled in the distance.
+"What—" she started.
+
+"Spotter drone,"
+he said,
+stuffing his tent back into his knapsack.
+Belatedly she grabbed hers and began folding it over on itself
+as if it was a sail.
+"Figure we've got maybe half an hour 'til something bigger gets here.
+Good news is,
+next hole's about that far away.
+Can you run?"
+
+Iffy nodded.
+
+"Aright."
+He stuffed her tent into his knapsack
+and slipped his shoulders through the straps.
+"Let's go."
 
 </section>
