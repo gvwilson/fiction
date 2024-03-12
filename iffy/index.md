@@ -7200,14 +7200,13 @@ Pause.
 *Plink.*
 Pause.
 *Plink.*
-"So are you a soldier?" Iffy asked.
+"So you're a soldier?" Iffy asked.
 
 Iñacio shook his head.
 "Nope, never.
-It's from before the war.
+It's from the war, or maybe before.
 It means if you can't walk I'll carry you,
-an' if I can't carry you,
-I'll sit with you 'til the end."
+an' if I can't carry you I'll sit with you 'til the end."
 
 The wind caressed the stubble on Iffy's scalp.
 "Aright," she finally said,
