@@ -7,8 +7,6 @@ chapters: true
 
 ## Chapter 1
 
-<span id="2024-02-15-a"></span>
-
 Iffy had a bad dream that night.
 It was the same one she always had,
 and the worst part was that it wasn't really a dream.
@@ -128,8 +126,6 @@ Real as the handwritten comments in the book's margins that she spent hours deci
 Real as being poor and lonely
 as she grew older
 and Uncle Jack's business deals left them with a little less each season.
-
-<span id="2024-02-16-a"></span>
 
 Iffy woke that morning to the sound of Aunt Naggie bustling about in the galley.
 She lay on the narrow foam packing slab she used as a mattress for one final precious moment
@@ -326,8 +322,6 @@ She closed the engine casing as gently as she could and hurried down the gangpla
 the weight of life on the *Guinevere* lifting from her shoulders
 as her boots hit the pier.
 
-<span id="2024-02-16-b"></span>
-
 The Antarctic summer didn't have days or nights,
 but ships and people kept to clock time as best they could.
 An old couple had woken early
@@ -468,8 +462,6 @@ and waggled the digits of his artificial hand.
 "Aye," Iffy agreed eagerly.
 She had her scavenged safety goggles on her face and the drill bit engaged
 before Mister Mishra reached the door.
-
-<span id="2024-02-17-a"></span>
 
 Drilling holes wasn't hard—she'd mastered that long ago.
 The hard part was drilling them in the right place.
@@ -617,8 +609,6 @@ was cut short by a jingle from the bell on the store's front door.
 Three heads turned at a cheerful, "Good morning!"
 as the squarest man Iffy had ever seen walked in.
 
-<span id="2024-02-17-b"></span>
-
 "Square" really was the only word for him.
 He wasn't much taller than Iffy,
 but three of her could have stood side by side in the span of his shoulders.
@@ -730,8 +720,6 @@ Pleased to meet you too."
 </section>
 
 <section markdown="1">
-
-<span id="2024-02-17-c"></span>
 
 ## Chapter 2
 
@@ -1327,8 +1315,6 @@ Lights sparkled briefly in the rectangle set into his temple,
 making Iffy wonder how honestly the drones were reporting the scene
 to Halley's central core.
 
-<span id="2024-02-17-d"></span>
-
 They picked up their loads and walked side by side
 past the Sandhus' grocery
 to the café where Wales had rented an upstairs room.
@@ -1863,8 +1849,6 @@ It took her a long time to fall asleep again.
 
 <section markdown="1">
 
-<span id="2024-02-18-a"></span>
-
 ## Chapter 3
 
 It was four days to Rothera across the Weddell Sea.
@@ -2025,8 +2009,6 @@ Iffy picked up a wrench and whacked the splice a couple of times as hard as she 
 Wales blinked. "Are you always this direct when you're working?"
 
 Iffy grinned. "Pretty much."
-
-<span id="2024-02-19-a"></span>
 
 There were other things to mend after the cable.
 There always were on the *Guinevere*:
@@ -2364,8 +2346,6 @@ then snapped open.
 "We need to change course," he said urgently,
 surging to his feet.
 "We need to change course *now*."
-
-<span id="2024-02-19-b"></span>
 
 "What's wrong?" Iffy asked,
 but Wales was already gone.
@@ -2970,8 +2950,6 @@ and the muffled sound of the uncaring sea.
 </section>
 
 <section markdown="1">
-
-<span id="2024-02-20-a"></span>
 
 ## Chapter 4
 
@@ -4005,8 +3983,6 @@ everyone found they had more pressing things to worry about.*
 
 <section markdown="1">
 
-<span id="2024-02-20-b"></span>
-
 ## Chapter 5
 
 The Marines took them back to the pier
@@ -4906,8 +4882,6 @@ She closed the door quietly behind herself.
 
 <section markdown="1">
 
-<span id="2024-02-21-a"></span>
-
 ## Chapter 6
 
 Iffy woke the next morning
@@ -5237,8 +5211,6 @@ if the Niobium base hasn't been stripped for parts or burned out—if
 it's still working—I promise,
 everything will be better.
 *Everything.*"
-
-<span id="2024-02-22-a"></span>
 
 As if the universe had overheard him,
 the harbor klaxon began blaring *brrrap! brrrap!*
@@ -5820,8 +5792,6 @@ it made bargains.*
 
 <section markdown="1">
 
-<span id="2024-02-24-a"></span>
-
 ## Chapter 7
 
 *Boom!*
@@ -6206,8 +6176,6 @@ and marched away with long mechanical strides.
 "Come on," Aunt Naggie said gently.
 Iffy let her foster mother pull her up the stairs and through the door.
 
-<span id="2024-02-28-a"></span>
-
 Every old building has its own smell.
 Paint, varnish, concrete, glue, dust,
 and several generations of people sweating and crying and farting and just *breathing*
@@ -6307,8 +6275,6 @@ for an indefinite period of service."
 De cleared der throat and gestured toward the door behind der.
 "If you'll come this way?"
 
-<span id="2024-02-29-a"></span>
-
 "What!? No! Absolutely not!" Aunt Naggie exploded,
 pulling Iffy toward her protectively.
 "I know th' law!
@@ -6407,8 +6373,6 @@ Whatever tech or bot had installed the lock had thought one step ahead.
 She could get it off,
 but not without tools and enough banging that someone outside would be sure to overhear.
 
-<span id="2024-03-03-a"></span>
-
 *there is a way*
 
 Her breath caught in her chest.
@@ -6495,8 +6459,6 @@ that's me.
 What's going on?
 What's going to happen to me?"
 
-<span id="2024-03-04-a"></span>
-
 "Just some tests for now, please,"
 Iñacio said,
 sounding bureaucratically bored.
@@ -6575,8 +6537,6 @@ The woman in white who had made the comment glanced at Iffy and Iñacio
 as her companion whispered to her.
 The Ecologist put his arm around Iffy's shoulder and hurried her along,
 just two more nobodies in the wrong place at the wrong time.
-
-<span id="2024-03-06-a"></span>
 
 There were Marines at the door,
 Marines and sentry bots and a squat three-wheeled medical scanner
@@ -6681,8 +6641,6 @@ in a language she didn't recognize.
 
 <section markdown="1">
 
-<span id="2024-03-08-a"></span>
-
 ## Chapter 8
 
 If the Antarctic Peninsula was an arm reaching toward Patagonia,
@@ -6774,8 +6732,6 @@ and wiped his hands on the cardboard box.
 You can stay up front from here—if I keep th' windows dark
 it oughta be safe enough."
 
-<span id="2024-03-09-a"></span>
-
 The highway rose more steeply as they got further from the ocean.
 Each time they crested a ridge,
 the next one was higher.
@@ -6845,8 +6801,6 @@ an' it just happens to be here when we need it?"
 Iffy's mouth worked.
 "I dunno anythin' about it!
 I swear!"
-
-<span id="2024-03-10-a"></span>
 
 The truck's radio crackled.
 "Precious cargo intact interrogative?"
@@ -7031,8 +6985,6 @@ and began to unlace his boots.
 he said without looking at her.
 "We're gonna be here for a bit."
 
-<span id="2024-03-11-a"></span>
-
 "A bit" turned out to be three long days.
 They stood watches,
 just as Iffy had on the *Guinevere*,
@@ -7115,8 +7067,6 @@ he told her,
 but with luck they would look like a colony of arctic hares in a burrow
 rather than a couple of people
 kilometers away from where people ought to be.
-
-<span id="2024-03-11-b"></span>
 
 She tossed and turned in her sleeve tent,
 unable to fall asleep.
@@ -7256,7 +7206,7 @@ what you've got is sand.
 
 Iffy just nodded.
 At that moment
-she would have traded all the greenery in Antarctica
+she would have traded all the soil in Antarctica
 for a hot shower and a working toilet.
 
 Danger came without warning.
