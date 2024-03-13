@@ -7170,8 +7170,6 @@ Her legs hated her and she hated them back.
 Now let's get packed up—we got a lot o' walkin' to do today,
 an' it's mostly uphill."
 
-<span id="2024-03-12-a"></span>
-
 The cramped pain left in Iffy's legs by the previous day's walking
 went away after a couple of kilometers,
 only to be replaced by a deeper ache
@@ -7257,16 +7255,161 @@ he said,
 stuffing his tent back into his knapsack.
 Belatedly she grabbed hers and began folding it over on itself
 as if it was a sail.
-"Figure we've got maybe half an hour 'til something bigger gets here.
+"Dunno whose it is,
+but for sure somethin' bigger is gonna come lookin' for it.
 Good news is,
-next hole's about that far away.
+next hole's about half an hour away.
 Can you run?"
 
 Iffy nodded.
 
 "Aright."
 He stuffed her tent into his knapsack
-and slipped his shoulders through the straps.
+and slipped his shoulders through its straps.
 "Let's go."
+
+<span id="2024-03-13-a"></span>
+
+Iffy tried.
+She really did,
+but bodies don't work the same way in real life
+as they do in sims.
+She could run twenty strides or thirty,
+but then her legs simply wouldn't obey her.
+At first Iñacio urged her on.
+After the third time she stopped and bent over,
+hands on her knees and panting,
+he double-checked his rifle
+and settled into a steady walking stride beside her.
+
+*Was this what it was like?*
+she wondered.
+Was this what her olders had felt
+when they saw the ocean boil around the *Rushin Doll*
+and knew there was nothing they could do to save themselves?
+
+She didn't notice the rumbling above the sound of her own breath
+until Iñacio caught her arm
+"Get up there," he ordered,
+pointing at a house-sized pile of boulders too tidy to be natural.
+She nodded and stumbled toward them.
+
+"Wait!"
+He handed her his knapsack,
+then turned to face back the way they had come
+and went down on one knee.
+
+The dark gray stones were slippery under her boots
+wherever shadows hid ice from the summer sun.
+A few patches of lichen clung to them here and there,
+and the faded remains of orange survey marks
+showed that someone or somebody had been there before.
+She clambered up the pile,
+half-crawling in places,
+as the rumbling grew louder.
+
+Iñacio whooped.
+"Here they come!"
+he shouted.
+She twisted to look over her shoulder
+just in time to see the herd of musk ox crest the ridge behind them,
+shoulder to shoulder and galloping straight at Iñacio.
+
+She expected him to run.
+Why wasn't he running?
+She had seen musk ox stampedes in sims—there would be nothing left of him
+but a trampled puddle on the tundra!
+Instead, he held his rifle out beside him with one hand
+and raised the other high over his head.
+
+The herd split just before it reached him.
+Shaggy furry bodies thundered past him and streamed around the boulders.
+The herd slowed, slowed, and stopped,
+all facing inward,
+horned heads low and sweat steam rising from their backs.
+
+She held her breath as one of the musk ox stepped forward
+in front of Iñacio and pawed the ground.
+Sunlight reflected off a collar around its neck—no,
+not a collar,
+a rider!
+A small bot like a four-legged spider
+nestled in the fur on the ox's meaty shoulders.
+
+Iñacio slowly lowered his hand
+set his rifle on the ground,
+and knelt,
+head bowed.
+The ox snorted and picked its way closer to him.
+
+"Saints," Iffy breathed as it nuzzled the Ecologist.
+She half-expected the bot on its back to crawl forward
+and climb onto Iñacio's head
+and drill into his skull to take over his body
+like something from a horror sim.
+Instead,
+the ox pooped,
+swished its tail,
+and walked away.
+
+As the herd followed in ones and threes,
+Iñacio got to his feet and picked up his rifle.
+Iffy waited for him to say something,
+but he just stood there
+looking at the receding herd.
+
+She made her way back down the boulders
+and wiped her hands on her jacket.
+"Friends o' yours?" she asked,
+trying and failing to sound light.
+
+Iñacio shook his head.
+There were tear tracks on his cheeks.
+"That was their spotter I shot down.
+Once I get you where we're goin',
+I gotta go back an' pick it up an' fix it."
+
+Half a dozen questions elbowed each other in Iffy's head,
+each trying to be the first out of her mouth.
+What she said instead was,
+"I'll help if you want."
+
+The Ecologist nodded.
+"Thank you."
+Then he smiled.
+"Least we can take our time th' rest o' the way."
+
+*How do you build a stable ecosystem
+on bare and lifeless rock
+when the world is changing more rapidly than it has
+in hundreds of millions of years?
+The answer is that you don't.
+What you do instead,
+if you are passionate and desperate and willing to do what others are not,
+is create something that will do it in your place.
+You tell oligarchs desperate to escape the catastrophe they have made
+that their only hope lies on other worlds
+so that they will fund development of terraforming machines.
+You disguise the parts needed to build those machines as scientific equipment,
+or tell the officials you bribe that they are for an illegal mining operation,
+and then assemble them in shielded underground caverns.
+As the rest of the world takes arms against machines
+you turn yours loose.*
+
+*"Protect" is their only immutable instruction.
+Protect the flocks,
+protect the herds,
+protect the fragile new-born forests taking root as the ice retreats.
+Some burrow or turn sunlight and air into slow drips of acid
+so that rock will break down in decades rather than centuries.
+Others nestle in streams for a month or a year
+to help strategic clumps of weeds establish themselves,
+while a few become guides, matchmakers, envoys, and, when the need arises, generals.*
+
+*They stay hidden when they can.
+When they can't,
+the descendants of their long-ago creators do what needs to be done.
+As the jungles and forests of old vanish—as the oceans and skies empty—what
+was designed to bring life to other worlds nurtures it at home instead.*
 
 </section>
