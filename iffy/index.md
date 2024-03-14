@@ -7205,7 +7205,7 @@ what you've got is sand.
 Iffy just nodded.
 At that moment
 she would have traded all the soil in Antarctica
-for a hot shower and a working toilet.
+for a hot shower and some toilet paper.
 
 Danger came without warning.
 One moment she was plodding up yet another gravelly slope.
@@ -7267,8 +7267,6 @@ Iffy nodded.
 He stuffed her tent into his knapsack
 and slipped his shoulders through its straps.
 "Let's go."
-
-<span id="2024-03-13-a"></span>
 
 Iffy tried.
 She really did,
@@ -7336,30 +7334,63 @@ a rider!
 A small bot like a four-legged spider
 nestled in the fur on the ox's meaty shoulders.
 
+<span id="2024-03-14-a"></span>
+
 Iñacio slowly lowered his hand
 set his rifle on the ground,
 and knelt,
 head bowed.
-The ox snorted and picked its way closer to him.
+The ox snorted and stepped daintily closer to him.
 
 "Saints," Iffy breathed as it nuzzled the Ecologist.
-She half-expected the bot on its back to crawl forward
-and climb onto Iñacio's head
+She half-expected the bot on its back to crawl onto Iñacio's head
 and drill into his skull to take over his body
 like something from a horror sim.
 Instead,
 the ox pooped,
 swished its tail,
-and walked away.
+and grumbled,
+shifting its weight from hoof to hoof
+while its rider and the Ecologist conversed.
+
+Iñacio stood and beckoned to Iffy.
+"Come on down.
+She wants t' see what all th' fuss is about."
+
+Iffy picked her way back down the boulders
+and wiped her hands on her jacket.
+The musk ox wasn't as big as she had thought,
+and her horns weren't actually needle-pointed,
+but standing in front of her made Iffy feel she was on trial
+and the judge had already decided her guilt.
+
+The musk ox turned her head to fix one eye on Iffy.
+The small bot perched on her back beckoned her her forward
+with a skinny crab-claw manipulator.
+She glanced at Iñacio.
+"'Saright," he said soothingly.
+"She just wants a look."
+
+With a deep breath,
+Iffy took one more step.
+The musk ox pawed the ground.
+She could smell her moist breath
+and see the tangles in her thick, dark coat
+and the dents and scrapes on the bot riding her.
+
+On impulse she reached out slowly, palm up.
+The musk ox snorted again,
+then sniffed at her hand.
+The bot buzzed.
+With no more signal than that,
+the musk ox turned and walked away.
 
 As the herd followed in ones and threes,
-Iñacio got to his feet and picked up his rifle.
+Iñacio picked up his rifle.
 Iffy waited for him to say something,
 but he just stood there
 looking at the receding herd.
 
-She made her way back down the boulders
-and wiped her hands on her jacket.
 "Friends o' yours?" she asked,
 trying and failing to sound light.
 
@@ -7383,10 +7414,11 @@ Then he smiled.
 on bare and lifeless rock
 when the world is changing more rapidly than it has
 in hundreds of millions of years?
-The answer is that you don't.
+The answer is that you don't,
+because any balance you find will almost immediately be swept away.
 What you do instead,
 if you are passionate and desperate and willing to do what others are not,
-is create something that will do it in your place.
+is create something that will shape the future in your place.
 You tell oligarchs desperate to escape the catastrophe they have made
 that their only hope lies on other worlds
 so that they will fund development of terraforming machines.
@@ -7404,12 +7436,93 @@ Some burrow or turn sunlight and air into slow drips of acid
 so that rock will break down in decades rather than centuries.
 Others nestle in streams for a month or a year
 to help strategic clumps of weeds establish themselves,
-while a few become guides, matchmakers, envoys, and, when the need arises, generals.*
+while a few become guides, matchmakers and envoys.*
 
 *They stay hidden when they can.
 When they can't,
-the descendants of their long-ago creators do what needs to be done.
-As the jungles and forests of old vanish—as the oceans and skies empty—what
-was designed to bring life to other worlds nurtures it at home instead.*
+they fight.
+Never directly or in large numbers—that would draw too much attention—but
+if a prospector goes missing in the barrens,
+or a couple of hunters are trampled in their tents,
+well,
+everyone has something more important to worry about.
+As the jungles and forests of old vanish,
+and the oceans and skies empty,
+what was designed to bring life to other worlds
+nurtures it at home instead.*
+
+</section>
+
+<section markdown="1">
+
+## Chapter 9
+
+Iffy had her dream again that night.
+She had showered
+and eaten two servings of the tofu, onions, and rice that Iñacio made
+while she was luxuriating under the hot needle spray,
+then mumbled, "G'night,"
+and fallen onto one of the cots in the shelter.
+
+Once again she was on deck.
+The Antarctic sky was a blue bowl overhead,
+summer cold instead of winter freezing.
+Second and Third were stuffing her into her ecosuit
+while the ship's horn blared its futile warning.
+"She's boilin'!"
+Fourth shouted from the crow's nest.
+
+Shaggy furry bodies thundered toward them,
+heads down and horns forward.
+Third sealed the last flap on the ecosuit.
+"I love you," she said in Iffy's ear.
+"I love you always an' forever."
+
+"I love you too," Iffy replied tearfully.
+Second bent over and kissed them both on the tops of their heads.
+She smelled like engine oil and soap and musk ox fur and curry powder
+and somehow Iffy knew what was coming
+and would have given anything to stop it.
+
+*exchange of value / binding agreement / commence*
+
+She sat upright on the cot,
+breathing heavily in the darkness.
+"Y'aright?" Iñacio mumbled from two cots over.
+
+"Yeah."
+She wiped her face on her sleeve.
+"Just a bad dream."
+
+She lay back down and closed her eyes.
+*What do you want?* she thought.
+Wireframes and schematics swirled in her mind,
+too complex to grasp.
+As soon as she thought that
+they flew apart and reassembled themselves,
+bulkier and less elegant but almost comprehensible.
+There and there and there:
+she could see how they fit together,
+but some of the components would cost more than refitting the *Guinevere*,
+or maybe more than the ship herself.
+
+The plans re-formed again.
+*Aright,*
+she thought.
+*I can do that.*
+
+*commence*
+
+*I didn't mean right now,*
+she shot back.
+*I'm in th' middle o' nowhere!
+Where'm I supposed to get parts?*
+
+*urgent*
+
+*Yeah,
+well,
+I'm sure it'll still be urgent in th' mornin'.*
+She rolled onto her side willed herself to fall back asleep.
 
 </section>
