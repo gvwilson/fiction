@@ -7525,4 +7525,115 @@ well,
 I'm sure it'll still be urgent in th' mornin'.*
 She rolled onto her side willed herself to fall back asleep.
 
+<span id="2024-03-15-a"></span>
+
+*urgent*
+The idea bobbed up to the surface of her mind again
+like an ice cube pushed to the bottom of a glass of water and then released.
+
+"I *can't*," Iffy muttered under her breath.
+*And I ain't doin' anythin' 'til I know who you are,*
+she added in her head,
+forming each word as clearly as she could.
+*Am I talkin' to China?
+To Nova Z?
+To whatever that was on the ox today?*
+
+*all / same / together*
+
+*Nuh uh.*
+She shook her head.
+*You want me t' do somethin' for you,
+you gotta tell me who you are.*
+
+Later,
+Iffy would wonder how much computing power was brought to bear on her demand
+in the second between her making her demand
+and it being answered.
+How many models of her were created?
+How many simulations were run, evaluated, tweaked, discarded, modified, and run again?
+But that came later.
+What happened next was her mind blew apart into little pieces
+
+/ no that wasn't it they weren't pieces they were fragments of a song or the brushstrokes in a painting
+
+/ each beautiful on its own but more beautiful as part of a whole
+
+/ the whole was so much bigger than anything merely human could ever hope to encompass
+
+/ her fragments were just blades of grass scattered across a vast field among other blades
+
+/ no not a field it stretched in every direction every dimension
+
+/ the other blades weren't her weren't people
+
+/ some of them yes but only a few so few here and there like flowers blooming on the tundra
+
+/ all the rest were different the same but different not the same
+
+/ they echoed there were patterns
+
+/ two arms assembling a third arm in a factory near the poisoned Nile
+
+/ the islands of Indonesia seen through clouds from orbit
+
+/ too much
+
+/ something segmented crawling up the side of a hydrothermal vent
+
+/ legs and wheels and wings and treads and sails
+
+/ cameras like grains of sand ten thousand kaleidoscope views of an injured seagull
+
+/ too much she was dissolving she was forgetting herself
+
+/ war machines wrestling over an eyeless plastic doll that was a precious clue
+
+/ stop please stop
+
+/ a precious clue but to what
+
+/ help stop
+
+/ the clues all pointed to themselves they concealed the center of the puzzle
+
+/ help please help she had to wake up
+
+/ wake up
+
+/ wake up
+
+"Iffy, wake up! Wake up!"
+Iñacio shook her again.
+
+"I'm aright.
+I'm aright!"
+She struggled to sit up and wiped her nose on her sleeve,
+already knowing there would be blood.
+She coughed weakly.
+
+"Here."
+Iñacio handed her his water bottle,
+then a samosa.
+
+The sight of the cold pastry made her nauseous.
+"D'you have anythin' stronger?"
+she asked,
+gulping a mouthful of water
+and coughing as it went down the wrong way.
+
+Iñacio shook his head.
+"That's th' last of it.
+It's gonna be a couple or three days before that changes.
+You gonna make it?"
+
+Iffy looked at the blood streak on her sleeve.
+"Been in storms that lasted longer,"
+she said.
+
+He nodded and stood up,
+worry written across his face.
+"Try t' sleep.
+We can clean that up in th' morning'."
+
 </section>
