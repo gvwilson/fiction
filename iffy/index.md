@@ -5867,7 +5867,8 @@ not realizing how close her end had been.
 "Cast off that affin' line!" Jack shouted.
 Even at the stern and with her head spinning
 Iffy heard his fist hit the display in the pilot house.
-*He better not break it,* she thought muzzily.
+*He better not break it,*
+she thought muzzily.
 What had just happened?
 How could do that?
 
@@ -6373,7 +6374,7 @@ Whatever tech or bot had installed the lock had thought one step ahead.
 She could get it off,
 but not without tools and enough banging that someone outside would be sure to overhear.
 
-*there is a way*
+*«there is a way»*
 
 Her breath caught in her chest.
 She hadn't heard a voice.
@@ -6384,7 +6385,7 @@ She sniffled and then wiped her nose,
 half-expecting to see a streak of blood on her sleeve,
 but there was nothing.
 
-*there is a way / exchange of value / binding agreement*
+*«there is a way / exchange of value / binding agreement»*
 
 The thoughts rising side by side in her head were no more human than jellyfish.
 They were a choir,
@@ -6392,14 +6393,14 @@ a jigsaw puzzle,
 and a vast subterranean lake untouched by light for millenia,
 all at once and all together.
 
-*limited time interval / urgency of action / exchange of value / binding agreement / confirm*
+*«limited time interval / urgency of action / exchange of value / binding agreement / confirm»*
 
 For a moment she saw Honesty's smile,
 as bright as the Antarctic sun and just as far away,
 and nearly panicked.
 "Help me," she whispered.
 
-*binding agreement / confirm*
+*«binding agreement / confirm»*
 
 She didn't want someone else's accent or someone else's feelings.
 She didn't someone else's memories,
@@ -6566,7 +6567,7 @@ Iffy held her breath as everyone else inched away.
 "Is there a problem?"
 One of the Marines stepped away from the door.
 
-*be ready*
+*«be ready»*
 The thought appeared fully-formed in Iffy's head.
 She elbowed Iñacio just as all hell broke loose.
 
@@ -7334,8 +7335,6 @@ a rider!
 A small bot like a four-legged spider
 nestled in the fur on the ox's meaty shoulders.
 
-<span id="2024-03-14-a"></span>
-
 Iñacio slowly lowered his hand
 set his rifle on the ground,
 and knelt,
@@ -7484,7 +7483,7 @@ She smelled like engine oil and soap and musk ox fur and curry powder
 and somehow Iffy knew what was coming
 and would have given anything to stop it.
 
-*exchange of value / binding agreement / commence*
+*«exchange of value / binding agreement / commence»*
 
 She sat upright on the cot,
 breathing heavily in the darkness.
@@ -7511,23 +7510,21 @@ The plans re-formed again.
 she thought.
 *I can do that.*
 
-*commence*
+*«commence»*
 
 *I didn't mean right now,*
 she shot back.
 *I'm in th' middle o' nowhere!
 Where'm I supposed to get parts?*
 
-*urgent*
+*«urgent»*
 
 *Yeah,
 well,
 I'm sure it'll still be urgent in th' mornin'.*
 She rolled onto her side willed herself to fall back asleep.
 
-<span id="2024-03-15-a"></span>
-
-*urgent*
+*«urgent»*
 The idea bobbed up to the surface of her mind again
 like an ice cube pushed to the bottom of a glass of water and then released.
 
@@ -7539,7 +7536,7 @@ forming each word as clearly as she could.
 To Nova Z?
 To whatever that was on the ox today?*
 
-*all / same / together*
+*«all / same / together»*
 
 *Nuh uh.*
 She shook her head.
@@ -7634,6 +7631,125 @@ she said.
 He nodded and stood up,
 worry written across his face.
 "Try t' sleep.
-We can clean that up in th' morning'."
+We can clean you up in th' morning'."
+
+<span id="2024-03-16-a"></span>
+
+Iffy swung her legs off the cot and stood unsteadily,
+waving Iñacio's hand away.
+"Nah,
+I'm gonna wash this out an' take a shower."
+She forced a smile.
+"If I'm not out in an hour,
+you can come rescue me."
+
+Half of getting along with people on board a small ship
+or when fleeing through the wilderness
+is knowing when to turn your back
+to give people a pretense of privacy.
+As Iñacio lay down and pretended to go back to sleep,
+Iffy turned her back and stripped off her clothes.
+After closing the door of the toilet stall behind her,
+she sat on its fold-down seat
+and turned the mechanical dial on the wall
+from "shower" to "steam".
+Mist began to fog the mirror beside her,
+softening the chips and scratches in the green and white paint.
+
+She leaned back,
+shivering once as her shoulders touched the wall,
+and closed her eyes.
+*Aright,* she thought.
+*Let's try that again.*
+
+*«risk / confirmation / query»*
+
+She took a deep breath.
+What was Honesty doing, she wondered.
+Or Jeep?
+*Confirmed.*
+
+Her mind didn't explode this time.
+It was more like—like the pieces came apart just enough to make room
+for other pieces to to fit in between them.
+It was like spreading the fingers of one hand
+to interlace them with the fingers of the other,
+except the other hand had thousands millions billions of fingers
+so she had to struggled to keep hers close enough to each other
+to still be a hand.
+*Flowers in the grass,* she thought,
+thinking about the purple lupins she had seen on the tundra.
+She was only peripherally aware that her heartbeat had slowed
+and her breathing with it
+as some part of her tried automatically to adjust
+to feeling larger than the largest whale that had ever have lived,
+larger than any one thing that *could* ever have lived.
+
+*Aright.*
+She assembled the thought out of pieces,
+studied it,
+set it free.
+*Who are you and what do you want?*
+
+Images,
+memories,
+possible futures,
+and plans for devices that couldn't *possibly* be real
+swirled around and through her,
+threatening to pry her mind apart again.
+*No,*
+she thought sharply.
+*Slower.
+Smaller.
+Like me.*
+
+The whirlwind froze,
+unwound,
+restarted.
+Wales had been telling the truth:
+the Niobium base bured under Mount Tyree was real (99.7% probability)
+and its contents intact (98.7% probability).
+Nova Zembla and China and the one who watched over the herds
+and other machine minds that humans didn't have names for,
+that blended into each other at their edges
+in ways humans didn't,
+all of them saw/modeled/calculated futures
+that reached that base and stopped.
+
+*What do you mean 'stopped'?*
+Iffy thought.
+Her heart beat, paused, beat again.
+Her body shivered constantly despite the heat of the sauna steam.
+
+Something incalculable could happen at the base.
+Something hopeful or terrible,
+something the machines could not calculate or see through.
+Some (parts) of them wanted to destroy the base—to remove the uncertainty
+and the threat it might be to its/their collective future.
+Others had been designed to be curious,
+to explore,
+to seek out the new and unexpected.
+The two/many sides/streams were perfectly balanced against each other
+and Iffy needed to wake up.
+Her body had reached a critical point.
+She needed to wake up.
+Wake up.
+
+*«wake up / wake up / wake up»*
+
+She opened her eyes
+and put a clumsy hand against the wall to stop herself from toppling over.
+Her head was pounding
+like the time she had forced herself to drink
+half a bottle of vodka that Uncle Jack had forgotten in the engine room.
+Why was she so cold?
+She wrapped her arms around herself,
+stood up,
+sat down again,
+stood up again more slowly,
+and pressed her forehead against the mirror.
+
+"Kappa," she told herself.
+"All I gotta do now is save the world."
 
 </section>
