@@ -7621,7 +7621,7 @@ and coughing as it went down the wrong way.
 
 Iñacio shook his head.
 "That's th' last of it.
-It's gonna be a couple or three days before that changes.
+It's gonna be a while before that changes.
 You gonna make it?"
 
 Iffy looked at the blood streak on her sleeve.
@@ -7649,7 +7649,7 @@ is knowing when to turn your back
 to give people a pretense of privacy.
 As Iñacio lay down and pretended to go back to sleep,
 Iffy turned her back and stripped off her clothes.
-After closing the door of the toilet stall behind her,
+Closing the door of the toilet stall behind her,
 she sat on its fold-down seat
 and turned the mechanical dial on the wall
 from "shower" to "steam".
@@ -7721,14 +7721,15 @@ Iffy thought.
 Her heart beat, paused, beat again.
 Her body shivered constantly despite the heat of the sauna steam.
 
-Something incalculable could happen at the base.
+Something incalculable could/might/would happen at the base.
 Something hopeful or terrible,
 something the machines could not calculate or see through.
-Some (parts) of them wanted to destroy the base—to remove the uncertainty
-and the threat it might be to its/their collective future.
+Some of them/some *parts* of them wanted to destroy the base
+to remove the uncertainty and the unknowable threat it might be to its/their collective future.
 Others had been designed to be curious,
-to explore,
 to seek out the new and unexpected.
+It/they had encountered many unknowns but never an unknowable
+and wanted to know more.
 The two/many sides/streams were perfectly balanced against each other
 and Iffy needed to wake up.
 Her body had reached a critical point.
@@ -7740,16 +7741,82 @@ Wake up.
 She opened her eyes
 and put a clumsy hand against the wall to stop herself from toppling over.
 Her head was pounding
-like the time she had forced herself to drink
-half a bottle of vodka that Uncle Jack had forgotten in the engine room.
-Why was she so cold?
+like the time she had been so angry at everything
+that she drank half a bottle of vodka
+that Uncle Jack had forgotten in the engine room.
+She was so cold…
+
 She wrapped her arms around herself,
 stood up,
 sat down again,
 stood up again more slowly,
 and pressed her forehead against the mirror.
-
-"Kappa," she told herself.
+"Kappa," she told her reflection.
 "All I gotta do now is save the world."
+
+<span id="2024-03-17-a"></span>
+
+Iñacio was much better than her at hive and santorini.
+He was better at another game called chess as well,
+which was somewhat surprising given how often he suggested moves for Iffy
+or corrected the ones she made.
+She did some yoga with him,
+stretching and breathing to the drone of a duduk
+or the ping-pang-pong of a hanpan.
+They made the most interesting meals they could from the shelter's stores,
+pretended to lose themselves in sims,
+and spent long hours staying out of each other's way
+in the way that sailors, prisoners, and long-married couples have done
+for as long such things have been.
+
+The spiderweb of microwires threaded through the ground around the shelter
+brought them news from the outside world,
+though they had no way to know how much of it they could trust.
+There were Zillion ships in Rothera's harbor,
+but were the protests against them few and peaceful
+or were the Marines trying and failing to put down an insurrection?
+Had Australian troops landed in Halley,
+or were the Aussie sailors who happened to be there
+just being more rambunctious than usual?
+Were the governors at war with each other,
+and if so,
+which side was Paddington South on?
+
+The news from beyond the sea was even harder to decipher.
+*Something* was happening,
+but no one seemed to know what.
+Bright flashes in the night sky might just be the machines trying once again
+to clean up the junk that made low Earth orbit so hazardous.
+A giant robotic ape probably hadn't climbed out of the crater of Mauna Kea,
+but what about a sudden increase in the number of machines battling one another
+on the outskirts of America's once-great cities?
+Or a flock of enormous drones chasing one another in an endless circle over the Indian Ocean?
+
+As the days stretched toward a week
+Iffy spent more and more time in her cot with her eyes closed.
+"Just thinkin'," she told Iñacio.
+He didn't ask, "About what?"
+which told her that he suspected she wasn't just daydreaming.
+
+She didn't speak with the voice again.
+Instead,
+she practiced building machines in her head.
+Some designs were easy.
+Others felt as slippery as freshly-pressed jellyfish.
+There was no pattern she could see,
+nothing to distinguish those whose gears and differentiators fit together effortlessly
+from those that felt like they wanted to escape and hide.
+
+After a while she learned how to sneak up on those ones.
+She couldn't tell herself she needed something specific.
+She had to let her thoughts wander a bit,
+to wonder if what she wanted might be possible
+or to imagine how much fun it would be if it existed.
+She couldn't seize on the first Nystrom ring that took shape in her mind
+or check the precise dimensions of the coolant plug
+it might or might not fit around.
+Instead,
+she had to relax and direct her attention at something else—anything else—until
+a timid, fragile wireframe solidified enough for her to examine.
 
 </section>
