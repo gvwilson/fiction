@@ -1609,7 +1609,7 @@ Aunt Naggie and Iffy whooshed out their breath at the same time.
 
 Iffy shrugged helplessly.
 "I dunno, auntie, true I don't.
-There was a fight up along by quarantine,
+There was a jammer up along by quarantine,
 an' French Henry got into it, and…"
 *And all of a sudden I know how to tag someone twice my size,*
 she almost added but didn't.
@@ -4485,7 +4485,7 @@ its crystal eyes scanning the crowd.
 "Some all got they riled up,"
 a stall keeper muttered, noticing Iffy's look.
 "They 'long by all place today.
-You think it come by they fight up along th' gov'nor's?"
+You think it come by they jammer up along th' gov'nor's?"
 
 "I dunno," Iffy said.
 Drones had microphones as well as cameras,
@@ -7633,8 +7633,6 @@ worry written across his face.
 "Try t' sleep.
 We can clean you up in th' morning'."
 
-<span id="2024-03-16-a"></span>
-
 Iffy swung her legs off the cot and stood unsteadily,
 waving Iñacio's hand away.
 "Nah,
@@ -7754,8 +7752,6 @@ and pressed her forehead against the mirror.
 "Kappa," she told her reflection.
 "All I gotta do now is save the world."
 
-<span id="2024-03-17-a"></span>
-
 Iñacio was much better than her at hive and santorini.
 He was better at another game called chess as well,
 which was somewhat surprising given how often he suggested moves for Iffy
@@ -7818,5 +7814,92 @@ it might or might not fit around.
 Instead,
 she had to relax and direct her attention at something else—anything else—until
 a timid, fragile wireframe solidified enough for her to examine.
+
+<span id="2024-03-18-a"></span>
+
+Fighting was different.
+
+The first time Iñacio said he was going to teach her how to fight,
+she thought he meant in a sim.
+He grinned at that,
+briefly boyish,
+then handed her some bandages to wrap around her hands.
+He pulled his punches so much that she barely felt them,
+but the frustration of never being able to land any of her own
+stung more each time he dodged one of her clumsy blows.
+
+"I think you're gettin' the hang of it,"
+he said after their first hour.
+
+"Doesn't feel like it,"
+she grumbled,
+annoyed at the petulance in her voice.
+"An' anyway,
+I don't see how it's gonna be much use against Marines 'n' machines 'n' whatnot."
+
+Iñacio tossed his hand wraps into the wicker bin they used for laundry.
+"Not everyone wears an exo,"
+he said.
+"An' once you got th' hang o' this,
+I'll teach you a coupla things about bots."
+
+Seven days after they climbed down into the shelter,
+Iñacio declared it was safe to open the hatch.
+"Just for a bit,"
+he cautioned.
+"We'll get some air an' then pack up an' head out tomorrow."
+
+The air in question turned out to be colder than Iffy expected.
+Summer was coming to an end—the sun was noticeably closer to the horizon,
+and she was glad for the gloves built into her jacket.
+Aunt Naggie would be—she stopped and took a deep breath.
+Aunt Naggie would be cleaning what she could,
+getting the *Guinevere* ready to overwinter in Halley's harbor.
+The two Mrs. Sandhus would be laying in stocks of pickles and preserves
+and storing rectangular bags of rice and noodles
+in airtight plastic bins beneath the floorboards of their store.
+She hoped Jeep was helping his father,
+and Honesty…
+
+"What needs packing?"
+she asked Iñacio,
+tossing the last of the pebbles she had gathered into the stream.
+
+They left the next morning after a double breakfast and one last shower each.
+Iffy had a pack of her own this time,
+which she firmly told herself she *wasn't* proud of.
+They followed the stream up into the foothills of the massif,
+boot crunching on gravel as the tundra gave way to bare rock
+exposed by the retreating ice.
+
+Iñacio just shrugged when Iffy asked about being spotted by drones.
+"I think they're all busy watchin' each other right now.
+An' anyway,
+there's not much we can do about it."
+But he did keep his rifle assembled and slung over his shoulder,
+she noticed,
+and even when he was pointing out patches of lichen
+or the painted initials of some long ago survey,
+he always kept one eye on the sky.
+
+Two hours of walking,
+fifteen minutes of rest.
+Two hours,
+fifteen minutes to eat and give each other a minute or two of privacy.
+(Iffy had triple-checked that she'd packed toilet paper
+before they left the shelter.)
+Two more hours of walking,
+a long fifteen minutes to catch their breath,
+and one final, shorter hike up a steeper slope
+that left the stream fifty meters below them.
+
+Iñacio paused as they neared the top of the ridge.
+"You learn about geothermal in school?" he asked casually.
+
+"'Course," Iffy puffed.
+"Why?"
+
+Iñacio grinned.
+"You're gonna love this."
 
 </section>
