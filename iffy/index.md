@@ -7815,8 +7815,6 @@ Instead,
 she had to relax and direct her attention at something else—anything else—until
 a timid, fragile wireframe solidified enough for her to examine.
 
-<span id="2024-03-18-a"></span>
-
 Fighting was different.
 
 The first time Iñacio said he was going to teach her how to fight,
@@ -7865,22 +7863,28 @@ and Honesty…
 she asked Iñacio,
 tossing the last of the pebbles she had gathered into the stream.
 
+<span id="2024-03-20-a"></span>
+
 They left the next morning after a double breakfast and one last shower each.
 Iffy had a pack of her own this time,
 which she firmly told herself she *wasn't* proud of.
-They followed the stream up into the foothills of the massif,
-boot crunching on gravel as the tundra gave way to bare rock
-exposed by the retreating ice.
 
-Iñacio just shrugged when Iffy asked about being spotted by drones.
-"I think they're all busy watchin' each other right now.
-An' anyway,
-there's not much we can do about it."
-But he did keep his rifle assembled and slung over his shoulder,
-she noticed,
-and even when he was pointing out patches of lichen
-or the painted initials of some long ago survey,
-he always kept one eye on the sky.
+The herd was waiting for them when they climbed out of the shelter's concealed entrance.
+Iñacio grinned at the look on Iffy's face.
+"Two of us goin' cross-country'll be zing easy to spot,"
+he said.
+"In with all them,
+we're just two more musk ox goin' about their business."
+
+They followed the herd toward the foothills of the massif.
+The musk ox snorted and farted and grumbled around them,
+strong white teeth nipping the last of the summer growth.
+Iffy didn't see any bots on their backs.
+In return,
+the musk ox barely seemed to notice them.
+They never came too close,
+but two or three were always as close to her
+as a cow would be to a half-grown calf.
 
 Two hours of walking,
 fifteen minutes of rest.
@@ -7890,11 +7894,40 @@ fifteen minutes to eat and give each other a minute or two of privacy.
 before they left the shelter.)
 Two more hours of walking,
 a long fifteen minutes to catch their breath,
-and one final, shorter hike up a steeper slope
-that left the stream fifty meters below them.
+and one final, shorter hike before Iñacio called a halt.
 
-Iñacio paused as they neared the top of the ridge.
-"You learn about geothermal in school?" he asked casually.
+They didn't set up their tents.
+Instead,
+they bundled themselves in their sleeping bags
+and lay down head-to-toe
+on the flattest patch of ground they could find.
+The musk ox settled down beside them in clumps,
+shoulder-to-shoulder for warmth.
+Iffy fell asleep with the thick, wet smell of their fur in her nostrils.
+
+The second day began like the first,
+but soon the ground began to rise and rise again.
+Their boots crunched on gravel
+as the tundra gave way to bare rock exposed by retreating ice a century ago
+but not yet colonized by anything bigger than lichen
+or a stubborn clump of cottongrass.
+
+They finally reached a slope so steep that the musk ox paused,
+grumbled to each other,
+and began to amble away.
+Iffy felt exposed,
+as if a passing ship had caught her sunning herself in a t-shirt on the deck of the *Guinevere*.
+Iñacio just shrugged when she asked about drones.
+"I think they're all busy watchin' each other right now.
+An' anyway,
+there's not much we can do about it."
+But he did assemble his rifle and sling it over his shoulder,
+she noticed,
+and even when he was pointing out the painted initials of some long ago survey,
+he always kept one eye on the sky.
+
+He paused as they neared the top of yet another ridge.
+"You learn about geothermal in school?" he asked.
 
 "'Course," Iffy puffed.
 "Why?"
