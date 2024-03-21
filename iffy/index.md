@@ -7863,8 +7863,6 @@ and Honesty…
 she asked Iñacio,
 tossing the last of the pebbles she had gathered into the stream.
 
-<span id="2024-03-20-a"></span>
-
 They left the next morning after a double breakfast and one last shower each.
 Iffy had a pack of her own this time,
 which she firmly told herself she *wasn't* proud of.
@@ -7926,13 +7924,59 @@ she noticed,
 and even when he was pointing out the painted initials of some long ago survey,
 he always kept one eye on the sky.
 
+<span id="2024-03-21-a"></span>
+
 He paused as they neared the top of yet another ridge.
-"You learn about geothermal in school?" he asked.
+"You ever see th' geothermal plant inland from Halley?" he asked.
 
 "'Course," Iffy puffed.
-"Why?"
+"I mean,
+not in person,
+but—why?"
 
 Iñacio grinned.
-"You're gonna love this."
+"Come on.
+I got somethin' t' show you."
+
+There was a trail on the other side of the ridge,
+an actual trail with cutbacks and slab steps in its steepest parts.
+There was life, too:
+green-gray patches of moss,
+then lupins and saxifrage and other hardy plants she didn't recognize
+as they made their way down into a bowl-shaped valley.
+
+Iffy pointed at something small and orange exploring a purple flower.
+"Another one o' your bot friends?"
+
+Iñacio crouched down,
+setting his rifle on the ground beside him.
+"That ain't a bot.
+That's a bee."
+
+"Right," Iffy snorted.
+"An' I'm a giraffe."
+
+The Ecologist stretched out his hand,
+then hesitated and withdrew it.
+"It's for real,"
+he said reverently.
+"Tweaked ten ways from sundown,
+an' we still gotta feed 'em through the winter,
+but there's a coupla dozen colonies here now.
+Come on, I'll show you."
+
+It took half an hour to reach the stream
+that snaked along the bottom of the valley.
+Iñacio talked the whole way.
+The land was rebounding as the ice retreated.
+That meant thousands of microquakes every year,
+which meant fractures in the rock,
+which made it a lot easier to put in pipes for geothermal power
+or to just drill a few extra holes for hot springs.
+Bots were doing most of the work—he pointed at one
+recharging itself from a power outlet set into a speckled wall of granite—but
+the living were helping too.
+The valley was only a couple of degrees warmer than the land around it,
+but that was enough to make it an oasis.
 
 </section>
